@@ -172,6 +172,39 @@
       "helpLineNumber": "0654-8734567"
     },
     {
+            "code": "pg.mohali",
+            "name": "Mohali",
+            "description": "null",
+            "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
+            "imageId": null,
+            "domainUrl": "https://www.upyog.niua.org",
+            "type": "CITY",
+            "twitterUrl": "null",
+            "facebookUrl": "null",
+            "emailId": "complaints.mcj@gmail.com",
+            "OfficeTimings": {
+                "Mon - Fri": "9.00 AM - 6.00 PM"
+            },
+            "city": {
+                "name": "Mohali",
+                "localName": null,
+                "districtCode": "MOHALI",
+                "districtName": null,
+                "districtTenantCode": "pg.mohali",
+                "regionName": null,
+                "ulbGrade": "Municipal Corporation",
+                "longitude": 75.5761829,
+                "latitude": 31.3260152,
+                "shapeFileLocation": null,
+                "captcha": null,
+                "code": "1508",
+                "ddrName": "Mohali MC"
+            },
+            "address": "Sector 68, Sahibzada Ajit Singh Nagar, Punjab 160062",
+            "contactNumber": "0172-5044907",
+            "helpLineNumber": "0172-5044907"
+        },
+    {
       "code": "pg",
       "name": "State",
       "description": "State",
