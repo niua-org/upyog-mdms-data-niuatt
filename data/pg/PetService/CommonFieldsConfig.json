@@ -3,63 +3,109 @@
     "moduleName": "PetService",
     "CommonFieldsConfig": [
         {
-            "head": "ES_NEW_APPLICATION_OWNER_DETAILS",
+            "head": "ES_TITILE_OWNER_DETAILS",
             "body": [
                 {
-                    "isMandatory": true,
-                    "type": "component",
-                    "route": "owner-details",
-                    "key": "owners",
-                    "component": "PTROwnerDetails",
-                    "texts": {
-                        "headerCaption": "",
-                        "header": "PTR_OWNERSHIP_INFO_SUB_HEADER",
-                        "cardText": "PTR_FORM3_HEADER_MESSAGE",
-                        "submitBarLabel": "PTR_COMMON_NEXT"
-                    },
-                    "withoutLabel": true,
-                    "nextStep": null
-                }              
-            ]
-        },
-        {
-            "head": "ES_NEW_APPLICATION_ADDRESS_DETAILS",
-            "body": [
+                    "route":"info",
+                    "component":"PTRServiceDoc",
+                    "nextStep": "owners",
+                    "key": "Documents"
+                },
+
+                
                 {
-                    "route": "address",
-                    "component": "PTRSelectAddress",
-                    "withoutLabel": true,
-                    "texts": {
-                        "headerCaption": "PTR_PET_LOCATION_CAPTION",
-                        "header": "CS_FILE_APPLICATION_PET_LOCATION_ADDRESS_TEXT",
-                        "cardText": "CS_FILE_APPLICATION_PET_LOCATION_CITY_MOHALLA_TEXT",
-                        "submitBarLabel": "PT_COMMON_NEXT"
-                    },
-                    "key": "address",
-                    "nextStep": null,
-                    "isMandatory": true,
-                    "type": "component"
+                "route": "owners",
+                "component": "PTRCitizenDetails",
+                "withoutLabel": true,
+                "key": "ownerss",
+                "type": "component",
+                "nextStep": "pet-details",
+                "hideInEmployee": true,
+                "isMandatory": true,
+                "texts": {
+                    "submitBarLabel": "PTR_COMMON_NEXT"
                 }
-                
+                }
             ]
         },
         {
-            "head": "ES_NEW_APPLICATION_PET_DETAILS",
-            "body": [
+        "head": "ES_TITILE_PET_DETAILS",
+        "body": [
+            {
+            "route": "pet-details",
+            "component": "PTRCitizenPet",
+            "withoutLabel": true,
+            "key": "pets",
+            "type": "component",
+            "isMandatory": true,
+            "hideInEmployee": true,
+            "nextStep": "pincode",
+            "texts": {
+                "submitBarLabel": "PTR_COMMON_NEXT"
+            }
+            }
+        ]
+        },      
+        {
+        "head": "PTR_LOCATION_DETAILS",
+        "body": 
+        [
+            {
+            "route": "pincode",
+            "component": "PTRSelectPincode",
+            "texts": {
                 
+                "submitBarLabel": "PTR_COMMON_NEXT",
+                "skipText": "CORE_COMMON_SKIP_CONTINUE"
+            },
+            "withoutLabel": true,
+            "key": "address",
+            "nextStep": "address",
+            "type": "component"
+            },
+            {
+            "route": "address",
+            "component": "PTRSelectAddress",
+            "withoutLabel": true,
+            "texts": {
+                
+                "submitBarLabel": "PTR_COMMON_NEXT"
+            },
+            "key": "address",
+            "nextStep": "street",
+            "isMandatory": true,
+            "type": "component"
+            },
+
+            {
+            "type": "component",
+            "route": "street",
+            "component": "PTRCitizenAddress",
+            "key": "address",
+            "withoutLabel": true,
+            "texts": {
+                "submitBarLabel": "PTR_COMMON_NEXT"
+            },
+            "nextStep": "documents"
+            }
+
+            
+        ]
+        },
+        {
+            "head": "ES_TITILE_DOCUMENT_DETAILS",
+            "body": [
                 {
+                    "route": "documents",
+                    "component": "PTRSelectProofIdentity",
+                    "withoutLabel": true,
+                    "key": "documents",
                     "type": "component",
-                    "route": "petdetails",
-                    "isMandatory": true,
-                    "component": "PTRPetdetails",
+                    "nextStep":null,
                     "texts": {
-                        "headerCaption": "",
-                        "cardText": "PTR_PET_DETAILS__TEXT",
-                        "submitBarLabel": "Next"
-                    },
-                    "nextStep": null,
-                    "key": "units",
-                    "withoutLabel": true
+                        "submitBarLabel": "PTR_COMMON_NEXT"
+                    }
+                    
                 }
             ]
         }

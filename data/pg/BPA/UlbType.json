@@ -1,0 +1,1197 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "UlbType": [
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true,
+        "Districts": "AMRITSAR"
+      },
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true,
+        "Districts": "ABOHAR"
+      },
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true,
+        "Districts": "BATALA"
+      },
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true,
+        "Districts": "HOSHIARPUR"
+      },
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true,
+        "Districts": "KAPURTHALA"
+      },
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true,
+        "Districts": "MOGA"
+      },
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true,
+        "Districts": "PATHANKOT"
+      },
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true,
+        "Districts": "PHAGWARA"
+      },
+      {
+        "name": "Municipal Corporation",
+        "code": "MUNICIPAL_CORPORATION",
+        "active": true,
+        "Districts": "SAS_NAGAR_MOHALI_AJITGARH"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "ADAMPUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "AHMEDGARH"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "ALAWALPUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "AMLOH"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "ANANDPUR_SAHIB"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "BAGHA_PURANA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "BALACHAUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "BANGA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "BANUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "BARETA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "BARNALA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "BASSI_PATHANA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "BHADAUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "BHAWANIGARH"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "BHOGPUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "BHUCHO_MANDI"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "BUDHLADA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "DASUA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "DERA_BABA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "DERA_BASSI"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "DHANAULA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "DHARAMKOT"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "DHARIWAL"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "DHURI"
+      },{
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "DINA_NAGAR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "DORAHA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "FARIDKOT"
+      },{
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "FATEHGARH_CHURIAN"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "FAZILKA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "FIROZPUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "GARDHIWALA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "GARHSHANKAR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "GIDDERBAHA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "GOBINDGARH"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "GONIANA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "GORAYA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "GURDASPUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "GURU_HAR_SAHAI"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "HARIANA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "JAGRAON"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "JAITU"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "JALALABAD"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "JANDIALA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "KARTARPUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "KHANNA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "KHARAR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "KURALI"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "LEHRAGAGA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "LONGOWAL"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "MACHHIWARA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "MAJITHA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "MALERKOTLA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "MALOUT"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "MANSA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "MAUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "MORINDA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "MUKERIAN"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "MUKTSAR_SAHIB"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "MULLANPUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "NABHA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "NAKODAR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "NANGAL"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "NAWANSHAHR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "NURMAHAL"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "PATRAN"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "PATTI"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "PAYAL"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "PHILLAUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "QADIAN"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "RAHON"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "RAIKOT"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "RAJPURA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "RAMAN"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "RAMDAS"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "RAMPURA_PHUL"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "RUPNAGAR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "SAHNEWAL"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "SAMANA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "SAMRALA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "SANAUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "SANGAT"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "SANGRUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "SHAM_CHAURASI"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "SIRHIND"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "SRI_HARGOBINDPUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "SUJANPUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "SULTANPUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "SUNAM"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "TALWANDI_BHAI"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "TAPA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "TARN_TARAN"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "URMAR_TANDA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "ZIRA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "ZIRAKPUR"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "TALWARA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "KOTKAPURA"
+      },
+      {
+        "name": "Municipal Council",
+        "code": "MUNICIPAL_COUNCIL",
+        "active": true,
+        "Districts": "NAYAGAON"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "AJNALA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "BADHNI_KALAN"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "BARIWALA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "BEGOWAL"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "BHADSON"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "BHAGTA_BHAI_KA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "BHIKHI"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "BHULATH"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "CHAMKAUR_SAHIB"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "CHEEMA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "DHILWAN"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "DIRBA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "GHAGGA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "GHANAUR"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "HANDIAYA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "KHAMANON"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "KHANAURI"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "KHEM_KARAN"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "KOT_FATTA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "LOHIAN_KHASS"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "MAHILPUR"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "MAKHU"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "MALLANWALA_KHASS"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "MALOUD"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "MOONAK"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "MUDKI"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "LALRU"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "RAJA_SANSI"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "RAYYA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "SARDULGARH"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "SHAHKOT"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "TALWANDI_SABO"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "BHIKHIWIND"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "NARJOT_JAIMAL_SINGH"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "MEHATPUR"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "BILGA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "NADALA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "KIRATPUR_SAHIB"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "AMARGARH"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "KOTHA_GURU"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "MALUKA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "MEHRAJ"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "KOT_SHAMIR"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "LEHRA_MOHABBAT"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "BALIAN_WALA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "BHAIROOPA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "RAMPURA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "CHAUKE"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "NATHANA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "MANDIKALAN"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "BOHA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "JOGA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "ARNIWALA_SHEIKH"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "MAMDOT"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "NIHALSINGH_WALA"
+      },{
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "KOT_ISSE"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "FATEHGARH_PANJTOO"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "BABA_BAKALA"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "GHARUAN"
+      },
+      {
+        "name": "Nagar Panchayat",
+        "code": "NAGAR_PANCHAYAT",
+        "active": true,
+        "Districts": "DEVIGARH"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "ABOHAR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "AMRITSAR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "BARNALA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+       "Districts": "BATALA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "BATHINDA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "FARIDKOT"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "FAZILKA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "GURDASPUR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "HOSHIARPUR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "KAPURTHALA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "KARTARPUR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "KHANNA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "MALERKOTLA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "MOGA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "NABHA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "NANGAL"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "NAWANSHAHR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "PATHANKOT"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "PHAGWARA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "RAJPURA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "RUPNAGAR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "SAMANA"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "SANGRUR"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "TARN_TARAN"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "AMARGARH"
+      },
+      {
+        "name": "Improvement Trust",
+        "code": "IMPROVEMENT_TRUST",
+        "active": true,
+        "Districts": "KOTKAPURA"
+      }
+    ]
+  }

@@ -9,148 +9,82 @@
       "WFState": "INPROGRESS",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 18
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 19
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 23
-        },
-        {
-          "code": "AIRPORTAUTHORITY.NOC",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -161,94 +95,82 @@
       "WFState": "INPROGRESS",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 17
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 18
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 20
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 21
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 22
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 23
-        },
-        {
           "code": "BPD.SITP",
           "required": true,
           "allow": true,
-          "order": 24
+          "order": 1
         },
         {
-          "code": "BPD.FP",
-          "required": false,
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
           "allow": true,
-          "order": 25
+          "order": 2
         },
         {
-          "code": "BPD.SCP",
-          "required": false,
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
           "allow": true,
-          "order": 26
+          "order": 3
         },
         {
-          "code": "BPD.EP",
+          "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
           "allow": true,
-          "order": 27
+          "order": 4
         },
         {
-          "code": "BPD.SECP",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
-          "order": 28
+          "order": 5
         },
         {
-          "code": "BPD.PP",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
-          "order": 29
+          "order": 6
         },
         {
-          "code": "BPD.RP",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
-          "order": 30
+          "order": 7
         },
         {
           "code": "AIRPORTAUTHORITY.NOC",
           "required": false,
           "allow": true,
-          "order": 25
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
         }
       ]
     },
@@ -259,94 +181,82 @@
       "WFState": "INPROGRESS",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 33
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 34
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 35
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 36
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 37
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 38
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 39
-        },
-        {
           "code": "BPD.SITP",
           "required": true,
           "allow": true,
-          "order": 40
+          "order": 1
         },
         {
-          "code": "BPD.FP",
-          "required": false,
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
           "allow": true,
-          "order": 41
+          "order": 2
         },
         {
-          "code": "BPD.SCP",
-          "required": false,
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
           "allow": true,
-          "order": 42
+          "order": 3
         },
         {
-          "code": "BPD.EP",
+          "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
           "allow": true,
-          "order": 43
+          "order": 4
         },
         {
-          "code": "BPD.SECP",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
-          "order": 44
+          "order": 5
         },
         {
-          "code": "BPD.PP",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
-          "order": 45
+          "order": 6
         },
         {
-          "code": "BPD.RP",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
-          "order": 46
+          "order": 7
         },
         {
           "code": "AIRPORTAUTHORITY.NOC",
           "required": false,
           "allow": true,
-          "order": 25
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
         }
       ]
     },
@@ -633,148 +543,82 @@
       "WFState": "INITIATED",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -785,88 +629,82 @@
       "WFState": "INITIATED",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 17
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 18
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 20
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 21
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 22
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 23
-        },
-        {
           "code": "BPD.SITP",
           "required": true,
           "allow": true,
-          "order": 24
+          "order": 1
         },
         {
-          "code": "BPD.FP",
-          "required": false,
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
           "allow": true,
-          "order": 25
+          "order": 2
         },
         {
-          "code": "BPD.SCP",
-          "required": false,
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
           "allow": true,
-          "order": 26
+          "order": 3
         },
         {
-          "code": "BPD.EP",
+          "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
           "allow": true,
-          "order": 27
+          "order": 4
         },
         {
-          "code": "BPD.SECP",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
-          "order": 28
+          "order": 5
         },
         {
-          "code": "BPD.PP",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
-          "order": 29
+          "order": 6
         },
         {
-          "code": "BPD.RP",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
-          "order": 30
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
         }
       ]
     },
@@ -877,88 +715,82 @@
       "WFState": "INITIATED",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 33
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 34
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 35
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 36
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 37
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 38
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 39
-        },
-        {
           "code": "BPD.SITP",
           "required": true,
           "allow": true,
-          "order": 40
+          "order": 1
         },
         {
-          "code": "BPD.FP",
-          "required": false,
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
           "allow": true,
-          "order": 41
+          "order": 2
         },
         {
-          "code": "BPD.SCP",
-          "required": false,
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
           "allow": true,
-          "order": 42
+          "order": 3
         },
         {
-          "code": "BPD.EP",
+          "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
           "allow": true,
-          "order": 43
+          "order": 4
         },
         {
-          "code": "BPD.SECP",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
-          "order": 44
+          "order": 5
         },
         {
-          "code": "BPD.PP",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
-          "order": 45
+          "order": 6
         },
         {
-          "code": "BPD.RP",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
-          "order": 46
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
         }
       ]
     },
@@ -969,88 +801,82 @@
       "WFState": "INITIATED",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 191
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 192
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 193
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 194
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 195
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 196
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 197
-        },
-        {
           "code": "BPD.SITP",
           "required": true,
           "allow": true,
-          "order": 198
+          "order": 1
         },
         {
-          "code": "BPD.FP",
-          "required": false,
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
           "allow": true,
-          "order": 199
+          "order": 2
         },
         {
-          "code": "BPD.SCP",
-          "required": false,
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
           "allow": true,
-          "order": 210
+          "order": 3
         },
         {
-          "code": "BPD.EP",
+          "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
           "allow": true,
-          "order": 211
+          "order": 4
         },
         {
-          "code": "BPD.SECP",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
-          "order": 212
+          "order": 5
         },
         {
-          "code": "BPD.PP",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
-          "order": 213
+          "order": 6
         },
         {
-          "code": "BPD.RP",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
-          "order": 214
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
         }
       ]
     },
@@ -1245,88 +1071,82 @@
       "WFState": "DOC_VERIFICATION_PENDING",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 49
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 50
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 51
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 52
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 53
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 54
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 55
-        },
-        {
           "code": "BPD.SITP",
           "required": true,
           "allow": true,
-          "order": 56
+          "order": 1
         },
         {
-          "code": "BPD.FP",
-          "required": false,
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
           "allow": true,
-          "order": 57
+          "order": 2
         },
         {
-          "code": "BPD.SCP",
-          "required": false,
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
           "allow": true,
-          "order": 59
+          "order": 3
         },
         {
-          "code": "BPD.EP",
+          "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
           "allow": true,
-          "order": 60
+          "order": 4
         },
         {
-          "code": "BPD.SECP",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
-          "order": 61
+          "order": 5
         },
         {
-          "code": "BPD.PP",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
-          "order": 62
+          "order": 6
         },
         {
-          "code": "BPD.RP",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
-          "order": 63
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
         }
       ]
     },
@@ -1337,88 +1157,82 @@
       "WFState": "DOC_VERIFICATION_PENDING",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 82
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 83
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 84
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 85
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 86
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 87
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 88
-        },
-        {
           "code": "BPD.SITP",
           "required": true,
           "allow": true,
-          "order": 89
+          "order": 1
         },
         {
-          "code": "BPD.FP",
-          "required": false,
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
           "allow": true,
-          "order": 90
+          "order": 2
         },
         {
-          "code": "BPD.SCP",
-          "required": false,
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
           "allow": true,
-          "order": 91
+          "order": 3
         },
         {
-          "code": "BPD.EP",
+          "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
           "allow": true,
-          "order": 92
+          "order": 4
         },
         {
-          "code": "BPD.SECP",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
-          "order": 93
+          "order": 5
         },
         {
-          "code": "BPD.PP",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
-          "order": 94
+          "order": 6
         },
         {
-          "code": "BPD.RP",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
-          "order": 95
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
         }
       ]
     },
@@ -1429,88 +1243,82 @@
       "WFState": "DOC_VERIFICATION_PENDING",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 117
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 118
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 119
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 120
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 121
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 122
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 123
-        },
-        {
           "code": "BPD.SITP",
           "required": true,
           "allow": true,
-          "order": 124
+          "order": 1
         },
         {
-          "code": "BPD.FP",
-          "required": false,
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
           "allow": true,
-          "order": 125
+          "order": 2
         },
         {
-          "code": "BPD.SCP",
-          "required": false,
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
           "allow": true,
-          "order": 126
+          "order": 3
         },
         {
-          "code": "BPD.EP",
+          "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
           "allow": true,
-          "order": 127
+          "order": 4
         },
         {
-          "code": "BPD.SECP",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
-          "order": 128
+          "order": 5
         },
         {
-          "code": "BPD.PP",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
-          "order": 129
+          "order": 6
         },
         {
-          "code": "BPD.RP",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
-          "order": 130
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
         }
       ]
     },
@@ -2313,148 +2121,82 @@
       "WFState": "FIELDINSPECTION_PENDING",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -2465,148 +2207,82 @@
       "WFState": "FIELDINSPECTION_PENDING",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -2617,148 +2293,82 @@
       "WFState": "FIELDINSPECTION_PENDING",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -2769,88 +2379,82 @@
       "WFState": "NOC_VERIFICATION_PENDING",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 66
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 67
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 68
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 69
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 70
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 71
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 72
-        },
-        {
           "code": "BPD.SITP",
           "required": true,
           "allow": true,
-          "order": 73
+          "order": 1
         },
         {
-          "code": "BPD.FP",
-          "required": false,
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
           "allow": true,
-          "order": 74
+          "order": 2
         },
         {
-          "code": "BPD.SCP",
-          "required": false,
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
           "allow": true,
-          "order": 75
+          "order": 3
         },
         {
-          "code": "BPD.EP",
+          "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
           "allow": true,
-          "order": 76
+          "order": 4
         },
         {
-          "code": "BPD.SECP",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
-          "order": 77
+          "order": 5
         },
         {
-          "code": "BPD.PP",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
-          "order": 78
+          "order": 6
         },
         {
-          "code": "BPD.RP",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
-          "order": 79
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
         }
       ]
     },
@@ -2861,88 +2465,82 @@
       "WFState": "NOC_VERIFICATION_PENDING",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 101
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 102
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 103
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 104
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 105
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 106
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 107
-        },
-        {
           "code": "BPD.SITP",
           "required": true,
           "allow": true,
-          "order": 108
+          "order": 1
         },
         {
-          "code": "BPD.FP",
-          "required": false,
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
           "allow": true,
-          "order": 109
+          "order": 2
         },
         {
-          "code": "BPD.SCP",
-          "required": false,
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
           "allow": true,
-          "order": 110
+          "order": 3
         },
         {
-          "code": "BPD.EP",
+          "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
           "allow": true,
-          "order": 111
+          "order": 4
         },
         {
-          "code": "BPD.SECP",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
-          "order": 112
+          "order": 5
         },
         {
-          "code": "BPD.PP",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
-          "order": 113
+          "order": 6
         },
         {
-          "code": "BPD.RP",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
-          "order": 114
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
         }
       ]
     },
@@ -2953,88 +2551,82 @@
       "WFState": "NOC_VERIFICATION_PENDING",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 133
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 134
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 135
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 136
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 137
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 138
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 139
-        },
-        {
           "code": "BPD.SITP",
           "required": true,
           "allow": true,
-          "order": 140
+          "order": 1
         },
         {
-          "code": "BPD.FP",
-          "required": false,
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
           "allow": true,
-          "order": 141
+          "order": 2
         },
         {
-          "code": "BPD.SCP",
-          "required": false,
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
           "allow": true,
-          "order": 142
+          "order": 3
         },
         {
-          "code": "BPD.EP",
+          "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
           "allow": true,
-          "order": 143
+          "order": 4
         },
         {
-          "code": "BPD.SECP",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
-          "order": 144
+          "order": 5
         },
         {
-          "code": "BPD.PP",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
-          "order": 145
+          "order": 6
         },
         {
-          "code": "BPD.RP",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
-          "order": 146
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
         }
       ]
     },
@@ -3127,6 +2719,36 @@
           "required": false,
           "allow": true,
           "order": 254
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 25
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 26
+        },
+        {
+          "code": "BPA.ISN",
+          "required": true,
+          "allow": true,
+          "order": 27
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": true,
+          "allow": true,
+          "order": 28
+        },
+        {
+          "code": "BPA.NFD",
+          "required": true,
+          "allow": true,
+          "order": 29
         }
       ]
     },
@@ -3897,148 +3519,82 @@
       "WFState": "PENDINGAPPROVAL",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -4049,148 +3605,82 @@
       "WFState": "PENDINGAPPROVAL",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -4201,148 +3691,82 @@
       "WFState": "PENDINGAPPROVAL",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -4809,148 +4233,82 @@
       "WFState": "APPROVED",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -4961,148 +4319,82 @@
       "WFState": "APPROVED",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -5113,148 +4405,82 @@
       "WFState": "APPROVED",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -5721,148 +4947,82 @@
       "WFState": "REJECTED",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -5873,148 +5033,82 @@
       "WFState": "REJECTED",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -6025,148 +5119,168 @@
       "WFState": "REJECTED",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
+      "WFState": "SAVE_AS_DRAFT",
+      "docTypes": [
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 1
         },
         {
-          "code": "BPD.RP",
-          "required": false,
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
           "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
+          "order": 2
         },
         {
           "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
+          "required": true,
           "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
+          "order": 3
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
           "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
+          "order": 4
         },
         {
           "code": "OWNER.OTHERNOC",
           "required": false,
-          "allow": false,
-          "order": 21
+          "allow": true,
+          "order": 5
         },
         {
           "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
-          "allow": false,
-          "order": 22
+          "allow": true,
+          "order": 6
         },
         {
           "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
-          "allow": false,
-          "order": 23
+          "allow": true,
+          "order": 7
         },
         {
-          "code": "OWNERSHIP.DOCUMENT",
+          "code": "AIRPORTAUTHORITY.NOC",
           "required": false,
           "allow": true,
-          "order": 24
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
         }
       ]
     },
@@ -6177,45 +5291,475 @@
       "WFState": "SEND_TO_CITIZEN",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "HIGH",
+      "WFState": "SAVE_AS_DRAFT",
+      "docTypes": [
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "OWNER.OTHERNOC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "INDEMNITY.BONDFORBASEMENT",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "HIGH",
+      "WFState": "SEND_TO_CITIZEN",
+      "docTypes": [
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "OWNER.OTHERNOC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "INDEMNITY.BONDFORBASEMENT",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "MEDIUM",
+      "WFState": "SAVE_AS_DRAFT",
+      "docTypes": [
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "OWNER.OTHERNOC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "INDEMNITY.BONDFORBASEMENT",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "MEDIUM",
+      "WFState": "SEND_TO_CITIZEN",
+      "docTypes": [
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "OWNER.OTHERNOC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "INDEMNITY.BONDFORBASEMENT",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
+      "WFState": "SEND_TO_CITIZEN",
+      "docTypes": [
+        {
+          "code": "APPL.IDENTITYPROOF",
+          "required": false,
+          "allow": false,
+          "order": 1
+        },
+        {
+          "code": "APPL.ADDRESSPROOF",
+          "required": false,
+          "allow": false,
+          "order": 2
+        },
+        {
+          "code": "APPL.LTR",
+          "required": false,
+          "allow": false,
+          "order": 3
+        },
+        {
+          "code": "APPL.TDP",
+          "required": false,
+          "allow": false,
+          "order": 4
+        },
+        {
+          "code": "APPL.LAC",
+          "required": false,
+          "allow": false,
+          "order": 5
+        },
+        {
+          "code": "APPL.SSC",
+          "required": false,
+          "allow": false,
+          "order": 6
+        },
+        {
+          "code": "APPL.LSVS",
+          "required": false,
+          "allow": false,
           "order": 7
         },
         {
@@ -6227,43 +5771,43 @@
         {
           "code": "BPD.FP",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 9
         },
         {
           "code": "BPD.SCP",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 10
         },
         {
           "code": "BPD.EP",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 11
         },
         {
           "code": "BPD.SECP",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 12
         },
         {
           "code": "BPD.PP",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 13
         },
         {
           "code": "BPD.RP",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 14
         },
         {
           "code": "OWNER.SIGN",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 15
         },
         {
@@ -6281,13 +5825,13 @@
         {
           "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
-          "allow": false,
+          "allow": true,
           "order": 18
         },
         {
           "code": "OWNER.BUILDINGPLAN",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 19
         },
         {
@@ -6299,75 +5843,81 @@
         {
           "code": "OWNER.OTHERNOC",
           "required": false,
-          "allow": false,
+          "allow": true,
           "order": 21
         },
         {
           "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
-          "allow": false,
+          "allow": true,
           "order": 22
         },
         {
           "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
-          "allow": false,
+          "allow": true,
           "order": 23
         },
         {
           "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
+          "required": true,
           "allow": true,
           "order": 24
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": false,
+          "order": 25
         }
       ]
     },
     {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "HIGH",
       "WFState": "SEND_TO_CITIZEN",
       "docTypes": [
         {
           "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
+          "required": false,
+          "allow": false,
           "order": 17
         },
         {
           "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
+          "required": false,
+          "allow": false,
           "order": 18
         },
         {
           "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
+          "required": false,
+          "allow": false,
           "order": 19
         },
         {
           "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
+          "required": false,
+          "allow": false,
           "order": 20
         },
         {
           "code": "APPL.LAC",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 21
         },
         {
           "code": "APPL.SSC",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 22
         },
         {
           "code": "APPL.LSVS",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 23
         },
         {
@@ -6379,374 +5929,80 @@
         {
           "code": "BPD.FP",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 25
         },
         {
           "code": "BPD.SCP",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 26
         },
         {
           "code": "BPD.EP",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 27
         },
         {
           "code": "BPD.SECP",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 28
         },
         {
           "code": "BPD.PP",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 29
         },
         {
           "code": "BPD.RP",
           "required": false,
-          "allow": true,
+          "allow": false,
           "order": 30
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "SEND_TO_CITIZEN",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 33
         },
         {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 34
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 35
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 36
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 37
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 38
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 39
-        },
-        {
-          "code": "BPD.SITP",
-          "required": true,
-          "allow": true,
-          "order": 40
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": true,
-          "order": 41
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": true,
-          "order": 42
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": true,
-          "order": 43
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": true,
-          "order": 44
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": true,
-          "order": 45
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 46
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "LOW",
-      "WFState": "SEND_TO_CITIZEN",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
-          "allow": true,
-          "order": 1
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 2
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 3
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
-          "allow": true,
-          "order": 4
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": true,
-          "order": 5
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": true,
-          "order": 6
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": true,
-          "order": 7
-        },
-        {
-          "code": "BPD.SITP",
-          "required": true,
-          "allow": true,
-          "order": 8
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": true,
-          "order": 9
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": true,
-          "order": 10
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": true,
-          "order": 11
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": true,
-          "order": 12
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": true,
-          "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": false,
-          "order": 17
+          "order": 31
         },
         {
           "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
-      "WFState": "SEND_TO_CITIZEN",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": true,
           "allow": true,
           "order": 17
         },
         {
-          "code": "APPL.ADDRESSPROOF",
-          "required": true,
-          "allow": true,
-          "order": 18
-        },
-        {
-          "code": "APPL.LTR",
-          "required": true,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.OTHERNOC",
+          "required": false,
           "allow": true,
           "order": 20
         },
         {
-          "code": "APPL.LAC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 21
         },
         {
-          "code": "APPL.SSC",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 22
         },
         {
-          "code": "APPL.LSVS",
-          "required": false,
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
           "allow": true,
           "order": 23
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
-          "allow": true,
-          "order": 24
-        },
-        {
-          "code": "BPD.FP",
+          "code": "OWNER.LASTPROPERTYTAX",
           "required": false,
           "allow": true,
-          "order": 25
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": true,
-          "order": 26
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": true,
-          "order": 27
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": true,
-          "order": 28
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": true,
-          "order": 29
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 30
+          "order": 17
         }
       ]
     },
@@ -6839,11 +6095,275 @@
           "required": false,
           "allow": true,
           "order": 46
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": false,
+          "order": 47
         }
       ]
     },
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "LOW",
+      "WFState": "CITIZEN_APPROVAL_PENDING",
+      "docTypes": [
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "OWNER.OTHERNOC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "INDEMNITY.BONDFORBASEMENT",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "HIGH",
+      "WFState": "CITIZEN_APPROVAL_PENDING",
+      "docTypes": [
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "OWNER.OTHERNOC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "INDEMNITY.BONDFORBASEMENT",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "MEDIUM",
+      "WFState": "CITIZEN_APPROVAL_PENDING",
+      "docTypes": [
+        {
+          "code": "BPD.SITP",
+          "required": true,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "OWNERSHIP.DOCUMENT",
+          "required": true,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "SITEPHOTOGRAPH.ONE",
+          "required": true,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "OWNER.OTHERNOC",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "INDEMNITY.BONDFORBASEMENT",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "BPA.ISN",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "BPA.NHAI",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "BPA.NFD",
+          "required": false,
+          "allow": true,
+          "order": 13
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "LOW",
       "WFState": "CITIZEN_APPROVAL_PENDING",
@@ -6931,11 +6451,23 @@
           "required": false,
           "allow": false,
           "order": 14
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": false,
+          "order": 15
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": false,
+          "order": 16
         }
       ]
     },
     {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "HIGH",
       "WFState": "CITIZEN_APPROVAL_PENDING",
@@ -7023,282 +6555,18 @@
           "required": false,
           "allow": false,
           "order": 30
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "MEDIUM",
-      "WFState": "CITIZEN_APPROVAL_PENDING",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": false,
-          "allow": false,
-          "order": 33
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": false,
-          "order": 34
+          "order": 31
         },
         {
-          "code": "APPL.LTR",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": false,
-          "order": 35
-        },
-        {
-          "code": "APPL.TDP",
-          "required": false,
-          "allow": false,
-          "order": 36
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": false,
-          "order": 37
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": false,
-          "order": 38
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": false,
-          "order": 39
-        },
-        {
-          "code": "BPD.SITP",
-          "required": false,
-          "allow": false,
-          "order": 40
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": false,
-          "order": 41
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": false,
-          "order": 42
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": false,
-          "order": 43
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": false,
-          "order": 44
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": false,
-          "order": 45
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": false,
-          "order": 46
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "LOW",
-      "WFState": "CITIZEN_APPROVAL_PENDING",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": false,
-          "allow": false,
-          "order": 1
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": false,
-          "allow": false,
-          "order": 2
-        },
-        {
-          "code": "APPL.LTR",
-          "required": false,
-          "allow": false,
-          "order": 3
-        },
-        {
-          "code": "APPL.TDP",
-          "required": false,
-          "allow": false,
-          "order": 4
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": false,
-          "order": 5
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": false,
-          "order": 6
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": false,
-          "order": 7
-        },
-        {
-          "code": "BPD.SITP",
-          "required": false,
-          "allow": false,
-          "order": 8
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": false,
-          "order": 9
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": false,
-          "order": 10
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": false,
-          "order": 11
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": false,
-          "order": 12
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": false,
-          "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": false,
-          "order": 14
-        }
-      ]
-    },
-    {
-      "applicationType": "BUILDING_OC_PLAN_SCRUTINY",
-      "ServiceType": "NEW_CONSTRUCTION",
-      "RiskType": "HIGH",
-      "WFState": "CITIZEN_APPROVAL_PENDING",
-      "docTypes": [
-        {
-          "code": "APPL.IDENTITYPROOF",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "APPL.ADDRESSPROOF",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "APPL.LTR",
-          "required": false,
-          "allow": false,
-          "order": 19
-        },
-        {
-          "code": "APPL.TDP",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "APPL.LAC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "APPL.SSC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "APPL.LSVS",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "BPD.SITP",
-          "required": false,
-          "allow": false,
-          "order": 24
-        },
-        {
-          "code": "BPD.FP",
-          "required": false,
-          "allow": false,
-          "order": 25
-        },
-        {
-          "code": "BPD.SCP",
-          "required": false,
-          "allow": false,
-          "order": 26
-        },
-        {
-          "code": "BPD.EP",
-          "required": false,
-          "allow": false,
-          "order": 27
-        },
-        {
-          "code": "BPD.SECP",
-          "required": false,
-          "allow": false,
-          "order": 28
-        },
-        {
-          "code": "BPD.PP",
-          "required": false,
-          "allow": false,
-          "order": 29
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": false,
-          "order": 30
+          "order": 32
         }
       ]
     },
@@ -7391,6 +6659,18 @@
           "required": false,
           "allow": false,
           "order": 46
+        },
+        {
+          "code": "CITIZEN.UNDERTAKING",
+          "required": false,
+          "allow": false,
+          "order": 47
+        },
+        {
+          "code": "ARCHITECT.UNDERTAKING",
+          "required": false,
+          "allow": false,
+          "order": 48
         }
       ]
     },
@@ -7857,148 +7137,82 @@
       "WFState": "BACK_FROM_NOC_VERIFICATION",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -8009,148 +7223,82 @@
       "WFState": "BACK_FROM_NOC_VERIFICATION",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -8161,148 +7309,82 @@
       "WFState": "BACK_FROM_NOC_VERIFICATION",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -8769,148 +7851,82 @@
       "WFState": "BACK_FROM_FI_VERIFICATION",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -8921,148 +7937,82 @@
       "WFState": "BACK_FROM_FI_VERIFICATION",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -9073,148 +8023,82 @@
       "WFState": "BACK_FROM_FI_VERIFICATION",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -9681,148 +8565,82 @@
       "WFState": "BACK_FROM_DOC_VERIFICATION",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -9833,148 +8651,82 @@
       "WFState": "BACK_FROM_DOC_VERIFICATION",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -9985,148 +8737,82 @@
       "WFState": "BACK_FROM_DOC_VERIFICATION",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -10593,148 +9279,82 @@
       "WFState": "PENDING_APPL_FEE_PAYMENT",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -10745,148 +9365,82 @@
       "WFState": "PENDING_APPL_FEE_PAYMENT",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -10897,148 +9451,82 @@
       "WFState": "PENDING_APPL_FEE_PAYMENT",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -11505,148 +9993,82 @@
       "WFState": "PENDING_SANC_FEE_PAYMENT",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -11657,148 +10079,82 @@
       "WFState": "PENDING_SANC_FEE_PAYMENT",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     },
@@ -11809,148 +10165,82 @@
       "WFState": "PENDING_SANC_FEE_PAYMENT",
       "docTypes": [
         {
-          "code": "APPL.IDENTITYPROOF",
+          "code": "BPD.SITP",
           "required": true,
           "allow": true,
           "order": 1
         },
         {
-          "code": "APPL.ADDRESSPROOF",
+          "code": "OWNERSHIP.DOCUMENT",
           "required": true,
           "allow": true,
           "order": 2
         },
         {
-          "code": "APPL.LTR",
+          "code": "SITEPHOTOGRAPH.ONE",
           "required": true,
           "allow": true,
           "order": 3
         },
         {
-          "code": "APPL.TDP",
-          "required": true,
+          "code": "OWNER.LASTPROPERTYTAX",
+          "required": false,
           "allow": true,
           "order": 4
         },
         {
-          "code": "APPL.LAC",
+          "code": "OWNER.OTHERNOC",
           "required": false,
           "allow": true,
           "order": 5
         },
         {
-          "code": "APPL.SSC",
+          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
           "required": false,
           "allow": true,
           "order": 6
         },
         {
-          "code": "APPL.LSVS",
+          "code": "INDEMNITY.BONDFORBASEMENT",
           "required": false,
           "allow": true,
           "order": 7
         },
         {
-          "code": "BPD.SITP",
-          "required": true,
+          "code": "AIRPORTAUTHORITY.NOC",
+          "required": false,
           "allow": true,
           "order": 8
         },
         {
-          "code": "BPD.FP",
+          "code": "ARCHITECT.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 9
         },
         {
-          "code": "BPD.SCP",
+          "code": "CITIZEN.UNDERTAKING",
           "required": false,
           "allow": true,
           "order": 10
         },
         {
-          "code": "BPD.EP",
+          "code": "BPA.ISN",
           "required": false,
           "allow": true,
           "order": 11
         },
         {
-          "code": "BPD.SECP",
+          "code": "BPA.NHAI",
           "required": false,
           "allow": true,
           "order": 12
         },
         {
-          "code": "BPD.PP",
+          "code": "BPA.NFD",
           "required": false,
           "allow": true,
           "order": 13
-        },
-        {
-          "code": "BPD.RP",
-          "required": false,
-          "allow": true,
-          "order": 14
-        },
-        {
-          "code": "OWNER.SIGN",
-          "required": false,
-          "allow": true,
-          "order": 15
-        },
-        {
-          "code": "SITEPHOTOGRAPH.ONE",
-          "required": false,
-          "allow": true,
-          "order": 16
-        },
-        {
-          "code": "SITEPHOTOGRAPH.TWO",
-          "required": false,
-          "allow": false,
-          "order": 17
-        },
-        {
-          "code": "OWNER.LASTPROPERTYTAX",
-          "required": false,
-          "allow": false,
-          "order": 18
-        },
-        {
-          "code": "OWNER.BUILDINGPLAN",
-          "required": false,
-          "allow": true,
-          "order": 19
-        },
-        {
-          "code": "OWNER.APPOINTMENTPROOF",
-          "required": false,
-          "allow": false,
-          "order": 20
-        },
-        {
-          "code": "OWNER.OTHERNOC",
-          "required": false,
-          "allow": false,
-          "order": 21
-        },
-        {
-          "code": "NEIGHBOURINGFLAT.BASEMENTNOC",
-          "required": false,
-          "allow": false,
-          "order": 22
-        },
-        {
-          "code": "INDEMNITY.BONDFORBASEMENT",
-          "required": false,
-          "allow": false,
-          "order": 23
-        },
-        {
-          "code": "OWNERSHIP.DOCUMENT",
-          "required": false,
-          "allow": true,
-          "order": 24
         }
       ]
     }
