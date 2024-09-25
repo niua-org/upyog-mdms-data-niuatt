@@ -1,0 +1,31 @@
+{
+  "tenantId": "pg",
+  "moduleName": "BPA",
+  "BlockReason": [
+     {
+      "code": "R_01",
+      "value" : "Stay from court or Written orders from Higher Authorities",
+	  "active": true
+    },
+    {
+      "code":"R_02",
+	  "value" : "Non-compliance with Building Codes or Regulations",
+      "active":true
+    },
+	{
+      "code": "R_03",
+	   "value": "Restricted Area",
+      "active": true
+    },
+	{
+      "code": "R_04",
+	  "value": "Violation of Master Plan",
+      "active": true
+    },
+	{
+      "code": "R_05",
+	  "value": "Misrepresentation of Facts",
+      "active": true
+    }
+  ]
+}

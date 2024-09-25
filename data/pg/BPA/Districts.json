@@ -13,10 +13,947 @@
         "active": true
       },
       {
+        "name": "Abohar",
+        "code": "ABOHAR",
+        "active": true
+      },
+      {
+        "name": "Batala",
+        "code": "BATALA",
+        "active": true
+      },
+      {
+        "name": "Hoshiarpur",
+        "code": "HOSHIARPUR",
+        "active": true
+      },
+      {
+        "name": "Jalandhar",
+        "code": "JALANDHAR",
+        "active": true
+      },
+      {
+        "name": "Kapurthala",
+        "code": "KAPURTHALA",
+        "active": true
+      },
+      {
+        "name": "Ludhiana",
+        "code": "LUDHIANA",
+        "active": true
+      },
+      {
+        "name": "Moga",
+        "code": "MOGA",
+        "active": true
+      },
+      {
+        "name": "Pathankot",
+        "code": "PATHANKOT",
+        "active": true
+      },
+      {
+        "name": "Patiala",
+        "code": "PATIALA",
+        "active": true
+      },
+      {
+        "name": "Phagwara",
+        "code": "PHAGWARA",
+        "active": true
+      },
+      {
+        "name": "S.A.S. Nagar (Mohali, Ajitgarh)",
+        "code": "SAS_NAGAR_MOHALI_AJITGARH",
+        "active": true
+      },
+      {
+        "name": "Adampur",
+        "code": "ADAMPUR",
+        "active": true
+      },
+      {
+        "name": "Ahmedgarh",
+        "code": "AHMEDGARH",
+        "active": true        
+      },
+      {
+        "name": "Alawalpur",
+        "code": "ALAWALPUR",
+        "active": true      
+      },
+      {
+        "name": "Amloh",
+        "code": "AMLOH",
+        "active": true      
+      },
+      {
+        "name": "Anandpur Sahib",
+        "code": "ANANDPUR_SAHIB",
+        "active": true     
+      },
+      {
+        "name": "Bagha Purana",
+        "code": "BAGHA_PURANA",
+        "active": true      
+      },
+      {
+        "name": "Balachaur",
+        "code": "BALACHAUR",
+        "active": true     
+      },
+      {
+        "name": "Banga",
+        "code": "BANGA",
+        "active": true     
+      },
+      {
+        "name": "Banur",
+        "code": "BANUR",
+        "active": true     
+      },
+      {
+        "name": "Bareta",
+        "code": "BARETA",
+        "active": true
+      },
+      {
         "name": "Barnala",
         "code": "BARNALA",
         "active": true
+      },
+      {
+        "name": "Bassi Pathana",
+        "code": "BASSI_PATHANA",
+        "active": true    
+      },
+      {
+        "name": "Bhadaur",
+        "code": "BHADAUR",
+        "active": true    
+      },
+      {
+        "name": "Bhawanigarh",
+        "code": "BHAWANIGARH",
+        "active": true      
+      },
+      {
+        "name": "Bhogpur",
+        "code": "BHOGPUR",
+        "active": true      
+      },
+      {
+        "name": "Bhucho Mandi",
+        "code": "BHUCHO_MANDI",
+        "active": true       
+      },
+      {
+        "name": "Budhlada",
+        "code": "BUDHLADA",
+        "active": true        
+      },
+      {
+        "name": "Dasua (Dasuya)",
+        "code": "DASUA",
+        "active": true      
+      },
+      {
+        "name": "Dera Baba Nanak",
+        "code": "DERA_BABA",
+        "active": true      
+      },
+      {
+        "name": "Dera Bassi",
+        "code": "DERA_BASSI",
+        "active": true       
+      },
+      {
+        "name": "Dhanaula",
+        "code": "DHANAULA",
+        "active": true       
+      },
+      {
+        "name": "Dharamkot",
+        "code": "DHARAMKOT",
+        "active": true       
+      },
+      {
+        "name": "Dhariwal",
+        "code": "DHARIWAL",
+        "active": true       
+      },
+      {
+        "name": "Dhuri",
+        "code": "DHURI",
+        "active": true       
+      },
+      {
+        "name": "Dina Nagar",
+        "code": "DINA_NAGAR",
+        "active": true       
+      },
+      {
+        "name": "Doraha",
+        "code": "DORAHA",
+        "active": true      
+      },
+      {
+        "name": "Faridkot",
+        "code": "FARIDKOT",
+        "active": true   
+      },
+      {
+        "name": "Fatehgarh Churian",
+        "code": "FATEHGARH_CHURIAN",
+        "active": true    
+      },
+      {
+        "name": "Fazilka",
+        "code": "FAZILKA",
+        "active": true    
+      },
+      {
+        "name": "Firozpur",
+        "code": "FIROZPUR",
+        "active": true    
+      },
+      {
+        "name": "Gardhiwala",
+        "code": "GARDHIWALA",
+        "active": true   
+      },
+      {
+        "name": "Garhshankar (Garhshanker)",
+        "code": "GARHSHANKAR",
+        "active": true   
+      },
+      {
+        "name": "Gidderbaha (Giddarbaha)",
+        "code": "GIDDERBAHA",
+        "active": true   
+      },
+      {
+        "name": "Gobindgarh (Mandi Gobindgarh)",
+        "code": "GOBINDGARH",
+        "active": true    
+      },
+      {
+        "name": "Goniana",
+        "code": "GONIANA",
+        "active": true    
+      },
+      {
+        "name": "Goraya",
+        "code": "GORAYA",
+        "active": true    
+      },
+      {
+        "name": "Gurdaspur",
+        "code": "GURDASPUR",
+        "active": true  
+      },
+      {
+        "name": "Guru Har Sahai",
+        "code": "GURU_HAR_SAHAI",
+        "active": true  
+      },
+      {
+        "name": "Hariana",
+        "code": "HARIANA",
+        "active": true  
+      },
+      {
+        "name": "Jagraon",
+        "code": "JAGRAON",
+        "active": true      
+      },
+      {
+        "name": "Jaitu",
+        "code": "JAITU",
+        "active": true      
+      },
+      {
+        "name": "Jalalabad",
+        "code": "JALALABAD",
+        "active": true       
+      },
+      {
+        "name": "Jandiala",
+        "code": "JANDIALA",
+        "active": true       
+      },
+      {
+        "name": "Kartarpur",
+        "code": "KARTARPUR",
+        "active": true       
+      },
+      {
+        "name": "Khanna",
+        "code": "KHANNA",
+        "active": true        
+      },
+      {
+        "name": "Kharar",
+        "code": "KHARAR",
+        "active": true    
+      },
+      {
+        "name": "Kurali",
+        "code": "KURALI",
+        "active": true      
+      },
+      {
+        "name": "Lehragaga",
+        "code": "LEHRAGAGA",
+        "active": true    
+      },
+      {
+        "name": "Longowal",
+        "code": "LONGOWAL",
+        "active": true      
+      },
+      {
+        "name": "Machhiwara",
+        "code": "MACHHIWARA",
+        "active": true      
+      },
+      {
+        "name": "Majitha",
+        "code": "MAJITHA",
+        "active": true      
+      },
+      {
+        "name": "Malerkotla",
+        "code": "MALERKOTLA",
+        "active": true      
+      },
+      {
+        "name": "Malout",
+        "code": "MALOUT",
+        "active": true      
+      },
+      {
+        "name": "Mansa",
+        "code": "MANSA",
+        "active": true
+        
+      },
+      {
+        "name": "Maur",
+        "code": "MAUR",
+        "active": true      
+      },
+      {
+        "name": "Morinda",
+        "code": "MORINDA",
+        "active": true
+        
+      },
+      {
+        "name": "Mukerian",
+        "code": "MUKERIAN",
+        "active": true
+        
+      },
+      {
+        "name": "Sri Muktsar Sahib",
+        "code": "MUKTSAR_SAHIB",
+        "active": true
+        
+      },
+      {
+        "name": "Mullanpur Dakha",
+        "code": "MULLANPUR",
+        "active": true
+        
+      },
+      {
+        "name": "Nabha",
+        "code": "NABHA",
+        "active": true
+        
+      },
+      {
+        "name": "Nakodar",
+        "code": "NAKODAR",
+        "active": true
+        
+      },
+      {
+        "name": "Nangal",
+        "code": "NANGAL",
+        "active": true
+        
+      },
+      {
+        "name": "Nawanshahr",
+        "code": "NAWANSHAHR",
+        "active": true
+        
+      },
+      {
+        "name": "Nurmahal",
+        "code": "NURMAHAL",
+        "active": true
+        
+      },
+      {
+        "name": "Patran",
+        "code": "PATRAN",
+        "active": true
+        
+      },
+      {
+        "name": "Patti",
+        "code": "PATTI",
+        "active": true
+        
+      },
+      {
+        "name": "Payal",
+        "code": "PAYAL",
+        "active": true
+        
+      },
+      {
+        "name": "Phillaur",
+        "code": "PHILLAUR",
+        "active": true
+        
+      },
+      {
+        "name": "Qadian",
+        "code": "QADIAN",
+        "active": true
+        
+      },
+      {
+        "name": "Rahon",
+        "code": "RAHON",
+        "active": true
+        
+      },
+      {
+        "name": "Raikot",
+        "code": "RAIKOT",
+        "active": true
+        
+      },
+      {
+        "name": "Rajpura",
+        "code": "RAJPURA",
+        "active": true
+        
+      },
+      {
+        "name": "Raman",
+        "code": "RAMAN",
+        "active": true
+        
+      },
+      {
+        "name": "Ramdas",
+        "code": "RAMDAS",
+        "active": true
+        
+      },
+      {
+        "name": "Rampura Phul",
+        "code": "RAMPURA_PHUL",
+        "active": true
+        
+      },
+      {
+        "name": "Rupnagar",
+        "code": "RUPNAGAR",
+        "active": true
+        
+      },
+      {
+        "name": "Sahnewal",
+        "code": "SAHNEWAL",
+        "active": true
+        
+      },
+      {
+        "name": "Samana",
+        "code": "SAMANA",
+        "active": true
+        
+      },
+      {
+        "name": "Samrala",
+        "code": "SAMRALA",
+        "active": true
+        
+      },
+      {
+        "name": "Sanaur",
+        "code": "SANAUR",
+        "active": true
+        
+      },
+      {
+        "name": "Sangat",
+        "code": "SANGAT",
+        "active": true
+        
+      },
+      {
+        "name": "Sangrur",
+        "code": "SANGRUR",
+        "active": true
+        
+      },
+      {
+        "name": "Sham ChaurasI",
+        "code": "SHAM_CHAURASI",
+        "active": true
+        
+      },
+      {
+        "name": "Sirhind Fatehgarh Sahib",
+        "code": "SIRHIND",
+        "active": true
+        
+      },
+      {
+        "name": "Sri Hargobindpur",
+        "code": "SRI_HARGOBINDPUR",
+        "active": true
+        
+      },
+      {
+        "name": "Sujanpur",
+        "code": "SUJANPUR",
+        "active": true
+        
+      },
+      {
+        "name": "Sultanpur",
+        "code": "SULTANPUR",
+        "active": true
+        
+      },
+      {
+        "name": "Sunam",
+        "code": "SUNAM",
+        "active": true
+        
+      },
+      {
+        "name": "Talwandi Bhai",
+        "code": "TALWANDI_BHAI",
+        "active": true
+        
+      },
+      {
+        "name": "Tapa",
+        "code": "TAPA",
+        "active": true
+        
+      },
+      {
+        "name": "Tarn Taran",
+        "code": "TARN_TARAN",
+        "active": true
+        
+      },
+      {
+        "name": "Urmar Tanda",
+        "code": "URMAR_TANDA",
+        "active": true
+        
+      },
+      {
+        "name": "Zira",
+        "code": "ZIRA",
+        "active": true
+        
+      },
+      {
+        "name": "Zirakpur",
+        "code": "ZIRAKPUR",
+        "active": true
+        
+      },
+      {
+        "name": "Talwara",
+        "code": "TALWARA",
+        "active": true
+        
+      },
+      {
+        "name": "KotKapura",
+        "code": "KOTKAPURA",
+        "active": true
+        
+      },
+      {
+        "name": "Nayagaon",
+        "code": "NAYAGAON",
+        "active": true
+        
+      },
+      {
+        "name": "Ajanala",
+        "code": "AJNALA",
+        "active": true
+        
+      },
+      {
+        "name": "Badhni Kalan",
+        "code": "BADHNI_KALAN",
+        "active": true
+        
+      },
+      {
+        "name": "Bariwala",
+        "code": "BARIWALA",
+        "active": true
+        
+      },
+      {
+        "name": "Begowal",
+        "code": "BEGOWAL",
+        "active": true
+        
+      },
+      {
+        "name": "Bhadson",
+        "code": "BHADSON",
+        "active": true
+        
+      },
+      {
+        "name": "Bhagta Bhai Ka",
+        "code": "BHAGTA_BHAI_KA",
+        "active": true
+        
+      },
+      {
+        "name": "Bhikhi",
+        "code": "BHIKHI",
+        "active": true
+        
+      },
+      {
+        "name": "Bhulath",
+        "code": "BHULATH",
+        "active": true
+        
+      },
+      {
+        "name": "Chamkaur Sahib",
+        "code": "CHAMKAUR_SAHIB",
+        "active": true
+        
+      },
+      {
+        "name": "Cheema",
+        "code": "CHEEMA",
+        "active": true
+        
+      },
+      {
+        "name": "Dhilwan",
+        "code": "DHILWAN",
+        "active": true
+        
+      },
+      {
+        "name": "Dirba",
+        "code": "DIRBA",
+        "active": true
+        
+      },
+      {
+        "name": "Ghagga",
+        "code": "GHAGGA",
+        "active": true
+        
+      },
+      {
+        "name": "Ghanaur",
+        "code": "GHANAUR",
+        "active": true
+        
+      },
+      {
+        "name": "Handiaya",
+        "code": "HANDIAYA",
+        "active": true
+        
+      },
+      {
+        "name": "Khamanon",
+        "code": "KHAMANON",
+        "active": true
+        
+      },
+      {
+        "name": "Khanauri",
+        "code": "KHANAURI",
+        "active": true
+        
+      },
+      {
+        "name": "Khem Karan",
+        "code": "KHEM_KARAN",
+        "active": true
+        
+      },
+      {
+        "name": "Kot Fatta",
+        "code": "KOT_FATTA",
+        "active": true
+        
+      },
+      {
+        "name": "Lohian Khass",
+        "code": "LOHIAN_KHASS",
+        "active": true
+        
+      },
+      {
+        "name": "Mahilpur",
+        "code": "MAHILPUR",
+        "active": true
+        
+      },
+      {
+        "name": "Makhu",
+        "code": "MAKHU",
+        "active": true
+        
+      },
+      {
+        "name": "Mallanwala Khass",
+        "code": "MALLANWALA_KHASS",
+        "active": true
+        
+      },
+      {
+        "name": "Maloud (Malaudh)",
+        "code": "MALOUD",
+        "active": true
+        
+      },
+      {
+        "name": "Moonak",
+        "code": "MOONAK",
+        "active": true
+        
+      },
+      {
+        "name": "Mudki",
+        "code": "MUDKI",
+        "active": true
+        
+      },
+      {
+        "name": "Lalru",
+        "code": "LALRU",
+        "active": true
+        
+      },
+      {
+        "name": "Raja Sansi",
+        "code": "RAJA_SANSI",
+        "active": true
+        
+      },
+      {
+        "name": "Rayya",
+        "code": "RAYYA",
+        "active": true
+        
+      },
+      {
+        "name": "Sardulgarh",
+        "code": "SARDULGARH",
+        "active": true
+        
+      },
+      {
+        "name": "Shahkot",
+        "code": "SHAHKOT",
+        "active": true
+        
+      },
+      {
+        "name": "Talwandi Sabo",
+        "code": "TALWANDI_SABO",
+        "active": true
+        
+      },
+      {
+        "name": "Bhikhiwind",
+        "code": "BHIKHIWIND",
+        "active": true
+        
+      },
+      {
+        "name": "Narot Jaimal Singh",
+        "code": "NARJOT_JAIMAL_SINGH",
+        "active": true
+        
+      },
+      {
+        "name": "Mehatpur",
+        "code": "MEHATPUR",
+        "active": true
+        
+      },
+      {
+        "name": "Bilga",
+        "code": "BILGA",
+        "active": true
+        
+      },
+      {
+        "name": "Nadala",
+        "code": "NADALA",
+        "active": true
+        
+      },
+      {
+        "name": "Kiratpur Sahib",
+        "code": "KIRATPUR_SAHIB",
+        "active": true
+        
+      },
+      {
+        "name": "Amargarh",
+        "code": "AMARGARH",
+        "active": true
+        
+      },
+      {
+        "name": "Maluka",
+        "code": "MALUKA",
+        "active": true
+        
+      },
+      {
+        "name": "Kotha Guru",
+        "code": "KOTHA_GURU",
+        "active": true
+        
+      },
+      {
+        "name": "Mehraj",
+        "code": "MEHRAJ",
+        "active": true
+        
+      },
+      {
+        "name": "Kot Shamir",
+        "code": "KOT_SHAMIR",
+        "active": true
+        
+      },
+      {
+        "name": "Lehra Mohabbat",
+        "code": "LEHRA_MOHABBAT",
+        "active": true
+        
+      },
+      {
+        "name": "Balian Wala",
+        "code": "BALIAN_WALA",
+        "active": true
+        
+      },
+      {
+        "name": "Bhairoopa",
+        "code": "BHAIROOPA",
+        "active": true
+        
+      },
+      {
+        "name": "Rampura",
+        "code": "RAMPURA",
+        "active": true
+        
+      },
+      {
+        "name": "Chauke",
+        "code": "CHAUKE",
+        "active": true
+        
+      },
+      {
+        "name": "Nathana",
+        "code": "NATHANA",
+        "active": true
+        
+      },
+      {
+        "name": "Mandikalan",
+        "code": "MANDIKALAN",
+        "active": true
+        
+      },
+      {
+        "name": "Boha",
+        "code": "BOHA",
+        "active": true
+        
+      },
+      {
+        "name": "Joga",
+        "code": "JOGA",
+        "active": true
+        
+      },
+      {
+        "name": "Arniwala Sheikh Subhan",
+        "code": "ARNIWALA_SHEIKH",
+        "active": true
+        
+      },
+      {
+        "name": "Mamdot",
+        "code": "MAMDOT",
+        "active": true
+        
+      },
+      {
+        "name": "Nihalsingh Wala",
+        "code": "NIHALSINGH_WALA",
+        "active": true
+        
+      },
+      {
+        "name": "Kot Isse Khan",
+        "code": "KOT_ISSE",
+        "active": true
+        
+      },
+      {
+        "name": "Fatehgarh Panjtoo",
+        "code": "FATEHGARH_PANJTOO",
+        "active": true
+        
+      },
+      {
+        "name": "Baba Bakala Sahib",
+        "code": "BABA_BAKALA",
+        "active": true
+        
+      },
+      {
+        "name": "Gharuan",
+        "code": "GHARUAN",
+        "active": true
+        
+      },
+      {
+        "name": "Devigarh",
+        "code": "DEVIGARH",
+        "active": true
+        
       }
-      
     ]
   }

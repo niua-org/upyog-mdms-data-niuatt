@@ -217,6 +217,846 @@
         "code": "KOTHA_GURU",
         "active": true,
         "Districts": "BATHINDA"
+      },
+      {
+        "name": "Sirhind Fatehgarh Sahib",
+        "code": "SIRHIND",
+        "active": true,
+        "Districts": "SIRHIND"
+      },
+      {
+        "name": "Amloh",
+        "code": "AMLOH",
+        "active": true,
+        "Districts": "SIRHIND"
+      },
+      {
+        "name": "Bassi Pathana",
+        "code": "BASSI_PATHANA",
+        "active": true,
+        "Districts": "SIRHIND"
+      },
+      {
+        "name": "Gobindgarh (Mandi Gobindgarh)",
+        "code": "GOBINDGARH",
+        "active": true,
+        "Districts": "SIRHIND"
+      },
+      {
+        "name": "Khamanon",
+        "code": "KHAMANON",
+        "active": true,
+        "Districts": "SIRHIND"
+      },
+      {
+        "name": "Faridkot",
+        "code": "FARIDKOT",
+        "active": true,
+        "Districts": "FARIDKOT"
+      },
+      {
+        "name": "Jaitu",
+        "code": "JAITU",
+        "active": true,
+        "Districts": "FARIDKOT"
+      },
+      {
+        "name": "KotKapura",
+        "code": "KOTKAPURA",
+        "active": true,
+        "Districts": "FARIDKOT"
+      },
+      {
+        "name": "Fazilka",
+        "code": "FAZILKA",
+        "active": true,
+        "Districts": "FAZILKA"
+      },
+      {
+        "name": "Abohar",
+        "code": "ABOHAR",
+        "active": true,
+        "Districts": "FAZILKA"
+      },
+      {
+        "name": "Jalalabad",
+        "code": "JALALABAD",
+        "active": true,
+        "Districts": "FAZILKA"
+      },
+      {
+        "name": "Arniwala Sheikh Subhan",
+        "code": "ARNIWALA_SHEIKH",
+        "active": true,
+        "Districts": "FAZILKA"
+      },
+      {
+        "name": "Firozpur",
+        "code": "FIROZPUR",
+        "active": true,
+        "Districts": "FIROZPUR"
+      },
+      {
+        "name": "Guru Har Sahai",
+        "code": "GURU_HAR_SAHAI",
+        "active": true,
+        "Districts": "FIROZPUR"
+      },
+      {
+        "name": "Makhu",
+        "code": "MAKHU",
+        "active": true,
+        "Districts": "FIROZPUR"
+      },
+      {
+        "name": "Mallanwala Khass",
+        "code": "MALLANWALA_KHASS",
+        "active": true,
+        "Districts": "FIROZPUR"
+      },
+      {
+        "name": "Mudki",
+        "code": "MUDKI",
+        "active": true,
+        "Districts": "FIROZPUR"
+      },
+      {
+        "name": "Talwandi Bhai",
+        "code": "TALWANDI_BHAI",
+        "active": true,
+        "Districts": "FIROZPUR"
+      },
+      {
+        "name": "Zira",
+        "code": "ZIRA",
+        "active": true,
+        "Districts": "FIROZPUR"
+      },
+      {
+        "name": "Mamdot",
+        "code": "MAMDOT",
+        "active": true,
+        "Districts": "FIROZPUR"
+      },
+      {
+        "name": "Firozpur Region",
+        "code": "FIROZPUR_REGION",
+        "active": true,
+        "Districts": "FIROZPUR"
+      },
+      {
+        "name": "Kapurthala",
+        "code": "KAPURTHALA",
+        "active": true,
+        "Districts": "KAPURTHALA"
+      },
+      {
+        "name": "Nadala",
+        "code": "NADALA",
+        "active": true,
+        "Districts": "KAPURTHALA"
+      },
+      {
+        "name": "Sultanpur",
+        "code": "SULTANPUR",
+        "active": true,
+        "Districts": "KAPURTHALA"
+      },
+      {
+        "name": "Phagwara",
+        "code": "PHAGWARA",
+        "active": true,
+        "Districts": "KAPURTHALA"
+      },
+      {
+        "name": "Dhilwan",
+        "code": "DHILWAN",
+        "active": true,
+        "Districts": "KAPURTHALA"
+      },
+      {
+        "name": "Bhulath",
+        "code": "BHULATH",
+        "active": true,
+        "Districts": "KAPURTHALA"
+      },
+      {
+        "name": "Begowal",
+        "code": "BEGOWAL",
+        "active": true,
+        "Districts": "KAPURTHALA"
+      },
+      {
+        "name": "Gurdaspur",
+        "code": "GURDASPUR",
+        "active": true,
+        "Districts": "GURDASPUR"
+      },
+      {
+        "name": "Batala",
+        "code": "BATALA",
+        "active": true,
+        "Districts": "GURDASPUR"
+      },
+      {
+        "name": "Dera Baba Nanak",
+        "code": "DERA_BABA",
+        "active": true,
+        "Districts": "GURDASPUR"
+      },
+      {
+        "name": "Dhariwal",
+        "code": "DHARIWAL",
+        "active": true,
+        "Districts": "GURDASPUR"
+      },
+      {
+        "name": "Dina Nagar",
+        "code": "DINA_NAGAR",
+        "active": true,
+        "Districts": "GURDASPUR"
+      },
+      {
+        "name": "Fatehgarh Churian",
+        "code": "FATEHGARH_CHURIAN",
+        "active": true,
+        "Districts": "GURDASPUR"
+      },
+      {
+        "name": "Qadian",
+        "code": "QADIAN",
+        "active": true,
+        "Districts": "GURDASPUR"
+      },
+      {
+        "name": "Sri Hargobindpur",
+        "code": "SRI_HARGOBINDPUR",
+        "active": true,
+        "Districts": "GURDASPUR"
+      },
+      {
+        "name": "Hoshiarpur",
+        "code": "HOSHIARPUR",
+        "active": true,
+        "Districts": "HOSHIARPUR"
+      },
+      {
+        "name": "Dasua (Dasuya)",
+        "code": "DASUA",
+        "active": true,
+        "Districts": "HOSHIARPUR"
+      },
+      {
+        "name": "Gardhiwala",
+        "code": "GARDHIWALA",
+        "active": true,
+        "Districts": "HOSHIARPUR"
+      },
+      {
+        "name": "Garhshankar (Garhshanker)",
+        "code": "GARHSHANKAR",
+        "active": true,
+        "Districts": "HOSHIARPUR"
+      },
+      {
+        "name": "Hariana",
+        "code": "HARIANA",
+        "active": true,
+        "Districts": "HOSHIARPUR"
+      },
+      {
+        "name": "Mahilpur",
+        "code": "MAHILPUR",
+        "active": true,
+        "Districts": "HOSHIARPUR"
+      },
+      {
+        "name": "Mukerian",
+        "code": "MUKERIAN",
+        "active": true,
+        "Districts": "HOSHIARPUR"
+      },
+      {
+        "name": "Sham ChaurasI",
+        "code": "SHAM_CHAURASI",
+        "active": true,
+        "Districts": "HOSHIARPUR"
+      },
+      {
+        "name": "Urmar Tanda",
+        "code": "URMAR_TANDA",
+        "active": true,
+        "Districts": "HOSHIARPUR"
+      },
+      {
+        "name": "Talwara",
+        "code": "TALWARA",
+        "active": true,
+        "Districts": "HOSHIARPUR"
+      },
+      {
+        "name": "Jalandhar",
+        "code": "JALANDHAR",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Adampur",
+        "code": "ADAMPUR",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Alawalpur",
+        "code": "ALAWALPUR",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Bhogpur",
+        "code": "BHOGPUR",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Goraya",
+        "code": "GORAYA",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Kartarpur",
+        "code": "KARTARPUR",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Lohian Khass",
+        "code": "LOHIAN_KHASS",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Nakodar",
+        "code": "NAKODAR",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Nurmahal",
+        "code": "NURMAHAL",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Phillaur",
+        "code": "PHILLAUR",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Shahkot",
+        "code": "SHAHKOT",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Mehatpur",
+        "code": "MEHATPUR",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Bilga",
+        "code": "BILGA",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Jalandhar Region",
+        "code": "JALANDHAR_REGION",
+        "active": true,
+        "Districts": "JALANDHAR"
+      },
+      {
+        "name": "Ludhiana",
+        "code": "LUDHIANA",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Jagraon",
+        "code": "JAGRAON",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Khanna",
+        "code": "KHANNA",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Machhiwara",
+        "code": "MACHHIWARA",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Maloud (Malaudh)",
+        "code": "MALOUD",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Mullanpur Dakha",
+        "code": "MULLANPUR",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Payal",
+        "code": "PAYAL",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Raikot",
+        "code": "RAIKOT",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Sahnewal",
+        "code": "SAHNEWAL",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Samrala",
+        "code": "SAMRALA",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Doraha",
+        "code": "DORAHA",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Ludhiana Region",
+        "code": "LUDHIANA_REGION",
+        "active": true,
+        "Districts": "LUDHIANA"
+      },
+      {
+        "name": "Mansa",
+        "code": "MANSA",
+        "active": true,
+        "Districts": "MANSA"
+      },
+      {
+        "name": "Bareta",
+        "code": "BARETA",
+        "active": true,
+        "Districts": "MANSA"
+      },
+      {
+        "name": "Bhikhi",
+        "code": "BHIKHI",
+        "active": true,
+        "Districts": "MANSA"
+      },
+      {
+        "name": "Budhlada",
+        "code": "BUDHLADA",
+        "active": true,
+        "Districts": "MANSA"
+      },
+      {
+        "name": "Sardulgarh",
+        "code": "SARDULGARH",
+        "active": true,
+        "Districts": "MANSA"
+      },
+      {
+        "name": "Boha",
+        "code": "BOHA",
+        "active": true,
+        "Districts": "MANSA"
+      },
+      {
+        "name": "Joga",
+        "code": "JOGA",
+        "active": true,
+        "Districts": "MANSA"
+      },
+      {
+        "name": "Moga",
+        "code": "MOGA",
+        "active": true,
+        "Districts": "MOGA"
+      },
+      {
+        "name": "Badhni Kalan",
+        "code": "BADHNI_KALAN",
+        "active": true,
+        "Districts": "MOGA"
+      },
+      {
+        "name": "Bagha Purana",
+        "code": "BAGHA_PURANA",
+        "active": true,
+        "Districts": "MOGA"
+      },
+      {
+        "name": "Dharamkot",
+        "code": "DHARAMKOT",
+        "active": true,
+        "Districts": "MOGA"
+      },
+      {
+        "name": "Nihalsingh Wala",
+        "code": "NIHALSINGH_WALA",
+        "active": true,
+        "Districts": "MOGA"
+      },
+      {
+        "name": "Kot Isse Khan",
+        "code": "KOT_ISSE",
+        "active": true,
+        "Districts": "MOGA"
+      },
+      {
+        "name": "Fatehgarh Panjtoo",
+        "code": "FATEHGARH_PANJTOO",
+        "active": true,
+        "Districts": "MOGA"
+      },
+      {
+        "name": "Pathankot",
+        "code": "PATHANKOT",
+        "active": true,
+        "Districts": "PATHANKOT"
+      },
+      {
+        "name": "Sujanpur",
+        "code": "SUJANPUR",
+        "active": true,
+        "Districts": "PATHANKOT"
+      },
+      {
+        "name": "Narot Jaimal Singh",
+        "code": "NARJOT_JAIMAL_SINGH",
+        "active": true,
+        "Districts": "PATHANKOT"
+      },
+      {
+        "name": "Nawanshahr",
+        "code": "NAWANSHAHR",
+        "active": true,
+        "Districts": "NAWANSHAHR"
+      },
+      {
+        "name": "Rahon",
+        "code": "RAHON",
+        "active": true,
+        "Districts": "NAWANSHAHR"
+      },
+      {
+        "name": "Banga",
+        "code": "BANGA",
+        "active": true,
+        "Districts": "NAWANSHAHR"
+      },
+      {
+        "name": "Balachaur",
+        "code": "BALACHAUR",
+        "active": true,
+        "Districts": "NAWANSHAHR"
+      },
+      {
+        "name": "Patiala",
+        "code": "PATIALA",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Bhadson",
+        "code": "BHADSON",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Ghagga",
+        "code": "GHAGGA",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Ghanaur",
+        "code": "GHANAUR",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Nabha",
+        "code": "NABHA",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Patran",
+        "code": "PATRAN",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Rajpura",
+        "code": "RAJPURA",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Samana",
+        "code": "SAMANA",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Sanaur",
+        "code": "SANAUR",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Patiala Region",
+        "code": "PATIALA_REGION",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Devigarh",
+        "code": "DEVIGARH",
+        "active": true,
+        "Districts": "PATIALA"
+      },
+      {
+        "name": "Rupnagar",
+        "code": "RUPNAGAR",
+        "active": true,
+        "Districts": "RUPNAGAR"
+      },
+      {
+        "name": "Anandpur Sahib",
+        "code": "ANANDPUR_SAHIB",
+        "active": true,
+        "Districts": "RUPNAGAR"
+      },
+      {
+        "name": "Chamkaur Sahib",
+        "code": "CHAMKAUR_SAHIB",
+        "active": true,
+        "Districts": "RUPNAGAR"
+      },
+      {
+        "name": "Morinda",
+        "code": "MORINDA",
+        "active": true,
+        "Districts": "RUPNAGAR"
+      },
+      {
+        "name": "Nangal",
+        "code": "NANGAL",
+        "active": true,
+        "Districts": "RUPNAGAR"
+      },
+      {
+        "name": "Kiratpur Sahib",
+        "code": "KIRATPUR_SAHIB",
+        "active": true,
+        "Districts": "RUPNAGAR"
+      },
+      {
+        "name": "Sangrur",
+        "code": "SANGRUR",
+        "active": true,
+        "Districts": "SANGRUR"
+      },
+      {
+        "name": "Bhawanigarh",
+        "code": "BHAWANIGARH",
+        "active": true,
+        "Districts": "SANGRUR"
+      },
+      {
+        "name": "Cheema",
+        "code": "CHEEMA",
+        "active": true,
+        "Districts": "SANGRUR"
+      },
+      {
+        "name": "Dhuri",
+        "code": "DHURI",
+        "active": true,
+        "Districts": "SANGRUR"
+      },
+      {
+        "name": "Dirba",
+        "code": "DIRBA",
+        "active": true,
+        "Districts": "SANGRUR"
+      },
+      {
+        "name": "Khanauri",
+        "code": "KHANAURI",
+        "active": true,
+        "Districts": "SANGRUR"
+      },
+      {
+        "name": "Lehragaga",
+        "code": "LEHRAGAGA",
+        "active": true,
+        "Districts": "SANGRUR"
+      },
+      {
+        "name": "Longowal",
+        "code": "LONGOWAL",
+        "active": true,
+        "Districts": "SANGRUR"
+      },
+      {
+        "name": "Moonak",
+        "code": "MOONAK",
+        "active": true,
+        "Districts": "SANGRUR"
+      },
+      {
+        "name": "Sunam",
+        "code": "SUNAM",
+        "active": true,
+        "Districts": "SANGRUR"
+      },
+      {
+        "name": "Tarn Taran",
+        "code": "TARN_TARAN",
+        "active": true,
+        "Districts": "TARN_TARAN"
+      },
+      {
+        "name": "Khem Karan",
+        "code": "KHEM_KARAN",
+        "active": true,
+        "Districts": "TARN_TARAN"
+      },
+      {
+        "name": "Patti",
+        "code": "PATTI",
+        "active": true,
+        "Districts": "TARN_TARAN"
+      },
+      {
+        "name": "Bhikhiwind",
+        "code": "BHIKHIWIND",
+        "active": true,
+        "Districts": "TARN_TARAN"
+      },
+      {
+        "name": "S.A.S. Nagar (Mohali, Ajitgarh)",
+        "code": "SAS_NAGAR_MOHALI_AJITGARH",
+        "active": true,
+        "Districts": "SAS_NAGAR_MOHALI_AJITGARH"
+      },
+      {
+        "name": "Gharuan",
+        "code": "GHARUAN",
+        "active": true,
+        "Districts": "SAS_NAGAR_MOHALI_AJITGARH"
+      },
+      {
+        "name": "Banur",
+        "code": "BANUR",
+        "active": true,
+        "Districts": "SAS_NAGAR_MOHALI_AJITGARH"
+      },
+      {
+        "name": "Dera Bassi",
+        "code": "DERA_BASSI",
+        "active": true,
+        "Districts": "SAS_NAGAR_MOHALI_AJITGARH"
+      },
+      {
+        "name": "Kharar",
+        "code": "KHARAR",
+        "active": true,
+        "Districts": "SAS_NAGAR_MOHALI_AJITGARH"
+      },
+      {
+        "name": "Kurali",
+        "code": "KURALI",
+        "active": true,
+        "Districts": "SAS_NAGAR_MOHALI_AJITGARH"
+      },
+      {
+        "name": "Lalru",
+        "code": "LALRU",
+        "active": true,
+        "Districts": "SAS_NAGAR_MOHALI_AJITGARH"
+      },
+      {
+        "name": "Zirakpur",
+        "code": "ZIRAKPUR",
+        "active": true,
+        "Districts": "SAS_NAGAR_MOHALI_AJITGARH"
+      },
+      {
+        "name": "Nayagaon",
+        "code": "NAYAGAON",
+        "active": true,
+        "Districts": "SAS_NAGAR_MOHALI_AJITGARH"
+      },
+      {
+        "name": "Sri Muktsar Sahib",
+        "code": "MUKTSAR_SAHIB",
+        "active": true,
+        "Districts": "MUKTSAR_SAHIB"
+      },
+      {
+        "name": "Bariwala",
+        "code": "BARIWALA",
+        "active": true,
+        "Districts": "MUKTSAR_SAHIB"
+      },
+      {
+        "name": "Gidderbaha (Giddarbaha)",
+        "code": "GIDDERBAHA",
+        "active": true,
+        "Districts": "MUKTSAR_SAHIB"
+      },
+      {
+        "name": "Malout",
+        "code": "MALOUT",
+        "active": true,
+        "Districts": "MUKTSAR_SAHIB"
+      },
+      {
+        "name": "Malerkotla",
+        "code": "MALERKOTLA",
+        "active": true,
+        "Districts": "MALERKOTLA"
+      },
+      {
+        "name": "Amargarh",
+        "code": "AMARGARH",
+        "active": true,
+        "Districts": "MALERKOTLA"
+      },
+      {
+        "name": "Ahmedgarh",
+        "code": "AHMEDGARH",
+        "active": true,
+        "Districts": "MALERKOTLA"
       }
     ]
   }
