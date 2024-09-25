@@ -1,0 +1,21 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "MasterFields": [
+      {
+        "name": "RESIDENT",
+        "code": "RESIDENT",
+        "active": true
+      },
+      {
+        "name": "COMMERCIAL",
+        "code": "COMMERCIAL",
+        "active": true
+      },
+      {
+        "name": "INDUSTRIAL",
+        "code": "INDUSTRIAL",
+        "active": true
+      }
+    ]
+  }

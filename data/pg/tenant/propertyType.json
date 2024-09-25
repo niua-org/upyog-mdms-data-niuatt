@@ -63,6 +63,12 @@
       "code": "Vacant Land",
       "active": true,
       "module": "NationalDashboard"
+    },
+	{	
+      "name": "Others",
+      "code": "Others",
+      "active": true,
+      "module": "NationalDashboard"
     }
   ]
 }

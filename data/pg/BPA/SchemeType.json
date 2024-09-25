@@ -1,0 +1,21 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "SchemeType": [
+      {
+        "name": "TP Scheme",
+        "code": "TP_SCHEME",
+        "active": true
+      },
+      {
+        "name": "Development Scheme",
+        "code": "DEVELOPMENT_SCHEME",
+        "active": true
+      },
+      {
+        "name": "Affordable",
+        "code": "AFFORDABLE",
+        "active": true
+      }
+    ]
+}

@@ -16,6 +16,11 @@
         "name": "Services",
         "code": "SERVICES",
         "active": true
+      },
+      {
+        "name": "Others",
+        "code": "OTHERS",
+        "active": true
       }
     ]
   }

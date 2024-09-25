@@ -20609,6 +20609,14 @@
       "name": "rj.wazirpurnagarpalika",
       "active": true,
       "module": "NationalDashboard"
+    },
+     {
+      "stateCode": "Jharkhand",
+      "stateName": "Jharkhand",
+      "code": "jh.ranchimunicipalcorporation",
+      "name": "jh.ranchimunicipalcorporation",
+      "active": true,
+      "module": "NationalDashboard"
     }
   ]
 }

@@ -61,7 +61,7 @@
                 {
                     "route": "document-details",
                     "component": "DocumentDetails",
-                    "nextStep": "noc-details",
+                    "nextStep": null,
                     "key": "documents",
                     "texts": {
                         "headerCaption": "BPA_OWNER_AND_DOCUMENT_DETAILS_LABEL",

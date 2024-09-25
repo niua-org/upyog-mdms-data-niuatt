@@ -1,0 +1,16 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "Scheme": [
+      {
+        "name": "SCHEME",
+        "code": "SCHEME",
+        "active": true
+      },
+      {
+        "name": "NON SCHEME",
+        "code": "NON_SCHEME",
+        "active": true
+      }
+    ]
+  }
