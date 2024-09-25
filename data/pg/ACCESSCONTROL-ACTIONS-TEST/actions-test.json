@@ -16237,6 +16237,45 @@
       "serviceCode": "sw-calculator",
       "code": "null",
       "path": ""
+    },
+	{
+      "id": 2636,
+      "name": "ObpsStatusReport",
+      "url": "url",
+      "displayName": "OBPS Status Report",
+      "orderNumber": 2,
+      "parentModule": "rainmaker-obps",
+      "enabled": true,
+      "serviceCode": "OBPS",
+      "code": "null",
+      "path": "OBPS.Obps Reports.ObpsStatusReport",
+      "navigationURL": "report/rainmaker-obps/ObpsStatusReport",
+      "leftIcon": "action:assignment",
+      "rightIcon": ""
+    },
+        {
+      "id": 2637,
+      "name": "ObpsStatusReport",
+      "url": "/report/rainmaker-obps/ObpsStatusReport/metadata/_get",
+      "displayName": "rainmaker-obps-ObpsStatusReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+        {
+      "id": 2638,
+      "name": "ObpsStatusReport",
+      "url": "/report/rainmaker-obps/ObpsStatusReport/_get",
+      "displayName": "rainmaker-obps-ObpsStatusReport",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
     }
   ]
 }
