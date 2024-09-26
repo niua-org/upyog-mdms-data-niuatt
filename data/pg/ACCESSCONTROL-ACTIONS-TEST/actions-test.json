@@ -16596,7 +16596,7 @@
       "enabled": true,
       "serviceCode": "ASSET",
       "code": "null",
-      "path": "Asset.Asset Reports.AssetapplicationReport",
+      "path": "Asset.Report",
       "navigationURL": "ASSET.Asset Reports.AssetapplicationReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
