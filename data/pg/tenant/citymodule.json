@@ -814,11 +814,11 @@
         }
       ]
     },
-    {
-      "module": "LMS",
-      "code": "LMS",
+	{
+      "module": "LM",
+      "code": "LM",
       "active": true,
-      "order": 1,
+      "order":1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -834,7 +834,7 @@
         },
         {
           "code": "pg.citye"
-        },
+        }, 
         {
           "code": "pg.mohali"
         },
