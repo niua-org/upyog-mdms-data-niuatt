@@ -7,7 +7,7 @@
       "code": "PGR",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "pg.citya"
@@ -24,7 +24,6 @@
         {
           "code": "pg.citye"
         }
-
       ]
     },
     {
@@ -32,7 +31,7 @@
       "code": "PT",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -55,7 +54,7 @@
       "module": "QuickPayLinks",
       "code": "QuickPayLinks",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -68,11 +67,11 @@
         }
       ]
     },
-   {
+    {
       "module": "Finance",
       "code": "Finance",
       "active": false,
-      "order":4,
+      "order": 4,
       "tenants": [
         {
           "code": "pg.citya"
@@ -96,7 +95,7 @@
       "code": "TL",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "pg.citya"
@@ -119,7 +118,7 @@
       "module": "FireNoc",
       "code": "FireNoc",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "pg.citya"
@@ -142,7 +141,7 @@
       "module": "UC",
       "code": "UC",
       "active": false,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "pg.citya"
@@ -166,7 +165,7 @@
       "code": "BPAREG",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "pg.citya"
@@ -190,7 +189,7 @@
       "code": "BPAAPPLY",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "pg.citya"
@@ -213,7 +212,7 @@
       "module": "PGR.WHATSAPP",
       "code": "PGR.WHATSAPP",
       "active": false,
-      "order":4,
+      "order": 4,
       "tenants": [
         {
           "code": "pg.citya"
@@ -225,7 +224,7 @@
       "code": "OBPS",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "pg.citya"
@@ -249,7 +248,7 @@
       "code": "FSM",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "pg.citya"
@@ -272,7 +271,7 @@
       "module": "Payment",
       "code": "Payment",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -295,7 +294,7 @@
       "module": "Receipts",
       "code": "Receipts",
       "active": true,
-      "order":3,
+      "order": 3,
       "tenants": [
         {
           "code": "pg.citya"
@@ -318,7 +317,7 @@
       "module": "NOC",
       "code": "NOC",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "pg.citya"
@@ -341,7 +340,7 @@
       "module": "DSS",
       "code": "DSS",
       "active": true,
-      "order":6,
+      "order": 6,
       "tenants": [
         {
           "code": "pg.citya"
@@ -364,7 +363,7 @@
       "module": "Engagement",
       "code": "Engagement",
       "active": true,
-      "order":3,
+      "order": 3,
       "tenants": [
         {
           "code": "pg.citya"
@@ -387,7 +386,7 @@
       "module": "MCollect",
       "code": "MCollect",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -410,7 +409,7 @@
       "module": "HRMS",
       "code": "HRMS",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "pg.citya"
@@ -442,7 +441,7 @@
       "module": "CommonPT",
       "code": "CommonPT",
       "active": true,
-      "order":3,
+      "order": 3,
       "tenants": [
         {
           "code": "pg.citya"
@@ -465,7 +464,7 @@
       "module": "NDSS",
       "code": "NDSS",
       "active": true,
-      "order":5,
+      "order": 5,
       "tenants": [
         {
           "code": "pg.citya"
@@ -607,7 +606,7 @@
       "code": "PTR",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -631,7 +630,7 @@
       "code": "ASSET",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -656,7 +655,7 @@
         },
         {
           "code": "pg.shimla"
-        } 
+        }
       ]
     },
     {
@@ -664,7 +663,7 @@
       "code": "CHB",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -689,7 +688,7 @@
         },
         {
           "code": "pg.shimla"
-        } 
+        }
       ]
     },
     {
@@ -697,7 +696,7 @@
       "code": "EW",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -721,7 +720,7 @@
       "code": "COMMONMODULE",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -734,14 +733,14 @@
         },
         {
           "code": "pg.cityd"
-        } 
+        }
       ]
     },
     {
       "module": "FNOC",
       "code": "FNOC",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -764,7 +763,7 @@
       "module": "SV",
       "code": "SV",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -787,7 +786,7 @@
       "module": "ADS",
       "code": "ADS",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "pg.citya"
@@ -803,7 +802,39 @@
         },
         {
           "code": "pg.citye"
-        }, 
+        },
+        {
+          "code": "pg.mohali"
+        },
+        {
+          "code": "pg.dharamshala"
+        },
+        {
+          "code": "pg.shimla"
+        }
+      ]
+    },
+    {
+      "module": "LMS",
+      "code": "LMS",
+      "active": true,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "pg.citya"
+        },
+        {
+          "code": "pg.cityb"
+        },
+        {
+          "code": "pg.cityc"
+        },
+        {
+          "code": "pg.cityd"
+        },
+        {
+          "code": "pg.citye"
+        },
         {
           "code": "pg.mohali"
         },
