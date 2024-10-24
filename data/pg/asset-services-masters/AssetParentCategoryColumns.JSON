@@ -1,0 +1,899 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "AssetParentCategoryColumns": [
+      {
+        "name": "brand",
+        "value": "brand",
+        "code": "BRAND",
+        "localizationKey": "AST_BRAND",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setBrand",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "invoiceDate",
+        "value": "invoiceDate",
+        "code": "Invoice Date",
+        "localizationKey": "AST_INVOICE_DATE",
+        "type": "date",
+        "isMandatory": false,
+        "onChange": "setInvoiceDate",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "manufacturer",
+        "value": "manufacturer",
+        "code": "Manufacturer",
+        "localizationKey": "AST_MANUFACTURER",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "selectmanufacturer",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "purchaseCost",
+        "value": "purchaseCost",
+        "code": "Purchase Cost",
+        "localizationKey": "AST_PURCHASE_COST",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "selectpurchasecost",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "purchaseOrderNumber",
+        "value": "purchaseOrderNumber",
+        "code": "Purchase Order Number",
+        "localizationKey": "AST_PURCHASE_ORDER",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "selectpurchaseorder",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "purchaseDate",
+        "value": "purchaseDate",
+        "code": "Purchase Date",
+        "localizationKey": "AST_PURCHASE_DATE",
+        "type": "date",
+        "isMandatory": false,
+        "onChange": "selectpurchasedate",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "currentLocation",
+        "value": "currentLocation",
+        "code": "Current Location",
+        "localizationKey": "AST_CURRENT_LOCATION",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "selectcurrentlocation",
+        "active": true,
+        "addCurrentLocationButton": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "assetAge",
+        "value": "assetAge",
+        "code": "Asset Age",
+        "localizationKey": "AST_ASSET_AGE",
+        "type": "text",
+        "isMandatory": false,
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "warranty",
+        "code": "Warranty Period",
+        "localizationKey": "AST_WARRANTY",
+        "type": "dropdown",
+        "isMandatory": false,
+        "active": true,
+        "assetParentCategory": "IT",
+        "options": [
+          {
+            "name": "warranty",
+            "i18nKey": "1 Year",
+            "code": "1_YEAR",
+            "value": "1 Year"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "2 Years",
+            "code": "2_YEAR",
+            "value": "2 Years"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "3 Years",
+            "code": "3_YEAR",
+            "value": "3 Years"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "4 Years",
+            "code": "4_YEAR",
+            "value": "4 Years"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "5 Years",
+            "code": "5_YEAR",
+            "value": "5 Years"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "6 Years",
+            "code": "6_YEAR",
+            "value": "6 Years"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "7 Years",
+            "code": "7_YEAR",
+            "value": "7 Years"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "8 Years",
+            "code": "8_YEAR",
+            "value": "8 Years"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "9 Years",
+            "code": "9_YEAR",
+            "value": "9 Years"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "10 Years",
+            "code": "10_YEAR",
+            "value": "10 Years"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "11 Years",
+            "code": "11_YEAR",
+            "value": "11 Years"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "12 Years",
+            "code": "12_YEAR",
+            "value": "12 Years"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "13 Years",
+            "code": "13_YEAR",
+            "value": "13 Years"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "14 Years",
+            "code": "14_YEAR",
+            "value": "14 Years"
+          },
+          {
+            "name": "warranty",
+            "i18nKey": "15 Years",
+            "code": "15_YEAR",
+            "value": "15 Years"
+          }
+        ]
+      },
+     
+      {
+        "name": "registrationNumber",
+        "value": "registrationNumber",
+        "code": "Registration Number",
+        "localizationKey": "AST_REGISTRATION_NUMBER",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setRegistrationNumber",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "engineNumber",
+        "value": "engineNumber",
+        "code": "Engine Number",
+        "localizationKey": "AST_ENGINE_NUMBER",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setEngineNumber",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "chasisNumber",
+        "value": "chasisNumber",
+        "code": "Chasis Number",
+        "localizationKey": "AST_CHASIS_NUMBER",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setChasisNumber",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "parkingLocation",
+        "value": "parkingLocation",
+        "code": "Parking Location",
+        "localizationKey": "AST_PARKING_LOCATION",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setParkingLocation",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "acquisitionDate",
+        "value": "acquisitionDate",
+        "code": "Date of Acquisition",
+        "localizationKey": "AST_ACQUISTION_DATE",
+        "type": "date",
+        "isMandatory": false,
+        "onChange": "setAcquisitionDate",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "acquiredFrom",
+        "value": "acquiredFrom",
+        "code": "Acquired Source / Agency",
+        "localizationKey": "AST_ACQUIRED_SOURCE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setAcquiredFrom",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "improvementCost",
+        "value": "improvementCost",
+        "code": "Improvement Cost",
+        "localizationKey": "AST_IMPROVEMENT_COST",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setImprovementCost",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "bookValue",
+        "value": "bookValue",
+        "code": "Acquisition Cost",
+        "localizationKey": "AST_ACQUISTION_COST_BOOK_VALUE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setbookValue",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "currentAssetValue",
+        "value": "currentAssetValue",
+        "code": "Asset Current Value",
+        "localizationKey": "AST_CURRENT_VALUE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setcurrentassetvalue",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "totalCost",
+        "value": "totalCost",
+        "code": "Total Cost of Asset",
+        "localizationKey": "AST_TOTAL_COST",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "settotalcost",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+     
+      {
+        "name": "landType",
+        "value": "landType",
+        "code": "Land Type",
+        "localizationKey": "AST_LAND_TYPE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setLandType",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "area",
+        "value": "area",
+        "code": "Land Area / Size",
+        "localizationKey": "AST_LAND_AREA",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setarea",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "bookValue",
+        "value": "bookValue",
+        "code": "Acquisition Cost",
+        "localizationKey": "AST_ACQUISTION_COST_BOOK_VALUE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setbookValue",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "dateOfDeedExecution",
+        "value": "dateOfDeedExecution",
+        "code": "Date and Deed Execution",
+        "localizationKey": "AST_DATE_DEED_EXECUTION",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setdateofDeedExecution",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "dateOfPossession",
+        "value": "dateOfPossession",
+        "code": "Date of Possession",
+        "localizationKey": "AST_DATE_POSSESION",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setdateofPossesion",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "fromWhomDeedTaken",
+        "value": "fromWhomDeedTaken",
+        "code": "From Whom Deed is Taken",
+        "localizationKey": "AST_FROM_DEED_TAKEN",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setfromWhomDeedTaken",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "governmentOrderNumber",   
+        "value": "governmentOrderNumber",
+        "code": "Govt. Order Number",
+        "localizationKey": "AST_GOVT_ORDER_NUM",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setgovernmentorderNumber",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "collectorOrderNumber",
+        "value": "collectorOrderNumber",
+        "code": "Collect Order Number",
+        "localizationKey": "AST_COLLECT_ORDER_NUM",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setcollectororderNumber",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "councilResolutionNumber",
+        "value": "councilResolutionNumber",
+        "code": "Council Resolution Number",
+        "localizationKey": "AST_COUNCIL_RES_NUM",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setcouncilResolutionNumber",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "awardNumber",
+        "value": "awardNumber",
+        "code": "Award Number",
+        "localizationKey": "AST_AWARD_NUMBER",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setawardNumber",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "oAndMCOI",
+        "value": "oAndMCOI",
+        "code": "Asset COI",
+        "localizationKey": "AST_COI",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setoandMCOI",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "oAndMTaskDetail",
+        "value": "oAndMTaskDetail",
+        "code": "O&M / Task Details",
+        "localizationKey": "AST_OM_TASK",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setoandMTaskDetail",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "totalCost",
+        "value": "totalCost",
+        "code": "Total Cost of Asset",
+        "localizationKey": "AST_TOTAL_COST",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "settotalcost",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "depreciationRate",
+        "value": "depreciationRate",
+        "code": "Depreciation Rate",
+        "localizationKey": "AST_DEPRICIATION_RATE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setdepriciationRate",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "costAfterDepreciation",
+        "value": "costAfterDepreciation",
+        "code": "Asset Cost After Depreciation",
+        "localizationKey": "AST_COST_AFTER_DEPRICIAT",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setcostafterdepriciation",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "currentAssetValue",
+        "value": "currentAssetValue",
+        "code": "Asset Current Value",
+        "localizationKey": "AST_CURRENT_VALUE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setcurrentassetvalue",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "revenueGeneratedByAsset",
+        "value": "revenueGeneratedByAsset",
+        "code": "Revenue Generated from Asset",
+        "localizationKey": "AST_REVENUE_GENERATED",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setrevenuegeneratedbyasset",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "osrLand",
+        "value": "osrLand",
+        "code": "Asset OSR Land",
+        "localizationKey": "AST_OSR_LAND",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setoSRLand",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "howAssetBeingUsed",
+        "value": "howAssetBeingUsed",
+        "code": "Building No",
+        "localizationKey": "AST_HOW_ASSET_USE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setHowassetbeingused",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "isitFenced",
+        "code": "Is it Fenced",
+        "localizationKey": "AST_FENCED",
+        "type": "dropdown",
+        "isMandatory": false,
+        "active": true,
+        "assetParentCategory": "LAND",
+        "options": [
+          {
+            "name": "isitFenced",
+            "code": "YES",
+            "i18nKey": "YES",
+            "value": "YES"
+          },
+          {
+            "name": "isitFenced",
+            "code": "NO",
+            "i18nKey": "NO",
+            "value": "NO"
+          }
+        ]
+      },
+      {
+        "name": "anyBuiltup",
+        "code": "Any Type of Built Up",
+        "localizationKey": "AST_ANY_BUILTUP",
+        "type": "dropdown",
+        "isMandatory": false,
+        "active": true,
+        "assetParentCategory": "LAND",
+        "options": [
+          {
+            "name": "anyBuiltup",
+            "code": "YES",
+            "i18nKey": "YES",
+            "value": "YES"
+          },
+          {
+            "name": "anyBuiltup",
+            "code": "NO",
+            "i18nKey": "NO",
+            "value": "NO"
+          }
+        ]
+      },
+   
+      {
+        "name": "buildingSno",
+        "value": "buildingSno",
+        "code": "Building No",
+        "localizationKey": "AST_BUILDING_NO",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setbuildingsNo",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "bookValue",
+        "value": "buildbookValueingSno",
+        "code": "Acquisition Cost",
+        "localizationKey": "AST_ACQUISTION_COST_BOOK_VALUE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setbookValue",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "plotArea",
+        "value": "plotArea",
+        "code": "Plot Area",
+        "localizationKey": "AST_PLOT_AREA",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setPlotArea",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "plinthArea",
+        "value": "plinthArea",
+        "code": "Plinth Area",
+        "localizationKey": "AST_PLINTH_AREA",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setPlinthArea",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "floorNo",
+        "value": "floorNo",
+        "code": "Floor Numbers",
+        "localizationKey": "AST_FLOORS_NO",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setFloorNo",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "dimensions",
+        "value": "dimensions",
+        "code": "Dimensions",
+        "localizationKey": "AST_DIMENSIONS",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setDimensions",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "floorArea",
+        "value": "floorArea",
+        "code": "Floor Area",
+        "localizationKey": "AST_AREA_FLOOR",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setFloorArea",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "totalCost",
+        "value": "totalCost",
+        "code": "Total Cost of Asset",
+        "localizationKey": "AST_TOTAL_COST",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "settotalcost",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "depreciationRate",
+        "value": "depreciationRate",
+        "code": "Depreciation Rate",
+        "localizationKey": "AST_DEPRICIATION_RATE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setdepriciationRate",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "costAfterDepreciation",
+        "value": "costAfterDepreciation",
+        "code": "Asset Cost After Depreciation",
+        "localizationKey": "AST_COST_AFTER_DEPRICIAT",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setcostafterdepriciation",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "currentAssetValue",
+        "value": "currentAssetValue",
+        "code": "Asset Current Value",
+        "localizationKey": "AST_CURRENT_VALUE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setcurrentassetvalue",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "revenueGeneratedByAsset",
+        "value": "revenueGeneratedByAsset",
+        "code": "Revenue Generated from Asset",
+        "localizationKey": "AST_REVENUE_GENERATED",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setrevenuegeneratedbyasset",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "howAssetBeingUsed",
+        "value": "howAssetBeingUsed",
+        "code": "How Asset is Being Used",
+        "localizationKey": "AST_HOW_ASSET_USE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setHowassetbeingused",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+    
+      {
+        "name": "roadType",
+        "value": "roadType",
+        "code": "Road Type",
+        "localizationKey": "AST_ROAD_TYPE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setRoadType",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "totalLength",
+        "value": "totalLength",
+        "code": "Total Length",
+        "localizationKey": "AST_TOTAL_LENGTH",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setTotalLength",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "totalCost",
+        "value": "totalCost",
+        "code": "Road Width",
+        "localizationKey": "AST_ROAD_WIDTH",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setRoadWidth",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "surfaceType",
+        "value": "surfaceType",
+        "code": "Surface Type",
+        "localizationKey": "AST_SURFACE_TYPE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setSurfaceType",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "protectionLength",
+        "value": "protectionLength",
+        "code": "Protection Length ( Divider / Railings )",
+        "localizationKey": "AST_PROTECTION_LENGTH",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setProtectionLength",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "drainageLength",
+        "value": "drainageLength",
+        "code": "Drainage Channel Length",
+        "localizationKey": "AST_DRAINAGE_CHANNEL_LENGTH",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setDrainageLength",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "numOfFootpath",
+        "value": "numOfFootpath",
+        "code": "No. of Footpath",
+        "localizationKey": "AST_FOOTPATH_NUMBER",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setNumOfFootpath",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "numOfPedastrianCross",
+        "value": "numOfPedastrianCross",
+        "code": "No. of Pedastrian Cross",
+        "localizationKey": "AST_PEDASTRIAN_CROSSING_NUMBER",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setNumOfPedastrianCross",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "numOfBusStop",
+        "value": "numOfBusStop",
+        "code": "No. of Bus Stop",
+        "localizationKey": "AST_BUSSTOP_NUMBER",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setNumOfBusStop",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "numOfMetroStation",
+        "value": "numOfMetroStation",
+        "code": "No. of Metro Station",
+        "localizationKey": "AST_METROSTATION_NUMBER",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setNumOfMetroStation",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "lengthOfCycletrack",
+        "value": "lengthOfCycletrack",
+        "code": "Length of Cycle Track",
+        "localizationKey": "AST_CYCLETRACK_LENGTH",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setLengthOfCycletrack",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "lastMaintainence",
+        "value": "lastMaintainence",
+        "code": "Last Maintainence Date",
+        "localizationKey": "AST_LAST_MAINTAINENCE",
+        "type": "date",
+        "isMandatory": false,
+        "onChange": "setLastMaintainence",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "nextMaintainence",
+        "value": "nextMaintainence",
+        "code": "Next Maintainence Date",
+        "localizationKey": "AST_NEXT_MAINTAINENCE",
+        "type": "date",
+        "isMandatory": false,
+        "onChange": "setNextMaintainence",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "bookValue",
+        "value": "bookValue",
+        "code": "Acquisition Cost",
+        "localizationKey": "AST_ACQUISTION_COST_BOOK_VALUE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setbookValue",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "totalCost",
+        "value": "totalCost",
+        "code": "Total Cost of Asset",
+        "localizationKey": "AST_TOTAL_COST",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "settotalcost",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "depreciationRate",
+        "value": "depreciationRate",
+        "code": "Depreciation Rate",
+        "localizationKey": "AST_DEPRICIATION_RATE",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setdepriciationRate",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "costAfterDepreciation",
+        "value": "costAfterDepreciation",
+        "code": "Asset Cost After Depreciation",
+        "localizationKey": "AST_COST_AFTER_DEPRICIAT",
+        "type": "text",
+        "isMandatory": false,
+        "onChange": "setcostafterdepriciation",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      }
+    ]
+  }  
+    
+  
+  
+  
+  
