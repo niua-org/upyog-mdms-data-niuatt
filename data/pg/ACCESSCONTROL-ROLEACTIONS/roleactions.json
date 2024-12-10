@@ -29978,6 +29978,18 @@
         "tenantId": "pg"
     },
     {
+        "rolecode": "ASSET_VERIFIER",
+        "actionid": 2860,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
+        "rolecode": "ASSET_APPROVER",
+        "actionid": 2860,
+        "actioncode": "",
+        "tenantId": "pg"
+    },
+    {
         "rolecode": "ASSET_INITIATOR",
         "actionid": 2861,
         "actioncode": "",
