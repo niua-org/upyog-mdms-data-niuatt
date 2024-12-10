@@ -801,6 +801,11 @@
       "code": "DASHBOARD_EMPLOYEE",
       "name": "Dashboard Employee",
       "description": "Dashboard Employee which can view vity specific dashboard"
+    },
+    {
+      "code": "VENDOR",
+      "name": "Vendor Employee",
+      "description": "Vendor Employee who can "
     }
   ]
 }
