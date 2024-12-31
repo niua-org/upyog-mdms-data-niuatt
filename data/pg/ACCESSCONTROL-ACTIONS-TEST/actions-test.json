@@ -18758,21 +18758,20 @@
     },
     {
       "id": 2852,
-      "name": "CM_SEARCH_VERIFY",
+      "name": "VS_SEARCH_VERIFY",
       "url": "digit-ui-card",
       "displayName": "Verify",
       "orderNumber": 1,
-      "parentModule": "COMMONMODULE",
+      "parentModule": "VERIFICATIONSEARCH",
       "enabled": true,
-      "serviceCode": "COMMONMODULE",
+      "serviceCode": "VERIFICATIONSEARCH",
       "code": "null",
       "path": "",
-      "navigationURL": "/digit-ui/citizen/commonmodule/cmservice/verify",
       "leftIcon": "TLIcon",
       "rightIcon": "",
       "queryParams": "",
       "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/commonmodule-home"
+      "sidebarURL": "/digit-ui/citizen/verificationsearch-home"
     },
     {
     "id": 2853,
@@ -19077,12 +19076,12 @@
     },
     {
       "id": 2877,
-      "name": "Commonmodule Search",
-      "url": "/common-module/validity/_search",
-      "displayName": "Commonmodule Search",
+      "name": "Verification Search",
+      "url": "/verification-service/validity/_search",
+      "displayName": "Verification Search",
       "orderNumber": 1,
       "enabled": false,
-      "serviceCode": "COMMONMODULE",
+      "serviceCode": "VERIFICATIONSEARCH",
       "code": "null",
       "path": ""
     },

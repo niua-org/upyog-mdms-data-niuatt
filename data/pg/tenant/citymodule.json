@@ -717,8 +717,8 @@
       ]
     },
     {
-      "module": "COMMONMODULE",
-      "code": "COMMONMODULE",
+      "module": "VERIFICATIONSEARCH",
+      "code": "VERIFICATIONSEARCH",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
       "order":1,
