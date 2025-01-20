@@ -19416,6 +19416,17 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ew-home"
-    }	  	    	  
+    },
+    {
+     "id": 2904,
+     "name": "Fetch Asset Maintenance List",
+     "url": "/asset-services/maintenance/v1/_search",
+     "displayName": "Fetch Asset Maintenance",
+     "orderNumber": 1,
+     "enabled": false,
+     "serviceCode": "asset-services",
+     "code": "null",
+     "path": ""
+    }
   ]
 }
