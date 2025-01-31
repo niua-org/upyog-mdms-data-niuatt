@@ -19635,24 +19635,6 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
-    },
-    {
-      "id": 2921,
-      "name": "WT_REQUEST_SERVICE_VENDOR_LOGIN",
-      "url": "digit-ui-card",
-      "displayName": "Vendor Login",
-      "orderNumber": 3,
-      "parentModule": "WT",
-      "enabled": true,
-      "serviceCode": "request-service",
-      "code": "null",
-      "path": "",
-      "navigationURL": "/digit-ui/citizen/wt/wt-Vendor",
-      "leftIcon": "CHBIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/digit-ui/citizen/wt-home"
-    } 
+    }
   ]
 }	  
