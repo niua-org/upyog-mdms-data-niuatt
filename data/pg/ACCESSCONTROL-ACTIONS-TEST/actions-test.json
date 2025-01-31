@@ -19344,7 +19344,7 @@
       "orderNumber": 1,
       "parentModule": "WT",
       "enabled": true,
-      "serviceCode": "WT",
+      "serviceCode": "request-service",
       "code": "null",
       "path": "",
       "navigationURL": "/digit-ui/citizen/wt/request-service",
@@ -19362,7 +19362,7 @@
       "orderNumber": 2,
       "parentModule": "WT",
       "enabled": true,
-      "serviceCode": "WT",
+      "serviceCode": "request-service",
       "code": "null",
       "path": "",
       "navigationURL": "/digit-ui/citizen/wt/status",
@@ -19635,6 +19635,24 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2921,
+      "name": "WT_REQUEST_SERVICE_VENDOR_LOGIN",
+      "url": "digit-ui-card",
+      "displayName": "Request Service",
+      "orderNumber": 3,
+      "parentModule": "WT",
+      "enabled": true,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/wt/wt-Vendor",
+      "leftIcon": "CHBIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/wt-home"
     } 
   ]
 }	  
