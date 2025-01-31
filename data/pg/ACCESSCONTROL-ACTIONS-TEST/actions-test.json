@@ -19640,7 +19640,7 @@
       "id": 2921,
       "name": "WT_REQUEST_SERVICE_VENDOR_LOGIN",
       "url": "digit-ui-card",
-      "displayName": "Request Service",
+      "displayName": "Vendor Login",
       "orderNumber": 3,
       "parentModule": "WT",
       "enabled": true,
