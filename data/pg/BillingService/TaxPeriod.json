@@ -1710,6 +1710,22 @@
     {
       "fromDate": 1554057000000,
       "toDate": 1869676199000,
+      "periodCycle": "MONTHLY",
+      "service": "sv-services.monthly",
+      "code": "SV_MONTHLY_FEE",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "QUATERLY",
+      "service": "sv-services.quaterly",
+      "code": "SV_QUATERLY_FEE",
+      "financialYear": "2024-25"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
       "periodCycle": "TENYEARS",
       "service": "adv-services",
       "code": "ADV10YRS2024",

@@ -5860,6 +5860,26 @@
       },
       {
         "category": "FEE",
+        "service": "sv-services.monthly",
+        "name": "Street Vending monthly fee",
+        "code": "SV_STREET_VENDING_MONTHLY_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "sv-services.quaterly",
+        "name": "Street Vending quaterly fee",
+        "code": "SV_STREET_VENDING_QUATERLY_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
         "service": "adv-services",
         "name": "Advertisement Booking Fees",
         "code": "ADV_BOOKING_FEES",

@@ -20235,6 +20235,31 @@
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 2968,
+      "name": "Street Vending Monthly Payment search",
+      "url": "/collection-services/payments/sv-services.monthly/_search",
+      "displayName": "Street Vending Monthly Payment search",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": false,
+      "serviceCode": "",
+      "code": "null",
+      "path": ""
+  },
+  {
+    "id": 2969,
+    "name": "Street Vending Quaterly Payment search",
+    "url": "/collection-services/payments/sv-services.quaterly/_search",
+    "displayName": "Street Vending Quaterly Payment search",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
+ }
+
   ]
 }	  

@@ -746,6 +746,15 @@
             "format": "SV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "sv-services.receipt.id"
         },
+    
+        {
+            "format": "SV/MONTHLY/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "sv-services.monthly.receipt.id"
+        },
+        {
+            "format": "SV/QUATERLY/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "sv-services.quaterly.receipt.id"
+        },
         {
             "format": "ADV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "adv-services.receipt.id"

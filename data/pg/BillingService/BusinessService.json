@@ -2039,6 +2039,28 @@
       "isActive": true
     },
     {
+      "businessService": "sv-services.quaterly",
+      "code": "sv-services.quaterly",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "sv-services.monthly",
+      "code": "sv-services.monthly",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
       "businessService": "adv-services",
       "code": "adv-services",
       "collectionModesNotAllowed": [
