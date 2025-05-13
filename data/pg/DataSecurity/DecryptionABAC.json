@@ -1588,7 +1588,7 @@
       "key": "TradeLicenseDailyCollectionReport",
       "roleAttributeAccessList": [
         {
-          "roleCode": "EMPLOYEE",
+          "roleCode": "SVCEMP",
           "attributeAccessList": [
             {
               "attribute": {
@@ -1601,7 +1601,13 @@
                 "jsonPath": "*/userName"
               },
               "accessType": "PLAIN"
-            }
+            },
+	    {
+              "attribute": {
+                "jsonPath": "*/approvedby"
+              },
+              "accessType": "PLAIN"
+            }	  
           ]
         }
       ]
