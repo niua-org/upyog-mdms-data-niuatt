@@ -20259,7 +20259,30 @@
     "serviceCode": "",
     "code": "null",
     "path": ""
- }
-
+  },
+  {
+      "id": 2970,
+      "name": "MDMS v2 Waste Type Update",
+      "url":"/mdms-v2/v2/_update/cnd-service.WasteType",
+      "displayName": "Update Waste Type",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2971,
+      "name": "MDMS v2 Waste Type Create",
+      "url":"/mdms-v2/v2/_create/cnd-service.WasteType",
+      "displayName": "Create Waste Type",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    }
   ]
 }	  

@@ -31542,6 +31542,18 @@
       "actionid": 2964,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2970,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "MDMS_ADMIN",
+      "actionid": 2971,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
