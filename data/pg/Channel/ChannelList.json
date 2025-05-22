@@ -1451,6 +1451,146 @@
         "EMAIL",
         "EVENT"
       ]
+    },
+    {
+      "businessService": "cnd.APPROVE",
+      "module": "cnd-service",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "cnd.ASSIGN_FIELD_INSPECTOR",
+      "module": "cnd-service",
+      "action": "ASSIGN_FIELD_INSPECTOR",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "cnd.PAY",
+      "module": "cnd-service",
+      "action": "PAY",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "cnd.ASSIGN_VENDOR",
+      "module": "cnd-service",
+      "action": "ASSIGN_VENDOR",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "cnd.ASSIGN_VEHICLE_DRIVER",
+      "module": "cnd-service",
+      "action": "ASSIGN_VEHICLE_DRIVER",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "cnd.APPLY",
+      "module": "cnd-service",
+      "action": "APPLY",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "cnd.REJECT",
+      "module": "cnd-service",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "cnd.COMPLETE_REQUEST",
+      "module": "cnd-service",
+      "action": "COMPLETE_REQUEST",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "cnd.SEND_BACK_TO_CITIZEN",
+      "module": "cnd-service",
+      "action": "SEND_BACK_TO_CITIZEN",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "street-vending.APPROVE",
+      "module": "sv-services",
+      "action": "APPROVE",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "street-vending.APPLY",
+      "module": "sv-services",
+      "action": "APPLY",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "street-vending.REJECT",
+      "module": "sv-services",
+      "action": "REJECT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "street-vending.RESUBMIT",
+      "module": "sv-services",
+      "action": "RESUBMIT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "street-vending.FORWARD",
+      "module": "sv-services",
+      "action": "FORWARD",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     }
   ]
 }
