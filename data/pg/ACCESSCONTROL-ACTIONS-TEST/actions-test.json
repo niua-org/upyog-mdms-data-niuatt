@@ -20283,6 +20283,30 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2972,
+      "name": "MDMS v2 Far Create",
+      "url":"/mdms-v2/v2/_create/BPA.Far",
+      "displayName": "Create FAR",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2973,
+      "name": "MDMS v2 Far Update",
+      "url":"/mdms-v2/v2/_update/BPA.Far",
+      "displayName": "Update FAR",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
