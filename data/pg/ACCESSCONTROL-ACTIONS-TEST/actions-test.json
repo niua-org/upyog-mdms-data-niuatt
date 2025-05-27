@@ -20307,6 +20307,18 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2974,
+      "name": "MDMS v2 Far Update",
+      "url":"/mdms-v2/v2/_update/BPA.Ventilation",
+      "displayName": "Update Ventilation",
+      "orderNumber": 1,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
     }
   ]
 }	  
