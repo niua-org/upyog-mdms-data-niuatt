@@ -13,6 +13,10 @@
     {
       "code": "FIRENOC",
       "isStateLevel": true
-    }
+    },
+   {
+      "code": "FSM",
+      "isStateLevel": true
+    }	  
   ]
 }
