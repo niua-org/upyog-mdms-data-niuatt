@@ -188,7 +188,7 @@
                     "toPlotArea": 200,
                     "occupancy": "residential",
                     "riskType": "medium",
-                    "permissible": 1.55,
+                    "permissible": 3.55,
                     "active": true
                 },
                 {
@@ -242,7 +242,7 @@
                     "toPlotArea": 200,
                     "occupancy": "commercial",
                     "riskType": "medium",
-                    "permissible": 1.55,
+                    "permissible": 3.55,
                     "active": true
                 },
                 {
@@ -296,7 +296,7 @@
                     "toPlotArea": 200,
                     "occupancy": "industrial",
                     "riskType": "medium",
-                    "permissible": 1.55,
+                    "permissible": 3.55,
                     "active": true
                 },
                 {
