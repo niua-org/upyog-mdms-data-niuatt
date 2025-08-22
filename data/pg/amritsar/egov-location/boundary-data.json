@@ -1,0 +1,58 @@
+{
+  "tenantId": "pg.amritsar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": 
+      {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Amritsar",
+        "localname": "Amritsar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.amritsar",
+        "children": [
+          {
+            "id": "049d92a9-dbdf-4ba5-9dbf-7969b45c9875",
+            "boundaryNum": 1,
+            "name": "Ranjit Avenue",
+            "localname": "M.C. Amritsar",
+            "longitude": null,
+            "latitude": null,
+            "label": "VendingZone",
+            "code": "a1",
+            "children": []
+          },
+          {
+            "id": "049d92a9-dbdf-4ba5-9dbf-5465487658765",
+            "boundaryNum": 1,
+            "name": "Chheharta",
+            "localname": "M.C. Amritsar",
+            "longitude": null,
+            "latitude": null,
+            "label": "VendingZone",
+            "code": "a2",
+            "children": []
+          },
+          {
+            "id": "049d92a9-dbdf-4ba5-9dbf-7969b45c9091",
+            "boundaryNum": 1,
+            "name": "Gopal Nagar",
+            "localname": "M.C. Amritsar",
+            "longitude": null,
+            "latitude": null,
+            "label": "VendingZone",
+            "code": "a3",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}

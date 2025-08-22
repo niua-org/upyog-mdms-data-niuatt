@@ -281,7 +281,7 @@
             "subZone": "y",
             "occupancy": "residential",
             "riskType": "medium",
-            "permissible": 1.55,
+            "permissible": 3.55,
             "active": true
         },
         {
@@ -359,7 +359,7 @@
             "subZone": "y",
             "occupancy": "commercial",
             "riskType": "medium",
-            "permissible": 1.55,
+            "permissible": 3.55,
             "active": true
         },
         {
@@ -437,7 +437,7 @@
             "subZone": "y",
             "occupancy": "industrial",
             "riskType": "medium",
-            "permissible": 1.55,
+            "permissible": 3.55,
             "active": true
         },
         {

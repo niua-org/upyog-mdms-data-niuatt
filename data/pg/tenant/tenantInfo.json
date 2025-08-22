@@ -102,6 +102,16 @@
       "workingPopulation": "33.70",
       "literacyRate": "57.41",
       "languagesSpoken": ["HN", "PN", "EN"]
+    },
+    {
+      "code": "pg.amritsar",
+      "districtCode": "Amritsar",
+      "population": "310599",
+      "malePopulation": "68155",
+      "femalePopultion": "57000",
+      "workingPopulation": "52.70",
+      "literacyRate": "60.41",
+      "languagesSpoken": ["HN", "PN", "EN"]
     } 
   ]
 }
