@@ -6,21 +6,40 @@
             "id": 1,
             "occupancy": "residential",
             "passageServiceValueOne": 1.2,
-            "passageServiceValueTwo": 1,
+            "passageServiceValueA": 1.0,
+            "passageServiceValueBD": 2.5,
+            "passageServiceValueDefault": 1.5,
+            "passageServiceValueFH": 1.5,
+            "passageServiceValueFlow": 1.8,
+            "passageServiceValueFhigh": 2.1,
+            "passageServicePassageLength": 15.0,
+
             "active": true
         },
         {
             "id": 2,
             "occupancy": "commercial",
             "passageServiceValueOne": 1.5,
-            "passageServiceValueTwo": 1.2,
+            "passageServiceValueA": 1.0,
+            "passageServiceValueBD": 2.5,
+            "passageServiceValueDefault": 1.5,
+            "passageServiceValueFH": 1.5,
+            "passageServiceValueFlow": 1.8,
+            "passageServiceValueFhigh": 2.1,
+            "passageServicePassageLength": 15.0,
             "active": true
         },
         {
             "id": 3,
             "occupancy": "industrial",
             "passageServiceValueOne": 1.8,
-            "passageServiceValueTwo": 1.4,
+            "passageServiceValueA": 1.0,
+            "passageServiceValueBD": 2.5,
+            "passageServiceValueDefault": 1.5,
+            "passageServiceValueFH": 1.5,
+            "passageServiceValueFlow": 1.8,
+            "passageServiceValueFhigh": 2.1,
+            "passageServicePassageLength": 15.0,
             "active": true
         }
     ]
