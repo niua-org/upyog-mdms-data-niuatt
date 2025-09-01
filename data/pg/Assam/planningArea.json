@@ -1,0 +1,23 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "planningAreas": [
+      {
+        "id": 1,
+        "stateLGDCode": 18,
+        "districtLGDCode": 618,
+        "planningAreaCode": "GUWAHATI",
+        "planningAreaName": "Guwahati",
+        "active": true
+      },
+      {
+        "id": 2,
+        "stateLGDCode": 18,
+        "districtLGDCode": 618,
+        "planningAreaCode": "NORTH_GUWAHATI",
+        "planningAreaName": "North Guwahati",
+        "active": true
+      }
+    ]
+}
+  

@@ -1,0 +1,23 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "bpAuthorities": [
+      {
+        "id": 1,
+        "stateLGDCode": 18,
+        "districtLGDCode": 618,
+        "bpAuthorityCode": "GUWAHATI_MC",
+        "bpAuthorityName": "Guwahati MC",
+        "active": true
+      },
+      {
+        "id": 2,
+        "stateLGDCode": 18,
+        "districtLGDCode": 618,
+        "bpAuthorityCode": "NORTH_GUWAHATI_MB",
+        "bpAuthorityName": "North Guwahati MB",
+        "active": true
+      }
+    ]
+}
+  

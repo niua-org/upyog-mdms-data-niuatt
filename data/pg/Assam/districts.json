@@ -1,0 +1,206 @@
+{
+  "tenantId": "as",
+  "moduleName": "BPA",
+  "districts": [
+    {
+      "id": 1,
+      "stateLGDCode": 18,
+      "districtLGDCode": 618,
+      "districtCode": "KAMRUP_METRO",
+      "districtName": "Kamrup (Metro)",
+      "active": true
+    },
+    {
+      "id": 2,
+      "stateLGDCode": 18,
+      "districtLGDCode": 291,
+      "districtCode": "KAMRUP_R",
+      "districtName": "Kamrup (R)",
+      "active": true
+    },
+    {
+      "id": 3,
+      "stateLGDCode": 18,
+      "districtLGDCode": 298,
+      "districtCode": "NALBARI",
+      "districtName": "Nalbari",
+      "active": true
+    },
+    {
+      "id": 4,
+      "stateLGDCode": 18,
+      "districtLGDCode": 280,
+      "districtCode": "BARPETA",
+      "districtName": "Barpeta",
+      "active": true
+    },
+    {
+      "id": 5,
+      "stateLGDCode": 18,
+      "districtLGDCode": 283,
+      "districtCode": "DARRANG",
+      "districtName": "Darrang",
+      "active": true
+    },
+    {
+      "id": 6,
+      "stateLGDCode": 18,
+      "districtLGDCode": 285,
+      "districtCode": "DHUBRI",
+      "districtName": "Dhubri",
+      "active": true
+    },
+    {
+      "id": 7,
+      "stateLGDCode": 18,
+      "districtLGDCode": 287,
+      "districtCode": "GOALPARA",
+      "districtName": "Goalpara",
+      "active": true
+    },
+    {
+      "id": 8,
+      "stateLGDCode": 18,
+      "districtLGDCode": 281,
+      "districtCode": "BONGAIGAON",
+      "districtName": "Bongaigaon",
+      "active": true
+    },
+    {
+      "id": 9,
+      "stateLGDCode": 18,
+      "districtLGDCode": 296,
+      "districtCode": "MORIGAON",
+      "districtName": "Morigaon",
+      "active": true
+    },
+    {
+      "id": 10,
+      "stateLGDCode": 18,
+      "districtLGDCode": 297,
+      "districtCode": "NAGAON",
+      "districtName": "Nagaon",
+      "active": true
+    },
+    {
+      "id": 11,
+      "stateLGDCode": 18,
+      "districtLGDCode": 709,
+      "districtCode": "HOJAI",
+      "districtName": "Hojai",
+      "active": true
+    },
+    {
+      "id": 12,
+      "stateLGDCode": 18,
+      "districtLGDCode": 301,
+      "districtCode": "SONITPUR",
+      "districtName": "Sonitpur",
+      "active": true
+    },
+    {
+      "id": 13,
+      "stateLGDCode": 18,
+      "districtLGDCode": 705,
+      "districtCode": "BISWANATH",
+      "districtName": "Biswanath",
+      "active": true
+    },
+    {
+      "id": 14,
+      "stateLGDCode": 18,
+      "districtLGDCode": 288,
+      "districtCode": "GOLAGHAT",
+      "districtName": "Golaghat",
+      "active": true
+    },
+    {
+      "id": 15,
+      "stateLGDCode": 18,
+      "districtLGDCode": 290,
+      "districtCode": "JORHAT",
+      "districtName": "Jorhat",
+      "active": true
+    },
+    {
+      "id": 16,
+      "stateLGDCode": 18,
+      "districtLGDCode": 300,
+      "districtCode": "SIVASAGAR",
+      "districtName": "Sivasagar",
+      "active": true
+    },
+    {
+      "id": 17,
+      "stateLGDCode": 18,
+      "districtLGDCode": 295,
+      "districtCode": "LAKHIMPUR",
+      "districtName": "Lakhimpur",
+      "active": true
+    },
+    {
+      "id": 18,
+      "stateLGDCode": 18,
+      "districtLGDCode": 286,
+      "districtCode": "DIBRUGARH",
+      "districtName": "Dibrugarh",
+      "active": true
+    },
+    {
+      "id": 19,
+      "stateLGDCode": 18,
+      "districtLGDCode": 302,
+      "districtCode": "TINSUKIA",
+      "districtName": "Tinsukia",
+      "active": true
+    },
+    {
+      "id": 20,
+      "stateLGDCode": 18,
+      "districtLGDCode": 282,
+      "districtCode": "CACHAR",
+      "districtName": "Cachar",
+      "active": true
+    },
+    {
+      "id": 21,
+      "stateLGDCode": 18,
+      "districtLGDCode": 293,
+      "districtCode": "SRIBHUMI",
+      "districtName": "Sribhumi",
+      "active": true
+    },
+    {
+      "id": 22,
+      "stateLGDCode": 18,
+      "districtLGDCode": 284,
+      "districtCode": "DHEMAJI",
+      "districtName": "Dhemaji",
+      "active": true
+    },
+    {
+      "id": 23,
+      "stateLGDCode": 18,
+      "districtLGDCode": 617,
+      "districtCode": "UDALGURI",
+      "districtName": "Udalguri",
+      "active": true
+    },
+    {
+      "id": 24,
+      "stateLGDCode": 18,
+      "districtLGDCode": 294,
+      "districtCode": "KOKRAJHAR",
+      "districtName": "Kokrajhar",
+      "active": true
+    },
+    {
+      "id": 25,
+      "stateLGDCode": 18,
+      "districtLGDCode": 710,
+      "districtCode": "KARBI_ANGLONG",
+      "districtName": "Karbi-Anglong",
+      "active": true
+    }
+  ]
+}

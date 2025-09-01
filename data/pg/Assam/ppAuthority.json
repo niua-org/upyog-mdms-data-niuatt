@@ -1,0 +1,15 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "ppAuthorities": [
+      {
+        "id": 1,
+        "stateLGDCode": 18,
+        "districtLGDCode": 618,
+        "ppAuthorityCode": "GMDA",
+        "ppAuthorityName": "GMDA",
+        "active": true
+      }
+    ]
+}
+  

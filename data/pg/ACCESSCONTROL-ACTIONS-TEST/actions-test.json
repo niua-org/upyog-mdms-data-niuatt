@@ -21393,6 +21393,42 @@
          "serviceCode": "NSS",
          "code": "null",
          "path": ""
-      }         	
+      },
+      {
+         "id": 3071,
+         "name": "BPA_CITIZEN_HOME_VIEW_APP_BY_CITIZEN_LABEL",
+         "url": "digit-ui-card",
+         "displayName": "View applications by Citizen",
+         "orderNumber": 1,
+         "parentModule": "OBPSV2",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "/digit-ui/citizen/obpsv2/my-applications",
+         "leftIcon": "OBPSIcon",
+         "rightIcon": "",
+         "queryParams": "",
+         "sidebar": "digit-ui-links",
+         "sidebarURL": "/digit-ui/citizen/obpsv2-home"
+       },
+       {
+         "id": 3072,
+         "name": "BPA_APPLY_FOR_BUILDING_PERMIT",
+         "url": "digit-ui-card",
+         "displayName": "Apply for Building Permit",
+         "orderNumber": 2,
+         "parentModule": "OBPSV2",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "/digit-ui/citizen/obps/stakeholder/apply/stakeholder-docs-required",
+         "leftIcon": "OBPSIcon",
+         "rightIcon": "",
+         "queryParams": "",
+         "sidebar": "digit-ui-links",
+         "sidebarURL": "/digit-ui/citizen/obpsv2-home"
+       }    	
   ]
 }

@@ -1,0 +1,1238 @@
+{
+  "tenantId": "as",
+  "moduleName": "BPA",
+  "PermissibleZone": [
+    {
+      "id": 1,
+      "code": "ACTIVE_PUBLIC_USE",
+      "name": "Active public use, yoga spaces, active sports (without formal seating) & boating",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 2,
+      "code": "ADMINISTRATIVE_COMPLEX",
+      "name": "Administrative Complex / Offices",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 3,
+      "code": "AMUSEMENT_PARK",
+      "name": "Amusement Park / Theme Park (Rides Mechanical + water ride), Games",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 4,
+      "code": "AMENITY_STRUCTURES",
+      "name": "Amenity structures",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 5,
+      "code": "ANGANWARI",
+      "name": "Anganwari",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 6,
+      "code": "AIRPORT",
+      "name": "Airport, Helipad, Flying Club",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 7,
+      "code": "ART_GALLERY",
+      "name": "Art gallery, museum, exhibition centre",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 8,
+      "code": "AUTO_SUPPLY_STORE",
+      "name": "Auto Supply store and Show room for motor vehicle and machinery",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 9,
+      "code": "ATM",
+      "name": "ATM",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 10,
+      "code": "AUDITORIUM",
+      "name": "Auditorium",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 11,
+      "code": "AUTOMOBILE_SERVICE",
+      "name": "Automobile service and repairing station",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 12,
+      "code": "AQUAPARK",
+      "name": "Aquapark / water sports park/ Aquarium",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 13,
+      "code": "ARCHAEOLOGICAL_PARK",
+      "name": "Archaeological Park",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 14,
+      "code": "BANK",
+      "name": "Bank and Safe deposit vault",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 15,
+      "code": "BANQUET_HALLS",
+      "name": "Banquet Halls",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 16,
+      "code": "BIRD_SANCTUARY",
+      "name": "Bird Sanctuary",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 17,
+      "code": "BIODIVERSITY_PARK",
+      "name": "Bio-diversity Park",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 18,
+      "code": "BOARDING_LODGING",
+      "name": "Boarding or lodging house",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 19,
+      "code": "BOTANICAL_GARDEN",
+      "name": "Botanical garden / Arboretum",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 20,
+      "code": "BUS_DEPOT",
+      "name": "Bus Depot",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 21,
+      "code": "BUS_TERMINAL",
+      "name": "Bus Terminal",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 22,
+      "code": "CANTEEN",
+      "name": "Canteen and eating house serving the industries",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 23,
+      "code": "CEMETERY",
+      "name": "Cemetery, crematorium, burial ground, electric crematorium",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 24,
+      "code": "CHILDREN_TRAFFIC_PARK",
+      "name": "Children Traffic Park",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 25,
+      "code": "CINEMA",
+      "name": "Cinema / Cineplex / Multiplex",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 26,
+      "code": "PET_CLINIC",
+      "name": "Clinic for pets",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 27,
+      "code": "CLINICAL_LAB",
+      "name": "Clinical Laboratory / Clinic",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 28,
+      "code": "CLUB_HOUSE_NON_BUSINESS",
+      "name": "Club house not conducted primarily as business",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 29,
+      "code": "CLUB_HOUSE_BUSINESS",
+      "name": "Club house or other recreational activities conducted as business",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 30,
+      "code": "COACHING_CENTRES",
+      "name": "Coaching Centres/ Training Institutes",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 31,
+      "code": "COLD_STORAGE",
+      "name": "Cold storage and ice factory",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 32,
+      "code": "COLLEGE",
+      "name": "College",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 33,
+      "code": "COMMERCIAL_OFFICES",
+      "name": "Commercial/ business Offices",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 34,
+      "code": "COMMUNITY_HALL",
+      "name": "Community hall & welfare centre",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 35,
+      "code": "COMMUNITY_PARK",
+      "name": "Community park",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 36,
+      "code": "CONFERENCE_HALL",
+      "name": "Conference Hall",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 37,
+      "code": "CONTRACTOR_PLANT",
+      "name": "Contractor plant and storage for building material",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 38,
+      "code": "CONVENTION_CENTRE",
+      "name": "Convention Centre",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 39,
+      "code": "COTTAGE_INDUSTRIES",
+      "name": "Cottage, Handloom and Household Industries",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 40,
+      "code": "COURT",
+      "name": "Court",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 41,
+      "code": "CRECHE",
+      "name": "Crèche & Day Care Centre",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 42,
+      "code": "CULTURAL_CENTRE",
+      "name": "Cultural and Information Centre",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 43,
+      "code": "CUSTOMARY_HOME_OCCUPATION",
+      "name": "Customary home occupation",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 44,
+      "code": "CYCLING_TRACKS",
+      "name": "Cycling & walking tracks",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 45,
+      "code": "DEFENCE",
+      "name": "Defence",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 46,
+      "code": "DIAGNOSTIC_FACILITY",
+      "name": "Diagnostic facility/Path Lab",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 47,
+      "code": "DAIRY_POULTRY",
+      "name": "Dairy and poultry industry",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 48,
+      "code": "DISCOTHEQUE",
+      "name": "Discotheque/ Pub",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 49,
+      "code": "DISPENSARY",
+      "name": "Dispensary",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 50,
+      "code": "DORMITORY",
+      "name": "Dormitory",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 51,
+      "code": "DRY_CLEANERS",
+      "name": "Dry Cleaners-cleaning and dyeing",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 52,
+      "code": "EDUCATIONAL_INSTITUTION",
+      "name": "Educational and research institution",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 53,
+      "code": "ELECTRIC_SUBSTATION",
+      "name": "Electric Sub-station",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 54,
+      "code": "EXISTING_VILLAGE",
+      "name": "Existing Village",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 55,
+      "code": "FAIR_GROUND",
+      "name": "Fair Ground",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 56,
+      "code": "FAIR_PRICE_SHOP",
+      "name": "Fair Price Shop",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 57,
+      "code": "FARM_HOUSE",
+      "name": "Farm House",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 58,
+      "code": "FILM_STUDIO",
+      "name": "Film studio",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 59,
+      "code": "FISH_CURING",
+      "name": "Fish curing",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 60,
+      "code": "FLATTED_INDUSTRY",
+      "name": "Flatted Industry",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 61,
+      "code": "FLOOD_CONTROL",
+      "name": "Flood control work",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 62,
+      "code": "FOOD_COURT",
+      "name": "Food Court",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 63,
+      "code": "FORENSIC_LAB",
+      "name": "Forensic Science Laboratory",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 64,
+      "code": "FOREST",
+      "name": "Forest / Woodlands",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 65,
+      "code": "GARAGE",
+      "name": "Garage",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 66,
+      "code": "GAS_GODOWN",
+      "name": "Gas Godown",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 67,
+      "code": "GENERAL_INDUSTRIES",
+      "name": "General Industries",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 68,
+      "code": "GOLF_COURSE",
+      "name": "Golf course",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 69,
+      "code": "GREEN_HOUSE",
+      "name": "Green house",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 70,
+      "code": "GUEST_HOUSE",
+      "name": "Guest house/ Room",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 71,
+      "code": "GYMNASIUM",
+      "name": "Gymnasium",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 72,
+      "code": "HEALTH_CENTRE",
+      "name": "Health Centre",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 73,
+      "code": "HOSPITAL",
+      "name": "Hospital",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 74,
+      "code": "HOSTELS",
+      "name": "Hostels",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 75,
+      "code": "HOTELS",
+      "name": "Hotels",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 76,
+      "code": "INCUBATION_CENTRES",
+      "name": "Incubation Centres / Co-working",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 77,
+      "code": "INDOOR_GAMES_HALL",
+      "name": "Indoor Games Hall",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 78,
+      "code": "INTEGRATED_TOWNSHIP",
+      "name": "Integrated Township",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 79,
+      "code": "JAIL",
+      "name": "Jail",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 80,
+      "code": "JUNK_YARD",
+      "name": "Junk yard",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 81,
+      "code": "GOVERNMENT_OFFICE",
+      "name": "Local, Municipal, State or Central Government, PSU office",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 82,
+      "code": "MECHANICAL_WORKSHOP",
+      "name": "Mechanical workshop with lathes, drills, grinders, spot welding set",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 83,
+      "code": "MEDICAL_CLINIC",
+      "name": "Medical, eye and & dental practitioners' clinic",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 84,
+      "code": "MONUMENT",
+      "name": "Monument",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 85,
+      "code": "MOTOR_DRIVING_CENTRE",
+      "name": "Motor Driving Training Centre",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 86,
+      "code": "MOTEL",
+      "name": "Motel",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 87,
+      "code": "MULTILEVEL_PARKING",
+      "name": "Multilevel Parking",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 88,
+      "code": "MULTIPURPOSE_GROUND",
+      "name": "Multipurpose Ground (District or City level)",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 89,
+      "code": "MUNICIPAL_FACILITY",
+      "name": "Municipal facility",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 90,
+      "code": "MUSIC_TRAINING_CENTRE",
+      "name": "Music, dance, drama training centre",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 91,
+      "code": "NEIGHBOURHOOD_PARK",
+      "name": "Neighbourhood Park",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 92,
+      "code": "NEIGHBOURHOOD_SHOPPING",
+      "name": "Neighbourhood Shopping Centre, Convenience Shopping Centre & local shopping with vegetables, fruits, flowers, fish and meat.",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 93,
+      "code": "NIGHT_SHELTER",
+      "name": "Night Shelter",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 94,
+      "code": "NURSERY_SCHOOL",
+      "name": "Nursery school",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 95,
+      "code": "NURSERY_ORCHARDS",
+      "name": "Nursery & Orchards",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 96,
+      "code": "NURSING_HOME",
+      "name": "Nursing Home / maternity etc.",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 97,
+      "code": "PRIVATE_OFFICE",
+      "name": "Private Office",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 98,
+      "code": "OIL_DEPOT",
+      "name": "Oil Depot",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 99,
+      "code": "OPEN_AIR_THEATRE",
+      "name": "Open Air Theatre / Amphitheatre",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 100,
+      "code": "ORGANIZED_OPEN_SPACE",
+      "name": "Organized Open Space",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 101,
+      "code": "ORPHANAGE",
+      "name": "Orphanage",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 102,
+      "code": "PLAY_GROUND",
+      "name": "Play ground & playfield",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 103,
+      "code": "PERSONAL_SERVICE_SHOP",
+      "name": "Personal Service Shop",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 104,
+      "code": "PETROL_STATION",
+      "name": "Petrol filling station",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 105,
+      "code": "PHOTO_STUDIO",
+      "name": "Photograph studio and laboratory",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 106,
+      "code": "PICNIC_HUTS",
+      "name": "Picnic Huts & grounds",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 107,
+      "code": "PIGGERY",
+      "name": "Piggery",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 108,
+      "code": "PLANETARIUM",
+      "name": "Planetarium",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 109,
+      "code": "POLICE_HEADQUARTER",
+      "name": "Police Headquarter and Police Lines",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 110,
+      "code": "POLICE_STATION",
+      "name": "Police Station, Out Post and Fire Station",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 111,
+      "code": "POST_OFFICE",
+      "name": "Post office, Telephone Exchange, Telegraph Offices",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 112,
+      "code": "PROFESSIONAL_OFFICE",
+      "name": "Professional office of a resident of the premise",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 113,
+      "code": "PUBLIC_LIBRARY",
+      "name": "Public library",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 114,
+      "code": "RADIO_STUDIO",
+      "name": "Radio broadcasting studio",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 115,
+      "code": "RAILWAY_STATION",
+      "name": "Railway Station",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 116,
+      "code": "REFORMATORY",
+      "name": "Reformatory (Juvenile Home)",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 117,
+      "code": "REFINERY",
+      "name": "Refinery",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 118,
+      "code": "REGIONAL_PARK",
+      "name": "Regional Park",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 119,
+      "code": "RELIGIOUS_PLACE",
+      "name": "Religious Place like temple, namghar, mosque, church etc",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 120,
+      "code": "RESEARCH_CENTRE",
+      "name": "Research and Development Centre",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 121,
+      "code": "RESIDENCE_WORK_PLOT",
+      "name": "Residence cum Work Plot",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 122,
+      "code": "RESIDENTIAL_DWELLING",
+      "name": "Residential Dwelling",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 123,
+      "code": "LOW_INCOME_GROUP",
+      "name": "Residential Dwelling Low Income Group",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 124,
+      "code": "PLOTTED_HOUSING",
+      "name": "Residential Plot- Plotted Housing",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 125,
+      "code": "RESTAURANT",
+      "name": "Restaurant, cafeteria, milk bar",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 126,
+      "code": "RETAIL_SHOP",
+      "name": "Retail Shop",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 127,
+      "code": "SATELLITE_CENTRE",
+      "name": "Satellite and Telecommunication Centre",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 128,
+      "code": "SCHOOLS",
+      "name": "Schools",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 129,
+      "code": "SERVICE_CENTRE",
+      "name": "Service Centre(white goods)",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 130,
+      "code": "SEWERAGE_PLANT",
+      "name": "Sewerage treatment plant",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 131,
+      "code": "SOCIAL_INSTITUTION",
+      "name": "Social, cultural and religious institution",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 132,
+      "code": "SOCIETY_OFFICE",
+      "name": "Society Office, Registered RWA Office",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 133,
+      "code": "SPA_SALON",
+      "name": "Spa and Salon",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 134,
+      "code": "SPORTS_TRAINING",
+      "name": "Sports Training Centre/ Sport academy",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 135,
+      "code": "STADIUM",
+      "name": "Stadium",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 136,
+      "code": "STATE_MEMORIAL",
+      "name": "State Memorial (Approved by State Govt.)",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 137,
+      "code": "MEDICINE_STOCKISTS",
+      "name": "Stockists and dealers of medicines",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 138,
+      "code": "PETROLEUM_STORAGE",
+      "name": "Storage of petroleum and inflammable materials",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 139,
+      "code": "STORAGE_GODOWN",
+      "name": "Storage shops and Godown",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 140,
+      "code": "FOOD_STORAGE",
+      "name": "Storage of Processed Food & Diary Product Consumer and stationery article",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 141,
+      "code": "SWIMMING_POOL",
+      "name": "Swimming Pool",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 142,
+      "code": "TAXI_STAND",
+      "name": "Taxi stand and bus stand, and rickshaw stand",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 143,
+      "code": "THEATRE",
+      "name": "Theatre, assembly or concert hall, dance and music hall and such other place of entertainment;",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 144,
+      "code": "TRUCK_TERMINAL",
+      "name": "Truck terminal",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 145,
+      "code": "VENDING_BOOTH",
+      "name": "Vending Booth / Kiosk",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 146,
+      "code": "VOCATIONAL_TRAINING",
+      "name": "Vocational Training/Technical Training Institute",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 147,
+      "code": "WATCHMEN_LODGE",
+      "name": "Watchmen or caretaker's lodges",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 148,
+      "code": "WAREHOUSE",
+      "name": "Warehouse",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 149,
+      "code": "WATER_TREATMENT_PLANT",
+      "name": "Water Treatment Plant",
+      "permissible": "Yes",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 150,
+      "code": "WEEKLY_MARKET",
+      "name": "Weekly Market/ Informal Sector Unit",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 151,
+      "code": "WHOLESALE_TRADE",
+      "name": "Wholesale Trade",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 152,
+      "code": "WIRELESS_STATION",
+      "name": "Wireless transmitting and weather station, Transmission Tower",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 153,
+      "code": "WORKSHOP",
+      "name": "Workshop",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    },
+    {
+      "id": 154,
+      "code": "ZOOLOGICAL_PARK",
+      "name": "Zoological Park",
+      "permissible": "No",
+      "typeOfLand": "residential",
+      "active": true
+    }
+  ]
+}
