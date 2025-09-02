@@ -1,0 +1,86 @@
+{
+  "tenantId": "pg",
+  "moduleName": "ASSET",
+  "BudgetHead": [
+    {
+      "name": "13 Pay Commission",
+      "code": "13_PAY_COMMISSION",
+      "active": true
+    },
+    {
+      "name": "14 Pay Commission",
+      "code": "14_PAY_COMMISSION",
+      "active": true
+    },
+    {
+      "name": "14 Pay Commission (SBM)",
+      "code": "14_PAY_COMMISSION_SBM",
+      "active": true
+    },
+    {
+      "name": "15 Pay Commission",
+      "code": "15_PAY_COMMISSION",
+      "active": true
+    },
+    {
+      "name": "Avash Vikas Nidhi",
+      "code": "AVASH_VIKAS_NIDHI",
+      "active": true
+    },
+    {
+      "name": "Defence Expo",
+      "code": "DEFENCE_EXPO",
+      "active": true
+    },
+    {
+      "name": "N.C.A.P Fund",
+      "code": "NCAP_FUND",
+      "active": true
+    },
+    {
+      "name": "Nagar Nigam Nidhi",
+      "code": "NAGAR_NIGAM_NIDHI",
+      "active": true
+    },
+    {
+      "name": "Office (2-3D)",
+      "code": "OFFICE_2_3D",
+      "active": true
+    },
+    {
+      "name": "Parasd Kota",
+      "code": "PARASD_KOTA",
+      "active": true
+    },
+    {
+      "name": "S.B.M. Smart City Fund",
+      "code": "SBM_SMART_CITY_FUND",
+      "active": true
+    },
+    {
+      "name": "State Finance Commission",
+      "code": "STATE_FINANCE_COMMISSION",
+      "active": true
+    },
+    {
+      "name": "Vidhayak Nidhi",
+      "code": "VIDHAYAK_NIDHI",
+      "active": true
+    },
+    {
+      "name": "Palika Nidhi",
+      "code": "PALIKA_NIDHI",
+      "active": true
+    },
+    {
+      "name": "Panchayat Nidhi",
+      "code": "PANCHAYAT_NIDHI",
+      "active": true
+    },
+    {
+      "name": "Solid Waste Management",
+      "code": "SOLID_WASTE_MANAGEMENT",
+      "active": true
+    }
+  ]
+}
