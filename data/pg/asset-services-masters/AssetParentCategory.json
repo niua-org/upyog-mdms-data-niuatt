@@ -15,14 +15,44 @@
         "assetClassification": "IMMOVABLE"
       },
       {
-        "name": "Service",
-        "code": "SERVICE",
+        "name": "Roads",
+        "code": "ROADS",
         "active": true,
         "assetClassification": "IMMOVABLE"
       },
       {
-        "name": "IT",
-        "code": "IT",
+        "name": "Bridges",
+        "code": "BRIDGES",
+        "active": true,
+        "assetClassification": "IMMOVABLE"
+      },
+      {
+        "name": "Talab",
+        "code": "TALAB",
+        "active": true,
+        "assetClassification": "IMMOVABLE"
+      },
+      {
+        "name": "Nali",
+        "code": "NALI",
+        "active": true,
+        "assetClassification": "IMMOVABLE"
+      },
+      {
+        "name": "NALA",
+        "code": "NALA",
+        "active": true,
+        "assetClassification": "IMMOVABLE"
+      },
+      {
+        "name": "Others",
+        "code": "OTHERS",
+        "active": true,
+        "assetClassification": "IMMOVABLE"
+      },
+      {
+        "name": "Computer & Printers",
+        "code": "COMPUTER_&_PRINTERS",
         "active": true,
         "assetClassification": "MOVABLE"
       },
@@ -35,6 +65,42 @@
       {
         "name": "Other",
         "code": "OTHER",
+        "active": true,
+        "assetClassification": "MOVABLE"
+      },
+      {
+        "name": "Furniture",
+        "code": "FURNITURE",
+        "active": true,
+        "assetClassification": "MOVABLE"
+      },
+      {
+        "name": "Air Conditioner",
+        "code": "AIR_CONDITIONER",
+        "active": true,
+        "assetClassification": "MOVABLE"
+      },
+      {
+        "name": "Generator",
+        "code": "GENERATOR",
+        "active": true,
+        "assetClassification": "MOVABLE"
+      },
+      {
+        "name": "Stationery",
+        "code": "STATIONERY",
+        "active": true,
+        "assetClassification": "MOVABLE"
+      },
+      {
+        "name": "Electricals Items",
+        "code": "ELECTRICALS_ITEMS",
+        "active": true,
+        "assetClassification": "MOVABLE"
+      },
+      {
+        "name": "Chemical Items",
+        "code": "CHEMICAL_ITEMS",
         "active": true,
         "assetClassification": "MOVABLE"
       }
