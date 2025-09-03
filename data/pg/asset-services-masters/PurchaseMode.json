@@ -1,0 +1,21 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSET",
+    "PurchaseMode": [
+      {
+        "name": "Through GeM",
+        "code": "THROUGH_GEM",
+        "active": true
+      },
+      {
+        "name": "Through eProcurement",
+        "code": "THROUGH_EPROCUREMENT",
+        "active": true
+      },
+      {
+        "name": "Other",
+        "code": "OTHER",
+        "active": true
+      }
+    ]
+}
