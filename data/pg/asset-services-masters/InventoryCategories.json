@@ -1,0 +1,549 @@
+{
+  "tenantId": "pg",
+  "moduleName": "ASSET",
+  "masterName": "InventoryCategories",
+  "Action": [
+    {
+      "id": 1,
+      "name": "Stationery",
+      "code": "STATIONERY",
+      "active": true,
+      "subItems": [
+        {
+          "name": "test item name",
+          "code": "TEST_ITEM_NAME",
+          "active": true
+        },
+        {
+          "name": "Printer Paper",
+          "code": "PRINTER_PAPER",
+          "active": true
+        },
+        {
+          "name": "Notepads",
+          "code": "NOTEPADS",
+          "active": true
+        },
+        {
+          "name": "Folders",
+          "code": "FOLDERS",
+          "active": true
+        },
+        {
+          "name": "Pens",
+          "code": "PENS",
+          "active": true
+        },
+        {
+          "name": "Highlighters",
+          "code": "HIGHLIGHTERS",
+          "active": true
+        },
+        {
+          "name": "Test_Pencil",
+          "code": "TEST_PENCIL",
+          "active": true
+        },
+        {
+          "name": "Printer Paper (A4, FS, A5, Legal etc)",
+          "code": "PRINTER_PAPER_A4_FS_A5_LEGAL",
+          "active": true
+        },
+        {
+          "name": "Stapler Pin",
+          "code": "STAPLER_PIN",
+          "active": true
+        },
+        {
+          "name": "Whitener",
+          "code": "WHITENER",
+          "active": true
+        },
+        {
+          "name": "Tag Lachi",
+          "code": "TAG_LACHI",
+          "active": true
+        },
+        {
+          "name": "Stamp Pad",
+          "code": "STAMP_PAD",
+          "active": true
+        },
+        {
+          "name": "File Cover",
+          "code": "FILE_COVER",
+          "active": true
+        },
+        {
+          "name": "Carbon",
+          "code": "CARBON",
+          "active": true
+        },
+        {
+          "name": "Guard File",
+          "code": "GUARD_FILE",
+          "active": true
+        },
+        {
+          "name": "White Towel",
+          "code": "WHITE_TOWEL",
+          "active": true
+        },
+        {
+          "name": "Glue/Fevicol",
+          "code": "GLUE_FEVICOL",
+          "active": true
+        },
+        {
+          "name": "Inchi Tape",
+          "code": "INCHI_TAPE",
+          "active": true
+        },
+        {
+          "name": "Scissors",
+          "code": "SCISSORS",
+          "active": true
+        },
+        {
+          "name": "Calculator",
+          "code": "CALCULATOR",
+          "active": true
+        },
+        {
+          "name": "Diary",
+          "code": "DIARY",
+          "active": true
+        },
+        {
+          "name": "Ink/Printer ink",
+          "code": "INK_PRINTER_INK",
+          "active": true
+        },
+        {
+          "name": "Envelope",
+          "code": "ENVELOPE",
+          "active": true
+        },
+        {
+          "name": "Cello Tape",
+          "code": "CELLO_TAPE",
+          "active": true
+        },
+        {
+          "name": "Agreement Deed Book",
+          "code": "AGREEMENT_DEED_BOOK",
+          "active": true
+        },
+        {
+          "name": "Contractor Bill Form",
+          "code": "CONTRACTOR_BILL_FORM",
+          "active": true
+        },
+        {
+          "name": "Parshad Pad",
+          "code": "PARSHAD_PAD",
+          "active": true
+        },
+        {
+          "name": "Daak Register",
+          "code": "DAAK_REGISTER",
+          "active": true
+        },
+        {
+          "name": "Attendance Register",
+          "code": "ATTENDANCE_REGISTER",
+          "active": true
+        },
+        {
+          "name": "Light Department Report Book",
+          "code": "LIGHT_DEPT_REPORT_BOOK",
+          "active": true
+        },
+        {
+          "name": "Health Department Report Book",
+          "code": "HEALTH_DEPT_REPORT_BOOK",
+          "active": true
+        },
+        {
+          "name": "Log Book",
+          "code": "LOG_BOOK",
+          "active": true
+        },
+        {
+          "name": "Incoming Register",
+          "code": "INCOMING_REGISTER",
+          "active": true
+        },
+        {
+          "name": "Outgoing Register",
+          "code": "OUTGOING_REGISTER",
+          "active": true
+        },
+        {
+          "name": "Civil Book",
+          "code": "CIVIL_BOOK",
+          "active": true
+        },
+        {
+          "name": "Stock Register",
+          "code": "STOCK_REGISTER",
+          "active": true
+        },
+        {
+          "name": "Birth Certificate Form",
+          "code": "BIRTH_CERT_FORM",
+          "active": true
+        },
+        {
+          "name": "Death Certificate Form",
+          "code": "DEATH_CERT_FORM",
+          "active": true
+        },
+        {
+          "name": "File Muscle pad",
+          "code": "FILE_MUSCLE_PAD",
+          "active": true
+        },
+        {
+          "name": "Mayor ji's pads",
+          "code": "MAYOR_JI_PADS",
+          "active": true
+        },
+        {
+          "name": "Mayor's seal",
+          "code": "MAYORS_SEAL",
+          "active": true
+        },
+        {
+          "name": "Self made declaration",
+          "code": "SELF_MADE_DECLARATION",
+          "active": true
+        },
+        {
+          "name": "Attendance master book",
+          "code": "ATTENDANCE_MASTER_BOOK",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Computer and Printer",
+      "code": "COMPUTER_PRINTER",
+      "active": true,
+      "subItems": [
+        {
+          "name": "LCD/LED Monitors",
+          "code": "LCD_LED_MONITORS",
+          "active": true
+        },
+        {
+          "name": "Keyboards",
+          "code": "KEYBOARDS",
+          "active": true
+        },
+        {
+          "name": "Pen Drives",
+          "code": "PEN_DRIVES",
+          "active": true
+        },
+        {
+          "name": "External Hard Drives",
+          "code": "EXTERNAL_HARD_DRIVES",
+          "active": true
+        },
+        {
+          "name": "Ink Cartridges",
+          "code": "INK_CARTRIDGES",
+          "active": true
+        },
+        {
+          "name": "Toner Cartridges",
+          "code": "TONER_CARTRIDGES",
+          "active": true
+        },
+        {
+          "name": "Repairing of Desktop/CPU/Laptop",
+          "code": "REPAIR_DESKTOP_CPU_LAPTOP",
+          "active": true
+        },
+        {
+          "name": "Repairing of Printer",
+          "code": "REPAIR_PRINTER",
+          "active": true
+        },
+        {
+          "name": "Maintenance of Computer/Printer/Laptop",
+          "code": "MAINTENANCE_COMPUTER_PRINTER_LAPTOP",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lighting",
+      "code": "LIGHTING",
+      "active": true,
+      "subItems": [
+        {
+          "name": "LED Street Lights",
+          "code": "LED_STREET_LIGHTS",
+          "active": true
+        },
+        {
+          "name": "Solar-Powered Street Lights",
+          "code": "SOLAR_POWERED_STREET_LIGHTS",
+          "active": true
+        },
+        {
+          "name": "Pole Mounted Lights",
+          "code": "POLE_MOUNTED_LIGHTS",
+          "active": true
+        },
+        {
+          "name": "Wiring and Cables",
+          "code": "WIRING_CABLES",
+          "active": true
+        },
+        {
+          "name": "LED STRIP LIGHT",
+          "code": "LED_STRIP_LIGHT",
+          "active": true
+        },
+        {
+          "name": "LED STRIP LIGHT Connector",
+          "code": "LED_STRIP_LIGHT_CONNECTOR",
+          "active": true
+        },
+        {
+          "name": "LED STRIP LIGHT Modules",
+          "code": "LED_STRIP_LIGHT_MODULES",
+          "active": true
+        },
+        {
+          "name": "LED Street LIGHT SWITCH BOX CUTOUT",
+          "code": "LED_STREET_SWITCH_BOX",
+          "active": true
+        },
+        {
+          "name": "LED Street Light Main SWITCH",
+          "code": "LED_STREET_MAIN_SWITCH",
+          "active": true
+        },
+        {
+          "name": "Steel Grip Tape",
+          "code": "STEEL_GRIP_TAPE",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Sanitations",
+      "code": "SANITATIONS",
+      "active": true,
+      "subItems": [
+        {
+          "name": "Garbage Bins",
+          "code": "GARBAGE_BINS",
+          "active": true
+        },
+        {
+          "name": "Detergents and Surface Cleaners",
+          "code": "DETERGENTS_SURFACE_CLEANERS",
+          "active": true
+        },
+        {
+          "name": "Cleaning Chemicals",
+          "code": "CLEANING_CHEMICALS",
+          "active": true
+        },
+        {
+          "name": "Room Freshener",
+          "code": "ROOM_FRESHENER",
+          "active": true
+        },
+        {
+          "name": "Hand Wash",
+          "code": "HAND_WASH",
+          "active": true
+        },
+        {
+          "name": "White Towel",
+          "code": "WHITE_TOWEL",
+          "active": true
+        },
+        {
+          "name": "Small Towel",
+          "code": "SMALL_TOWEL",
+          "active": true
+        },
+        {
+          "name": "Cleaning Liquide",
+          "code": "CLEANING_LIQUIDE",
+          "active": true
+        },
+        {
+          "name": "All-out Refill",
+          "code": "ALL_OUT_REFILL",
+          "active": true
+        },
+        {
+          "name": "Towel",
+          "code": "TOWEL",
+          "active": true
+        },
+        {
+          "name": "Harpic",
+          "code": "HARPIC",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vehicles Maintenance Item",
+      "code": "VEHICLES_MAINTENANCE",
+      "active": true,
+      "subItems": [
+        {
+          "name": "Lubricants",
+          "code": "LUBRICANTS",
+          "active": true
+        },
+        {
+          "name": "Coolants",
+          "code": "COOLANTS",
+          "active": true
+        },
+        {
+          "name": "Filters",
+          "code": "FILTERS",
+          "active": true
+        },
+        {
+          "name": "Tyres",
+          "code": "TYRES",
+          "active": true
+        },
+        {
+          "name": "Batteries",
+          "code": "BATTERIES",
+          "active": true
+        },
+        {
+          "name": "Tyre",
+          "code": "TYRE",
+          "active": true
+        },
+        {
+          "name": "Vehicle Repair",
+          "code": "VEHICLE_REPAIR",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Roads",
+      "code": "ROADS",
+      "active": true,
+      "subItems": [
+        {
+          "name": "Roads Maintenance",
+          "code": "ROADS_MAINTENANCE",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "LAND",
+      "code": "LAND",
+      "active": true,
+      "subItems": [
+        {
+          "name": "LAND MAINTENANCE",
+          "code": "LAND_MAINTENANCE",
+          "active": true
+        },
+        {
+          "name": "PARK MAINTENANCE",
+          "code": "PARK_MAINTENANCE",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Other",
+      "code": "OTHER",
+      "active": true,
+      "subItems": [
+        {
+          "name": "Other",
+          "code": "OTHER_ITEM",
+          "active": true
+        },
+        {
+          "name": "Repairing of Desktop/CPU/Laptop",
+          "code": "REPAIR_DESKTOP_CPU_LAPTOP",
+          "active": true
+        },
+        {
+          "name": "Repairing of Printer",
+          "code": "REPAIR_PRINTER",
+          "active": true
+        },
+        {
+          "name": "Towel",
+          "code": "TOWEL_OTHER",
+          "active": true
+        },
+        {
+          "name": "Self made declaration",
+          "code": "SELF_MADE_DECLARATION",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Electricals",
+      "code": "ELECTRICALS",
+      "active": true,
+      "subItems": [
+        {
+          "name": "FAN Repair",
+          "code": "FAN_REPAIR",
+          "active": true
+        },
+        {
+          "name": "Pump Repair",
+          "code": "PUMP_REPAIR",
+          "active": true
+        },
+        {
+          "name": "Cooler Repair",
+          "code": "COOLER_REPAIR",
+          "active": true
+        },
+        {
+          "name": "Air Conditioner AC Repair",
+          "code": "AC_REPAIR",
+          "active": true
+        },
+        {
+          "name": "Water Cooler Repair",
+          "code": "WATER_COOLER_REPAIR",
+          "active": true
+        },
+        {
+          "name": "CCTV Camera",
+          "code": "CCTV_CAMERA",
+          "active": true
+        }
+      ]
+    }
+  ]
+}
