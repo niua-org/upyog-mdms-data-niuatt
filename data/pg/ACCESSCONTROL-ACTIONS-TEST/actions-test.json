@@ -21423,7 +21423,7 @@
          "serviceCode": "",
          "code": "",
          "path": "",
-         "navigationURL": "/digit-ui/citizen/obps/stakeholder/apply/stakeholder-docs-required",
+         "navigationURL": "/digit-ui/citizen/obpsv2/building-permit",
          "leftIcon": "OBPSIcon",
          "rightIcon": "",
          "queryParams": "",

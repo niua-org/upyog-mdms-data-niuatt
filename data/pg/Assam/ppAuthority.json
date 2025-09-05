@@ -6,8 +6,18 @@
         "id": 1,
         "stateLGDCode": 18,
         "districtLGDCode": 618,
+        "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "ppAuthorityName": "GMDA",
+        "ppAuthorityName": "Guwahati Metropolitan Development Authority",
+        "active": true
+      },
+      {
+        "id": 2,
+        "stateLGDCode": 18,
+        "districtLGDCode": 291,
+        "districtCode": "KAMRUP_R",
+        "ppAuthorityCode": "GMDA",
+        "ppAuthorityName": "Guwahati Metropolitan Development Authority",
         "active": true
       }
     ]

@@ -1,0 +1,86 @@
+{
+  "tenantId": "as",
+  "moduleName": "BPA",
+  "mouzas": [
+    {
+      "id": 1,
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "districtCode": "KAMRUP_METRO",
+      "ppAuthorityCode": "GMDA",
+      "active": true
+    },
+    {
+      "id": 2,
+      "mouzaCode": "GUWAHATI",
+      "mouzaName": "Guwahati",
+      "districtCode": "KAMRUP_METRO",
+      "ppAuthorityCode": "GMDA",
+      "active": true
+    },
+    {
+      "id": 3,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "districtCode": "KAMRUP_METRO",
+      "ppAuthorityCode": "GMDA",
+      "active": true
+    },
+    {
+      "id": 4,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "districtCode": "KAMRUP_METRO",
+      "ppAuthorityCode": "GMDA",
+      "active": true
+    },
+    {
+      "id": 5,
+      "mouzaCode": "RAMCHARANI",
+      "mouzaName": "Ramcharani",
+      "districtCode": "KAMRUP_METRO",
+      "ppAuthorityCode": "GMDA",
+      "active": true
+    },
+    {
+      "id": 6,
+      "mouzaCode": "DAKHINRANI",
+      "mouzaName": "Dakhinrani",
+      "districtCode": "KAMRUP_METRO",
+      "ppAuthorityCode": "GMDA",
+      "active": true
+    },
+    {
+      "id": 7,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "districtCode": "KAMRUP_METRO",
+      "ppAuthorityCode": "GMDA",
+      "active": true
+    },
+    {
+      "id": 8,
+      "mouzaCode": "CHAYANI",
+      "mouzaName": "Chayani",
+      "districtCode": "KAMRUP_R",
+      "ppAuthorityCode": "GMDA",
+      "active": true
+    },
+    {
+      "id": 9,
+      "mouzaCode": "DAKHINGAON",
+      "mouzaName": "Dakhingaon",
+      "districtCode": "KAMRUP_R",
+      "ppAuthorityCode": "GMDA",
+      "active": true
+    },
+    {
+      "id": 10,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "districtCode": "KAMRUP_R",
+      "ppAuthorityCode": "GMDA",
+      "active": true
+    }
+  ]
+}

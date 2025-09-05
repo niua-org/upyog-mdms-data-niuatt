@@ -6,6 +6,7 @@
         "id": 1,
         "stateLGDCode": 18,
         "districtLGDCode": 618,
+        "districtCode": "KAMRUP_METRO",
         "planningAreaCode": "GUWAHATI",
         "planningAreaName": "Guwahati",
         "active": true
@@ -14,8 +15,27 @@
         "id": 2,
         "stateLGDCode": 18,
         "districtLGDCode": 618,
+        "districtCode": "KAMRUP_METRO",
         "planningAreaCode": "NORTH_GUWAHATI",
         "planningAreaName": "North Guwahati",
+        "active": true
+      },
+      {
+        "id": 3,
+        "stateLGDCode": 18,
+        "districtLGDCode": 291,
+        "districtCode": "KAMRUP_R",
+        "planningAreaCode": "PALASBARI_MP",
+        "planningAreaName": "Palasbari MP",
+        "active": true
+      },
+      {
+        "id": 4,
+        "stateLGDCode": 18,
+        "districtLGDCode": 291,
+        "districtCode": "KAMRUP_R",
+        "planningAreaCode": "RANGIA_MP",
+        "planningAreaName": "Rangia MP",
         "active": true
       }
     ]
