@@ -1,0 +1,12 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "states": [
+      {
+        "id": 1,
+        "stateCode": "ASSAM",
+        "stateName": "Assam",
+        "active": true
+      }
+    ]
+  }

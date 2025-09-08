@@ -6,80 +6,1267 @@
       "id": 1,
       "mouzaCode": "ULUBARI",
       "mouzaName": "Ulubari",
-      "districtCode": "KAMRUP_METRO",
-      "ppAuthorityCode": "GMDA",
+      "revenueVillageCode": "SAHAR_GUWAHATI_4TH",
       "active": true
     },
     {
       "id": 2,
-      "mouzaCode": "GUWAHATI",
-      "mouzaName": "Guwahati",
-      "districtCode": "KAMRUP_METRO",
-      "ppAuthorityCode": "GMDA",
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "SAHAR_GUWAHATI_5TH",
       "active": true
     },
     {
       "id": 3,
-      "mouzaCode": "JALUKBARI",
-      "mouzaName": "Jalukbari",
-      "districtCode": "KAMRUP_METRO",
-      "ppAuthorityCode": "GMDA",
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "SAHAR_GUWAHATI_6TH",
       "active": true
     },
     {
       "id": 4,
-      "mouzaCode": "BELTOLA",
-      "mouzaName": "Beltola",
-      "districtCode": "KAMRUP_METRO",
-      "ppAuthorityCode": "GMDA",
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "SAHAR_GUWAHATI_7TH",
       "active": true
     },
     {
       "id": 5,
-      "mouzaCode": "RAMCHARANI",
-      "mouzaName": "Ramcharani",
-      "districtCode": "KAMRUP_METRO",
-      "ppAuthorityCode": "GMDA",
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "SAHAR_ULUBARI_I",
       "active": true
     },
     {
       "id": 6,
-      "mouzaCode": "DAKHINRANI",
-      "mouzaName": "Dakhinrani",
-      "districtCode": "KAMRUP_METRO",
-      "ppAuthorityCode": "GMDA",
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "SAHAR_ULUBARI_II",
       "active": true
     },
     {
       "id": 7,
-      "mouzaCode": "SILASUNDURIGHOPA",
-      "mouzaName": "Silasundurighopa",
-      "districtCode": "KAMRUP_METRO",
-      "ppAuthorityCode": "GMDA",
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "SAHAR_ULUBARI_III",
       "active": true
     },
     {
       "id": 8,
-      "mouzaCode": "CHAYANI",
-      "mouzaName": "Chayani",
-      "districtCode": "KAMRUP_R",
-      "ppAuthorityCode": "GMDA",
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "SAHAR_SARANIA_I",
       "active": true
     },
     {
       "id": 9,
-      "mouzaCode": "DAKHINGAON",
-      "mouzaName": "Dakhingaon",
-      "districtCode": "KAMRUP_R",
-      "ppAuthorityCode": "GMDA",
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "SAHAR_SARANIA_II",
       "active": true
     },
     {
       "id": 10,
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "SAHAR_BAMUNIMAIDAM",
+      "active": true
+    },
+    {
+      "id": 11,
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "BAMUNIMAIDAM",
+      "active": true
+    },
+    {
+      "id": 12,
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "NOONMATI_GAON",
+      "active": true
+    },
+    {
+      "id": 13,
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "ULUBARI_GAON",
+      "active": true
+    },
+    {
+      "id": 14,
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "RAMCHAHILL_GRANT",
+      "active": true
+    },
+    {
+      "id": 15,
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "CHUNCHALI_GRANT",
+      "active": true
+    },
+    {
+      "id": 16,
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "SAHAR_KHARGHULI",
+      "active": true
+    },
+    {
+      "id": 17,
+      "mouzaCode": "ULUBARI",
+      "mouzaName": "Ulubari",
+      "revenueVillageCode": "CLEARANCE_GARDEN",
+      "active": true
+    },
+    {
+      "id": 18,
+      "mouzaCode": "GUWAHATI",
+      "mouzaName": "Guwahati",
+      "revenueVillageCode": "SAHAR_GUWAHATI_1ST_PART",
+      "active": true
+    },
+    {
+      "id": 19,
+      "mouzaCode": "GUWAHATI",
+      "mouzaName": "Guwahati",
+      "revenueVillageCode": "SAHAR_GUWAHATI_2ND_PART",
+      "active": true
+    },
+    {
+      "id": 20,
+      "mouzaCode": "GUWAHATI",
+      "mouzaName": "Guwahati",
+      "revenueVillageCode": "SAHAR_GUWAHATI_3RD_PART",
+      "active": true
+    },
+    {
+      "id": 21,
+      "mouzaCode": "GUWAHATI",
+      "mouzaName": "Guwahati",
+      "revenueVillageCode": "SAHAR_GUWAHATI_8TH_PART",
+      "active": true
+    },
+    {
+      "id": 22,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "DEHAN_GARIGAON",
+      "active": true
+    },
+    {
+      "id": 23,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "KACHARI_GARIGAON",
+      "active": true
+    },
+    {
+      "id": 24,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "PACHIM_JALUKBARI",
+      "active": true
+    },
+    {
+      "id": 25,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "DAKHIN_JALUKBARI",
+      "active": true
+    },
+    {
+      "id": 26,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "MAJ_JALUKBARI",
+      "active": true
+    },
+    {
+      "id": 27,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "UTTAR_JALUKABARI",
+      "active": true
+    },
+    {
+      "id": 28,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "SADILAPUR",
+      "active": true
+    },
+    {
+      "id": 29,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "TETELIA",
+      "active": true
+    },
+    {
+      "id": 30,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "TETELIA_2_NO",
+      "active": true
+    },
+    {
+      "id": 31,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "PACHIM_BORAGAON",
+      "active": true
+    },
+    {
+      "id": 32,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "PUB_BORAGAON",
+      "active": true
+    },
+    {
+      "id": 33,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "PUB_BORAGAON_2_NO",
+      "active": true
+    },
+    {
+      "id": 34,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "PACHIM_BORAGAON_2_NO",
+      "active": true
+    },
+    {
+      "id": 35,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "GOTANAGAR",
+      "active": true
+    },
+    {
+      "id": 36,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "GOTANAGAR_NC",
+      "active": true
+    },
+    {
+      "id": 37,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "MALIGAON",
+      "active": true
+    },
+    {
+      "id": 38,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "MALIGAON_NC",
+      "active": true
+    },
+    {
+      "id": 39,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "DURGASAROBAR_NC",
+      "active": true
+    },
+    {
+      "id": 40,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "DURGASAROBAR_GAON",
+      "active": true
+    },
+    {
+      "id": 41,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "FATASIL_2_NO",
+      "active": true
+    },
+    {
+      "id": 42,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "KAMAKHYA",
+      "active": true
+    },
+    {
+      "id": 43,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "GORPANDU_KUMARPARA",
+      "active": true
+    },
+    {
+      "id": 44,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "BHARALUMUKH_GAON",
+      "active": true
+    },
+    {
+      "id": 45,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "SAHAR_BHARALUMUKH_I",
+      "active": true
+    },
+    {
+      "id": 46,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "SAHAR_BHARALUMUKH_II",
+      "active": true
+    },
+    {
+      "id": 47,
+      "mouzaCode": "JALUKBARI",
+      "mouzaName": "Jalukbari",
+      "revenueVillageCode": "SAHAR_BHARALUMUKH_NC",
+      "active": true
+    },
+    {
+      "id": 48,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BETKUCHI",
+      "active": true
+    },
+    {
+      "id": 49,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "DHALBAMA",
+      "active": true
+    },
+    {
+      "id": 50,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "JYOTIKUCHI",
+      "active": true
+    },
+    {
+      "id": 51,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "FATASIL_GAON",
+      "active": true
+    },
+    {
+      "id": 52,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BARSAPARA",
+      "active": true
+    },
+    {
+      "id": 53,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "KAHILIPARA_GAON",
+      "active": true
+    },
+    {
+      "id": 54,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "KAHILIPARA_2_NO",
+      "active": true
+    },
+    {
+      "id": 55,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "KAHILIPARA_3_NO",
+      "active": true
+    },
+    {
+      "id": 56,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "NARAKASUR",
+      "active": true
+    },
+    {
+      "id": 57,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "ODALBAKRA_2_NO",
+      "active": true
+    },
+    {
+      "id": 58,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "ODALBAKRA",
+      "active": true
+    },
+    {
+      "id": 59,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "DAKHINGAON",
+      "active": true
+    },
+    {
+      "id": 60,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "SAUKUCHI",
+      "active": true
+    },
+    {
+      "id": 61,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "SARUSAJAI",
+      "active": true
+    },
+    {
+      "id": 62,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BARSAJAI",
+      "active": true
+    },
+    {
+      "id": 63,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "NATBAMA",
+      "active": true
+    },
+    {
+      "id": 64,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "HATIGAON",
+      "active": true
+    },
+    {
+      "id": 65,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "JATIA",
+      "active": true
+    },
+    {
+      "id": 66,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "DISPUR",
+      "active": true
+    },
+    {
+      "id": 67,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "DISPUR_2_NO",
+      "active": true
+    },
+    {
+      "id": 68,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BHOGORGAON",
+      "active": true
+    },
+    {
+      "id": 69,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "JAPORIGOG_1_NO",
+      "active": true
+    },
+    {
+      "id": 70,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "JAPORIGOG_2_NO",
+      "active": true
+    },
+    {
+      "id": 71,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "HENGRABARI_GAON",
+      "active": true
+    },
+    {
+      "id": 72,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "HENGRABARI_1_NO",
+      "active": true
+    },
+    {
+      "id": 73,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "GEETANAGAR",
+      "active": true
+    },
+    {
+      "id": 74,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "SARUMATARIA",
+      "active": true
+    },
+    {
+      "id": 75,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "RUKMINIGAON",
+      "active": true
+    },
+    {
+      "id": 76,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BARMATARIA",
+      "active": true
+    },
+    {
+      "id": 77,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "KHANAPARA_GAON",
+      "active": true
+    },
+    {
+      "id": 78,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "KHANAPARA_2_NO",
+      "active": true
+    },
+    {
+      "id": 79,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "MAIDAM_1_NO",
+      "active": true
+    },
+    {
+      "id": 80,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "MAIDAM_2_NO",
+      "active": true
+    },
+    {
+      "id": 81,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BASISTHA",
+      "active": true
+    },
+    {
+      "id": 82,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BASISTHA_2_NO",
+      "active": true
+    },
+    {
+      "id": 83,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BASISTHA_MANDIR",
+      "active": true
+    },
+    {
+      "id": 84,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "DWARANDHA",
+      "active": true
+    },
+    {
+      "id": 85,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BAGHARBARI",
+      "active": true
+    },
+    {
+      "id": 86,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BAGHARBARI_2_NO",
+      "active": true
+    },
+    {
+      "id": 87,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "SATGAON",
+      "active": true
+    },
+    {
+      "id": 88,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BIRKUCHI",
+      "active": true
+    },
+    {
+      "id": 89,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "KALITAKUCHI",
+      "active": true
+    },
+    {
+      "id": 90,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "MADGHARIA_1_NO",
+      "active": true
+    },
+    {
+      "id": 91,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "MADGHARIA_2_NO",
+      "active": true
+    },
+    {
+      "id": 92,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "MADGHARIA_3_NO",
+      "active": true
+    },
+    {
+      "id": 93,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "NOONMATI_GARDEN",
+      "active": true
+    },
+    {
+      "id": 94,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "JANASIMALU_PT",
+      "active": true
+    },
+    {
+      "id": 95,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "JANASIMALU_PT_AMSING",
+      "active": true
+    },
+    {
+      "id": 96,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "JANASIMALU_NC",
+      "active": true
+    },
+    {
+      "id": 97,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "KALITAKUCHI_NC",
+      "active": true
+    },
+    {
+      "id": 98,
+      "mouzaCode": "RAMCHARANI",
+      "mouzaName": "Ramcharani",
+      "revenueVillageCode": "AZARA_GAON",
+      "active": true
+    },
+    {
+      "id": 99,
+      "mouzaCode": "RAMCHARANI",
+      "mouzaName": "Ramcharani",
+      "revenueVillageCode": "MIKIRPARA_CHAKORDOI",
+      "active": true
+    },
+    {
+      "id": 100,
+      "mouzaCode": "RAMCHARANI",
+      "mouzaName": "Ramcharani",
+      "revenueVillageCode": "PAMOHI",
+      "active": true
+    },
+    {
+      "id": 101,
+      "mouzaCode": "RAMCHARANI",
+      "mouzaName": "Ramcharani",
+      "revenueVillageCode": "DHRAPUR",
+      "active": true
+    },
+    {
+      "id": 102,
+      "mouzaCode": "RAMCHARANI",
+      "mouzaName": "Ramcharani",
+      "revenueVillageCode": "GARAL",
+      "active": true
+    },
+    {
+      "id": 103,
+      "mouzaCode": "RAMCHARANI",
+      "mouzaName": "Ramcharani",
+      "revenueVillageCode": "KENDUKUCHI",
+      "active": true
+    },
+    {
+      "id": 104,
+      "mouzaCode": "RAMCHARANI",
+      "mouzaName": "Ramcharani",
+      "revenueVillageCode": "MIRZAPUR",
+      "active": true
+    },
+    {
+      "id": 105,
+      "mouzaCode": "DAKHINRANI",
+      "mouzaName": "Dakhinrani",
+      "revenueVillageCode": "BORJHAR",
+      "active": true
+    },
+    {
+      "id": 106,
+      "mouzaCode": "DAKHINRANI",
+      "mouzaName": "Dakhinrani",
+      "revenueVillageCode": "JUGIPARA",
+      "active": true
+    },
+    {
+      "id": 107,
+      "mouzaCode": "DAKHINRANI",
+      "mouzaName": "Dakhinrani",
+      "revenueVillageCode": "KAHIKUCHI",
+      "active": true
+    },
+    {
+      "id": 108,
+      "mouzaCode": "DAKHINRANI",
+      "mouzaName": "Dakhinrani",
+      "revenueVillageCode": "JAWE",
+      "active": true
+    },
+    {
+      "id": 109,
+      "mouzaCode": "DAKHINRANI",
+      "mouzaName": "Dakhinrani",
+      "revenueVillageCode": "MATIKUTUNI",
+      "active": true
+    },
+    {
+      "id": 110,
+      "mouzaCode": "DAKHINRANI",
+      "mouzaName": "Dakhinrani",
+      "revenueVillageCode": "PASENIAPARA_PT",
+      "active": true
+    },
+    {
+      "id": 111,
+      "mouzaCode": "DAKHINRANI",
+      "mouzaName": "Dakhinrani",
+      "revenueVillageCode": "DEOR_ALI",
+      "active": true
+    },
+    {
+      "id": 112,
+      "mouzaCode": "DAKHINRANI",
+      "mouzaName": "Dakhinrani",
+      "revenueVillageCode": "KAMARGAON",
+      "active": true
+    },
+    {
+      "id": 113,
+      "mouzaCode": "DAKHINRANI",
+      "mouzaName": "Dakhinrani",
+      "revenueVillageCode": "JANGALIAPARA",
+      "active": true
+    },
+    {
+      "id": 114,
+      "mouzaCode": "DAKHINRANI",
+      "mouzaName": "Dakhinrani",
+      "revenueVillageCode": "PATGAON_PT",
+      "active": true
+    },
+    {
+      "id": 115,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "AMINGAON",
+      "active": true
+    },
+    {
+      "id": 116,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "GAURIPUR",
+      "active": true
+    },
+    {
+      "id": 117,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "GHORAJAN",
+      "active": true
+    },
+    {
+      "id": 118,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "NUMALIJALAH",
+      "active": true
+    },
+    {
+      "id": 119,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "SILA_GRANT",
+      "active": true
+    },
+    {
+      "id": 120,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "SILAMAHAIKHAITI",
+      "active": true
+    },
+    {
+      "id": 121,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "TILLING_GOAN",
+      "active": true
+    },
+    {
+      "id": 122,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "NORTH_GUWAHATI",
+      "active": true
+    },
+    {
+      "id": 123,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "RANGMAHAL_PT",
+      "active": true
+    },
+    {
+      "id": 124,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "ABHOYPUR",
+      "active": true
+    },
+    {
+      "id": 125,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "FULUNG_PT",
+      "active": true
+    },
+    {
+      "id": 126,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "BAMUNIGAON_PT",
+      "active": true
+    },
+    {
+      "id": 127,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "BARCHANDRA",
+      "active": true
+    },
+    {
+      "id": 128,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "BARCHANDRA_GRANT",
+      "active": true
+    },
+    {
+      "id": 129,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "RUDRESWAR",
+      "active": true
+    },
+    {
+      "id": 130,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BIRKUCHI_PANIKHAITI",
+      "active": true
+    },
+    {
+      "id": 131,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BIRKUCHI_NC",
+      "active": true
+    },
+    {
+      "id": 132,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BONDA_GAON",
+      "active": true
+    },
+    {
+      "id": 133,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BONDA_GRANT_I",
+      "active": true
+    },
+    {
+      "id": 134,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BONDA_GRANT_II",
+      "active": true
+    },
+    {
+      "id": 135,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "BONDA_NC",
+      "active": true
+    },
+    {
+      "id": 136,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "KHARGHULI_NC",
+      "active": true
+    },
+    {
+      "id": 137,
+      "mouzaCode": "BELTOLA",
+      "mouzaName": "Beltola",
+      "revenueVillageCode": "KHARGHULi_GAON",
+      "active": true
+    },
+    {
+      "id": 138,
+      "mouzaCode": "CHAYANI",
+      "mouzaName": "Chayani",
+      "revenueVillageCode": "SALESALA",
+      "active": true
+    },
+    {
+      "id": 139,
+      "mouzaCode": "CHAYANI",
+      "mouzaName": "Chayani",
+      "revenueVillageCode": "SATHIKORPA",
+      "active": true
+    },
+    {
+      "id": 140,
+      "mouzaCode": "CHAYANI",
+      "mouzaName": "Chayani",
+      "revenueVillageCode": "KAITHASIDDHI",
+      "active": true
+    },
+    {
+      "id": 141,
+      "mouzaCode": "CHAYANI",
+      "mouzaName": "Chayani",
+      "revenueVillageCode": "BONGRA",
+      "active": true
+    },
+    {
+      "id": 142,
+      "mouzaCode": "DAKHINRANI",
+      "mouzaName": "Dakhinrani",
+      "revenueVillageCode": "PASENIAPARA_PT_KAMRUP",
+      "active": true
+    },
+    {
+      "id": 143,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "BALAI_BEEL",
+      "active": true
+    },
+    {
+      "id": 144,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "CHANG_CHARI_PT",
+      "active": true
+    },
+    {
+      "id": 145,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "JALAH",
+      "active": true
+    },
+    {
+      "id": 146,
+      "mouzaCode": "DAKHINGAON",
+      "mouzaName": "Dakhingaon",
+      "revenueVillageCode": "ANDHREJULI_PT",
+      "active": true
+    },
+    {
+      "id": 147,
+      "mouzaCode": "DAKHINGAON",
+      "mouzaName": "Dakhingaon",
+      "revenueVillageCode": "BATABARI_PT",
+      "active": true
+    },
+    {
+      "id": 148,
+      "mouzaCode": "DAKHINGAON",
+      "mouzaName": "Dakhingaon",
+      "revenueVillageCode": "KACHARI_ALIBARI_PT",
+      "active": true
+    },
+    {
+      "id": 149,
+      "mouzaCode": "DAKHINGAON",
+      "mouzaName": "Dakhingaon",
+      "revenueVillageCode": "RANGAPARA_PT",
+      "active": true
+    },
+    {
+      "id": 150,
+      "mouzaCode": "DAKHINGAON",
+      "mouzaName": "Dakhingaon",
+      "revenueVillageCode": "SAJANPARA_PT",
+      "active": true
+    },
+    {
+      "id": 151,
+      "mouzaCode": "DAKHINGAON",
+      "mouzaName": "Dakhingaon",
+      "revenueVillageCode": "RAJAPANICHANDA_PT",
+      "active": true
+    },
+    {
+      "id": 152,
+      "mouzaCode": "DAKHINGAON",
+      "mouzaName": "Dakhingaon",
+      "revenueVillageCode": "KHENA_ALIBARI_PT",
+      "active": true
+    },
+    {
+      "id": 153,
+      "mouzaCode": "DAKHINGAON",
+      "mouzaName": "Dakhingaon",
+      "revenueVillageCode": "BAHUPARA_PT",
+      "active": true
+    },
+    {
+      "id": 154,
+      "mouzaCode": "CHAYANI",
+      "mouzaName": "Chayani",
+      "revenueVillageCode": "LOSANA",
+      "active": true
+    },
+    {
+      "id": 155,
+      "mouzaCode": "CHAYANI",
+      "mouzaName": "Chayani",
+      "revenueVillageCode": "MALIATA_PT",
+      "active": true
+    },
+    {
+      "id": 156,
+      "mouzaCode": "CHAYANI",
+      "mouzaName": "Chayani",
+      "revenueVillageCode": "KAMARGAON_PT",
+      "active": true
+    },
+    {
+      "id": 157,
       "mouzaCode": "PUB_BANGSAR",
       "mouzaName": "Pub Bangsar",
-      "districtCode": "KAMRUP_R",
-      "ppAuthorityCode": "GMDA",
+      "revenueVillageCode": "NIJ_BANGSAR",
+      "active": true
+    },
+    {
+      "id": 158,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "SANPARA_PT",
+      "active": true
+    },
+    {
+      "id": 159,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "AMBARI",
+      "active": true
+    },
+    {
+      "id": 160,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "BAMUN_SUALKUCHI",
+      "active": true
+    },
+    {
+      "id": 161,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "RAKHAKHINI_CHAR",
+      "active": true
+    },
+    {
+      "id": 162,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "RAKHAKHINI_CHAR_NCB",
+      "active": true
+    },
+    {
+      "id": 163,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "KISMAT_BANGSAR",
+      "active": true
+    },
+    {
+      "id": 164,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "GANDHMOU",
+      "active": true
+    },
+    {
+      "id": 165,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "NIJ_GANDHMOU",
+      "active": true
+    },
+    {
+      "id": 166,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "SINGIMARI_PT_1_NO",
+      "active": true
+    },
+    {
+      "id": 167,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "SINGIMARI_2_NO",
+      "active": true
+    },
+    {
+      "id": 168,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "SINGIMARI_3_NO",
+      "active": true
+    },
+    {
+      "id": 169,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "ROUMARI_GAON_PT",
+      "active": true
+    },
+    {
+      "id": 170,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "DALI_BARI",
+      "active": true
+    },
+    {
+      "id": 171,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "DALIBARI_PT_2_NO",
+      "active": true
+    },
+    {
+      "id": 172,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "DADARA_PT",
+      "active": true
+    },
+    {
+      "id": 173,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "CHARMAJULI_PAM",
+      "active": true
+    },
+    {
+      "id": 174,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "CHARMAJULI_NC",
+      "active": true
+    },
+    {
+      "id": 175,
+      "mouzaCode": "PUB_BANGSAR",
+      "mouzaName": "Pub Bangsar",
+      "revenueVillageCode": "CHARMAJULI_GAON_PT",
+      "active": true
+    },
+    {
+      "id": 176,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "NIJZ_SINDURI_GHOPA",
+      "active": true
+    },
+    {
+      "id": 177,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "DHOPARTARI_PT",
+      "active": true
+    },
+    {
+      "id": 178,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "KAROYBARI_PT",
+      "active": true
+    },
+    {
+      "id": 179,
+      "mouzaCode": "SILASUNDURIGHOPA",
+      "mouzaName": "Silasundurighopa",
+      "revenueVillageCode": "SILA",
+      "active": true
+    },
+    {
+      "id": 180,
+      "mouzaCode": "DAKHINRANI",
+      "mouzaName": "Dakhinrani",
+      "revenueVillageCode": "AGCIA_PT",
+      "active": true
+    },
+    {
+      "id": 181,
+      "mouzaCode": "RAMCHARANI",
+      "mouzaName": "Ramcharani",
+      "revenueVillageCode": "MAJIRGAON",
       "active": true
     }
   ]

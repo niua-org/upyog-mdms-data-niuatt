@@ -294,7 +294,7 @@
       },
       {
         "id": 30,
-        "revenueVillageCode": "2_NO_TETELIA",
+        "revenueVillageCode": "TETELIA_2_NO",
         "revenueVillageName": "2 No. Tetelia",
         "mouzaCode": "JALUKBARI",
         "districtCode": "KAMRUP_METRO",
@@ -324,7 +324,7 @@
       },
       {
         "id": 33,
-        "revenueVillageCode": "2_NO_PUB_BORAGAON",
+        "revenueVillageCode": "PUB_BORAGAON_2_NO",
         "revenueVillageName": "2 No. Pub Boragaon",
         "mouzaCode": "JALUKBARI",
         "districtCode": "KAMRUP_METRO",
@@ -334,7 +334,7 @@
       },
       {
         "id": 34,
-        "revenueVillageCode": "2_NO_PACHIM_BORAGAON",
+        "revenueVillageCode": "PACHIM_BORAGAON_2_NO",
         "revenueVillageName": "2 No. Pachim Boragaon",
         "mouzaCode": "JALUKBARI",
         "districtCode": "KAMRUP_METRO",
@@ -404,7 +404,7 @@
       },
       {
         "id": 41,
-        "revenueVillageCode": "2_NO_FATASIL",
+        "revenueVillageCode": "FATASIL_2_NO",
         "revenueVillageName": "2 No. Fatasil",
         "mouzaCode": "JALUKBARI",
         "districtCode": "KAMRUP_METRO",
@@ -534,7 +534,7 @@
       },
       {
         "id": 54,
-        "revenueVillageCode": "2_NO_KAHILIPARA",
+        "revenueVillageCode": "KAHILIPARA_2_NO",
         "revenueVillageName": "2 No. Kahilipara",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -544,7 +544,7 @@
       },
       {
         "id": 55,
-        "revenueVillageCode": "3_NO_KAHILIPARA",
+        "revenueVillageCode": "KAHILIPARA_3_NO",
         "revenueVillageName": "3 No. Kahilipara",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -564,7 +564,7 @@
       },
       {
         "id": 57,
-        "revenueVillageCode": "2_NO_ODALBAKRA",
+        "revenueVillageCode": "ODALBAKRA_2_NO",
         "revenueVillageName": "2 No. Odalbakra",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -664,7 +664,7 @@
       },
       {
         "id": 67,
-        "revenueVillageCode": "2_NO_DISPUR",
+        "revenueVillageCode": "DISPUR_2_NO",
         "revenueVillageName": "2 No. Dispur",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -684,7 +684,7 @@
       },
       {
         "id": 69,
-        "revenueVillageCode": "1_NO_JAPORIGOG",
+        "revenueVillageCode": "JAPORIGOG_1_NO",
         "revenueVillageName": "1 No. Japorigog",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -694,7 +694,7 @@
       },
       {
         "id": 70,
-        "revenueVillageCode": "2_NO_JAPORIGOG",
+        "revenueVillageCode": "JAPORIGOG_2_NO",
         "revenueVillageName": "2 No. Japorigog",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -714,7 +714,7 @@
       },
       {
         "id": 72,
-        "revenueVillageCode": "1_NO_HENGRABARI",
+        "revenueVillageCode": "HENGRABARI_1_NO",
         "revenueVillageName": "1 No. Hengrabari",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -774,7 +774,7 @@
       },
       {
         "id": 78,
-        "revenueVillageCode": "2_NO_KHANAPARA",
+        "revenueVillageCode": "KHANAPARA_2_NO",
         "revenueVillageName": "2 No. Khanapara",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -784,7 +784,7 @@
       },
       {
         "id": 79,
-        "revenueVillageCode": "1_NO_MAIDAM",
+        "revenueVillageCode": "MAIDAM_1_NO",
         "revenueVillageName": "1 No. Maidam",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -794,7 +794,7 @@
       },
       {
         "id": 80,
-        "revenueVillageCode": "2_NO_MAIDAM",
+        "revenueVillageCode": "MAIDAM_2_NO",
         "revenueVillageName": "2 No. Maidam",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -814,7 +814,7 @@
       },
       {
         "id": 82,
-        "revenueVillageCode": "2_NO_BASISTHA",
+        "revenueVillageCode": "BASISTHA_2_NO",
         "revenueVillageName": "2 No. Basistha",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -854,7 +854,7 @@
       },
       {
         "id": 86,
-        "revenueVillageCode": "2_NO_BAGHARBARI",
+        "revenueVillageCode": "BAGHARBARI_2_NO",
         "revenueVillageName": "2 No. Bagharbari",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -894,7 +894,7 @@
       },
       {
         "id": 90,
-        "revenueVillageCode": "1_NO_MADGHARIA",
+        "revenueVillageCode": "MADGHARIA_1_NO",
         "revenueVillageName": "1 No. Madgharia",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -904,7 +904,7 @@
       },
       {
         "id": 91,
-        "revenueVillageCode": "2_NO_MADGHARIA",
+        "revenueVillageCode": "MADGHARIA_2_NO",
         "revenueVillageName": "2 No. Madgharia",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -914,7 +914,7 @@
       },
       {
         "id": 92,
-        "revenueVillageCode": "3_NO_MADGHARIA",
+        "revenueVillageCode": "MADGHARIA_3_NO",
         "revenueVillageName": "3 No. Madgharia",
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
@@ -959,7 +959,7 @@
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "AMSING_GP",
         "active": true
       },
       {
@@ -969,7 +969,7 @@
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "AMSING_GP",
         "active": true
       },
       {
@@ -989,7 +989,7 @@
         "mouzaCode": "RAMCHARANI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "AZARA_GP",
         "active": true
       },
       {
@@ -999,7 +999,7 @@
         "mouzaCode": "RAMCHARANI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "AZARA_GP",
         "active": true
       },
       {
@@ -1029,17 +1029,17 @@
         "mouzaCode": "RAMCHARANI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "GARAL_GP",
         "active": true
       },
       {
         "id": 104,
         "revenueVillageCode": "MIRZAPUR",
         "revenueVillageName": "Mirzapur",
-        "mouzaCode": "RAMCHARARI",
+        "mouzaCode": "RAMCHARANI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "GARAL_GP",
         "active": true
       },
       {
@@ -1059,7 +1059,7 @@
         "mouzaCode": "DAKHINRANI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "KAHIKUCHI_GP",
         "active": true
       },
       {
@@ -1069,7 +1069,7 @@
         "mouzaCode": "DAKHINRANI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "KAHIKUCHI_GP",
         "active": true
       },
       {
@@ -1079,7 +1079,7 @@
         "mouzaCode": "DAKHINRANI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "KAHIKUCHI_GP",
         "active": true
       },
       {
@@ -1089,7 +1089,7 @@
         "mouzaCode": "DAKHINRANI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "KAHIKUCHI_GP",
         "active": true
       },
       {
@@ -1099,7 +1099,7 @@
         "mouzaCode": "DAKHINRANI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "KAHIKUCHI_GP",
         "active": true
       },
       {
@@ -1109,7 +1109,7 @@
         "mouzaCode": "DAKHINRANI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "KAHIKUCHI_GP",
         "active": true
       },
       {
@@ -1119,7 +1119,7 @@
         "mouzaCode": "DAKHINRANI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "KAHIKUCHI_GP",
         "active": true
       },
       {
@@ -1129,7 +1129,7 @@
         "mouzaCode": "DAKHINRANI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "KAHIKUCHI_GP",
         "active": true
       },
       {
@@ -1139,7 +1139,7 @@
         "mouzaCode": "DAKHINRANI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "KAHIKUCHI_GP",
         "active": true
       },
       {
@@ -1159,7 +1159,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "LACHITGARH_GP",
         "active": true
       },
       {
@@ -1169,7 +1169,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "LACHITGARH_GP",
         "active": true
       },
       {
@@ -1179,7 +1179,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "LACHITGARH_GP",
         "active": true
       },
       {
@@ -1189,7 +1189,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "LACHITGARH_GP",
         "active": true
       },
       {
@@ -1199,7 +1199,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "LACHITGARH_GP",
         "active": true
       },
       {
@@ -1219,7 +1219,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "NORTH_GUWAHATI_MB",
         "active": true
       },
       {
@@ -1239,7 +1239,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "RUDRESWAR_GP",
         "active": true
       },
       {
@@ -1249,7 +1249,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "RUDRESWAR_GP",
         "active": true
       },
       {
@@ -1259,7 +1259,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "RUDRESWAR_GP",
         "active": true
       },
       {
@@ -1269,7 +1269,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "RUDRESWAR_GP",
         "active": true
       },
       {
@@ -1279,7 +1279,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "RUDRESWAR_GP",
         "active": true
       },
       {
@@ -1289,7 +1289,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "RUDRESWAR_GP",
         "active": true
       },
       {
@@ -1309,7 +1309,7 @@
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "PANIKHAITI_GP",
         "active": true
       },
       {
@@ -1319,7 +1319,7 @@
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "PANIKHAITI_GP",
         "active": true
       },
       {
@@ -1329,7 +1329,7 @@
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "PANIKHAITI_GP",
         "active": true
       },
       {
@@ -1339,7 +1339,7 @@
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "PANIKHAITI_GP",
         "active": true
       },
       {
@@ -1349,7 +1349,7 @@
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "PANIKHAITI_GP",
         "active": true
       },
       {
@@ -1359,7 +1359,7 @@
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "PANIKHAITI_GP",
         "active": true
       },
       {
@@ -1369,7 +1369,7 @@
         "mouzaCode": "BELTOLA",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "PANIKHAITI_GP",
         "active": true
       },
       {
@@ -1389,7 +1389,7 @@
         "mouzaCode": "CHAYANI",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "BONGRA_GP",
         "active": true
       },
       {
@@ -1399,7 +1399,7 @@
         "mouzaCode": "CHAYANI",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "BONGRA_GP",
         "active": true
       },
       {
@@ -1409,7 +1409,7 @@
         "mouzaCode": "CHAYANI",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "BONGRA_GP",
         "active": true
       },
       {
@@ -1419,7 +1419,7 @@
         "mouzaCode": "DAKHINRANI",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "BONGRA_GP",
         "active": true
       },
       {
@@ -1439,7 +1439,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "SARAIGHAT_GP",
         "active": true
       },
       {
@@ -1449,7 +1449,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "SARAIGHAT_GP",
         "active": true
       },
       {
@@ -1469,7 +1469,7 @@
         "mouzaCode": "DAKHINGAON",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "RANIGAON_GP",
         "active": true
       },
       {
@@ -1479,7 +1479,7 @@
         "mouzaCode": "DAKHINGAON",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "RANIGAON_GP",
         "active": true
       },
       {
@@ -1489,7 +1489,7 @@
         "mouzaCode": "DAKHINGAON",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "RANIGAON_GP",
         "active": true
       },
       {
@@ -1499,7 +1499,7 @@
         "mouzaCode": "DAKHINGAON",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "RANIGAON_GP",
         "active": true
       },
       {
@@ -1509,7 +1509,7 @@
         "mouzaCode": "DAKHINGAON",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "RANIGAON_GP",
         "active": true
       },
       {
@@ -1519,7 +1519,7 @@
         "mouzaCode": "DAKHINGAON",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "RANIGAON_GP",
         "active": true
       },
       {
@@ -1529,7 +1529,7 @@
         "mouzaCode": "DAKHINGAON",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "RANIGAON_GP",
         "active": true
       },
       {
@@ -1549,7 +1549,7 @@
         "mouzaCode": "CHAYANI",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "MALIATA_GP",
         "active": true
       },
       {
@@ -1559,7 +1559,7 @@
         "mouzaCode": "CHAYANI",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "MALIATA_GP",
         "active": true
       },
       {
@@ -1579,7 +1579,7 @@
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "BANGSAR_GP",
         "active": true
       },
       {
@@ -1589,7 +1589,7 @@
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "BANGSAR_GP",
         "active": true
       },
       {
@@ -1609,7 +1609,7 @@
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "PUB_SUALKUCHI_GP",
         "active": true
       },
       {
@@ -1619,7 +1619,7 @@
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "PUB_SUALKUCHI_GP",
         "active": true
       },
       {
@@ -1639,7 +1639,7 @@
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "GANDHMOU_GP",
         "active": true
       },
       {
@@ -1649,12 +1649,12 @@
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "GANDHMOU_GP",
         "active": true
       },
       {
         "id": 166,
-        "revenueVillageCode": "1_NO_SINGIMARI_PT",
+        "revenueVillageCode": "SINGIMARI_PT_1_NO",
         "revenueVillageName": "1 No. Singimari Pt",
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
@@ -1664,22 +1664,22 @@
       },
       {
         "id": 167,
-        "revenueVillageCode": "2_NO_SINGIMARI",
+        "revenueVillageCode": "SINGIMARI_2_NO",
         "revenueVillageName": "2 No. Singimari",
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "SINGIMARI_GP",
         "active": true
       },
       {
         "id": 168,
-        "revenueVillageCode": "3_NO_SINGIMARI",
+        "revenueVillageCode": "SINGIMARI_3_NO",
         "revenueVillageName": "3 No. Singimari",
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "SINGIMARI_GP",
         "active": true
       },
       {
@@ -1689,7 +1689,7 @@
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "SINGIMARI_GP",
         "active": true
       },
       {
@@ -1704,12 +1704,12 @@
       },
       {
         "id": 171,
-        "revenueVillageCode": "2_NO_DALIBARI_PT",
+        "revenueVillageCode": "DALIBARI_PT_2_NO",
         "revenueVillageName": "2 No. Dalibari Pt",
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "DADARA_GP",
         "active": true
       },
       {
@@ -1719,7 +1719,7 @@
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "DADARA_GP",
         "active": true
       },
       {
@@ -1729,7 +1729,7 @@
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "DADARA_GP",
         "active": true
       },
       {
@@ -1739,7 +1739,7 @@
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "DADARA_GP",
         "active": true
       },
       {
@@ -1749,7 +1749,7 @@
         "mouzaCode": "PUB_BANGSAR",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "DADARA_GP",
         "active": true
       },
       {
@@ -1769,7 +1769,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "DHOPARTARI_GP",
         "active": true
       },
       {
@@ -1779,7 +1779,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "DHOPARTARI_GP",
         "active": true
       },
       {
@@ -1789,7 +1789,7 @@
         "mouzaCode": "SILASUNDURIGHOPA",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "DHOPARTARI_GP",
         "active": true
       },
       {
@@ -1809,7 +1809,7 @@
         "mouzaCode": "RAMCHARANI",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": null,
+        "bpAuthorityCode": "MAJIRGAON_GP",
         "active": true
       }
     ]

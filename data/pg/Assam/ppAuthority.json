@@ -6,6 +6,7 @@
         "id": 1,
         "stateLGDCode": 18,
         "districtLGDCode": 618,
+        "planningAreaCode": "GUWAHATI",
         "districtCode": "KAMRUP_METRO",
         "ppAuthorityCode": "GMDA",
         "ppAuthorityName": "Guwahati Metropolitan Development Authority",
@@ -14,7 +15,28 @@
       {
         "id": 2,
         "stateLGDCode": 18,
+        "districtLGDCode": 618,
+        "planningAreaCode": "NORTH_GUWAHATI",
+        "districtCode": "KAMRUP_METRO",
+        "ppAuthorityCode": "GMDA",
+        "ppAuthorityName": "Guwahati Metropolitan Development Authority",
+        "active": true
+      },
+      {
+        "id": 3,
+        "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "planningAreaCode": "PALASBARI_MP",
+        "districtCode": "KAMRUP_R",
+        "ppAuthorityCode": "GMDA",
+        "ppAuthorityName": "Guwahati Metropolitan Development Authority",
+        "active": true
+      },
+      {
+        "id": 4,
+        "stateLGDCode": 18,
+        "districtLGDCode": 291,
+        "planningAreaCode": "RANGIA_MP",
         "districtCode": "KAMRUP_R",
         "ppAuthorityCode": "GMDA",
         "ppAuthorityName": "Guwahati Metropolitan Development Authority",

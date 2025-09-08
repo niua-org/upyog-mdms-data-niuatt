@@ -6,6 +6,7 @@
         "id": 1,
         "stateLGDCode": 18,
         "districtLGDCode": 618,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "GUWAHATI_MC",
         "bpAuthorityName": "Guwahati Municipal Corporation",
         "active": true
@@ -14,6 +15,7 @@
         "id": 2,
         "stateLGDCode": 18,
         "districtLGDCode": 618,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "NORTH_GUWAHATI_MB",
         "bpAuthorityName": "North Guwahati Municipal Board",
         "active": true
@@ -22,6 +24,7 @@
         "id": 3,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "AMSING_GP",
         "bpAuthorityName": "Amsing GP",
         "active": true
@@ -30,6 +33,7 @@
         "id": 4,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "AZARA_GP",
         "bpAuthorityName": "Azara GP",
         "active": true
@@ -38,6 +42,7 @@
         "id": 5,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "DHARAPUR_GP",
         "bpAuthorityName": "Dharapur GP",
         "active": true
@@ -46,6 +51,7 @@
         "id": 6,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "GARAL_GP",
         "bpAuthorityName": "Garal GP",
         "active": true
@@ -54,6 +60,7 @@
         "id": 7,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "KAHIKUCHI_GP",
         "bpAuthorityName": "Kahikuchi GP",
         "active": true
@@ -62,6 +69,7 @@
         "id": 8,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "LACHITGARH_GP",
         "bpAuthorityName": "Lachitgarh GP",
         "active": true
@@ -70,6 +78,7 @@
         "id": 9,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "PANIKHAITI_GP",
         "bpAuthorityName": "Panikhaiti GP",
         "active": true
@@ -78,6 +87,7 @@
         "id": 10,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "BONGRA_GP",
         "bpAuthorityName": "Bongra GP",
         "active": true
@@ -86,6 +96,7 @@
         "id": 11,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "SARAIGHAT_GP",
         "bpAuthorityName": "Saraighat GP",
         "active": true
@@ -94,6 +105,7 @@
         "id": 12,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "RANIGAON_GP",
         "bpAuthorityName": "Ranigaon GP",
         "active": true
@@ -102,6 +114,7 @@
         "id": 13,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "MALIATA_GP",
         "bpAuthorityName": "Maliata GP",
         "active": true
@@ -110,6 +123,7 @@
         "id": 14,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "BANGSAR_GP",
         "bpAuthorityName": "Bangsar GP",
         "active": true
@@ -118,6 +132,7 @@
         "id": 15,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "PUB_SUALKUCHI_GP",
         "bpAuthorityName": "Pub Sualkuchi GP",
         "active": true
@@ -126,6 +141,7 @@
         "id": 16,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "GANDHMOU_GP",
         "bpAuthorityName": "Gandhmou GP",
         "active": true
@@ -134,6 +150,7 @@
         "id": 17,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "SINGIMARI_GP",
         "bpAuthorityName": "Singimari GP",
         "active": true
@@ -142,6 +159,7 @@
         "id": 18,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "DADARA_GP",
         "bpAuthorityName": "Dadara GP",
         "active": true
@@ -150,6 +168,7 @@
         "id": 19,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "DHOPARTARI_GP",
         "bpAuthorityName": "Dhopartari GP",
         "active": true
@@ -158,6 +177,7 @@
         "id": 20,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "MAJIRGAON_GP",
         "bpAuthorityName": "Majirgaon GP",
         "active": true
@@ -166,6 +186,7 @@
         "id": 21,
         "stateLGDCode": 18,
         "districtLGDCode": 291,
+        "ppAuthorityCode": "GMDA",
         "bpAuthorityCode": "RUDRESWAR_GP",
         "bpAuthorityName": "Rudreswar GP",
         "active": true
