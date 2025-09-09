@@ -1,0 +1,100 @@
+{
+  "tenantId": "as",
+  "moduleName": "BPA",
+  "DocMapping": [
+    {
+      "docTypes": [
+        {
+          "code": "APPL.UPDATEDJAMABANDI",
+          "required": false,
+          "allow": true,
+          "order": 1
+        },
+        {
+          "code": "APPL.UPDATEDTRACEMAP",
+          "required": false,
+          "allow": true,
+          "order": 2
+        },
+        {
+          "code": "APPL.OTHERLANDDOCUMENTS",
+          "required": false,
+          "allow": true,
+          "order": 3
+        },
+        {
+          "code": "APPL.REVENUERECEIPT",
+          "required": false,
+          "allow": true,
+          "order": 4
+        },
+        {
+          "code": "APPL.POWEROFATTORNEY",
+          "required": false,
+          "allow": true,
+          "order": 5
+        },
+        {
+          "code": "APPL.ADDIDAVITOFDECALRATION",
+          "required": false,
+          "allow": true,
+          "order": 6
+        },
+        {
+          "code": "APPL.ADDIDAVITOFUNDERTAKING",
+          "required": false,
+          "allow": true,
+          "order": 7
+        },
+        {
+          "code": "APPL.FORM34",
+          "required": false,
+          "allow": true,
+          "order": 8
+        },
+        {
+          "code": "APPL.FORM6",
+          "required": false,
+          "allow": true,
+          "order": 9
+        },
+        {
+          "code": "APPL.FORM7",
+          "required": false,
+          "allow": true,
+          "order": 10
+        },
+        {
+          "code": "APPL.FORM8",
+          "required": false,
+          "allow": true,
+          "order": 11
+        },
+        {
+          "code": "APPL.FORM9",
+          "required": false,
+          "allow": true,
+          "order": 12
+        },
+        {
+          "code": "APPL.FORM11",
+          "required": false,
+          "allow": true,
+          "order": 13
+        },
+        {
+          "code": "APPL.INDEMNITYBOND",
+          "required": false,
+          "allow": true,
+          "order": 14
+        },
+        {
+          "code": "APPL.ESTIMATEOFBUILDING",
+          "required": false,
+          "allow": true,
+          "order": 15
+        }
+      ]
+    }
+  ]
+}
