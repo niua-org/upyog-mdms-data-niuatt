@@ -21429,6 +21429,24 @@
          "queryParams": "",
          "sidebar": "digit-ui-links",
          "sidebarURL": "/digit-ui/citizen/obpsv2-home"
-       }    	
+       },
+       {
+         "id": 3073,
+         "name": "BPA_APPLY_FOR_REGISTER_AS_RTP",
+         "url": "digit-ui-card",
+         "displayName": "Register as RTP",
+         "orderNumber": 2,
+         "parentModule": "OBPSV2",
+         "enabled": true,
+         "serviceCode": "",
+         "code": "",
+         "path": "",
+         "navigationURL": "/digit-ui/citizen/obpsv2/rtp/home",
+         "leftIcon": "OBPSIcon",
+         "rightIcon": "",
+         "queryParams": "",
+         "sidebar": "digit-ui-links",
+         "sidebarURL": "/digit-ui/citizen/obpsv2-home"
+       }   	
   ]
 }

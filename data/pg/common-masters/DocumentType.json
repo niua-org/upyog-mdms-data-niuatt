@@ -164,6 +164,66 @@
       "active": true,
       "allowedFormat" : ["image/*", ".png", ".jpeg"],
       "maxFileSize": 3000
-    }
+    },
+    {
+          "code": "APPL.UPDATEDJAMABANDI",
+          "active": true
+        },
+        {
+          "code": "APPL.UPDATEDTRACEMAP",
+          "active": true
+        },
+        {
+          "code": "APPL.OTHERLANDDOCUMENTS",
+          "active": true
+        },
+        {
+          "code": "APPL.REVENUERECEIPT",
+          "active": true
+        },
+        {
+          "code": "APPL.POWEROFATTORNEY",
+          "active": true
+        },
+        {
+          "code": "APPL.ADDIDAVITOFDECALRATION",
+          "active": true
+        },
+        {
+          "code": "APPL.ADDIDAVITOFUNDERTAKING",
+          "active": true
+        },
+        {
+          "code": "APPL.FORM34",
+          "active": true
+        },
+        {
+          "code": "APPL.FORM6",
+          "active": true
+        },
+        {
+          "code": "APPL.FORM7",
+          "active": true
+        },
+        {
+          "code": "APPL.FORM8",
+          "active": true
+        },
+        {
+          "code": "APPL.FORM9",
+          "active": true
+        },
+        {
+          "code": "APPL.FORM11",
+          "active": true
+        },
+        {
+          "code": "APPL.INDEMNITYBOND",
+          "active": true
+        },
+        {
+          "code": "APPL.ESTIMATEOFBUILDING",
+          "active": true
+        }
   ]
 }
