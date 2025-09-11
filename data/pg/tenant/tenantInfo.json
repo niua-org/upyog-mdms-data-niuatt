@@ -10669,6 +10669,146 @@
         "HN",
         "EN"
       ]
+    },
+    {
+      "code": "pg.nagarpanchayatagwanpur",
+      "districtCode": "76",
+      "population": "150000",
+      "malePopulation": "78000",
+      "femalePopultion": "72000",
+      "workingPopulation": "35.0",
+      "literacyRate": "70.0",
+      "languagesSpoken": [
+        "PN",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pg.nagarpanchayatailam",
+      "districtCode": "77",
+      "population": "120000",
+      "malePopulation": "62400",
+      "femalePopultion": "57600",
+      "workingPopulation": "38.0",
+      "literacyRate": "72.0",
+      "languagesSpoken": [
+        "PN",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pg.nagarpanchayatajhuwa",
+      "districtCode": "78",
+      "population": "95000",
+      "malePopulation": "49400",
+      "femalePopultion": "45600",
+      "workingPopulation": "36.5",
+      "literacyRate": "68.0",
+      "languagesSpoken": [
+        "PN",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pg.nagarpanchayatambehatapeer",
+      "districtCode": "79",
+      "population": "85000",
+      "malePopulation": "44200",
+      "femalePopultion": "40800",
+      "workingPopulation": "34.0",
+      "literacyRate": "66.0",
+      "languagesSpoken": [
+        "PN",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pg.nagarpanchayatanpara",
+      "districtCode": "80",
+      "population": "110000",
+      "malePopulation": "57200",
+      "femalePopultion": "52800",
+      "workingPopulation": "37.0",
+      "literacyRate": "69.0",
+      "languagesSpoken": [
+        "PN",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pg.nagarpanchayatantu",
+      "districtCode": "81",
+      "population": "75000",
+      "malePopulation": "39000",
+      "femalePopultion": "36000",
+      "workingPopulation": "33.0",
+      "literacyRate": "65.0",
+      "languagesSpoken": [
+        "PN",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pg.nagarpanchayatasothar",
+      "districtCode": "82",
+      "population": "130000",
+      "malePopulation": "67600",
+      "femalePopultion": "62400",
+      "workingPopulation": "39.0",
+      "literacyRate": "71.0",
+      "languagesSpoken": [
+        "PN",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pg.dharamshala",
+      "districtCode": "83",
+      "population": "53000",
+      "malePopulation": "27560",
+      "femalePopultion": "25440",
+      "workingPopulation": "42.5",
+      "literacyRate": "86.0",
+      "languagesSpoken": [
+        "PN",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pg.mohali",
+      "districtCode": "84",
+      "population": "146000",
+      "malePopulation": "75920",
+      "femalePopultion": "70080",
+      "workingPopulation": "45.2",
+      "literacyRate": "83.6",
+      "languagesSpoken": [
+        "PN",
+        "HN",
+        "EN"
+      ]
+    },
+    {
+      "code": "pg.shimla",
+      "districtCode": "85",
+      "population": "171000",
+      "malePopulation": "88920",
+      "femalePopultion": "82080",
+      "workingPopulation": "41.8",
+      "literacyRate": "89.5",
+      "languagesSpoken": [
+        "PN",
+        "HN",
+        "EN"
+      ]
     }
   ]
 }

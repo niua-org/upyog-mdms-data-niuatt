@@ -3,6 +3,40 @@
   "moduleName": "tenant",
   "tenants": [
     {
+      "code": "pg.citya",
+      "name": "City A",
+      "description": null,
+      "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
+      "IdCardLogo": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/images/Upyog-logo.png",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mailto:citya@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "City A",
+        "localName": null,
+        "districtCode": "0",
+        "districtName": "Test District",
+        "districtTenantCode": "pg.citya",
+        "regionName": null,
+        "ulbGrade": "Test City",
+        "longitude": 73.8722642,
+        "latitude": 31.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "99",
+        "ddrName": "Test"
+      },
+      "address": "City A Address",
+      "contactNumber": "0978-7645345"
+    },
+    {
       "code": "pg.agranagarnigam",
       "name": "Agra Nagar Nigam",
       "description": null,
