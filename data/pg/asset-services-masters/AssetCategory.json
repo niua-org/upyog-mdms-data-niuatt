@@ -656,118 +656,209 @@
       "active": true,
       "assetParentCategory": "VEHICLE"
     },
-  {
-    "name": "Almeera",
-    "code": "ALMEERA",
-    "active": true,
-    "assetParentCategory": "FURNITURE"
-  },
-  {
-    "name": "Chair",
-    "code": "CHAIR",
-    "active": true,
-    "assetParentCategory": "FURNITURE"
-  },
-  {
-    "name": "Table",
-    "code": "TABLE",
-    "active": true,
-    "assetParentCategory": "FURNITURE"
-  },
-  {
-    "name": "Rack",
-    "code": "RACK",
-    "active": true,
-    "assetParentCategory": "FURNITURE"
-  },
-  {
-    "name": "Fan",
-    "code": "FAN",
-    "active": true,
-    "assetParentCategory": "FURNITURE"
-  },
-  {
-    "name": "Others",
-    "code": "OTHERS_FURNITURE",
-    "active": true,
-    "assetParentCategory": "FURNITURE"
-  },
-  {
-    "name": "Others",
-    "code": "OTHERS_AIR_CONDITIONER",
-    "active": true,
-    "assetParentCategory": "AIR_CONDITIONER"
-  },
-  {
-    "name": "Air Conditioner",
-    "code": "AIR_CONDITIONER",
-    "active": true,
-    "assetParentCategory": "AIR_CONDITIONER"
-  },
-  {
-    "name": "Others",
-    "code": "GENERATOR",
-    "active": true,
-    "assetParentCategory": "GENERATOR"
-  },
-  {
-    "name": "Others",
-    "code": "COMPUTERS_PRINTERS",
-    "active": true,
-    "assetParentCategory": "COMPUTERS_PRINTERS"
-  },
-  {
-    "name": "Others",
-    "code": "STATIONERY",
-    "active": true,
-    "assetParentCategory": "STATIONERY"
-  },
-  {
-    "name": "Others",
-    "code": "ELECTRICAL_ITEMS",
-    "active": true,
-    "assetParentCategory": "ELECTRICAL_ITEMS"
-  },
-  {
-    "name": "Others",
-    "code": "CHEMICAL_ITEMS",
-    "active": true,
-    "assetParentCategory": "CHEMICAL_ITEMS"
-  },
-  {
-    "name": "Broom",
-    "code": "BROOM",
-    "active": true,
-    "assetParentCategory": "OTHER"
-  },
-  {
-    "name": "Semi Under Ground Bins",
-    "code": "SEMI_UNDER_GROUND_BINS",
-    "active": true,
-    "assetParentCategory": "OTHER"
-  },
-  {
-    "name": "Smoke Gun Installation On Water Tanker",
-    "code": "SMOKE_GUN_INSTALLATION_ON_WATER_TANKER",
-    "active": true,
-    "assetParentCategory": "OTHER"
-  },
-  {
-    "name": "Dustbin Container",
-    "code": "DUSTBIN_CONTAINER",
-    "active": true,
-    "assetParentCategory": "OTHER"
-  },
-  {
-    "name": "Wheelbarrows",
-    "code": "WHEELBARROWS",
-    "active": true,
-    "assetParentCategory": "OTHER"
-  }
+    {
+      "name": "Almeera",
+      "code": "ALMEERA",
+      "active": true,
+      "assetParentCategory": "FURNITURE"
+    },
+    {
+      "name": "Chair",
+      "code": "CHAIR",
+      "active": true,
+      "assetParentCategory": "FURNITURE"
+    },
+    {
+      "name": "Table",
+      "code": "TABLE",
+      "active": true,
+      "assetParentCategory": "FURNITURE"
+    },
+    {
+      "name": "Rack",
+      "code": "RACK",
+      "active": true,
+      "assetParentCategory": "FURNITURE"
+    },
+    {
+      "name": "Fan",
+      "code": "FAN",
+      "active": true,
+      "assetParentCategory": "FURNITURE"
+    },
+    {
+      "name": "Others",
+      "code": "OTHERS_FURNITURE",
+      "active": true,
+      "assetParentCategory": "FURNITURE"
+    },
+    {
+      "name": "Others",
+      "code": "OTHERS_AIR_CONDITIONER",
+      "active": true,
+      "assetParentCategory": "AIR_CONDITIONER"
+    },
+    {
+      "name": "Air Conditioner",
+      "code": "AIR_CONDITIONER",
+      "active": true,
+      "assetParentCategory": "AIR_CONDITIONER"
+    },
+    {
+      "name": "Others",
+      "code": "GENERATOR",
+      "active": true,
+      "assetParentCategory": "GENERATOR"
+    },
+    {
+      "name": "Others",
+      "code": "COMPUTERS_PRINTERS",
+      "active": true,
+      "assetParentCategory": "COMPUTERS_PRINTERS"
+    },
+    {
+      "name": "Others",
+      "code": "STATIONERY",
+      "active": true,
+      "assetParentCategory": "STATIONERY"
+    },
+    {
+      "name": "Others",
+      "code": "ELECTRICAL_ITEMS",
+      "active": true,
+      "assetParentCategory": "ELECTRICAL_ITEMS"
+    },
+    {
+      "name": "Others",
+      "code": "CHEMICAL_ITEMS",
+      "active": true,
+      "assetParentCategory": "CHEMICAL_ITEMS"
+    },
+    {
+      "name": "PPE Kit",
+      "code": "PPE_KIT",
+      "active": true,
+      "assetParentCategory": "OTHER"
+    },
+    {
+      "name": "Dustbin",
+      "code": "DUSTBIN",
+      "active": true,
+      "assetParentCategory": "OTHER"
+    },
+    {
+      "name": "Diesel Engine",
+      "code": "DIESEL_ENGINE",
+      "active": true,
+      "assetParentCategory": "OTHER"
+    },
+    {
+      "name": "Broom",
+      "code": "BROOM",
+      "active": true,
+      "assetParentCategory": "OTHER"
+    },
+    {
+      "name": "Semi Under Ground Bins",
+      "code": "SEMI_UNDER_GROUND_BINS",
+      "active": true,
+      "assetParentCategory": "OTHER"
+    },
+    {
+      "name": "Smoke Gun Installation On Water Tanker",
+      "code": "SMOKE_GUN_INSTALLATION_ON_WATER_TANKER",
+      "active": true,
+      "assetParentCategory": "OTHER"
+    },
+    {
+      "name": "Dustbin Container",
+      "code": "DUSTBIN_CONTAINER",
+      "active": true,
+      "assetParentCategory": "OTHER"
+    },
+    {
+      "name": "Wheelbarrows",
+      "code": "WHEELBARROWS",
+      "active": true,
+      "assetParentCategory": "OTHER"
+    },
+    {
+      "name": "Cattle Catching/Gaushala",
+      "code": "CATTLE_CATCHING_/_GAUSHALA",
+      "active": true,
+      "assetParentCategory": "OTHERS"
+    },
+    {
+      "name": "Sewerage Treatment Plant",
+      "code": "SEWERAGE_TREATMENT_PLANT",
+      "active": true,
+      "assetParentCategory": "OTHERS"
+    },
+    {
+      "name": "Slaughter House/Burial Ground",
+      "code": "SLAUGHTER_HOUSE_/_BURUAL_GROUND",
+      "active": true,
+      "assetParentCategory": "OTHERS"
+    },
+    {
+      "name": "Sports Complex",
+      "code": "SPORTS_COMPLEX",
+      "active": true,
+      "assetParentCategory": "OTHERS"
+    },
+    {
+      "name": "Store/Depo",
+      "code": "STORE_/_DEPO",
+      "active": true,
+      "assetParentCategory": "OTHERS"
+    },
+    {
+      "name": "Others",
+      "code": "OTHERS",
+      "active": true,
+      "assetParentCategory": "OTHERS"
+    },
+    {
+      "name": "Garbage Dump",
+      "code": "GARBAGE_DUMP",
+      "active": true,
+      "assetParentCategory": "OTHERS"
+    },
+    {
+      "name": "Tubewell",
+      "code": "TUBEWELL",
+      "active": true,
+      "assetParentCategory": "OTHERS"
+    },
+    {
+      "name": "Over Head Tank",
+      "code": "OVER_HEAD_TANK",
+      "active": true,
+      "assetParentCategory": "OTHERS"
+    },
+    {
+      "name": "Clearwater Reservoir",
+      "code": "CLEARWATER_RESERVOIR",
+      "active": true,
+      "assetParentCategory": "OTHERS"
+    },
+    {
+      "name": "Booster Pump",
+      "code": "BOOSTER_PUMP",
+      "active": true,
+      "assetParentCategory": "OTHERS"
+    },
+    {
+      "name": "Water Treatment Plant",
+      "code": "WATER_TREATMENT_PLANT",
+      "active": true,
+      "assetParentCategory": "OTHERS"
+    },
+    {
+      "name": "Pumping House",
+      "code": "PUMPING_HOUSE",
+      "active": true,
+      "assetParentCategory": "OTHERS"
+    }
   ]
 }
-
-
-
-
-
