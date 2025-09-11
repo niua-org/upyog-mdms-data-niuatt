@@ -10809,6 +10809,20 @@
         "HN",
         "EN"
       ]
+    },
+    {
+      "code": "pg.citya",
+      "districtCode": "0",
+      "population": "171000",
+      "malePopulation": "88920",
+      "femalePopultion": "82080",
+      "workingPopulation": "41.8",
+      "literacyRate": "89.5",
+      "languagesSpoken": [
+        "PN",
+        "HN",
+        "EN"
+      ]
     }
   ]
 }
