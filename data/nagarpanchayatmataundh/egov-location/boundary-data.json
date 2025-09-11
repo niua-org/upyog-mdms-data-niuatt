@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmataundh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mataundh",
+        "localname": "Nagar Panchayat Mataundh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmataundh",
+        "children": [
+          {
+            "id": "81ce4e62-512b-4c7f-affd-38afcbf51cde",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "72d9d5ed-f55f-4f2a-a0a8-a6f90be4d12a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "049673e8-fe18-4b8c-9f93-f3a9819cacd6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mataundh",
+                    "localname": "Nagar Panchayat Mataundh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

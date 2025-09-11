@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpayagpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Payagpur",
+        "localname": "Nagar Panchayat Payagpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpayagpur",
+        "children": [
+          {
+            "id": "28ba7d5b-9808-4df9-a328-53c844e5286a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "15044c2a-0642-49fb-8cb4-557401b15508",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "aab16e5c-60b4-41a6-9433-577f64aced80",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Payagpur",
+                    "localname": "Nagar Panchayat Payagpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

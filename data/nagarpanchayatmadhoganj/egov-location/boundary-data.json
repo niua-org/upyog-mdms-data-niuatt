@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmadhoganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Madhoganj",
+        "localname": "Nagar Panchayat Madhoganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmadhoganj",
+        "children": [
+          {
+            "id": "60c3855b-4ef7-45ed-b35c-04dc63f2eef3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "528d4cfa-0d86-4808-9248-0b994b42fe11",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "30e5661b-2dcf-4234-ae1d-50c4588feebd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Madhoganj",
+                    "localname": "Nagar Panchayat Madhoganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

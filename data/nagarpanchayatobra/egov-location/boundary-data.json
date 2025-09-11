@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatobra",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Obra",
+        "localname": "Nagar Panchayat Obra",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatobra",
+        "children": [
+          {
+            "id": "4481ea77-964e-478d-bb3b-bd02e5ba007e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "753eec44-28d6-4206-ba03-f87b65ead056",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "72e2ef60-7565-4e8f-8d68-f4d871eda3df",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Obra",
+                    "localname": "Nagar Panchayat Obra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

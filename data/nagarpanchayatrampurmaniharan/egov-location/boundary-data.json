@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrampurmaniharan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rampurmaniharan",
+        "localname": "Nagar Panchayat Rampurmaniharan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrampurmaniharan",
+        "children": [
+          {
+            "id": "e7c93477-0f27-4b76-8c9d-71afb3efceb4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fd018ea7-f732-464e-b25a-2e4359e49148",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "97ae1240-a2b3-4b85-8351-cc6c970c4937",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rampurmaniharan",
+                    "localname": "Nagar Panchayat Rampurmaniharan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

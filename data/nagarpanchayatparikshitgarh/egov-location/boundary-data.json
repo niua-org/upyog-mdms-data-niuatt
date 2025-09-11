@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatparikshitgarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Parikshitgarh",
+        "localname": "Nagar Panchayat Parikshitgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatparikshitgarh",
+        "children": [
+          {
+            "id": "73dfbd7e-7d9f-4094-a15d-a423f7a7790a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e8263c21-93cf-4b00-a63c-597a40f6e396",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "fb51daf7-a30a-4580-b194-d08f16c4ee58",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Parikshitgarh",
+                    "localname": "Nagar Panchayat Parikshitgarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

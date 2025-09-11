@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmunderwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Munderwa",
+        "localname": "Nagar Panchayat Munderwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmunderwa",
+        "children": [
+          {
+            "id": "0b0738b3-c163-4d16-bb66-7aa874d5515e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "dea02b06-7ca3-427a-99eb-763f9b6b9bfa",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "39506c99-4419-44c5-bb4b-c91e4210f6e5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Munderwa",
+                    "localname": "Nagar Panchayat Munderwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

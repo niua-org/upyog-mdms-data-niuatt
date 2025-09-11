@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbhatparrani",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bhatparrani",
+        "localname": "Nagar Panchayat Bhatparrani",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbhatparrani",
+        "children": [
+          {
+            "id": "e270e079-464f-49e7-b72e-db8b9ad8d79a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e8cf2684-eab4-4f4b-82ce-7d787e93ed45",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0fdaee1d-dd7a-4ac8-9cf0-b31d5ca9da36",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bhatparrani",
+                    "localname": "Nagar Panchayat Bhatparrani",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

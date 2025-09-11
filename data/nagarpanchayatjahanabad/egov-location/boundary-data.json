@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjahanabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jahanabad",
+        "localname": "Nagar Panchayat Jahanabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjahanabad",
+        "children": [
+          {
+            "id": "da82283a-b3be-431c-a93b-de25238d029f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2d43ab73-3da4-432a-b80e-d5f247c26683",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "da430415-a888-448a-8c02-6201a157f829",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jahanabad",
+                    "localname": "Nagar Panchayat Jahanabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

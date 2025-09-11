@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.saharanpurnagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Saharanpur Nagar Nigam",
+        "localname": "Saharanpur Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.saharanpurnagarnigam",
+        "children": [
+          {
+            "id": "8143fc1e-1154-4752-839e-b37870a8d733",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "dd8b85fd-2d61-4333-a753-4d956215b5d9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "695c5012-74bc-4407-8323-4f2209964175",
+                    "boundaryNum": 1,
+                    "name": "Saharanpur Nagar Nigam",
+                    "localname": "Saharanpur Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatugu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ugu",
+        "localname": "Nagar Panchayat Ugu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatugu",
+        "children": [
+          {
+            "id": "151723e5-fb0c-4161-b87a-d9e23cea8a75",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3a0e3939-d038-4d16-a02a-df3522546c77",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0b4729e0-28af-4b32-8481-f91ef1b28a84",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ugu",
+                    "localname": "Nagar Panchayat Ugu",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

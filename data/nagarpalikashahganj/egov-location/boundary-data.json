@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikashahganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Shahganj",
+        "localname": "Nagar Palika Shahganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikashahganj",
+        "children": [
+          {
+            "id": "699e313c-7e35-4f9c-a7fe-b2873df8649a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2f310485-051b-4869-9f81-c97ac1c8b2bf",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "54079529-fccb-437c-b82d-4d641bc1fc39",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Shahganj",
+                    "localname": "Nagar Palika Shahganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

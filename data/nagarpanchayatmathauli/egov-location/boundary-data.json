@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmathauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mathauli",
+        "localname": "Nagar Panchayat Mathauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmathauli",
+        "children": [
+          {
+            "id": "9d20a627-05fc-4cd9-8023-641870a18f8a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "26d1bd7b-44a3-4588-af04-37957238e41b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "dfe872ef-434d-4f8b-947a-543769a583d3",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mathauli",
+                    "localname": "Nagar Panchayat Mathauli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpakbara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Pakbara",
+        "localname": "Nagar Panchayat Pakbara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpakbara",
+        "children": [
+          {
+            "id": "980172f0-52f0-4282-bd05-c75f4e166b54",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d38d74c5-91ab-487b-a325-8e0ad2dd5b2c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "bf613898-5d31-44e4-a5db-70cd97910d96",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Pakbara",
+                    "localname": "Nagar Panchayat Pakbara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

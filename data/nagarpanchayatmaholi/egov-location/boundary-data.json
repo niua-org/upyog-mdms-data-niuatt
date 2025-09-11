@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmaholi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Maholi",
+        "localname": "Nagar Panchayat Maholi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmaholi",
+        "children": [
+          {
+            "id": "1a44708f-ca6f-4a49-a94a-879f953639c1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5354b71f-28a9-40d6-9f87-b46e53ff113c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "eb47dbe2-1d3e-409f-bd2b-901507acda92",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Maholi",
+                    "localname": "Nagar Panchayat Maholi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

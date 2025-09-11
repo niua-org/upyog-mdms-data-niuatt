@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikachhibramau",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Chhibramau",
+        "localname": "Nagar Palika Chhibramau",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikachhibramau",
+        "children": [
+          {
+            "id": "b9aff14f-04a5-4bae-b38c-bc91f2f44525",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f740e6c2-174c-4abc-8bd8-be4fbe860d77",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "966e5de5-78c7-4365-9a37-862f9cd78f11",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Chhibramau",
+                    "localname": "Nagar Palika Chhibramau",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

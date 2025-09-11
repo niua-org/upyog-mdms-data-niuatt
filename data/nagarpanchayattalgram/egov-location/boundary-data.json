@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattalgram",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Talgram",
+        "localname": "Nagar Panchayat Talgram",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattalgram",
+        "children": [
+          {
+            "id": "d20ef349-7a23-4bcc-bfb3-d7d42502f7fb",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "72fb253f-31f2-49ed-a75c-1f5a01a21975",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "bdcc6907-22a1-4484-b6ea-326fab2def8e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Talgram",
+                    "localname": "Nagar Panchayat Talgram",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

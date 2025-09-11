@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdaurala",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Daurala",
+        "localname": "Nagar Panchayat Daurala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdaurala",
+        "children": [
+          {
+            "id": "6cd7b1c4-d5b1-4076-a398-9c97ff28741f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "83ff6bf5-5fae-441e-8438-9ba9f5940113",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e9edd181-faa7-491b-bd70-dc10f47a58ae",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Daurala",
+                    "localname": "Nagar Panchayat Daurala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

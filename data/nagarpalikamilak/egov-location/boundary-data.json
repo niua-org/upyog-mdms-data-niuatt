@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamilak",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Milak",
+        "localname": "Nagar Palika Milak",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamilak",
+        "children": [
+          {
+            "id": "629b68ae-09d0-4dad-b2b2-bb1ef4c49ea1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b72a4185-42da-4711-88bc-b9b12b685d4e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ccedb493-2d4e-4707-a383-8a6b973325a1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Milak",
+                    "localname": "Nagar Palika Milak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

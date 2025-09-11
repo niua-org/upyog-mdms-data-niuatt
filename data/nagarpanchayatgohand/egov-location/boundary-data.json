@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgohand",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gohand",
+        "localname": "Nagar Panchayat Gohand",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgohand",
+        "children": [
+          {
+            "id": "97bef3bc-cbf8-4d3a-8160-cf3c0ecdc926",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3bec6c6f-609b-459c-b846-e1a8161c30a6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "072e20ec-6028-4874-8cf8-4fc06fc92d8b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gohand",
+                    "localname": "Nagar Panchayat Gohand",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmaswasi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Maswasi",
+        "localname": "Nagar Panchayat Maswasi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmaswasi",
+        "children": [
+          {
+            "id": "ac14291b-60e9-4e3e-a686-0f4af60cb967",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e30ecca8-7f24-43c2-8192-1d9cda7f3835",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "81108b0f-41f1-416d-a06d-383c43ac3f2a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Maswasi",
+                    "localname": "Nagar Panchayat Maswasi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

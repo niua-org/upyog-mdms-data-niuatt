@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.prayagrajnagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Prayagraj Nagar Nigam",
+        "localname": "Prayagraj Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.prayagrajnagarnigam",
+        "children": [
+          {
+            "id": "6a10fd13-4bd4-43ca-88b4-8b90a488185a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d937e84c-5ab7-413b-b7c7-ed1cd004af84",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0aa4b711-f680-42d5-bbe0-21cecd65a346",
+                    "boundaryNum": 1,
+                    "name": "Prayagraj Nagar Nigam",
+                    "localname": "Prayagraj Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

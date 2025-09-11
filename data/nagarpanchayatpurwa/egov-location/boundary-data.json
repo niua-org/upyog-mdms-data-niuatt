@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpurwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Purwa",
+        "localname": "Nagar Panchayat Purwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpurwa",
+        "children": [
+          {
+            "id": "aa6c14f7-b3b5-4d52-aca1-ad6545fb4ac8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bc328804-cf25-4154-bf6a-821302f1f44e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "15205207-911c-4cfc-8da7-bdb6272d19db",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Purwa",
+                    "localname": "Nagar Panchayat Purwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

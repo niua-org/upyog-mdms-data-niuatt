@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatganjmuradabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ganjmuradabad",
+        "localname": "Nagar Panchayat Ganjmuradabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatganjmuradabad",
+        "children": [
+          {
+            "id": "c54aebb2-9bb2-4fdf-b491-b3db4774f078",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "03ae7cd1-d792-4332-8200-fbb3bda53336",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ee7da243-6240-41ac-aa73-3c8441051a66",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ganjmuradabad",
+                    "localname": "Nagar Panchayat Ganjmuradabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

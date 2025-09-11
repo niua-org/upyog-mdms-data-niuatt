@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayataurangabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Aurangabad",
+        "localname": "Nagar Panchayat Aurangabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayataurangabad",
+        "children": [
+          {
+            "id": "19267181-984f-4cbe-9089-d666d1b0ec20",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "16389e51-d444-48fe-9249-366827780bcb",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "eecbcdcd-0bc0-41c9-b7fe-db96f1bec379",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Aurangabad",
+                    "localname": "Nagar Panchayat Aurangabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpurkazi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Purkazi",
+        "localname": "Nagar Panchayat Purkazi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpurkazi",
+        "children": [
+          {
+            "id": "4e474907-2576-4135-be1e-2268f982aa59",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "eff55c5f-9b0a-4b21-95f7-eb61f23e67c1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f8480565-d599-41f6-8dd3-733ae26880aa",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Purkazi",
+                    "localname": "Nagar Panchayat Purkazi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

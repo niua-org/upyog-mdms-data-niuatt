@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabilari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bilari",
+        "localname": "Nagar Palika Bilari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabilari",
+        "children": [
+          {
+            "id": "150fd03a-24dd-41b3-aebd-26f523bff9b1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "984c1a89-007c-479a-8ed1-c452d8d942ec",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "10e73890-ed5a-48b7-a438-7ec0efa05986",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bilari",
+                    "localname": "Nagar Palika Bilari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

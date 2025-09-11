@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasherkot",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Sherkot",
+        "localname": "Nagar Palika Sherkot",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasherkot",
+        "children": [
+          {
+            "id": "e3fac2a0-0018-4f25-9976-0ac057484bec",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "864e2301-96c3-46dc-af3a-043270b1b7fe",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ae799d68-4937-4010-954e-f61e3f69e4a6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Sherkot",
+                    "localname": "Nagar Palika Sherkot",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

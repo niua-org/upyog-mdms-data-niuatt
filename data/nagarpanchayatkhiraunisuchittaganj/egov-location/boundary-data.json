@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkhiraunisuchittaganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Khiraunisuchittaganj",
+        "localname": "Nagar Panchayat Khiraunisuchittaganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkhiraunisuchittaganj",
+        "children": [
+          {
+            "id": "7d0be4d0-d1a1-4e9a-b0f4-601c65e62880",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cb2fce0b-26f4-4f57-a0b2-7d49e766483f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ddf61246-b237-4dec-b56c-6bc408a69bf9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Khiraunisuchittaganj",
+                    "localname": "Nagar Panchayat Khiraunisuchittaganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

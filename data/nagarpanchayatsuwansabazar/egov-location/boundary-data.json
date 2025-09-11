@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsuwansabazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Suwansabazar",
+        "localname": "Nagar Panchayat Suwansabazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsuwansabazar",
+        "children": [
+          {
+            "id": "f894da3a-df5b-4705-9c6f-73b4bc4b6a17",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2ca6b78a-26bc-45c9-bfd2-145b7191f07f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f023a446-1c38-4258-bc5d-71f8cc7e97c6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Suwansabazar",
+                    "localname": "Nagar Panchayat Suwansabazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

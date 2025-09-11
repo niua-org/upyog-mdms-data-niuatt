@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikapukhrayan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Pukhrayan",
+        "localname": "Nagar Palika Pukhrayan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikapukhrayan",
+        "children": [
+          {
+            "id": "74c4c107-0f53-4a52-8960-677a80d3dec4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "74dfa56f-c912-4c53-9592-11835f4e722f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ab61a512-db43-440d-9db6-e65a2ca1f4ed",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Pukhrayan",
+                    "localname": "Nagar Palika Pukhrayan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

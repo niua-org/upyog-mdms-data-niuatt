@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatranipur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ranipur",
+        "localname": "Nagar Panchayat Ranipur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatranipur",
+        "children": [
+          {
+            "id": "ac540054-8420-4023-93ef-001fbce093e3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8cb6bef1-5ad3-4832-b7ad-2dd030180483",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e3db9bde-ddbd-4075-9c03-8d2a4d29ee12",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ranipur",
+                    "localname": "Nagar Panchayat Ranipur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

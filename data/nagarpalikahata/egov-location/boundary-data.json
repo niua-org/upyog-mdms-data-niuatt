@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikahata",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Hata",
+        "localname": "Nagar Palika Hata",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikahata",
+        "children": [
+          {
+            "id": "30e450cd-eacd-49c5-af8f-765fd32e6dc9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "812ea049-bf99-4d64-89ef-22f2f35c81da",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a831ea8a-8649-4fe3-82a2-7b5b7e95c4cf",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Hata",
+                    "localname": "Nagar Palika Hata",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatcharwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Charwa",
+        "localname": "Nagar Panchayat Charwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatcharwa",
+        "children": [
+          {
+            "id": "e8fb467f-93e6-425f-b9cb-e2784e1265ec",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d7cf9a99-1837-4706-9b04-7f7ab31e70ac",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3d8669a1-6542-4951-a798-11ad6f73ba79",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Charwa",
+                    "localname": "Nagar Panchayat Charwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatshivli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Shivli",
+        "localname": "Nagar Panchayat Shivli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatshivli",
+        "children": [
+          {
+            "id": "6517aca1-f8bf-47bf-99fd-c30c08263c93",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "db71419d-cd8c-40bd-ba9b-6440f9fec8fa",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "96d71819-d2d0-40c4-be53-2f7b967d02b7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Shivli",
+                    "localname": "Nagar Panchayat Shivli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

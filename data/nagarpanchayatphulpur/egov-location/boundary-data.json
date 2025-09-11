@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatphulpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Phulpur",
+        "localname": "Nagar Panchayat Phulpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatphulpur",
+        "children": [
+          {
+            "id": "c9552d31-2d9c-4517-9be7-06dc1cc2b54a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3d9dc66b-b819-4a51-9167-c1d9879262e0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "fe6b87ad-ec06-48dd-a826-16368e46a3ff",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Phulpur",
+                    "localname": "Nagar Panchayat Phulpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabalrampur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Balrampur",
+        "localname": "Nagar Palika Balrampur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabalrampur",
+        "children": [
+          {
+            "id": "58ea766b-a8ce-4e36-8c14-cc1dd16e0b40",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "14cc33a6-1548-48eb-8623-d1d2af434851",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "36a3ecf4-7122-4d91-ab06-95c2e767c636",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Balrampur",
+                    "localname": "Nagar Palika Balrampur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

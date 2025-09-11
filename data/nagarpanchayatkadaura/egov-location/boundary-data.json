@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkadaura",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kadaura",
+        "localname": "Nagar Panchayat Kadaura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkadaura",
+        "children": [
+          {
+            "id": "3553881d-23b4-4a4f-b76d-730d7f03094d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f4405cb1-feae-4acd-baba-b9d47fa5ac64",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "26dfd887-370f-409a-9ca8-ce63fc596ef9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kadaura",
+                    "localname": "Nagar Panchayat Kadaura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

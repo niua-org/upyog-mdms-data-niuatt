@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbhira",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bhira",
+        "localname": "Nagar Panchayat Bhira",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbhira",
+        "children": [
+          {
+            "id": "1fd9a8e4-4c66-482f-9eb9-9d650697c770",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e52c6a80-810e-4328-8451-625997df1d29",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3cbb63d9-67e7-4c97-8e0d-cc5d061c60c4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bhira",
+                    "localname": "Nagar Panchayat Bhira",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

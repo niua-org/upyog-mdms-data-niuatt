@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbariyarpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bariyarpur",
+        "localname": "Nagar Panchayat Bariyarpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbariyarpur",
+        "children": [
+          {
+            "id": "fcbffee8-e6ef-418b-b64c-d9d76807cb68",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bebd3021-6f36-48d4-a463-6ec7eaa013bc",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e2704263-8c0b-4572-83bc-0b1fbc4b9c43",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bariyarpur",
+                    "localname": "Nagar Panchayat Bariyarpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

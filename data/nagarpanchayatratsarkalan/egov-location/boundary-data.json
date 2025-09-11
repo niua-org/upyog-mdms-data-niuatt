@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatratsarkalan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ratsarkalan",
+        "localname": "Nagar Panchayat Ratsarkalan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatratsarkalan",
+        "children": [
+          {
+            "id": "ba34c4f4-fb64-4765-95c0-39737d815fb3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d6914c67-34fb-48a7-bd68-272c4be38763",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "15420311-b133-4246-84fa-226073f86f1f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ratsarkalan",
+                    "localname": "Nagar Panchayat Ratsarkalan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

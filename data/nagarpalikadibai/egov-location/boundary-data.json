@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikadibai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Dibai",
+        "localname": "Nagar Palika Dibai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikadibai",
+        "children": [
+          {
+            "id": "798c348c-0190-4dee-a76b-db9d7eacfb78",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2d53c725-1fe3-4456-aa15-42bb76007973",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ed33f26b-091c-4962-ae44-0d7dec9e4fbd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Dibai",
+                    "localname": "Nagar Palika Dibai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

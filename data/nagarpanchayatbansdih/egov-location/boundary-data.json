@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbansdih",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bansdih",
+        "localname": "Nagar Panchayat Bansdih",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbansdih",
+        "children": [
+          {
+            "id": "c45bfeab-2c6c-47b0-9cc7-723e9f311f04",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "70cf6b19-ba0a-4eb3-b332-375fdb007ea4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "00ed9c9c-0f87-4093-a87d-a2d0f6ad7a5d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bansdih",
+                    "localname": "Nagar Panchayat Bansdih",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

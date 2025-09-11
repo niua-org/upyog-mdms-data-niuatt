@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattambaurahmadabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Tambaurahmadabad",
+        "localname": "Nagar Panchayat Tambaurahmadabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattambaurahmadabad",
+        "children": [
+          {
+            "id": "2a6506df-1239-417d-9121-56d40eacd663",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f1ae73ed-812c-4104-98b3-09007290dfa9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ac443f47-a779-451d-a07c-48c5f95d602f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Tambaurahmadabad",
+                    "localname": "Nagar Panchayat Tambaurahmadabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

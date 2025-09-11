@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikajalalpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Jalalpur",
+        "localname": "Nagar Palika Jalalpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikajalalpur",
+        "children": [
+          {
+            "id": "be790d9a-b506-4b9f-af0f-781aaf51b552",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "246ab9d3-e75a-4d3a-a712-d010373906b2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7db0a8bd-e6c0-4dc9-b170-058569258642",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Jalalpur",
+                    "localname": "Nagar Palika Jalalpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakalpi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Kalpi",
+        "localname": "Nagar Palika Kalpi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakalpi",
+        "children": [
+          {
+            "id": "5a2f5c45-0af9-4033-ba01-f69f7e5e7ca3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b3c077c1-471b-4e12-bb49-48341ab85afe",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ef5d210b-5818-4a5f-ad00-0e83943185da",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Kalpi",
+                    "localname": "Nagar Palika Kalpi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

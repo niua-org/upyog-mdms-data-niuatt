@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamohammadabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Mohammadabad",
+        "localname": "Nagar Palika Mohammadabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamohammadabad",
+        "children": [
+          {
+            "id": "e8166996-9669-4744-b2c1-8ed7f4a30ca2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "96cf9a11-6388-4250-93db-66d0ae2f4d0f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "31e3e332-6422-4ff1-9398-9ed6d285f4f7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Mohammadabad",
+                    "localname": "Nagar Palika Mohammadabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

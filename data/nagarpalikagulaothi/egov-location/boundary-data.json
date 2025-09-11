@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikagulaothi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Gulaothi",
+        "localname": "Nagar Palika Gulaothi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikagulaothi",
+        "children": [
+          {
+            "id": "d48fe15f-ed16-4ff4-9f0c-19f06556b3ed",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8f970121-ec5f-4cc5-a4fc-e254d0f125da",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a093e6b6-f1be-4b32-bffa-2d7dad9347fb",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Gulaothi",
+                    "localname": "Nagar Palika Gulaothi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

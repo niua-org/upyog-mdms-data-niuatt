@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkoeripur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Koeripur",
+        "localname": "Nagar Panchayat Koeripur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkoeripur",
+        "children": [
+          {
+            "id": "b60fcd4c-1cb8-43c2-a7cc-34dda237e224",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0b032bca-63cd-4ffe-b3e6-9659033bdc8f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "140955f6-a1ab-447f-a4e5-cf369843365d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Koeripur",
+                    "localname": "Nagar Panchayat Koeripur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsikanderpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sikanderpur",
+        "localname": "Nagar Panchayat Sikanderpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsikanderpur",
+        "children": [
+          {
+            "id": "29631622-b31e-4b77-b6ca-6fde74636af7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "454c5bcb-f754-40c7-91fd-f3f9db05f3c1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b087bb51-686c-4386-8f46-af11db8f428d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sikanderpur",
+                    "localname": "Nagar Panchayat Sikanderpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasambhal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Sambhal",
+        "localname": "Nagar Palika Sambhal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasambhal",
+        "children": [
+          {
+            "id": "284f916a-870d-4b3d-ba6a-35134052bf1f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4457207c-13cb-4e7c-b6bb-e303710e1126",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "21772feb-4d98-4531-854d-3cb8daa81dfb",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Sambhal",
+                    "localname": "Nagar Palika Sambhal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

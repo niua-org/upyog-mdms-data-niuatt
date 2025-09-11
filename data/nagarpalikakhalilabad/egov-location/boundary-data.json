@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakhalilabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Khalilabad",
+        "localname": "Nagar Palika Khalilabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakhalilabad",
+        "children": [
+          {
+            "id": "53bd0f2d-56de-421c-8df5-9013c33b7cb1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e1ee7c19-7af6-455c-804f-d76e255e493b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "435f3d7e-62e4-40c7-9787-489cbdded40d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Khalilabad",
+                    "localname": "Nagar Palika Khalilabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

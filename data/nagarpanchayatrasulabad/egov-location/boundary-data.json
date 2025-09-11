@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrasulabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rasulabad",
+        "localname": "Nagar Panchayat Rasulabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrasulabad",
+        "children": [
+          {
+            "id": "fdd2d28d-50fd-46f8-a334-acdb4118abeb",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "75e83426-9b46-4a82-b879-13057691c8f4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f2122f2c-27ed-449a-afc2-9030a9344b77",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rasulabad",
+                    "localname": "Nagar Panchayat Rasulabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

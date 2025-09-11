@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkohdaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kohdaur",
+        "localname": "Nagar Panchayat Kohdaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkohdaur",
+        "children": [
+          {
+            "id": "db0285c3-d9c1-41f7-a9aa-0afb4889f649",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a35ee4dd-4347-4294-aed9-f2b4fb56e7d1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "87729ebe-e637-4c00-a02e-e5318430932c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kohdaur",
+                    "localname": "Nagar Panchayat Kohdaur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

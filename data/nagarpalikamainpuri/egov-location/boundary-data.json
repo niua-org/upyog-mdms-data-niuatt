@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamainpuri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Mainpuri",
+        "localname": "Nagar Palika Mainpuri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamainpuri",
+        "children": [
+          {
+            "id": "a26e8c95-20a8-4706-b28c-6fd54c5c3ab2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8df967ca-f18a-44d0-a190-395ff63e0184",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3358a459-68c4-451e-a199-def116baa0ae",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Mainpuri",
+                    "localname": "Nagar Palika Mainpuri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

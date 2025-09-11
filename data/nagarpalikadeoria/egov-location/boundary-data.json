@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikadeoria",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Deoria",
+        "localname": "Nagar Palika Deoria",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikadeoria",
+        "children": [
+          {
+            "id": "b5c181d3-0f0a-4643-bb83-3accd9a7c539",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d4ddc951-a70d-4ee2-b019-0d9a40ff06f0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "81a4b3f8-47df-41e1-b535-b62c53515168",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Deoria",
+                    "localname": "Nagar Palika Deoria",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

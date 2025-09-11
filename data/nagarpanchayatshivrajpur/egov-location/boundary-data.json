@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatshivrajpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Shivrajpur",
+        "localname": "Nagar Panchayat Shivrajpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatshivrajpur",
+        "children": [
+          {
+            "id": "a644a5f7-ec85-47f0-8e59-03f413e8d1ad",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9073b0e8-acd9-4e7d-b9c8-a0ff10de329d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "df239409-6edc-4a22-8d0a-928fd480de4d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Shivrajpur",
+                    "localname": "Nagar Panchayat Shivrajpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

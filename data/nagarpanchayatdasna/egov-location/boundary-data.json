@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdasna",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dasna",
+        "localname": "Nagar Panchayat Dasna",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdasna",
+        "children": [
+          {
+            "id": "e2184871-d9f4-49db-bd65-f3038b883e91",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "77afa1f6-99b7-4a1c-88be-d44202df4ade",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2b56187a-6b3e-42a3-9f51-b24e04323bd8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dasna",
+                    "localname": "Nagar Panchayat Dasna",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchowk",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chowk",
+        "localname": "Nagar Panchayat Chowk",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchowk",
+        "children": [
+          {
+            "id": "c8d6ea7d-1180-48be-afb3-96611d247e89",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "39505e85-3227-4d78-aea0-364e5dfa7652",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5a0d54fc-00f0-4987-a794-8c16e1269efa",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chowk",
+                    "localname": "Nagar Panchayat Chowk",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdhaurahra",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dhaurahra",
+        "localname": "Nagar Panchayat Dhaurahra",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdhaurahra",
+        "children": [
+          {
+            "id": "5e08171f-c62a-4403-b356-a0787501e758",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8c4a0669-bceb-40a8-8d3c-9e47bbd57a46",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ce31dc75-5115-44e1-81ff-1c24d74a3e1c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dhaurahra",
+                    "localname": "Nagar Panchayat Dhaurahra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.lucknownagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Lucknow Nagar Nigam",
+        "localname": "Lucknow Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.lucknownagarnigam",
+        "children": [
+          {
+            "id": "438cbbd1-d2e2-414f-896d-47c89cf9c538",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ed785760-c65e-4619-9b8a-4727e564a671",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4adaa9eb-cfe2-40a1-9aab-49083e0b0def",
+                    "boundaryNum": 1,
+                    "name": "Lucknow Nagar Nigam",
+                    "localname": "Lucknow Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabulandshahr",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bulandshahr",
+        "localname": "Nagar Palika Bulandshahr",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabulandshahr",
+        "children": [
+          {
+            "id": "49284487-a873-4fe0-9ea4-3c885262c9ed",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d90c7e4e-e711-46c5-b183-492a1318fca7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ff1f9abc-ecf5-4967-8d7a-df1e354b2843",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bulandshahr",
+                    "localname": "Nagar Palika Bulandshahr",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatekdil",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ekdil",
+        "localname": "Nagar Panchayat Ekdil",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatekdil",
+        "children": [
+          {
+            "id": "92b247b9-a4b9-40ba-b6b7-cd7b2b9b8af9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e555496a-5c3d-4630-b734-54eec7a53025",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8776de8d-68dc-4d0a-9185-15b81353b605",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ekdil",
+                    "localname": "Nagar Panchayat Ekdil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

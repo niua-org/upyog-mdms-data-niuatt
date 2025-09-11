@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgopamau",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gopamau",
+        "localname": "Nagar Panchayat Gopamau",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgopamau",
+        "children": [
+          {
+            "id": "bb9398fc-611f-4b19-bfcb-aa871bd47215",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1c6bb261-61ae-44c3-ae7c-f7c8bdc2a35a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "68120630-5987-4e6f-9107-c9122ae80489",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gopamau",
+                    "localname": "Nagar Panchayat Gopamau",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

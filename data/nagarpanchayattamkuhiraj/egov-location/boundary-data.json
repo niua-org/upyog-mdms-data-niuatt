@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattamkuhiraj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Tamkuhiraj",
+        "localname": "Nagar Panchayat Tamkuhiraj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattamkuhiraj",
+        "children": [
+          {
+            "id": "8847d5a2-8728-49be-b333-556a484cb85c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "46076396-ae40-4141-a0ad-ebf887f5a083",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e113c5ec-ff50-40e2-9d96-8fa35daf6346",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Tamkuhiraj",
+                    "localname": "Nagar Panchayat Tamkuhiraj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

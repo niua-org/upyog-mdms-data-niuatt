@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgayghat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gayghat",
+        "localname": "Nagar Panchayat Gayghat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgayghat",
+        "children": [
+          {
+            "id": "a7c14410-df94-4a9a-b8f9-114ab6140499",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3c2ffc58-0a06-4158-82a9-3e23f97c2d9e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8f3c6d4f-0a26-4419-b651-05c549f1fc54",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gayghat",
+                    "localname": "Nagar Panchayat Gayghat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

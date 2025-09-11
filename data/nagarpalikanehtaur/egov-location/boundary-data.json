@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikanehtaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Nehtaur",
+        "localname": "Nagar Palika Nehtaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikanehtaur",
+        "children": [
+          {
+            "id": "c9f46b2b-f3a9-4ea4-8176-f27900497c54",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "511a4aa0-3182-4f59-96ba-e22e273f0fbe",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6c82b37b-383d-4274-83b7-7bb9839eecf0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Nehtaur",
+                    "localname": "Nagar Palika Nehtaur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

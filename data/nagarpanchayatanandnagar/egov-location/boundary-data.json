@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatanandnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Anandnagar",
+        "localname": "Nagar Panchayat Anandnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatanandnagar",
+        "children": [
+          {
+            "id": "1c1f81a9-0b3e-4c0a-97d8-40957fad343d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6c0ee0c4-15cf-458a-aaa4-70deecb4bf9d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6923906b-f3f8-48ac-aaf9-4e88e21420f4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Anandnagar",
+                    "localname": "Nagar Panchayat Anandnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnarpatnagardundawala",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Narpatnagardundawala",
+        "localname": "Nagar Panchayat Narpatnagardundawala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnarpatnagardundawala",
+        "children": [
+          {
+            "id": "51d9a15c-7101-4472-ad9f-c99d7017b933",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5cf92606-cd82-4a6b-99d7-15aa4dd392a2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "66fdf025-4038-4749-ad5e-cb0663de0acf",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Narpatnagardundawala",
+                    "localname": "Nagar Panchayat Narpatnagardundawala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

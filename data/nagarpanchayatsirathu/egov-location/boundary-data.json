@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsirathu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sirathu",
+        "localname": "Nagar Panchayat Sirathu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsirathu",
+        "children": [
+          {
+            "id": "36dfe6e9-a59b-4930-bf27-ad0d27824d51",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9b4467c5-7f8f-4067-880e-f7acbe091f3c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b7060bf7-9df1-4399-83d8-8d2f18657b8c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sirathu",
+                    "localname": "Nagar Panchayat Sirathu",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

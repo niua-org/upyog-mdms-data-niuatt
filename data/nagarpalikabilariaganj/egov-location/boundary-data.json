@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabilariaganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bilariaganj",
+        "localname": "Nagar Palika Bilariaganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabilariaganj",
+        "children": [
+          {
+            "id": "4b4df3c3-eef3-4031-a2df-5d2cc2e7394b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c6b2abb3-5401-403a-80a0-397440f40c43",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e1600f3c-ae65-4fd0-a711-e4eeda898d15",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bilariaganj",
+                    "localname": "Nagar Palika Bilariaganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

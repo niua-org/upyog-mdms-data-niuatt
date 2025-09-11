@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsankisabasantpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sankisabasantpur",
+        "localname": "Nagar Panchayat Sankisabasantpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsankisabasantpur",
+        "children": [
+          {
+            "id": "264476eb-719a-437f-8c19-caea6ba4115a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "472f55f1-bdab-4efa-9e1a-22fa275799a4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "71137208-9e0b-42a7-8083-749fd5914ead",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sankisabasantpur",
+                    "localname": "Nagar Panchayat Sankisabasantpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

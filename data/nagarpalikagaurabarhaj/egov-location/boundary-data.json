@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikagaurabarhaj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Gaurabarhaj",
+        "localname": "Nagar Palika Gaurabarhaj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikagaurabarhaj",
+        "children": [
+          {
+            "id": "1da90a71-bd42-4ef4-93ec-b2f4cd68d568",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2558c954-622d-49da-b688-88e87b705aac",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "122d8a34-b19e-445c-8ffc-bb2830a6b982",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Gaurabarhaj",
+                    "localname": "Nagar Palika Gaurabarhaj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

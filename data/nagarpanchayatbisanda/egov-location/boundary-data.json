@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbisanda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bisanda",
+        "localname": "Nagar Panchayat Bisanda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbisanda",
+        "children": [
+          {
+            "id": "3cc7bfc3-86e0-43cb-b3ac-43edb8fafb4a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a15c2e86-f976-4c76-b38d-8be86383c1c5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8e2ebbca-e864-4817-97b7-c85b368ea11c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bisanda",
+                    "localname": "Nagar Panchayat Bisanda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

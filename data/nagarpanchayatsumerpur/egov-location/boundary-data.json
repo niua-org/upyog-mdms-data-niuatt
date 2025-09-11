@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsumerpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sumerpur",
+        "localname": "Nagar Panchayat Sumerpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsumerpur",
+        "children": [
+          {
+            "id": "88802550-a24c-4c85-8c79-74e354dd15c0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "03c1053a-5156-40fa-866d-26fc42c5f4c6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a9c5ee66-d177-472f-aaa2-3acf5b6e9e46",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sumerpur",
+                    "localname": "Nagar Panchayat Sumerpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

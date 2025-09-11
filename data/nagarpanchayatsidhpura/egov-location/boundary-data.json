@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsidhpura",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sidhpura",
+        "localname": "Nagar Panchayat Sidhpura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsidhpura",
+        "children": [
+          {
+            "id": "ede28544-b93b-4c41-bced-73454489e66e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0f36c54b-ec98-40e8-a4f2-82ac733b2bf2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f836c409-188b-4fb5-99d3-dbaaf9321d5f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sidhpura",
+                    "localname": "Nagar Panchayat Sidhpura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

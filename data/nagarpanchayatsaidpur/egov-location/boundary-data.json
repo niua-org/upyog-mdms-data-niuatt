@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsaidpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Saidpur",
+        "localname": "Nagar Panchayat Saidpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsaidpur",
+        "children": [
+          {
+            "id": "37bc9dbb-9391-47ce-80e1-36eb16f8b004",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c6c3756c-bf53-4907-96b4-0539821f8c15",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "75d3b05f-3878-4a4d-b927-a20b5bcaeec1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Saidpur",
+                    "localname": "Nagar Panchayat Saidpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

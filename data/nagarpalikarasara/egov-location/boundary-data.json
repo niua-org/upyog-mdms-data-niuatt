@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikarasara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Rasara",
+        "localname": "Nagar Palika Rasara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikarasara",
+        "children": [
+          {
+            "id": "fa67fe43-f43c-47eb-8682-e3622a87f015",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "129aa696-2ce6-4ab1-9346-bbfc2b208950",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "369ae48c-20f6-49ed-b71a-4598aa4d396a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Rasara",
+                    "localname": "Nagar Palika Rasara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

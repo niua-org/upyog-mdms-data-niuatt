@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikadadri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Dadri",
+        "localname": "Nagar Palika Dadri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikadadri",
+        "children": [
+          {
+            "id": "113839e0-e4e4-4967-92ee-b2f7e76f3842",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "02940eb9-ee03-4707-8974-5406f4c268ad",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "9ac8489a-153b-437f-bb64-91284c6c48fc",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Dadri",
+                    "localname": "Nagar Palika Dadri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

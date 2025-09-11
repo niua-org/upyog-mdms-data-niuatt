@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatanpara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Anpara",
+        "localname": "Nagar Panchayat Anpara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatanpara",
+        "children": [
+          {
+            "id": "461369a7-9b96-4ce8-a5ff-f873439b4f87",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "54d66f54-5275-4ffe-a4f3-246d5ad07280",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ca66c559-0f1f-45a8-988d-0697e23f4a35",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Anpara",
+                    "localname": "Nagar Panchayat Anpara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkemri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kemri",
+        "localname": "Nagar Panchayat Kemri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkemri",
+        "children": [
+          {
+            "id": "fa6a21c5-4b18-43f1-a504-253f010ead3e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c9694e8c-5e4d-43c1-8989-2b5827d290ca",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5634ccbe-8c45-4f8f-bf17-86d915347f63",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kemri",
+                    "localname": "Nagar Panchayat Kemri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

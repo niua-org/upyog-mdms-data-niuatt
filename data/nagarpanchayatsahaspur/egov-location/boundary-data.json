@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsahaspur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sahaspur",
+        "localname": "Nagar Panchayat Sahaspur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsahaspur",
+        "children": [
+          {
+            "id": "8e478886-724d-409c-a362-3035c843af44",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b3df96ff-bdcb-4349-9c7c-362f5d5c043e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "81740a03-6336-4e34-891b-ab11d62c2f9e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sahaspur",
+                    "localname": "Nagar Panchayat Sahaspur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

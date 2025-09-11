@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgolabazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Golabazar",
+        "localname": "Nagar Panchayat Golabazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgolabazar",
+        "children": [
+          {
+            "id": "2b832bc9-7f9a-4055-aa26-4c8dc2ae5b7a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "435113f7-1f67-4603-bcb5-6ac44ad52273",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e41d9298-fa2b-4072-b166-beda94c62390",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Golabazar",
+                    "localname": "Nagar Panchayat Golabazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

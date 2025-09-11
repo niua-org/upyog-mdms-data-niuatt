@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabahraich",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bahraich",
+        "localname": "Nagar Palika Bahraich",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabahraich",
+        "children": [
+          {
+            "id": "f736413e-a89d-4242-b9a0-1905af6d3c7b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c3175c3c-400e-4df9-9849-702c7e61c5db",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4508c6fd-1ec1-4db1-842d-89ebcb3463a2",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bahraich",
+                    "localname": "Nagar Palika Bahraich",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmalihabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Malihabad",
+        "localname": "Nagar Panchayat Malihabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmalihabad",
+        "children": [
+          {
+            "id": "bd9afce8-1853-4b2b-92d2-400014e7892f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "09479f04-e190-4ef8-82b9-7b5a585683ef",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "da655f7a-1c49-4b34-8e7e-ca05ebda5478",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Malihabad",
+                    "localname": "Nagar Panchayat Malihabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbankati",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bankati",
+        "localname": "Nagar Panchayat Bankati",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbankati",
+        "children": [
+          {
+            "id": "a791daa8-21f1-45b2-994b-763c9b06a9f9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "404a5ca8-7ff0-4827-909e-ead8d07b0eb7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1a6544e6-7bc5-4d2a-910a-f0a54a405e35",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bankati",
+                    "localname": "Nagar Panchayat Bankati",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasarsawa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Sarsawa",
+        "localname": "Nagar Palika Sarsawa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasarsawa",
+        "children": [
+          {
+            "id": "c375a805-724f-4b1d-8641-e85b3f8eca2c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ec3f7163-3df9-425a-89b8-6c8f8f2f4525",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "da2c4e3d-be5f-4247-8cf0-a065694c436b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Sarsawa",
+                    "localname": "Nagar Palika Sarsawa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

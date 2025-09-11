@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaorai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Orai",
+        "localname": "Nagar Palika Orai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaorai",
+        "children": [
+          {
+            "id": "ae842c76-cd14-437c-b06d-36e6821c19d4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "eafcda11-3090-4bf5-b152-3dbd1f4d2866",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d6835b49-2d86-409d-9d12-ce750b282859",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Orai",
+                    "localname": "Nagar Palika Orai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchhutmalpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chhutmalpur",
+        "localname": "Nagar Panchayat Chhutmalpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchhutmalpur",
+        "children": [
+          {
+            "id": "4579d153-60b5-4e73-84d1-03c289541cda",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f13e8fd2-886e-42b8-a7fd-35bc8164b179",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "145ccd11-24a5-47d9-ace2-a036ba76c282",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chhutmalpur",
+                    "localname": "Nagar Panchayat Chhutmalpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

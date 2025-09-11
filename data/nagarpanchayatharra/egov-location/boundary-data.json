@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatharra",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Harra",
+        "localname": "Nagar Panchayat Harra",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatharra",
+        "children": [
+          {
+            "id": "05a83458-c156-47ea-8f78-3daa4adc7dd7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fb4813a4-3b88-4b87-8c1c-7e97f2d26c4e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "20d6718c-4fed-4b93-93fa-07e11852309c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Harra",
+                    "localname": "Nagar Panchayat Harra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkoraon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Koraon",
+        "localname": "Nagar Panchayat Koraon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkoraon",
+        "children": [
+          {
+            "id": "3947063a-950c-4c7f-b1c5-b863af919faa",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0964e271-1963-4cf9-84fd-adff50959690",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b877b703-d9dc-4c7a-8fb5-7ca1cd255728",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Koraon",
+                    "localname": "Nagar Panchayat Koraon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

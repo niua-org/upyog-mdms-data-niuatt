@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkishunpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kishunpur",
+        "localname": "Nagar Panchayat Kishunpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkishunpur",
+        "children": [
+          {
+            "id": "f99be03f-1e85-4bde-8596-78322d936c2d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7dc9f80f-b28a-4743-acbf-3ce590438265",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "99de7f6b-4a7e-4072-b985-0dc2eaf36571",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kishunpur",
+                    "localname": "Nagar Panchayat Kishunpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

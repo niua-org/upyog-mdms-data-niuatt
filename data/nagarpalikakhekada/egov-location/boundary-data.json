@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakhekada",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Khekada",
+        "localname": "Nagar Palika Khekada",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakhekada",
+        "children": [
+          {
+            "id": "01735e54-12ce-4160-b0f7-aa6fda602f10",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ab210cd3-e6e7-4407-abfa-6450aaaee9f5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8245e679-9799-41eb-8063-b83b8e051eba",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Khekada",
+                    "localname": "Nagar Palika Khekada",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

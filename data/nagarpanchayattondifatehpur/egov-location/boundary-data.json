@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattondifatehpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Tondifatehpur",
+        "localname": "Nagar Panchayat Tondifatehpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattondifatehpur",
+        "children": [
+          {
+            "id": "87a4f0a7-3e00-4f76-8b1f-61b706a7bb32",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "793c7d40-1c19-4cfd-b551-ad4703f9bf81",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "525ae589-7186-4c22-8231-c2f76bf9c65c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Tondifatehpur",
+                    "localname": "Nagar Panchayat Tondifatehpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

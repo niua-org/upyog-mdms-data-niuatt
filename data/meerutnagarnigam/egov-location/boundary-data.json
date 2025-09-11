@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.meerutnagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Meerut Nagar Nigam",
+        "localname": "Meerut Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.meerutnagarnigam",
+        "children": [
+          {
+            "id": "b989ec70-15e1-49a7-b04e-5a360877d2af",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9da0dfbf-65f3-4f85-aac0-b4f263664a73",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "551fac69-24c3-4e72-baaa-d0908e4688f1",
+                    "boundaryNum": 1,
+                    "name": "Meerut Nagar Nigam",
+                    "localname": "Meerut Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatambehatapeer",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ambehatapeer",
+        "localname": "Nagar Panchayat Ambehatapeer",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatambehatapeer",
+        "children": [
+          {
+            "id": "5edd76ed-1c25-415b-8165-0253cf984c43",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6127f59f-f04d-4418-a599-cd7261a93604",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c47dda05-8c97-4651-a9f8-0750bf0ade75",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ambehatapeer",
+                    "localname": "Nagar Panchayat Ambehatapeer",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikadataganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Dataganj",
+        "localname": "Nagar Palika Dataganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikadataganj",
+        "children": [
+          {
+            "id": "e13871e2-1aed-402e-a967-8b7bb3cca84a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4bd50f7a-b8ba-4226-906d-db1140cbb35a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f423ecbb-c959-4ecc-8339-935a8444915a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Dataganj",
+                    "localname": "Nagar Palika Dataganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

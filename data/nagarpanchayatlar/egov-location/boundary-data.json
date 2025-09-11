@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatlar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Lar",
+        "localname": "Nagar Panchayat Lar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatlar",
+        "children": [
+          {
+            "id": "9ea4b4f1-fadf-4b81-b41f-5beb1a52d65d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0d96e151-45bf-4d20-a6bb-7b7cc1cd5f28",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0ae0ed3b-1c56-409a-82d5-84977c1a430b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Lar",
+                    "localname": "Nagar Panchayat Lar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

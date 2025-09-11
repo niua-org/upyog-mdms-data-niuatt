@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasirsaganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Sirsaganj",
+        "localname": "Nagar Palika Sirsaganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasirsaganj",
+        "children": [
+          {
+            "id": "52f4ec10-66b4-4386-bab9-a55faeb97895",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "21e9db08-9fcb-4946-b450-4ae5abc91077",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "96f6f4ea-d254-49d1-a62e-f38ced882e7f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Sirsaganj",
+                    "localname": "Nagar Palika Sirsaganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

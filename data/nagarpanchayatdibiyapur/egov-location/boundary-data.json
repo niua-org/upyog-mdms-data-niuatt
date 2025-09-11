@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdibiyapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dibiyapur",
+        "localname": "Nagar Panchayat Dibiyapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdibiyapur",
+        "children": [
+          {
+            "id": "573d949c-e5d6-4601-968f-9e481ad1b066",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ac603436-786f-48cf-b1e5-b5163dab3c59",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f42b7bb2-6448-4eee-a771-09e87c706125",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dibiyapur",
+                    "localname": "Nagar Panchayat Dibiyapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatghiraur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ghiraur",
+        "localname": "Nagar Panchayat Ghiraur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatghiraur",
+        "children": [
+          {
+            "id": "3028e925-f3f3-4fa3-a074-dc0ab3722ede",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2cb13ca5-9481-4232-9238-f814078ef480",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ead69754-fcb8-4c98-951f-d17b39ac2dfb",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ghiraur",
+                    "localname": "Nagar Panchayat Ghiraur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

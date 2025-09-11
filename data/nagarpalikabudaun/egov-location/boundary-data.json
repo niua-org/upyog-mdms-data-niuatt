@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabudaun",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Budaun",
+        "localname": "Nagar Palika Budaun",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabudaun",
+        "children": [
+          {
+            "id": "d7efb3f6-4567-4d44-8764-a35cc061ed6c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "eb1948b5-8a59-4535-a086-8230de375b8a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4b10ad3b-d5ea-4242-8827-20935fda9ae7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Budaun",
+                    "localname": "Nagar Palika Budaun",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

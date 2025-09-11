@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsonauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sonauli",
+        "localname": "Nagar Panchayat Sonauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsonauli",
+        "children": [
+          {
+            "id": "54c2a762-abf0-49d7-95c6-61b224094d48",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "65e7d1c1-a3ff-4088-a511-148cc45de3ee",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "53f8a587-acf9-402a-a41e-add3aa99ba43",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sonauli",
+                    "localname": "Nagar Panchayat Sonauli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

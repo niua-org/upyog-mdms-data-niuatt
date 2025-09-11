@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabisalpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bisalpur",
+        "localname": "Nagar Palika Bisalpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabisalpur",
+        "children": [
+          {
+            "id": "03726793-600c-488b-b0cd-038dc0ba7159",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0ea9f9fd-67b8-47ae-9052-ad336b2b374a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d7f297fa-38f6-457b-a8ad-5c01ec497a7d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bisalpur",
+                    "localname": "Nagar Palika Bisalpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakairana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Kairana",
+        "localname": "Nagar Palika Kairana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakairana",
+        "children": [
+          {
+            "id": "53bc969c-abba-4f86-ad1a-cb51ab4287f5",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2b4ef347-ce76-4a6e-83c2-2e26558c47e6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6efca35e-cbd8-43e5-86ab-ec6e8cce4fc6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Kairana",
+                    "localname": "Nagar Palika Kairana",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

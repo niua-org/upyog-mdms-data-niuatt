@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsaraimir",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Saraimir",
+        "localname": "Nagar Panchayat Saraimir",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsaraimir",
+        "children": [
+          {
+            "id": "cec49fed-6f1f-4779-9037-98aba4005860",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4a286a62-b867-448a-8455-80c6c66ce405",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "fadc6f82-d111-4fc3-9c77-12e588e736a9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Saraimir",
+                    "localname": "Nagar Panchayat Saraimir",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

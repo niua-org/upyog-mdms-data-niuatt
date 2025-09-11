@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbanthra",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Banthra",
+        "localname": "Nagar Panchayat Banthra",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbanthra",
+        "children": [
+          {
+            "id": "a943c3cd-18dd-44b7-8bc1-9cd7a6d0874a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "835280b8-fb11-41e0-a0ea-f4c93ae30b4f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ffbc6f0b-232f-45ba-be89-f52cc61769e3",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Banthra",
+                    "localname": "Nagar Panchayat Banthra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

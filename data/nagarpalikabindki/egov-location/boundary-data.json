@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabindki",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bindki",
+        "localname": "Nagar Palika Bindki",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabindki",
+        "children": [
+          {
+            "id": "f39b1ad8-389b-443b-9d76-5d709e20f6f7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5298e755-c4df-452f-acd7-175d8f207b0c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a386cee6-d339-4e29-a10c-6891d6b887ae",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bindki",
+                    "localname": "Nagar Palika Bindki",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

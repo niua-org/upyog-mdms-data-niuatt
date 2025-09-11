@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatfatehganjpashchimi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Fatehganjpashchimi",
+        "localname": "Nagar Panchayat Fatehganjpashchimi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatfatehganjpashchimi",
+        "children": [
+          {
+            "id": "ef0009dc-c93a-4792-a440-e6371913dfbf",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f101109c-8d5e-47b3-8c88-bf4bfe747740",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "dd87eb83-b430-482e-aaef-605853985737",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Fatehganjpashchimi",
+                    "localname": "Nagar Panchayat Fatehganjpashchimi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

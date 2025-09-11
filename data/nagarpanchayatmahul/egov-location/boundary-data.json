@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmahul",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mahul",
+        "localname": "Nagar Panchayat Mahul",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmahul",
+        "children": [
+          {
+            "id": "d23275ec-15a4-4419-ba18-800a53f67d3c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cbf29c07-380e-42e2-8013-8dd98ec89b84",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "96438334-17c7-493f-85d9-4d7ca8f7303c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mahul",
+                    "localname": "Nagar Panchayat Mahul",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

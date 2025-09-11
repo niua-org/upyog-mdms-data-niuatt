@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbarkhera",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Barkhera",
+        "localname": "Nagar Panchayat Barkhera",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbarkhera",
+        "children": [
+          {
+            "id": "a2f65b5f-77cb-476e-b6d8-b76c1d8a6919",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bad74391-824a-48f1-87d5-0d0a014dfa9a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "097cbcf3-d1f6-4f4a-b59a-fc8d8d65bbff",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Barkhera",
+                    "localname": "Nagar Panchayat Barkhera",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

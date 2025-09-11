@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpachperwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Pachperwa",
+        "localname": "Nagar Panchayat Pachperwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpachperwa",
+        "children": [
+          {
+            "id": "b85dcc51-c855-460f-bca4-3ea786547e44",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "149583b3-5995-4b70-bf49-92ecb14c9c74",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3452593f-14cd-48d8-93fe-67ab98cd4a35",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Pachperwa",
+                    "localname": "Nagar Panchayat Pachperwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbardar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bardar",
+        "localname": "Nagar Panchayat Bardar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbardar",
+        "children": [
+          {
+            "id": "cdd1a979-f3bc-4941-ab80-514d48fc8743",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4633ae7e-f834-4563-a279-c00453aa895c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "163abb7b-139e-4647-9279-21d580e996a0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bardar",
+                    "localname": "Nagar Panchayat Bardar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

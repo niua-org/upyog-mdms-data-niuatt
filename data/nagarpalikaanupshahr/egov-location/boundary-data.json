@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaanupshahr",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Anupshahr",
+        "localname": "Nagar Palika Anupshahr",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaanupshahr",
+        "children": [
+          {
+            "id": "2092197f-cfee-4e9c-9d0c-8d73f36d0d8e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "baea087f-4aa8-4ca6-8284-a1525a11f7d6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "9ee941a3-bf86-4dbe-8ea2-3485aef293f9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Anupshahr",
+                    "localname": "Nagar Palika Anupshahr",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

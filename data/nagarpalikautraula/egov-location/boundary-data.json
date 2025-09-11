@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikautraula",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Utraula",
+        "localname": "Nagar Palika Utraula",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikautraula",
+        "children": [
+          {
+            "id": "6be05d65-5855-4ba7-ab23-174190db7ff3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c4becd5b-f7d8-40bf-a5ba-d114d6f9d3ab",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2f5f87f3-8ffe-4460-b3db-654878e7b34b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Utraula",
+                    "localname": "Nagar Palika Utraula",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

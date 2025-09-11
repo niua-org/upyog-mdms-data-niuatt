@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabaraut",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Baraut",
+        "localname": "Nagar Palika Baraut",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabaraut",
+        "children": [
+          {
+            "id": "e8392377-858e-4353-8b35-bd681fd7f9aa",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a25e175d-29d3-4fba-9849-d11e6224b1ec",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8c14f29a-92bb-45dc-9f77-5709e2cd43e7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Baraut",
+                    "localname": "Nagar Palika Baraut",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

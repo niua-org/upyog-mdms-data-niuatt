@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattikri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Tikri",
+        "localname": "Nagar Panchayat Tikri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattikri",
+        "children": [
+          {
+            "id": "94750871-3e78-4b94-9af5-3c1bc7659b7c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "86d8308e-cf80-4f58-9f6a-305bafa3af2d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "88d05e8b-3507-4cca-8595-4ca401169f65",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Tikri",
+                    "localname": "Nagar Panchayat Tikri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

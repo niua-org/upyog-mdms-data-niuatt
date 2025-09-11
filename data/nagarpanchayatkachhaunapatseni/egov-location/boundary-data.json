@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkachhaunapatseni",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kachhaunapatseni",
+        "localname": "Nagar Panchayat Kachhaunapatseni",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkachhaunapatseni",
+        "children": [
+          {
+            "id": "1e7c42fe-0ad5-41a2-939a-dbed8e0498a6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "555e9c6e-ec5d-45fb-b0bc-9de2f3b10703",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b2a0304f-8114-4512-b456-a21cf6ad398c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kachhaunapatseni",
+                    "localname": "Nagar Panchayat Kachhaunapatseni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

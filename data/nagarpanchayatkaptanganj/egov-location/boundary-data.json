@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkaptanganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kaptanganj",
+        "localname": "Nagar Panchayat Kaptanganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkaptanganj",
+        "children": [
+          {
+            "id": "01b22687-bba7-463c-aa5e-b74b21a6fafb",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "26a66ba6-388d-442e-b145-431b2e9102d2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "584d3d37-45db-41c4-a1bc-967e627d1a52",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kaptanganj",
+                    "localname": "Nagar Panchayat Kaptanganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

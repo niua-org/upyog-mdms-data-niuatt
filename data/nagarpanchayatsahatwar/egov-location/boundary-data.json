@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsahatwar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sahatwar",
+        "localname": "Nagar Panchayat Sahatwar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsahatwar",
+        "children": [
+          {
+            "id": "7f3af94d-0f33-4eab-9d34-9081f832751e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "62faa8df-3b4a-4180-8392-d22f6e47ec8b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "98bee033-1bfe-424a-8264-92febc77b232",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sahatwar",
+                    "localname": "Nagar Panchayat Sahatwar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasahaswan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Sahaswan",
+        "localname": "Nagar Palika Sahaswan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasahaswan",
+        "children": [
+          {
+            "id": "b1b59bcd-194c-4124-b4e4-f9dab4b20bd6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "69855f98-b531-4701-9ca1-345f18d90403",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3a5f4337-cf3d-4b6d-a9fc-73066f3495d2",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Sahaswan",
+                    "localname": "Nagar Palika Sahaswan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

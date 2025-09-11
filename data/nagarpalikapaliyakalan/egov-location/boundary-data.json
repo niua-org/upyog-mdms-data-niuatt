@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikapaliyakalan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Paliyakalan",
+        "localname": "Nagar Palika Paliyakalan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikapaliyakalan",
+        "children": [
+          {
+            "id": "43d42115-18cb-4453-b9cf-6dc77dfd2cb6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cd7d61d5-3a43-452d-bb58-e184d7f5fcf6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8238a661-10c7-4441-a3e7-2716b0be966e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Paliyakalan",
+                    "localname": "Nagar Palika Paliyakalan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

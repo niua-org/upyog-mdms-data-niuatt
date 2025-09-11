@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdariyabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dariyabad",
+        "localname": "Nagar Panchayat Dariyabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdariyabad",
+        "children": [
+          {
+            "id": "c1fcb17d-1aeb-4f2b-a0ef-b17eb15d2387",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7dba1f47-b1aa-4125-b772-6466783fec7c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4552feab-5474-4e6a-8569-c3e6ac2bb387",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dariyabad",
+                    "localname": "Nagar Panchayat Dariyabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatramsanehighat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ramsanehighat",
+        "localname": "Nagar Panchayat Ramsanehighat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatramsanehighat",
+        "children": [
+          {
+            "id": "6fecf163-ca9f-4a5f-a806-84585aeef5d0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ab3c40ab-b96f-43c9-80cd-8ffedc0e41c0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1fc0d44b-d658-421c-93d7-ccbb0d3c4ef9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ramsanehighat",
+                    "localname": "Nagar Panchayat Ramsanehighat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

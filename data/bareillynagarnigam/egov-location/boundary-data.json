@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.bareillynagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bareilly Nagar Nigam",
+        "localname": "Bareilly Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.bareillynagarnigam",
+        "children": [
+          {
+            "id": "b885d86b-b897-4f35-b86e-c1fd1ecb0713",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1419eddd-5eda-46e4-9969-8e6f11d53ce9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "31075ab3-6819-4415-8edd-c9e6e556705d",
+                    "boundaryNum": 1,
+                    "name": "Bareilly Nagar Nigam",
+                    "localname": "Bareilly Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

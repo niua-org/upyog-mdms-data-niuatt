@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamauranipur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Mauranipur",
+        "localname": "Nagar Palika Mauranipur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamauranipur",
+        "children": [
+          {
+            "id": "a32ec0c7-1eb4-4759-aa15-11e6f8118073",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5cef9950-4cbf-40ea-a9f7-2a08513bf12c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "17eef2d7-a8cd-414a-8004-50236b3700f8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Mauranipur",
+                    "localname": "Nagar Palika Mauranipur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

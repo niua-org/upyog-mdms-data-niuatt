@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmusafirkhana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Musafirkhana",
+        "localname": "Nagar Panchayat Musafirkhana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmusafirkhana",
+        "children": [
+          {
+            "id": "b7e1299e-26c8-4933-a4f4-0c65ac00be42",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fdba6e17-48c5-46eb-a859-2818d7dfca84",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c2151398-9df4-4c34-aad0-84f824a4fc9d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Musafirkhana",
+                    "localname": "Nagar Panchayat Musafirkhana",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

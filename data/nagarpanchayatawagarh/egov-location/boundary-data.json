@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatawagarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Awagarh",
+        "localname": "Nagar Panchayat Awagarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatawagarh",
+        "children": [
+          {
+            "id": "ebeaa62b-adab-4ec1-b233-f6cbe4914d00",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "10b2a523-3d51-447f-8555-77a2a3958791",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ffefd255-2a60-4e7f-9d1a-e0b0ba560c2e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Awagarh",
+                    "localname": "Nagar Panchayat Awagarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

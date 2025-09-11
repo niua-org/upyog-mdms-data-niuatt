@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrampura",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rampura",
+        "localname": "Nagar Panchayat Rampura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrampura",
+        "children": [
+          {
+            "id": "438a266c-8b78-4499-8e5d-d6477c93ad85",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f2089967-aaa2-4a3e-974a-dbf0db4c59d9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "beb97b0d-ec49-4e3d-bbdb-ade55428cb45",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rampura",
+                    "localname": "Nagar Panchayat Rampura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

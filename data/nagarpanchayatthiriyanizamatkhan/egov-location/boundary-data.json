@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatthiriyanizamatkhan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Thiriyanizamatkhan",
+        "localname": "Nagar Panchayat Thiriyanizamatkhan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatthiriyanizamatkhan",
+        "children": [
+          {
+            "id": "1c6a6ae1-34df-4045-97cd-f9742e7b1a31",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6f2cafa5-e9f9-41de-9f41-d292ac849b9e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "45ae6540-fdf8-4b80-99ae-6ef4c4155683",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Thiriyanizamatkhan",
+                    "localname": "Nagar Panchayat Thiriyanizamatkhan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbharatganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bharatganj",
+        "localname": "Nagar Panchayat Bharatganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbharatganj",
+        "children": [
+          {
+            "id": "57136be9-7ea8-46cd-88e7-fcda6ed0c36f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "163cc709-c1d2-48eb-9121-a7ecf883c0f3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5fce37ab-f3fa-441a-9ad5-1f711617b055",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bharatganj",
+                    "localname": "Nagar Panchayat Bharatganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

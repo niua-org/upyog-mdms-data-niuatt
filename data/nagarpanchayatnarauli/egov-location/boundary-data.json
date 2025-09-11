@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnarauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Narauli",
+        "localname": "Nagar Panchayat Narauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnarauli",
+        "children": [
+          {
+            "id": "f0ca34d9-5445-4079-8334-e431dd4aeebc",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0e747df9-98b3-4cbf-918d-02e34bbc45d9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c96b835c-e2ac-4c83-b592-b582e0797f0e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Narauli",
+                    "localname": "Nagar Panchayat Narauli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

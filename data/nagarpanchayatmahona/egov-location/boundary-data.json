@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmahona",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mahona",
+        "localname": "Nagar Panchayat Mahona",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmahona",
+        "children": [
+          {
+            "id": "090e3191-cb03-40cd-8aaf-42678fe96319",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d94ff933-2eba-4573-afb2-7d665903d920",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "28e31c9b-5bbc-4074-b3b4-0379e6b2ee96",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mahona",
+                    "localname": "Nagar Panchayat Mahona",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

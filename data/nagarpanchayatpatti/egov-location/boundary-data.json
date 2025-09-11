@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpatti",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Patti",
+        "localname": "Nagar Panchayat Patti",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpatti",
+        "children": [
+          {
+            "id": "5007b073-e1cd-4211-9cff-a5dcc4689653",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2a0480d3-3b66-4352-9cf1-bfb89651dd30",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "9ff05088-f9d7-45db-bcff-bc9d68c45c89",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Patti",
+                    "localname": "Nagar Panchayat Patti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

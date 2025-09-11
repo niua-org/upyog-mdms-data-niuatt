@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikahardoi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Hardoi",
+        "localname": "Nagar Palika Hardoi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikahardoi",
+        "children": [
+          {
+            "id": "e4610790-b67b-4c78-aed5-7a1f343c888c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f6ac0661-5bfc-45f9-8ae2-8ef5c49f3e59",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5638ce2e-925f-4af5-8515-fc2f90b522a8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Hardoi",
+                    "localname": "Nagar Palika Hardoi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

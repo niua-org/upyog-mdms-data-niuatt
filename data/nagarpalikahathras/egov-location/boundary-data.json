@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikahathras",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Hathras",
+        "localname": "Nagar Palika Hathras",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikahathras",
+        "children": [
+          {
+            "id": "1fb9d583-4f97-4995-a3ad-1481d8c2b88a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9b634320-1a1b-497c-92b4-63117a87743f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0c7871cd-2495-497b-89cd-8da8a7e6e7b1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Hathras",
+                    "localname": "Nagar Palika Hathras",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

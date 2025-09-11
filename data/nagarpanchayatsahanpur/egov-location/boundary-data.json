@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsahanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sahanpur",
+        "localname": "Nagar Panchayat Sahanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsahanpur",
+        "children": [
+          {
+            "id": "facd74c1-e9f0-4b18-83e9-68c08cf69e56",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2d9d1f5e-de8f-475a-984c-44e18fca0e39",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1ee19086-01c7-4a3f-8686-8a6c9f538ee3",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sahanpur",
+                    "localname": "Nagar Panchayat Sahanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

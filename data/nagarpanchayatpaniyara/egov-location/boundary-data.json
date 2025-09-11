@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpaniyara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Paniyara",
+        "localname": "Nagar Panchayat Paniyara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpaniyara",
+        "children": [
+          {
+            "id": "a725fd98-6cf9-497d-a5a9-edcc9bcc8b27",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ac385652-2bf5-4b06-a914-3ea038bae978",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "bcb775ec-f084-49c4-bcfa-b5e3d973f3c1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Paniyara",
+                    "localname": "Nagar Panchayat Paniyara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

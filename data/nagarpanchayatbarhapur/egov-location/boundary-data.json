@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbarhapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Barhapur",
+        "localname": "Nagar Panchayat Barhapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbarhapur",
+        "children": [
+          {
+            "id": "99c0caf2-6e41-493a-9e33-0b087e4032e4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e2311b38-c54a-4931-ac0f-6b860ead62b9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ea18bf06-5a2c-416e-8e09-b147459bf3f8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Barhapur",
+                    "localname": "Nagar Panchayat Barhapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

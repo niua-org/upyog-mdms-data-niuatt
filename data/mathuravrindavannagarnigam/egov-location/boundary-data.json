@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.mathuravrindavannagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Mathura-Vrindavan Nagar Nigam",
+        "localname": "Mathura-Vrindavan Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.mathuravrindavannagarnigam",
+        "children": [
+          {
+            "id": "5d173388-71af-44d7-8571-1f5e483c9850",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0a54ee26-5313-439b-9a63-24bef3684d94",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "afe3e7df-9396-4bb3-bf3a-5a5a1e01cf52",
+                    "boundaryNum": 1,
+                    "name": "Mathura-Vrindavan Nagar Nigam",
+                    "localname": "Mathura-Vrindavan Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

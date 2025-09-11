@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkajgaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kajgaon",
+        "localname": "Nagar Panchayat Kajgaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkajgaon",
+        "children": [
+          {
+            "id": "131634ab-9c2d-4632-be17-7579a5fcf832",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ddf4eca7-bb45-4417-8dd8-b0b75d661197",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "14b925ee-718c-4053-a184-21c0aa05bdc7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kajgaon",
+                    "localname": "Nagar Panchayat Kajgaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

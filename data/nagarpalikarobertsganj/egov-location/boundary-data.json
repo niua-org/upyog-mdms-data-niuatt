@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikarobertsganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Robertsganj",
+        "localname": "Nagar Palika Robertsganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikarobertsganj",
+        "children": [
+          {
+            "id": "55722b4e-0427-41d3-a1b8-7a733ca9454f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9d82612e-5480-4fe9-9545-b27df2a79677",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a6465c06-60f9-4c4f-8de9-7ca0e3fe1b79",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Robertsganj",
+                    "localname": "Nagar Palika Robertsganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

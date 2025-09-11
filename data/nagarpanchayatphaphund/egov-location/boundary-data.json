@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatphaphund",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Phaphund",
+        "localname": "Nagar Panchayat Phaphund",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatphaphund",
+        "children": [
+          {
+            "id": "021d97bc-63be-4bc2-9d3e-0f2f983defcf",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2b031838-e854-483f-b96f-1e0f6526e779",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "63afc776-0e4e-4ec5-b906-088b6065732e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Phaphund",
+                    "localname": "Nagar Panchayat Phaphund",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

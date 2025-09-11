@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatshahi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Shahi",
+        "localname": "Nagar Panchayat Shahi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatshahi",
+        "children": [
+          {
+            "id": "16df79f6-d0f9-42ff-852f-cc157f238973",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d037613c-b6a1-4676-9cd2-6fcc0ecd1250",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "348d73d6-2355-418c-b735-1e337e0885c5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Shahi",
+                    "localname": "Nagar Panchayat Shahi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabahjoi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bahjoi",
+        "localname": "Nagar Palika Bahjoi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabahjoi",
+        "children": [
+          {
+            "id": "1f7d1d3a-8831-4c8f-8237-ffb62d415c1d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "37f567db-2141-4615-8faa-89eb9fd4f8a9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "863432f1-026d-410c-bfa8-c156219c74ae",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bahjoi",
+                    "localname": "Nagar Palika Bahjoi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

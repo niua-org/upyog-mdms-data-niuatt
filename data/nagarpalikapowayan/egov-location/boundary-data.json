@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikapowayan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Powayan",
+        "localname": "Nagar Palika Powayan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikapowayan",
+        "children": [
+          {
+            "id": "2d43897d-7bb4-4b0f-a1d1-c35bfe01a120",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "47653c88-4e3a-4042-b008-164024a3c386",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "240e5f6a-8235-4f9a-9c69-376a6f653ba1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Powayan",
+                    "localname": "Nagar Palika Powayan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

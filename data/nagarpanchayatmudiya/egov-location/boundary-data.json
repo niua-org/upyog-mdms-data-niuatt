@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmudiya",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mudiya",
+        "localname": "Nagar Panchayat Mudiya",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmudiya",
+        "children": [
+          {
+            "id": "11ff630b-6333-4d48-a894-01583a88ec87",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0a960b1e-7cf3-45b1-b370-2020ec55b25e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e667536d-bc63-4b09-aca2-5ac3df9fed84",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mudiya",
+                    "localname": "Nagar Panchayat Mudiya",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

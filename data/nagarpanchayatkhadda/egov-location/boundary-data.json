@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkhadda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Khadda",
+        "localname": "Nagar Panchayat Khadda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkhadda",
+        "children": [
+          {
+            "id": "472f4f73-f943-404c-bb5d-0738c97bf6b6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "888a0ca9-8a12-4ed4-b551-3cfac97f213c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d4f9c218-146f-4fac-8243-04bfcd671cb8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Khadda",
+                    "localname": "Nagar Panchayat Khadda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

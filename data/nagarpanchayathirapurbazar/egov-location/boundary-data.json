@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayathirapurbazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Hirapurbazar",
+        "localname": "Nagar Panchayat Hirapurbazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayathirapurbazar",
+        "children": [
+          {
+            "id": "4d689421-3ffb-4022-9424-f9a0f4388336",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1d266a1f-005f-470f-ab50-1af201338b12",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ba70e840-4f45-4982-abc0-191e23b11aad",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Hirapurbazar",
+                    "localname": "Nagar Panchayat Hirapurbazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

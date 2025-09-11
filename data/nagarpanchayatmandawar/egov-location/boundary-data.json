@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmandawar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mandawar",
+        "localname": "Nagar Panchayat Mandawar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmandawar",
+        "children": [
+          {
+            "id": "98fad599-82e7-419d-be77-687d2c662093",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5a3ea12c-5c70-46d6-9715-42b246e8f8d4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0f2ddd50-0d8c-4500-9a90-ae375f428271",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mandawar",
+                    "localname": "Nagar Panchayat Mandawar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

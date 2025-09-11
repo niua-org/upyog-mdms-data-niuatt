@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdaraganjaliaskaradham",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Daraganjaliaskaradham",
+        "localname": "Nagar Panchayat Daraganjaliaskaradham",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdaraganjaliaskaradham",
+        "children": [
+          {
+            "id": "d4203ba2-aefa-4f74-8d4e-b9e3171db949",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "32298889-6727-4fc8-b33e-7ccc331c4e94",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a7429cde-b6c0-406d-b346-21c42f4e417b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Daraganjaliaskaradham",
+                    "localname": "Nagar Panchayat Daraganjaliaskaradham",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

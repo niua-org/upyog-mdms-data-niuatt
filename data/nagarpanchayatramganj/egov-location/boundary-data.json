@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatramganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ramganj",
+        "localname": "Nagar Panchayat Ramganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatramganj",
+        "children": [
+          {
+            "id": "2b67e62c-8e43-429d-a287-06ec654551d5",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1081fcc6-b69d-4dee-96f1-740d73f8e5b7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "87aa53a8-8908-4e8f-8d64-9aabc18e1d7f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ramganj",
+                    "localname": "Nagar Panchayat Ramganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

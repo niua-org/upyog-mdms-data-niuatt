@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattirwaganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Tirwaganj",
+        "localname": "Nagar Panchayat Tirwaganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattirwaganj",
+        "children": [
+          {
+            "id": "e015ac7f-9996-4424-8964-6ddb3f47e48d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "43b384cf-4d15-4d5e-a3bd-85afa3b6066b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1632a35b-839d-4f10-9c46-69fbe32619fc",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Tirwaganj",
+                    "localname": "Nagar Panchayat Tirwaganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

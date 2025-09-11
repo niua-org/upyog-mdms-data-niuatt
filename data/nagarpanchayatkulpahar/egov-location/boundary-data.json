@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkulpahar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kulpahar",
+        "localname": "Nagar Panchayat Kulpahar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkulpahar",
+        "children": [
+          {
+            "id": "076e0828-01f6-46f2-9642-4e0389472a4b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6edbd6a2-e803-441a-9fb0-f0f30b0ae7a2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6c891271-c5d9-4d14-a821-428e097b64f7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kulpahar",
+                    "localname": "Nagar Panchayat Kulpahar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

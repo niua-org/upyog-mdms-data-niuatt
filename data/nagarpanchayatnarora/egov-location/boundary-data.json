@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnarora",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Narora",
+        "localname": "Nagar Panchayat Narora",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnarora",
+        "children": [
+          {
+            "id": "a1c04d26-9d1e-451c-9c76-d0ea6caaf1ab",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f12ef280-6b75-40d8-a096-cd152f0630e7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "805f47d2-a7bd-44d3-a0e8-d528b42c1c83",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Narora",
+                    "localname": "Nagar Panchayat Narora",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

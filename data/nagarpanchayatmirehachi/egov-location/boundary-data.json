@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmirehachi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mirehachi",
+        "localname": "Nagar Panchayat Mirehachi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmirehachi",
+        "children": [
+          {
+            "id": "c1829c18-6c9d-443b-a68f-b89897e4f586",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "12ee56ec-26d0-482c-b8c7-aa52ed0c1876",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "56805d6c-cc91-46fb-b963-d83453eb2ff3",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mirehachi",
+                    "localname": "Nagar Panchayat Mirehachi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

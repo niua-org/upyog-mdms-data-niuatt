@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbarauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Barauli",
+        "localname": "Nagar Panchayat Barauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbarauli",
+        "children": [
+          {
+            "id": "edf278a9-f6d5-4fcc-b017-ba738abe38da",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a5cabfbd-d301-487c-859f-c6a4009475d2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d17b286b-e2bf-4a45-86f1-bba9e119c1ee",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Barauli",
+                    "localname": "Nagar Panchayat Barauli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmadhogarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Madhogarh",
+        "localname": "Nagar Panchayat Madhogarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmadhogarh",
+        "children": [
+          {
+            "id": "fc5828bd-ce65-4f2a-83c1-88cb359ee057",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c18a16e0-8e66-4e16-868c-0ff67e139eaf",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "606ab35e-45a2-46dd-8c79-dc8dae1a7221",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Madhogarh",
+                    "localname": "Nagar Panchayat Madhogarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

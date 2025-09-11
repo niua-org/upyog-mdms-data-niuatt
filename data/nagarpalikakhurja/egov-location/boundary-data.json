@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakhurja",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Khurja",
+        "localname": "Nagar Palika Khurja",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakhurja",
+        "children": [
+          {
+            "id": "285d5a3d-af3a-48fc-aa39-af184bd32e93",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "97ea1f97-4118-46c8-96e2-9b9b0820ae47",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "95048585-770b-4041-b9d4-ccfd4b560645",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Khurja",
+                    "localname": "Nagar Palika Khurja",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

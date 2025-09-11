@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbighapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bighapur",
+        "localname": "Nagar Panchayat Bighapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbighapur",
+        "children": [
+          {
+            "id": "170eeec8-69db-46fc-87a9-e8efaf97d4db",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "73706c60-3a37-4e79-ac3b-13a60a87e4a0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7acd5325-b828-421b-8863-1e5e721f8845",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bighapur",
+                    "localname": "Nagar Panchayat Bighapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

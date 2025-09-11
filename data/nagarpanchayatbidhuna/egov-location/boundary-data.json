@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbidhuna",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bidhuna",
+        "localname": "Nagar Panchayat Bidhuna",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbidhuna",
+        "children": [
+          {
+            "id": "9259797b-2373-4220-b19c-9e5c7e848ea0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5be4aa19-d794-44dd-9623-d8f5939d87a0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c2d91285-c26f-4606-8c4b-8e2898f902b5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bidhuna",
+                    "localname": "Nagar Panchayat Bidhuna",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

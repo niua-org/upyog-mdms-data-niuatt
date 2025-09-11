@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpatala",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Patala",
+        "localname": "Nagar Panchayat Patala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpatala",
+        "children": [
+          {
+            "id": "905b15dc-e7a1-495d-be2b-17899b9a8568",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0b478bfa-c2bd-4fb4-95d4-d63db2680775",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "36af5c54-815b-41a6-ba54-ca230eda9b50",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Patala",
+                    "localname": "Nagar Panchayat Patala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

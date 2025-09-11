@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikagajraula",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Gajraula",
+        "localname": "Nagar Palika Gajraula",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikagajraula",
+        "children": [
+          {
+            "id": "7f267092-592c-4bc5-949a-89a4bf28529d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fa6494a8-8130-4a3d-8a44-bf29ec1b100a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "48210270-aade-42af-b7c8-18d8096f2e80",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Gajraula",
+                    "localname": "Nagar Palika Gajraula",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabilsi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bilsi",
+        "localname": "Nagar Palika Bilsi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabilsi",
+        "children": [
+          {
+            "id": "be4531bb-c592-4c1e-befd-87f4d4433c90",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cb0e5e76-6101-4ca8-80ca-9e7b603e474d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "59b85715-23d6-4ac5-ab4e-8117b22d35d5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bilsi",
+                    "localname": "Nagar Palika Bilsi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

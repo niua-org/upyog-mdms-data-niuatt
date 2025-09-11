@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrenukoot",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Renukoot",
+        "localname": "Nagar Panchayat Renukoot",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrenukoot",
+        "children": [
+          {
+            "id": "8643460e-e43d-47d3-bbf0-e22df2561798",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "dc075721-0f27-41b4-b267-d869e5666b2a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3a23030f-1746-4d97-a057-a3e2aec3e9c5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Renukoot",
+                    "localname": "Nagar Panchayat Renukoot",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

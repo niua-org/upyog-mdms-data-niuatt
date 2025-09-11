@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchurkghurma",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Churkghurma",
+        "localname": "Nagar Panchayat Churkghurma",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchurkghurma",
+        "children": [
+          {
+            "id": "a5c7e8ed-f610-48af-a36f-ac3f1b924eb2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f475688d-e450-4fe7-81ab-0124fdadbb44",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0b1fcd64-946c-4cc2-8cc5-f9a7a77e3e77",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Churkghurma",
+                    "localname": "Nagar Panchayat Churkghurma",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsidhauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sidhauli",
+        "localname": "Nagar Panchayat Sidhauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsidhauli",
+        "children": [
+          {
+            "id": "45d41975-eae7-4169-9b14-71011cc483c4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2a3403f1-04f0-47ac-a6b5-b93b4f28b046",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7e8b98ef-6b5c-4c04-8d70-5d52f757a4ea",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sidhauli",
+                    "localname": "Nagar Panchayat Sidhauli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkorajahanabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Korajahanabad",
+        "localname": "Nagar Panchayat Korajahanabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkorajahanabad",
+        "children": [
+          {
+            "id": "c746c070-80ac-4140-994b-a6fdfb86b531",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "677c8919-8901-4848-9cf6-70f3d93969dd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3f6a9302-d092-427c-9234-a36bd45fae77",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Korajahanabad",
+                    "localname": "Nagar Panchayat Korajahanabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

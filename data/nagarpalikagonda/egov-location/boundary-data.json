@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikagonda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Gonda",
+        "localname": "Nagar Palika Gonda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikagonda",
+        "children": [
+          {
+            "id": "6f48feb5-8cdc-41f9-bcf9-cd4f8f3a6fe1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "856ed59f-5542-457c-9f06-6d46408579a7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "beccb43c-1056-44a7-90c5-c823424817d8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Gonda",
+                    "localname": "Nagar Palika Gonda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

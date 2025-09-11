@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbahadurganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bahadurganj",
+        "localname": "Nagar Panchayat Bahadurganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbahadurganj",
+        "children": [
+          {
+            "id": "c31cad2a-00a7-42aa-bc17-3ed08ee7ad82",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "47017bc5-4335-4a2f-b1b3-ccd8d5c5bb9f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1e5cf3cd-2d85-4573-a4c8-5dd01b44fd3a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bahadurganj",
+                    "localname": "Nagar Panchayat Bahadurganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

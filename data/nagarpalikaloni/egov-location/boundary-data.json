@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaloni",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Loni",
+        "localname": "Nagar Palika Loni",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaloni",
+        "children": [
+          {
+            "id": "cfdb13b3-caaf-4736-bd0a-f6e0c5fe21ce",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3faeb238-e219-4e79-90b0-c0517eff8b8b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "538118ac-ea76-4a40-86f4-409625c70e43",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Loni",
+                    "localname": "Nagar Palika Loni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

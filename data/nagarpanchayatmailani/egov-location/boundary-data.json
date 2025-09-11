@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmailani",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mailani",
+        "localname": "Nagar Panchayat Mailani",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmailani",
+        "children": [
+          {
+            "id": "ca15f14a-ed1f-4715-a3fa-98b27e68a2b5",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "57822175-bf6a-4f1c-b196-b3dbfcfc0236",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a3e0ba2f-028e-47ce-8953-0fecd1e8aa00",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mailani",
+                    "localname": "Nagar Panchayat Mailani",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

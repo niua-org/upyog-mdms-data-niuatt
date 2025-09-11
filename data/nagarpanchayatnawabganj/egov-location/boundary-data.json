@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnawabganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nawabganj",
+        "localname": "Nagar Panchayat Nawabganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnawabganj",
+        "children": [
+          {
+            "id": "fee8bf8a-ba29-425e-8642-18a9c5236677",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c453ed73-dc6c-4962-98ae-72f591324091",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "30efcb66-b9c6-4bc0-92a1-ac83df05a7c7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nawabganj",
+                    "localname": "Nagar Panchayat Nawabganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

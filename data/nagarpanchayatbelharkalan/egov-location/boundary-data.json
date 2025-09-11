@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbelharkalan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Belharkalan",
+        "localname": "Nagar Panchayat Belharkalan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbelharkalan",
+        "children": [
+          {
+            "id": "80fb24b1-a178-4393-8f26-f985e776f5b7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1353eb4c-0217-4415-9268-915cfd9a91e6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "94a90bca-8942-4e50-a22a-6e796cc9245c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Belharkalan",
+                    "localname": "Nagar Panchayat Belharkalan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

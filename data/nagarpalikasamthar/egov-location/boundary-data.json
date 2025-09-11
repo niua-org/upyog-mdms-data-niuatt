@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasamthar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Samthar",
+        "localname": "Nagar Palika Samthar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasamthar",
+        "children": [
+          {
+            "id": "8e720e60-e2ca-40d7-9cd5-de64d75f3bc5",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1b85ea26-c468-478a-90cf-eed3bfa2cf07",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a1a6db0d-c00e-4eab-af0c-6e9ed53708d6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Samthar",
+                    "localname": "Nagar Palika Samthar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

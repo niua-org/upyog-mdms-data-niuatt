@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatderapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Derapur",
+        "localname": "Nagar Panchayat Derapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatderapur",
+        "children": [
+          {
+            "id": "1f3a1f7a-65ff-4496-9527-37c8d2f9ec84",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f232fbe1-0f40-4981-aa53-8a1497e4528d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b5b4dcf0-8c01-4c5c-b7bf-ee24b129d501",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Derapur",
+                    "localname": "Nagar Panchayat Derapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjarwal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jarwal",
+        "localname": "Nagar Panchayat Jarwal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjarwal",
+        "children": [
+          {
+            "id": "9659b1a5-d022-4ce0-8f6c-eb78a0e9cfdf",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "56c6a578-4da8-4ce4-b07e-d52e722c4c59",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ef686643-fc04-4665-9a8c-aed6a38cb0ca",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jarwal",
+                    "localname": "Nagar Panchayat Jarwal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

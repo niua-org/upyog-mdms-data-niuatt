@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabaheri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Baheri",
+        "localname": "Nagar Palika Baheri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabaheri",
+        "children": [
+          {
+            "id": "f2799380-c2b1-4299-9628-02c03e84811d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1232ea45-39f2-41b8-afdf-4f17fae3f5bc",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2bd90172-c7fa-41c0-998b-1e2e66588c24",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Baheri",
+                    "localname": "Nagar Palika Baheri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

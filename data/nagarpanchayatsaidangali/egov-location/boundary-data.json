@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsaidangali",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Saidangali",
+        "localname": "Nagar Panchayat Saidangali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsaidangali",
+        "children": [
+          {
+            "id": "4eaf4e3c-dc06-42a9-b447-cedd169f781f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "df09782c-47fb-49c4-bee8-73562ec70e57",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c9f8b5d4-9f0c-4d79-82fd-8585f429eed6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Saidangali",
+                    "localname": "Nagar Panchayat Saidangali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmajhauliraj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Majhauliraj",
+        "localname": "Nagar Panchayat Majhauliraj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmajhauliraj",
+        "children": [
+          {
+            "id": "474d1bcc-bf0e-45f2-9751-69a61091c5a2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2043fad1-1184-41a7-aa45-828ec4010c97",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "aa7477e1-5e87-4984-91b4-f377295ab944",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Majhauliraj",
+                    "localname": "Nagar Panchayat Majhauliraj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

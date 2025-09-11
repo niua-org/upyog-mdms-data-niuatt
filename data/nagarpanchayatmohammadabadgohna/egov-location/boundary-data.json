@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmohammadabadgohna",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mohammadabadgohna",
+        "localname": "Nagar Panchayat Mohammadabadgohna",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmohammadabadgohna",
+        "children": [
+          {
+            "id": "a08e6c4d-0f2b-441b-869b-0831ed02610b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ee81f2b7-5c48-4454-9d29-b001eea18537",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3efbdf60-abe4-46e9-8839-363877b3d5bb",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mohammadabadgohna",
+                    "localname": "Nagar Panchayat Mohammadabadgohna",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

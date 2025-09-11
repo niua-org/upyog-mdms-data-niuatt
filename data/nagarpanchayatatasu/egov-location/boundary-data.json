@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatatasu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Atasu",
+        "localname": "Nagar Panchayat Atasu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatatasu",
+        "children": [
+          {
+            "id": "4c035cff-4fd2-4f7e-b489-c5a967b8eb29",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "61ddea08-ca27-4504-95ad-57ebc3ac0e7b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0789ad8b-e10f-4c88-993f-f5105c79ee80",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Atasu",
+                    "localname": "Nagar Panchayat Atasu",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

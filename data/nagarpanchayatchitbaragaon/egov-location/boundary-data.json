@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchitbaragaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chitbaragaon",
+        "localname": "Nagar Panchayat Chitbaragaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchitbaragaon",
+        "children": [
+          {
+            "id": "4a467291-42c1-4403-b867-e48bcdc74d63",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "372f5c2b-4801-4146-bcf3-758fe98bebb5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "048ff933-fa5f-4a7b-aef2-82953c93185b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chitbaragaon",
+                    "localname": "Nagar Panchayat Chitbaragaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

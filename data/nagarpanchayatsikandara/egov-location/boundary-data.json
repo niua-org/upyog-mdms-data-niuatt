@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsikandara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sikandara",
+        "localname": "Nagar Panchayat Sikandara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsikandara",
+        "children": [
+          {
+            "id": "9ca2808a-584b-4435-b71e-7026311c5645",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1a4cae3b-8b64-4a96-9385-3855ff3d9e51",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "68c18955-4beb-408e-9474-100f2e580c84",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sikandara",
+                    "localname": "Nagar Panchayat Sikandara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

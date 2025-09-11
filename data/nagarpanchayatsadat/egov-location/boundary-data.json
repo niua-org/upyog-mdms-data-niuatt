@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsadat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sadat",
+        "localname": "Nagar Panchayat Sadat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsadat",
+        "children": [
+          {
+            "id": "d6c50e6f-f89c-4aef-865c-87e88b5e073a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1dc36757-aa84-47fe-aba8-0980deb898cb",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "bf3dcf92-c3bf-4c50-a3bd-d852a6172e12",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sadat",
+                    "localname": "Nagar Panchayat Sadat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

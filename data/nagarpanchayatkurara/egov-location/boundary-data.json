@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkurara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kurara",
+        "localname": "Nagar Panchayat Kurara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkurara",
+        "children": [
+          {
+            "id": "9210dcf8-ac2f-4055-8a1a-471698f5faa7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "663bc34d-b73c-446c-bb62-faf314a0c50f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8d95f887-69d4-4f57-9f40-39f167c1a763",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kurara",
+                    "localname": "Nagar Panchayat Kurara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

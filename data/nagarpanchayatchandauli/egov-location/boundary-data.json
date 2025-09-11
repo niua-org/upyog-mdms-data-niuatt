@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchandauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chandauli",
+        "localname": "Nagar Panchayat Chandauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchandauli",
+        "children": [
+          {
+            "id": "1c384130-6043-45e6-8b70-65a0bd684eef",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ad3c4cc7-0d32-463b-a6ca-7a22914a5421",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4dc53df3-7a20-440a-ae90-0b3da773948f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chandauli",
+                    "localname": "Nagar Panchayat Chandauli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

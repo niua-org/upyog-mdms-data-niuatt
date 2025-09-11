@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikashikarpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Shikarpur",
+        "localname": "Nagar Palika Shikarpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikashikarpur",
+        "children": [
+          {
+            "id": "ae38bd27-af37-4860-9990-d594437c0868",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bc4e6982-c421-455c-94b5-a69e6c84a9f9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "79c31c13-83f4-4869-a4c4-c3aa5001bc83",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Shikarpur",
+                    "localname": "Nagar Palika Shikarpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjawansikandarpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jawansikandarpur",
+        "localname": "Nagar Panchayat Jawansikandarpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjawansikandarpur",
+        "children": [
+          {
+            "id": "f3ce9e15-dd61-4dbc-b984-dd659b2aa2bd",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1bccd4ec-a515-4fb5-ada7-17ebc01ded88",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "39146d08-f805-4f78-bc3d-57b3443ce665",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jawansikandarpur",
+                    "localname": "Nagar Panchayat Jawansikandarpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

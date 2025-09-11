@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasikandrabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Sikandrabad",
+        "localname": "Nagar Palika Sikandrabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasikandrabad",
+        "children": [
+          {
+            "id": "f82c4c39-e0d3-4290-bc58-c55b84df2d49",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1fce1b94-a54c-46fb-aae7-4781a67d7342",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "439a59c0-e6e2-4620-9995-fdaad711870f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Sikandrabad",
+                    "localname": "Nagar Palika Sikandrabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

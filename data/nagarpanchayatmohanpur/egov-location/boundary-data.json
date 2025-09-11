@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmohanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mohanpur",
+        "localname": "Nagar Panchayat Mohanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmohanpur",
+        "children": [
+          {
+            "id": "b6c77379-55f7-4c96-ad90-0a4f99476c80",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "607cefba-d4ec-4e7e-9f2d-c9cd078e5246",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f9ae6087-22a7-4d1b-bdb4-a3b9a3eedf43",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mohanpur",
+                    "localname": "Nagar Panchayat Mohanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

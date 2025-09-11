@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasardhana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Sardhana",
+        "localname": "Nagar Palika Sardhana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasardhana",
+        "children": [
+          {
+            "id": "e3260979-a3e4-4ff6-9459-141790b13e0e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "af9de333-3ba5-47e2-9e57-6e61908f244d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b366cb9b-0686-44f6-a407-0e801c866cb7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Sardhana",
+                    "localname": "Nagar Palika Sardhana",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

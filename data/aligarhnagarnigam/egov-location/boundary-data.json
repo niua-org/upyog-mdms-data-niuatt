@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.aligarhnagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Aligarh Nagar Nigam",
+        "localname": "Aligarh Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.aligarhnagarnigam",
+        "children": [
+          {
+            "id": "ed4a2386-28c1-4725-8655-3d53b82f3820",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9a80b9c5-54bf-4862-8bda-880999390f7f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e83b8771-27e6-472c-a9e7-7346ea081181",
+                    "boundaryNum": 1,
+                    "name": "Aligarh Nagar Nigam",
+                    "localname": "Aligarh Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

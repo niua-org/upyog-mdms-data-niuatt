@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasandi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Sandi",
+        "localname": "Nagar Palika Sandi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasandi",
+        "children": [
+          {
+            "id": "674dfd05-3545-4c2d-9bea-c4ee8389f149",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "eab32782-741c-4a27-a2a3-de3eae453af3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6c4a7eca-2f0a-4068-a79d-cb89ca595f85",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Sandi",
+                    "localname": "Nagar Palika Sandi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

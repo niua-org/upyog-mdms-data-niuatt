@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmusanagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Musanagar",
+        "localname": "Nagar Panchayat Musanagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmusanagar",
+        "children": [
+          {
+            "id": "e222cca9-dd0a-4af4-9978-9d157a4aa0f7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "09aeb951-6cd3-4ef9-82cd-a69b47ea2950",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "591c7dca-a81c-4983-af05-ff148d6d0f38",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Musanagar",
+                    "localname": "Nagar Panchayat Musanagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

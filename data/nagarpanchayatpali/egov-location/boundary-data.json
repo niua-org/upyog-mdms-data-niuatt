@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpali",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Pali",
+        "localname": "Nagar Panchayat Pali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpali",
+        "children": [
+          {
+            "id": "af854f4c-23aa-4bb3-b41c-0d85256fbd58",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "98c793f0-9d2e-4761-9745-d8e3f121548b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "67f554b3-0d5b-49e6-b6b7-7bf1375c46da",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Pali",
+                    "localname": "Nagar Panchayat Pali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

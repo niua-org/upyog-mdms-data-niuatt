@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjahangirganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jahangirganj",
+        "localname": "Nagar Panchayat Jahangirganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjahangirganj",
+        "children": [
+          {
+            "id": "d03121eb-be42-4a4b-8c36-11531ee32900",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "00be252b-b5fe-4043-85a8-0db281a6c2ed",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b112cdcc-d8c2-40b8-a45d-c98068d9e472",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jahangirganj",
+                    "localname": "Nagar Panchayat Jahangirganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

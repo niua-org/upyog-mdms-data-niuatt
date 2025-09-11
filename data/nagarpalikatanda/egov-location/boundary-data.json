@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikatanda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Tanda",
+        "localname": "Nagar Palika Tanda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikatanda",
+        "children": [
+          {
+            "id": "f6fa8db3-2634-41e4-a201-00c090151a79",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "76e4e713-2e5e-4a1d-a1a7-1b094cb2c9c6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c0875c1e-3e31-4daa-95e8-66691012a48b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Tanda",
+                    "localname": "Nagar Palika Tanda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdalabazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dalabazar",
+        "localname": "Nagar Panchayat Dalabazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdalabazar",
+        "children": [
+          {
+            "id": "268e543b-bddb-4bf7-bc1b-9f25bf351299",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4235d327-0542-4812-8193-a39dbb3b58e7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "946992f8-505b-4a7e-9689-a395cc65ab33",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dalabazar",
+                    "localname": "Nagar Panchayat Dalabazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

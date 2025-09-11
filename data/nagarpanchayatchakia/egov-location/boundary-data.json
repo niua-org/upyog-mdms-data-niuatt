@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchakia",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chakia",
+        "localname": "Nagar Panchayat Chakia",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchakia",
+        "children": [
+          {
+            "id": "3b5b7c18-7cc8-44c0-b6f1-f718d33f3bf6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3766bb50-7b89-45c5-95f4-17002c2a50de",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b6df5c03-a6db-4ed2-989f-ad29cf1fb730",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chakia",
+                    "localname": "Nagar Panchayat Chakia",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbharatbhari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bharatbhari",
+        "localname": "Nagar Panchayat Bharatbhari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbharatbhari",
+        "children": [
+          {
+            "id": "d0218e09-fd93-42ab-8196-b0a5b063542a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "19c28f08-3add-4a82-b656-46bd34686364",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d71f4af1-2e3e-4d96-bc4a-08b4c4cb920d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bharatbhari",
+                    "localname": "Nagar Panchayat Bharatbhari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

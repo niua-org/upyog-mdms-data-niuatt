@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkhanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Khanpur",
+        "localname": "Nagar Panchayat Khanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkhanpur",
+        "children": [
+          {
+            "id": "5a969e88-f362-4da7-a652-16915a94bd95",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ac94a14a-06a8-441e-9190-7fdbb90fda06",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c6579ffd-0363-4aaa-b7b6-d15763880118",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Khanpur",
+                    "localname": "Nagar Panchayat Khanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

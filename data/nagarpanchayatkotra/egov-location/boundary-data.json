@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkotra",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kotra",
+        "localname": "Nagar Panchayat Kotra",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkotra",
+        "children": [
+          {
+            "id": "99c5230e-0a02-4974-ad0e-91854890dad9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0324f57b-893f-4073-841c-e1864f60ed64",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "81d57116-44c1-4eee-9b82-2d7b14b6d1e2",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kotra",
+                    "localname": "Nagar Panchayat Kotra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdadhiyal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dadhiyal",
+        "localname": "Nagar Panchayat Dadhiyal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdadhiyal",
+        "children": [
+          {
+            "id": "471acd34-2f81-4c70-83c9-55b7369040fd",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3b3b68fe-9343-44f4-95ff-5b7c59538b99",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "78d0463f-cc5c-4f4a-9637-0adca2b4ed9f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dadhiyal",
+                    "localname": "Nagar Panchayat Dadhiyal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

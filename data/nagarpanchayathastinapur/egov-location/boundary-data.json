@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayathastinapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Hastinapur",
+        "localname": "Nagar Panchayat Hastinapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayathastinapur",
+        "children": [
+          {
+            "id": "d7c03a43-7585-4a51-afe1-4226ee7d23d6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0b6a3325-83e9-4244-bf33-3a759a3d477a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f09d4b6b-3491-45b1-96d6-deeea3d69632",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Hastinapur",
+                    "localname": "Nagar Panchayat Hastinapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

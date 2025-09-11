@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamubarakpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Mubarakpur",
+        "localname": "Nagar Palika Mubarakpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamubarakpur",
+        "children": [
+          {
+            "id": "ebf0a59c-570f-4e9e-ad23-35f57aeed021",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d23f2dc1-b68e-4e4e-ad62-012db164516d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "805ae2eb-b785-4511-a2ae-1aa1f3731b15",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Mubarakpur",
+                    "localname": "Nagar Palika Mubarakpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

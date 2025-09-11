@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkunda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kunda",
+        "localname": "Nagar Panchayat Kunda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkunda",
+        "children": [
+          {
+            "id": "af6086fa-f1e4-4316-99a6-13f53f63644c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0589098c-9a84-4181-ac65-eea4b94e5d74",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2a6ce84a-e6ea-443e-8f7a-7bd2d6ca41c6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kunda",
+                    "localname": "Nagar Panchayat Kunda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

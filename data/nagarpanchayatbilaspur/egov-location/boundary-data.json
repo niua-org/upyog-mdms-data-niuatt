@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbilaspur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bilaspur",
+        "localname": "Nagar Panchayat Bilaspur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbilaspur",
+        "children": [
+          {
+            "id": "c14d273f-376c-46ca-94d6-bde51d6d4f23",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8da9fa9f-3a00-4c96-b57c-e8323b0eb755",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "232ce3de-f06f-4be0-90f3-bb8537fdb528",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bilaspur",
+                    "localname": "Nagar Panchayat Bilaspur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

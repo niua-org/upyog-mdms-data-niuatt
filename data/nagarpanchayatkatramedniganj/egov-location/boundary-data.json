@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkatramedniganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Katramedniganj",
+        "localname": "Nagar Panchayat Katramedniganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkatramedniganj",
+        "children": [
+          {
+            "id": "cdbd56f9-0ccc-4ce8-8359-4e0db214c345",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c997fd5d-007e-4694-92af-14edc2e68acf",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b0cb2cc7-1332-4dbe-8758-e7337a3c0d95",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Katramedniganj",
+                    "localname": "Nagar Panchayat Katramedniganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgulariabhindara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gulariabhindara",
+        "localname": "Nagar Panchayat Gulariabhindara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgulariabhindara",
+        "children": [
+          {
+            "id": "2e534cd0-892c-4245-9a39-bc49823c29a8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c2314ff7-3388-4315-b18d-2066c02f166d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c4a0834d-8bc1-4f37-b70d-4e9be6b24c40",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gulariabhindara",
+                    "localname": "Nagar Panchayat Gulariabhindara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

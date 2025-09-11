@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikazamania",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Zamania",
+        "localname": "Nagar Palika Zamania",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikazamania",
+        "children": [
+          {
+            "id": "148b3bc1-21cf-40cc-ac30-eafe5c0d224c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "20f37817-e754-4e46-b4ec-23834f589755",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e0a992b9-ace3-41f5-9361-fc754f8febba",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Zamania",
+                    "localname": "Nagar Palika Zamania",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

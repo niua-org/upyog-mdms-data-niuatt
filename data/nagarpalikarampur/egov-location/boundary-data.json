@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikarampur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Rampur",
+        "localname": "Nagar Palika Rampur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikarampur",
+        "children": [
+          {
+            "id": "81380c47-2e90-4f6d-849a-e004a78e2cc5",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "59e220b1-db43-4fc1-9b5a-76bbebd2707d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "58958aba-0d99-4ace-985c-b98f63338273",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Rampur",
+                    "localname": "Nagar Palika Rampur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

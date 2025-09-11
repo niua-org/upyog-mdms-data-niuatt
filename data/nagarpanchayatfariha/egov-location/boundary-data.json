@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatfariha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Fariha",
+        "localname": "Nagar Panchayat Fariha",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatfariha",
+        "children": [
+          {
+            "id": "eef10c9e-6b95-45f2-a007-add46f841ea9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1c9b2d2e-fcc1-46d7-a5c6-756dd51e2129",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0173130b-ccd0-48a7-bfa2-0e2879b55bf8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Fariha",
+                    "localname": "Nagar Panchayat Fariha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

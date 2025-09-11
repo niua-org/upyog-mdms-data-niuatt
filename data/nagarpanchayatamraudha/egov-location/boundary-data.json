@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatamraudha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Amraudha",
+        "localname": "Nagar Panchayat Amraudha",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatamraudha",
+        "children": [
+          {
+            "id": "7c0e87b4-a094-4b77-ba74-da057c13058b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "246d44e1-1740-486c-b5a6-6fd8fbf90b41",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "10128f91-5cd8-437f-ad14-0192deca6c52",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Amraudha",
+                    "localname": "Nagar Panchayat Amraudha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

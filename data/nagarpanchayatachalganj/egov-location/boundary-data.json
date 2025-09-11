@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatachalganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Achalganj",
+        "localname": "Nagar Panchayat Achalganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatachalganj",
+        "children": [
+          {
+            "id": "27fae99a-6aef-418a-ace1-f517947e0b45",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a62b3246-9d0c-40af-869a-6755c94db30e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e348b0e6-f930-4c5c-9f03-ae62769bf9c1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Achalganj",
+                    "localname": "Nagar Panchayat Achalganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

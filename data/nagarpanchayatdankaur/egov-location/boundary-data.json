@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdankaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dankaur",
+        "localname": "Nagar Panchayat Dankaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdankaur",
+        "children": [
+          {
+            "id": "032be354-9f31-456e-96e9-2bcf0aae8a1f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "81cf942e-eefe-4e71-85c6-9e6838407a8a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "04186771-c25b-4d74-91ea-0d14cbaa4e2a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dankaur",
+                    "localname": "Nagar Panchayat Dankaur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

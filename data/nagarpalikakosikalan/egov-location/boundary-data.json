@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakosikalan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Kosikalan",
+        "localname": "Nagar Palika Kosikalan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakosikalan",
+        "children": [
+          {
+            "id": "d0363a25-76a5-430d-8611-559d810d3077",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ad92866b-9657-480d-8102-d08d5ec48b0a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c885475a-7618-49bb-b459-a36c25d9fedb",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Kosikalan",
+                    "localname": "Nagar Palika Kosikalan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

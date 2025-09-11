@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaauraiya",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Auraiya",
+        "localname": "Nagar Palika Auraiya",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaauraiya",
+        "children": [
+          {
+            "id": "edf8b5d9-02c3-4fc1-a03c-c8c0c72b3fe0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a942288c-9e41-4564-84a0-3b966b9f739c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "eb93e81b-5037-45b9-af46-7f9e40ae3b26",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Auraiya",
+                    "localname": "Nagar Palika Auraiya",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

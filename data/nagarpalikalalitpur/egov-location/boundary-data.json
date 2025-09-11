@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikalalitpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Lalitpur",
+        "localname": "Nagar Palika Lalitpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikalalitpur",
+        "children": [
+          {
+            "id": "ab8f5a4b-6dab-4eb1-b1d7-fa8955c4c081",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a92d9448-c5c1-4de7-98b9-141679832d43",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e7d89046-5477-44cc-b9ca-3b20d1de5bf7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Lalitpur",
+                    "localname": "Nagar Palika Lalitpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

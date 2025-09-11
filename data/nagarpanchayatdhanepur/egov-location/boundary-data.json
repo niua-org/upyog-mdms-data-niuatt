@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdhanepur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dhanepur",
+        "localname": "Nagar Panchayat Dhanepur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdhanepur",
+        "children": [
+          {
+            "id": "a5850f18-4888-4f82-90b4-41bf627e1c43",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d2e3df80-10a7-4266-bcd7-b88302b31c45",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "02ed066e-3e83-48e6-b365-8197d4d986be",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dhanepur",
+                    "localname": "Nagar Panchayat Dhanepur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

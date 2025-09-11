@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikahaldaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Haldaur",
+        "localname": "Nagar Palika Haldaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikahaldaur",
+        "children": [
+          {
+            "id": "3be0e2b2-d6b6-4352-9bc7-2a25973bfe81",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a5fe3986-95b3-4f3d-bc35-2277cc1a4615",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "15ee130e-15d4-4b63-a0ac-160328cdd7c3",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Haldaur",
+                    "localname": "Nagar Palika Haldaur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

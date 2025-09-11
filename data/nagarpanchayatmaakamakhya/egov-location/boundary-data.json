@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmaakamakhya",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Maakamakhya",
+        "localname": "Nagar Panchayat Maakamakhya",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmaakamakhya",
+        "children": [
+          {
+            "id": "af96b73e-dce3-44e1-b8c5-51b794a9ac66",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6c1e35b8-4ee2-4fe0-9e4c-59af24fee914",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c091d27e-5c23-40c8-a292-858e4896f673",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Maakamakhya",
+                    "localname": "Nagar Panchayat Maakamakhya",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

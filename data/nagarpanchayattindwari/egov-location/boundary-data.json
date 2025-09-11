@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattindwari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Tindwari",
+        "localname": "Nagar Panchayat Tindwari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattindwari",
+        "children": [
+          {
+            "id": "1f8b3340-894a-46f1-a330-3a379b6e397c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0f33e303-2c7d-47e7-8cc0-55906dbea6e7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d5830ba7-93b0-459d-84f1-96bfea9d0309",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Tindwari",
+                    "localname": "Nagar Panchayat Tindwari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

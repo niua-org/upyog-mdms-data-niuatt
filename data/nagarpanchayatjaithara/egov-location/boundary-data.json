@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjaithara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jaithara",
+        "localname": "Nagar Panchayat Jaithara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjaithara",
+        "children": [
+          {
+            "id": "f6d8e7ed-4735-42fe-951e-d84c544c98ee",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c90a1ee0-ccab-4210-a35d-45ade233265f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e5a85c86-9610-447a-9ffb-0f8e3b8a3909",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jaithara",
+                    "localname": "Nagar Panchayat Jaithara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

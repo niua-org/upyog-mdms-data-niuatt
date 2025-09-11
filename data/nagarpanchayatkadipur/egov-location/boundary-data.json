@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkadipur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kadipur",
+        "localname": "Nagar Panchayat Kadipur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkadipur",
+        "children": [
+          {
+            "id": "30af0f37-48d6-4b62-84eb-fbdba3f24626",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "056f5c0b-488d-429e-8fe1-703dc782b72d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f3df4f35-3d70-4c9b-b41e-a753753fc1db",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kadipur",
+                    "localname": "Nagar Panchayat Kadipur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

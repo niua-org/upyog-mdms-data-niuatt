@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatraniganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Raniganj",
+        "localname": "Nagar Panchayat Raniganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatraniganj",
+        "children": [
+          {
+            "id": "80156848-4787-4834-a5e5-fa5cc5d302b0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "624217f2-7fae-49ee-b082-db9b90d8b96e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8cd6dbca-aa5f-42a4-9f5a-775430d1b5c8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Raniganj",
+                    "localname": "Nagar Panchayat Raniganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

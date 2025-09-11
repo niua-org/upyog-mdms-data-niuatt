@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnagram",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nagram",
+        "localname": "Nagar Panchayat Nagram",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnagram",
+        "children": [
+          {
+            "id": "9c47098d-4207-40fb-b0ea-b04699c61a9b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b432ad18-5d83-4337-89d9-e3e83b46e061",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "94879c2c-9563-43aa-93eb-f9d073ba77c5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nagram",
+                    "localname": "Nagar Panchayat Nagram",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

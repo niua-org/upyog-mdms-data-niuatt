@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatagwanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Agwanpur",
+        "localname": "Nagar Panchayat Agwanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatagwanpur",
+        "children": [
+          {
+            "id": "5364dac6-5889-4923-b234-4d12fe364210",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cd1515a5-e7a2-46cb-89ea-5c4e4bd5865f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d8374466-e3b7-4aba-8e2c-3194f27eb2c7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Agwanpur",
+                    "localname": "Nagar Panchayat Agwanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

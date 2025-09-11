@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatiltifatganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Iltifatganj",
+        "localname": "Nagar Panchayat Iltifatganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatiltifatganj",
+        "children": [
+          {
+            "id": "9c1feb6a-104a-4893-8452-e83893eb2cf6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bd83f5a3-7e74-4219-a94f-2dac997a437d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "aa44c7ce-1dac-49da-8bea-a660c71e5019",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Iltifatganj",
+                    "localname": "Nagar Panchayat Iltifatganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

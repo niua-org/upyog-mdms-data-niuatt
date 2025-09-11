@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatshahabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Shahabad",
+        "localname": "Nagar Panchayat Shahabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatshahabad",
+        "children": [
+          {
+            "id": "33271d3e-c084-437f-835a-5f52e029ee02",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d913edaa-21f7-4172-b2da-4d2f72b8528a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3ce824ac-92ae-4b7e-8129-e8dbc7baaf63",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Shahabad",
+                    "localname": "Nagar Panchayat Shahabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

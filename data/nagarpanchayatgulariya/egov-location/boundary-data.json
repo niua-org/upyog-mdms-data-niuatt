@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgulariya",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gulariya",
+        "localname": "Nagar Panchayat Gulariya",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgulariya",
+        "children": [
+          {
+            "id": "c8bccee8-0478-4131-a342-1f88f4613d1e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d4833874-4bb1-4911-bdd0-2737c6a1a00a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b00e9d7d-95dc-4745-b6e1-38801b855f5e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gulariya",
+                    "localname": "Nagar Panchayat Gulariya",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

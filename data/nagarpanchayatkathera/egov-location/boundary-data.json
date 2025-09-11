@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkathera",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kathera",
+        "localname": "Nagar Panchayat Kathera",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkathera",
+        "children": [
+          {
+            "id": "e25015a3-46ec-42c4-9f42-f0a3d163c15c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "74e34e63-859e-4e9d-aa96-8a0096062e29",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8f77bcf8-13cd-4b3a-a7e6-8f2dab5664a2",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kathera",
+                    "localname": "Nagar Panchayat Kathera",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

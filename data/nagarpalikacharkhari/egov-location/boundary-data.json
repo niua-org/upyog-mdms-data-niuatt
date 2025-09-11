@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikacharkhari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Charkhari",
+        "localname": "Nagar Palika Charkhari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikacharkhari",
+        "children": [
+          {
+            "id": "5ca67a2a-ef1e-43d6-bbac-f21dfc41e218",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9a20a19c-aa79-45b2-a391-985f03a98ad3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f66fb7ff-a0c4-4ede-81de-fbc6c050a427",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Charkhari",
+                    "localname": "Nagar Palika Charkhari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

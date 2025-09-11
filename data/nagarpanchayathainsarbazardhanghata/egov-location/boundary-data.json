@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayathainsarbazardhanghata",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Hainsarbazardhanghata",
+        "localname": "Nagar Panchayat Hainsarbazardhanghata",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayathainsarbazardhanghata",
+        "children": [
+          {
+            "id": "83cc8167-ce1b-4780-aa49-06191b04a013",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "59fe87c7-4bc3-4387-bbdb-12a183d2ed92",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "085a34a3-1c21-404e-8092-e02b18c899fe",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Hainsarbazardhanghata",
+                    "localname": "Nagar Panchayat Hainsarbazardhanghata",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

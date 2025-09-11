@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikachandausi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Chandausi",
+        "localname": "Nagar Palika Chandausi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikachandausi",
+        "children": [
+          {
+            "id": "1c215f0a-1899-436e-82e9-610382819282",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e0fbe23d-45ab-4454-820d-ebc71279e9f7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "cd35d65a-7fc7-477a-96d3-c724c7603b4b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Chandausi",
+                    "localname": "Nagar Palika Chandausi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

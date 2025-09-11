@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikahapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Hapur",
+        "localname": "Nagar Palika Hapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikahapur",
+        "children": [
+          {
+            "id": "005badae-c640-46ad-8dc7-26e0235a9e84",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ee8cc28f-3800-4ce6-a168-f42e908943d5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3bb612ea-dec7-4fd4-88e0-d0e2a0b144bd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Hapur",
+                    "localname": "Nagar Palika Hapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsewarhi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sewarhi",
+        "localname": "Nagar Panchayat Sewarhi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsewarhi",
+        "children": [
+          {
+            "id": "1184c39b-c01d-4a01-8bbd-587cbbc64152",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "822544a0-6c8f-458b-9822-95ed7e15c5a7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "90f45bb3-64dc-4111-b06f-97f590a37fa9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sewarhi",
+                    "localname": "Nagar Panchayat Sewarhi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

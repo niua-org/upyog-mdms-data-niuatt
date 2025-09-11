@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabaghpat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Baghpat",
+        "localname": "Nagar Palika Baghpat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabaghpat",
+        "children": [
+          {
+            "id": "00594013-7da7-4656-8326-16a452d4ba68",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b11a4323-e2bc-465a-8f70-f39e663ec5c9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ad2d425e-245d-42a1-be60-a9c30bd7ee7f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Baghpat",
+                    "localname": "Nagar Palika Baghpat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

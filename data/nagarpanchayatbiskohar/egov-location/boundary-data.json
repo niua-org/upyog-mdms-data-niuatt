@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbiskohar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Biskohar",
+        "localname": "Nagar Panchayat Biskohar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbiskohar",
+        "children": [
+          {
+            "id": "f39bc7f2-1cbd-4b31-b452-211b48ff75a1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "41744275-ae4c-49a0-bd81-7f9ab7e6054e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8bbd9e6e-5704-4bdf-8df9-766164ecbbe9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Biskohar",
+                    "localname": "Nagar Panchayat Biskohar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrabupura",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rabupura",
+        "localname": "Nagar Panchayat Rabupura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrabupura",
+        "children": [
+          {
+            "id": "9824e1ea-a7d7-476a-a73a-49f85a4a9a5c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f808accd-4153-47dc-af08-fcb84fa3959a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "519cd590-8781-4a7f-a3e3-dfd625e5821c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rabupura",
+                    "localname": "Nagar Panchayat Rabupura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

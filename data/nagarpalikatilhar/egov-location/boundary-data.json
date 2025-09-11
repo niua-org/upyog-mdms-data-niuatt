@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikatilhar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Tilhar",
+        "localname": "Nagar Palika Tilhar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikatilhar",
+        "children": [
+          {
+            "id": "9af4efcd-562c-4c4f-9808-8e661deca338",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "42f6f115-08b7-490a-9624-e46a6135bb37",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "02c2611e-decf-445d-a507-02f9106c9104",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Tilhar",
+                    "localname": "Nagar Palika Tilhar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

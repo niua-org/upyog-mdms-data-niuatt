@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamaudaha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Maudaha",
+        "localname": "Nagar Palika Maudaha",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamaudaha",
+        "children": [
+          {
+            "id": "f6260126-489d-48dc-a2f0-9e9b08ee5115",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "abc51ad4-1f01-40a8-b511-ebee860cde42",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "707054fb-0b4b-4b38-bfa0-e3054e01d351",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Maudaha",
+                    "localname": "Nagar Palika Maudaha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

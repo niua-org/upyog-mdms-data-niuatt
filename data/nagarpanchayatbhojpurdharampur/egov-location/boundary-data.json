@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbhojpurdharampur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bhojpurdharampur",
+        "localname": "Nagar Panchayat Bhojpurdharampur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbhojpurdharampur",
+        "children": [
+          {
+            "id": "819ec13e-9138-4675-ad60-ceb0a912adda",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d89958ba-1b3c-48b9-bee7-2cef2c887d39",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b884c8a1-e386-439b-a6cc-fffc03d1bf78",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bhojpurdharampur",
+                    "localname": "Nagar Panchayat Bhojpurdharampur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatujhari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ujhari",
+        "localname": "Nagar Panchayat Ujhari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatujhari",
+        "children": [
+          {
+            "id": "9ce2c3c6-31bb-44ee-8302-e804d827d82b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "595ff20e-193d-4705-ab56-1501b950972b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d1849385-9a47-4474-a0d2-84111d356ba7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ujhari",
+                    "localname": "Nagar Panchayat Ujhari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

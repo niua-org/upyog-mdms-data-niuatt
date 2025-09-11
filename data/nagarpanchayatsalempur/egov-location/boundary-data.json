@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsalempur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Salempur",
+        "localname": "Nagar Panchayat Salempur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsalempur",
+        "children": [
+          {
+            "id": "5faba843-c143-42b0-a391-89e1e120a365",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cfb9bd8b-3500-45c1-a42f-f54d0b802782",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f43f1178-51a9-489c-b04b-930df067f5b3",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Salempur",
+                    "localname": "Nagar Panchayat Salempur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

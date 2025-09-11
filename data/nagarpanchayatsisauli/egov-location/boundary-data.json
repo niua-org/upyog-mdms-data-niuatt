@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsisauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sisauli",
+        "localname": "Nagar Panchayat Sisauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsisauli",
+        "children": [
+          {
+            "id": "00be7cda-8d68-4d8c-ac1b-cce93d2e5f27",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fdf6220e-d50a-432a-b2f7-a10a28199fa3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6824f3f4-c24f-44a3-aeaf-acd0b6310ddd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sisauli",
+                    "localname": "Nagar Panchayat Sisauli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

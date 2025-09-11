@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkursath",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kursath",
+        "localname": "Nagar Panchayat Kursath",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkursath",
+        "children": [
+          {
+            "id": "62041d11-bfdc-4015-b2ac-5ee238a7951d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "390517f6-07df-4e92-93ad-f28c98714e75",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "9a878ef9-8ef8-4e91-acaf-90f3d2d2c27a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kursath",
+                    "localname": "Nagar Panchayat Kursath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

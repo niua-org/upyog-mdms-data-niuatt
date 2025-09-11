@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmursan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mursan",
+        "localname": "Nagar Panchayat Mursan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmursan",
+        "children": [
+          {
+            "id": "4e991c36-948c-4585-a58e-07ad0866b615",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0c84bac6-91b5-4bb9-bc30-fc2c7e02d2f4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "be0dc651-5400-4331-9155-11c229e27d40",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mursan",
+                    "localname": "Nagar Panchayat Mursan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

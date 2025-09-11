@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrathaura",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rathaura",
+        "localname": "Nagar Panchayat Rathaura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrathaura",
+        "children": [
+          {
+            "id": "7ae933c2-5361-4071-bbc2-bb78f32a7ece",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c710844d-fed0-44fc-a161-ad9b30b5c01c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "eea93f8f-9cf5-4e0e-8d44-95ac92901f21",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rathaura",
+                    "localname": "Nagar Panchayat Rathaura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

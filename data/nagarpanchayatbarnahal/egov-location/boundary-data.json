@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbarnahal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Barnahal",
+        "localname": "Nagar Panchayat Barnahal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbarnahal",
+        "children": [
+          {
+            "id": "5cc72c50-a8fa-4428-ae5e-8e9aca8243c8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ab3064e6-d836-49ad-a9c5-227e83d1b50c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "9b18b882-63ac-4e60-8cd7-35310b621df9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Barnahal",
+                    "localname": "Nagar Panchayat Barnahal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

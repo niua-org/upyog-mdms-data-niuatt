@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkasbasangrampurunwal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kasbasangrampurunwal",
+        "localname": "Nagar Panchayat Kasbasangrampurunwal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkasbasangrampurunwal",
+        "children": [
+          {
+            "id": "bc9cac3a-32a5-4258-9689-dee23eef38e4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b65b2379-8d23-464d-9e53-9ff1b2843dca",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "25c498e8-3da3-41e1-b105-eba420b5780c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kasbasangrampurunwal",
+                    "localname": "Nagar Panchayat Kasbasangrampurunwal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

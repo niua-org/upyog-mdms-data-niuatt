@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdildarnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dildarnagar",
+        "localname": "Nagar Panchayat Dildarnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdildarnagar",
+        "children": [
+          {
+            "id": "4a019ef7-14ae-43ee-98a6-8890e3626ebc",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5813a491-c665-45d3-8e2f-03110ad7c62b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3ee3fb46-a21a-45d3-b19d-ccc7c15d9fa5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dildarnagar",
+                    "localname": "Nagar Panchayat Dildarnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatghaghsarabazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ghaghsarabazar",
+        "localname": "Nagar Panchayat Ghaghsarabazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatghaghsarabazar",
+        "children": [
+          {
+            "id": "9bb6c674-26a5-4065-b0b4-44d1ceef35c6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6d76a7e2-1e85-4f65-941d-7908260bcb37",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5e87ba1c-0d9f-4178-8d18-268789f7cf5a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ghaghsarabazar",
+                    "localname": "Nagar Panchayat Ghaghsarabazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

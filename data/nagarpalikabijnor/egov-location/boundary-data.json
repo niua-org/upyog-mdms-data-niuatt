@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabijnor",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bijnor",
+        "localname": "Nagar Palika Bijnor",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabijnor",
+        "children": [
+          {
+            "id": "7924e63a-871d-4810-83ef-2594aac38cd0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f3200758-fe77-4b9a-a2fb-341ccd404815",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e0a68b11-b76e-4364-9098-ca433c651d9b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bijnor",
+                    "localname": "Nagar Palika Bijnor",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

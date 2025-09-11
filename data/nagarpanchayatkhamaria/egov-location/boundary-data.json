@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkhamaria",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Khamaria",
+        "localname": "Nagar Panchayat Khamaria",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkhamaria",
+        "children": [
+          {
+            "id": "14940b90-4920-4002-ab2e-2cf4e93dde1b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cc6c857d-5188-424a-8f04-22637b36e949",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "22f9ee38-0e2b-4f63-a8a7-2ec777e10428",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Khamaria",
+                    "localname": "Nagar Panchayat Khamaria",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakannauj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Kannauj",
+        "localname": "Nagar Palika Kannauj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakannauj",
+        "children": [
+          {
+            "id": "90faec68-8b32-4017-9dbc-cf727cbc8697",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "31a94926-247f-4d6f-91a0-489fb502de40",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b8a1227b-5f86-4f6a-a69f-084947f1e4a2",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Kannauj",
+                    "localname": "Nagar Palika Kannauj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

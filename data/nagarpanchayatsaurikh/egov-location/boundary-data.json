@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsaurikh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Saurikh",
+        "localname": "Nagar Panchayat Saurikh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsaurikh",
+        "children": [
+          {
+            "id": "9b713e1f-856e-4593-91a9-51163e7fa01d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c01407e3-99e3-476a-a2f4-e5689c46dbc6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4f242db8-fc51-43fd-ae54-276a788e82e5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Saurikh",
+                    "localname": "Nagar Panchayat Saurikh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

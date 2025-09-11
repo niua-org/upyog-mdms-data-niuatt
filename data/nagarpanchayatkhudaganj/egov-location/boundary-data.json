@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkhudaganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Khudaganj",
+        "localname": "Nagar Panchayat Khudaganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkhudaganj",
+        "children": [
+          {
+            "id": "3458708a-518d-4e5e-8a93-85da879e24a1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9e5888e5-1004-41ea-8556-ecd5f62c1285",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "13ba4eaf-2aae-4db8-8945-2d8f68b8bae4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Khudaganj",
+                    "localname": "Nagar Panchayat Khudaganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

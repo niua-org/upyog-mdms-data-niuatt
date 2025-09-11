@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrajesultanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rajesultanpur",
+        "localname": "Nagar Panchayat Rajesultanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrajesultanpur",
+        "children": [
+          {
+            "id": "6c25d4ab-9812-46f4-b0bd-073189ad3a84",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bf00f184-c647-4263-9e69-6b03783b48d4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4cc3a039-88d8-4400-a113-8d518ca524e9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rajesultanpur",
+                    "localname": "Nagar Panchayat Rajesultanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

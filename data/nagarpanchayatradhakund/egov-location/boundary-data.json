@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatradhakund",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Radhakund",
+        "localname": "Nagar Panchayat Radhakund",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatradhakund",
+        "children": [
+          {
+            "id": "954b034a-dc5d-44ca-8fe2-aacfbcd5dcd8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1f643f91-0670-457b-8308-8b1d37f149c5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d50e6164-d148-4481-9fac-a4e56e81101d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Radhakund",
+                    "localname": "Nagar Panchayat Radhakund",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

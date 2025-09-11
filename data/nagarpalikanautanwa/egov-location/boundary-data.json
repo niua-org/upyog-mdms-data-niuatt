@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikanautanwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Nautanwa",
+        "localname": "Nagar Palika Nautanwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikanautanwa",
+        "children": [
+          {
+            "id": "fc7f6e1e-2565-4751-a833-d07a5a626271",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c6b5ed94-d35f-4c59-a357-36335ed2c2f0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e76dea46-6c58-4a02-a0ba-31608686177b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Nautanwa",
+                    "localname": "Nagar Palika Nautanwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

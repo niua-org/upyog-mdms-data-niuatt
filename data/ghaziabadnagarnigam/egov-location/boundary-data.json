@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.ghaziabadnagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Ghaziabad Nagar Nigam",
+        "localname": "Ghaziabad Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.ghaziabadnagarnigam",
+        "children": [
+          {
+            "id": "4aee01aa-69bd-43b9-b822-a37c77325aa8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "341100a0-5cfd-4e54-a7ba-496fa8222d42",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "63c89232-3cac-4f9f-8983-6eeee312678c",
+                    "boundaryNum": 1,
+                    "name": "Ghaziabad Nagar Nigam",
+                    "localname": "Ghaziabad Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

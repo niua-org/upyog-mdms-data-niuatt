@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatailam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ailam",
+        "localname": "Nagar Panchayat Ailam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatailam",
+        "children": [
+          {
+            "id": "2dad433b-0cec-45f8-9e53-76072bb9db02",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "32dd5044-b523-45a8-b115-2e84c03dfa2f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7f4728e2-b08a-408b-b295-db58a5b42b4f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ailam",
+                    "localname": "Nagar Panchayat Ailam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

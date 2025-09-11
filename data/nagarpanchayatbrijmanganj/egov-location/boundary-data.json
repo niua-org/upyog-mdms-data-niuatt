@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbrijmanganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Brijmanganj",
+        "localname": "Nagar Panchayat Brijmanganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbrijmanganj",
+        "children": [
+          {
+            "id": "c4e0cab8-e850-49bc-bd97-17fcc2d77bd6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "013ac204-4d27-4918-aad7-59029d0aa4b7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3e816582-46b2-47c6-850b-3cc605627945",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Brijmanganj",
+                    "localname": "Nagar Panchayat Brijmanganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatraya",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Raya",
+        "localname": "Nagar Panchayat Raya",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatraya",
+        "children": [
+          {
+            "id": "d012fa13-cf8e-4e33-a6e2-443fd3451e45",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "69ef2241-440a-4474-b9b8-c0c1c1438540",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "177e131d-2bb2-496a-ab1f-1af00f207bb7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Raya",
+                    "localname": "Nagar Panchayat Raya",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

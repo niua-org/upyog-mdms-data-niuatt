@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkarhal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Karhal",
+        "localname": "Nagar Panchayat Karhal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkarhal",
+        "children": [
+          {
+            "id": "c4ae7b1b-6ebf-494a-88c9-0f2cef42d2bc",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f4408a10-7219-4a82-8dcc-6e2a81264799",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3eed0709-f3b6-4211-b3e6-db536f0332ac",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Karhal",
+                    "localname": "Nagar Panchayat Karhal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkhutar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Khutar",
+        "localname": "Nagar Panchayat Khutar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkhutar",
+        "children": [
+          {
+            "id": "6b32d3d0-4264-471d-9802-d78bcaf5529d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "259fdce1-8da8-475d-a771-d62aa8fbb120",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e527b0ae-408b-4e56-b73a-023e39b5eae0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Khutar",
+                    "localname": "Nagar Panchayat Khutar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

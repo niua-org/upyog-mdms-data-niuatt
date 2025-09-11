@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpisawa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Pisawa",
+        "localname": "Nagar Panchayat Pisawa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpisawa",
+        "children": [
+          {
+            "id": "4be3a929-2b70-4d90-90d2-1669f4e88929",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3449cdf9-20fe-4a97-9061-3eee41349834",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "53da7fa7-0910-4c08-92a4-6d0b552882d3",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Pisawa",
+                    "localname": "Nagar Panchayat Pisawa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

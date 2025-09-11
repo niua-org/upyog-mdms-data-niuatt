@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkarnawal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Karnawal",
+        "localname": "Nagar Panchayat Karnawal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkarnawal",
+        "children": [
+          {
+            "id": "b9341496-2376-4f6c-95f3-c5bc969315f8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "254759fd-27b9-4284-b6fc-c6ba322d6144",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "15aa5899-abc6-477d-b561-17469eebf112",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Karnawal",
+                    "localname": "Nagar Panchayat Karnawal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

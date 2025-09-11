@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnaibazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Naibazar",
+        "localname": "Nagar Panchayat Naibazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnaibazar",
+        "children": [
+          {
+            "id": "cf87c0e5-1f33-4992-ab3a-9a35fc1c4551",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "448ae5a3-bb73-4ba3-9393-240d9914caa6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "25adc859-a933-4ebf-9867-a4aa842de639",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Naibazar",
+                    "localname": "Nagar Panchayat Naibazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

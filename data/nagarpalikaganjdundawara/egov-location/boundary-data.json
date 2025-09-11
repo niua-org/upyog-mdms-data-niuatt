@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaganjdundawara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Ganjdundawara",
+        "localname": "Nagar Palika Ganjdundawara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaganjdundawara",
+        "children": [
+          {
+            "id": "1384ab4a-c43a-44ea-b196-6d678fffd599",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3a9ad18e-b83c-4efd-be2c-62fa1f284dbd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "24d7788f-83e6-4fb7-a44e-eec0e9bc6c3f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Ganjdundawara",
+                    "localname": "Nagar Palika Ganjdundawara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnidhaulikalan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nidhaulikalan",
+        "localname": "Nagar Panchayat Nidhaulikalan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnidhaulikalan",
+        "children": [
+          {
+            "id": "9c903088-557a-4a68-aa7e-d094f7321652",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "359476c4-8658-40b1-8183-702bc6c43659",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b7d38481-e4c4-45de-93d4-3592fbeca482",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nidhaulikalan",
+                    "localname": "Nagar Panchayat Nidhaulikalan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaahraura",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Ahraura",
+        "localname": "Nagar Palika Ahraura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaahraura",
+        "children": [
+          {
+            "id": "a04d4c2b-61a3-401b-b7e8-87767ba1d4a4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3780c30f-5745-4edc-b42b-a776ffa2dcc3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "262156ae-d116-4e52-ad8c-0148be4f06f5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Ahraura",
+                    "localname": "Nagar Palika Ahraura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

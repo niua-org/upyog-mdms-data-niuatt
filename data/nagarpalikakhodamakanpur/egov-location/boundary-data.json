@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakhodamakanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Khoda-Makanpur",
+        "localname": "Nagar Palika Khoda-Makanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakhodamakanpur",
+        "children": [
+          {
+            "id": "a1a28d2e-8db2-4548-ad0d-c48b65d9ce06",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d8e84659-8b12-4cda-a9d0-9a10577339c9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7389aafe-31ab-4bf1-ace6-3deadf7431e1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Khoda-Makanpur",
+                    "localname": "Nagar Palika Khoda-Makanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

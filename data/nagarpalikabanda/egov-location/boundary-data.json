@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabanda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Banda",
+        "localname": "Nagar Palika Banda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabanda",
+        "children": [
+          {
+            "id": "d61315bf-5895-461c-a00f-62ba3c208c73",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "67b9f6d9-7fba-43bd-96c8-20025f3a6adc",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "01a248f5-ba7c-4673-b2d2-32e06d40e1cd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Banda",
+                    "localname": "Nagar Palika Banda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

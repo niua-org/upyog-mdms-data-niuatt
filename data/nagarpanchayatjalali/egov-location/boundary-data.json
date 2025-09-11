@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjalali",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jalali",
+        "localname": "Nagar Panchayat Jalali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjalali",
+        "children": [
+          {
+            "id": "598a6397-9bb7-43a0-8219-79c26d526bea",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f8f30100-f732-426c-a441-8985aeefca85",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "9ee121ec-18d6-4763-b51a-98d633498644",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jalali",
+                    "localname": "Nagar Panchayat Jalali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

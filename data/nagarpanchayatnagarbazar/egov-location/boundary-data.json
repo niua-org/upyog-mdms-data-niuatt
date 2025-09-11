@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnagarbazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nagarbazar",
+        "localname": "Nagar Panchayat Nagarbazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnagarbazar",
+        "children": [
+          {
+            "id": "2f081851-ab7d-4b4c-a75b-efee02344ce8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d528722c-14ea-476e-8f0e-caf2a13b05fc",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b91ab1fe-e3b4-4b80-b93c-74d8c330a572",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nagarbazar",
+                    "localname": "Nagar Panchayat Nagarbazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjasrana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jasrana",
+        "localname": "Nagar Panchayat Jasrana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjasrana",
+        "children": [
+          {
+            "id": "f2d37eb6-94d5-4b06-b032-622f403b8e85",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "288accaf-7952-48bd-aeb6-c88207ef1f82",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c50faed5-e565-4f71-a6be-63540b49131f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jasrana",
+                    "localname": "Nagar Panchayat Jasrana",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

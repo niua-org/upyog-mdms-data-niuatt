@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamallawan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Mallawan",
+        "localname": "Nagar Palika Mallawan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamallawan",
+        "children": [
+          {
+            "id": "775dc18a-01f2-4ad0-8957-dbbc51bcdd34",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4213efd4-2dab-4227-9651-c37f3a3eab3e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2667e708-8a5b-42b9-b8c9-33d04635405b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Mallawan",
+                    "localname": "Nagar Palika Mallawan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

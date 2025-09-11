@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmakkhanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Makkhanpur",
+        "localname": "Nagar Panchayat Makkhanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmakkhanpur",
+        "children": [
+          {
+            "id": "617de329-2ba2-4671-a48e-8f2ebe4d6e1f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "13b85d0a-0bc7-40a0-bc07-842478e6e8cd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e8e194ea-7c3d-4cd6-bd7b-f31f4d0a6511",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Makkhanpur",
+                    "localname": "Nagar Panchayat Makkhanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

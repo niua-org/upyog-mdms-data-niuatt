@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjafarabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jafarabad",
+        "localname": "Nagar Panchayat Jafarabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjafarabad",
+        "children": [
+          {
+            "id": "20f6c8f0-b9a0-434c-9e0e-a38bd70d7b84",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f12b5671-5341-400b-9676-51510a8001b8",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "49d54f1f-b085-4f93-b7c4-e2219031a287",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jafarabad",
+                    "localname": "Nagar Panchayat Jafarabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

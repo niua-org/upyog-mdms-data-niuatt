@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikanoorpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Noorpur",
+        "localname": "Nagar Palika Noorpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikanoorpur",
+        "children": [
+          {
+            "id": "8517261f-0a6e-4edf-8c86-fa7410413f63",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f8feddcb-09eb-4d7f-896f-7bd12082918f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "461a63de-3ebd-4bc9-b950-d37b616f1c7d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Noorpur",
+                    "localname": "Nagar Palika Noorpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

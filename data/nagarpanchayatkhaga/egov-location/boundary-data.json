@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkhaga",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Khaga",
+        "localname": "Nagar Panchayat Khaga",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkhaga",
+        "children": [
+          {
+            "id": "334cd337-a597-459b-8331-e5773faee6a5",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "436d4a09-de43-4f4e-b9c9-1309c203fa56",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "17367391-4a41-41c7-8330-eca5b7a520a6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Khaga",
+                    "localname": "Nagar Panchayat Khaga",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

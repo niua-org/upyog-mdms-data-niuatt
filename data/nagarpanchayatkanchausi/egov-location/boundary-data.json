@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkanchausi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kanchausi",
+        "localname": "Nagar Panchayat Kanchausi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkanchausi",
+        "children": [
+          {
+            "id": "28ff8ad6-2a3f-4224-8bc7-f73b5399c84c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a96c0814-df8c-4ff0-b58c-fac3789c48a0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4c6febb4-bdca-4604-a9eb-faaea887fe4c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kanchausi",
+                    "localname": "Nagar Panchayat Kanchausi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

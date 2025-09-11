@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikalaharpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Laharpur",
+        "localname": "Nagar Palika Laharpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikalaharpur",
+        "children": [
+          {
+            "id": "3617be48-5f35-4421-a4f6-84b74696dac2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "259c7e0e-7aba-4721-b29a-2e88f46df7c0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2be35d68-fa64-46b4-9dd9-c7d390889aaa",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Laharpur",
+                    "localname": "Nagar Palika Laharpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

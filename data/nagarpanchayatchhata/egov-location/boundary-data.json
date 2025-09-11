@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchhata",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chhata",
+        "localname": "Nagar Panchayat Chhata",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchhata",
+        "children": [
+          {
+            "id": "2dd62635-5c64-45af-89bf-a1918ed8d103",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "de0119e8-1f9f-4296-b495-a4862547d7fb",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "201c31bf-2745-4d19-8725-d8e2ced08b93",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chhata",
+                    "localname": "Nagar Panchayat Chhata",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

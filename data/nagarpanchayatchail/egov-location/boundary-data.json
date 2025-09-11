@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchail",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chail",
+        "localname": "Nagar Panchayat Chail",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchail",
+        "children": [
+          {
+            "id": "c77af1d4-b1eb-45b9-9f19-61d3629e53fa",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "50aa9382-c450-4a21-93fe-519e6de3cc15",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1ba8c99a-2c8a-496f-b5dd-54117169cc65",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chail",
+                    "localname": "Nagar Panchayat Chail",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

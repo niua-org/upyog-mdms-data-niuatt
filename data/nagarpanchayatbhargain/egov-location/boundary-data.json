@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbhargain",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bhargain",
+        "localname": "Nagar Panchayat Bhargain",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbhargain",
+        "children": [
+          {
+            "id": "7af88a62-7009-4b93-929d-a24767323f3a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "717cefab-7605-4e51-b9d8-cae67e68c436",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e12f714b-16f8-4e32-abf7-5f8ac52000d4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bhargain",
+                    "localname": "Nagar Panchayat Bhargain",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrudrapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rudrapur",
+        "localname": "Nagar Panchayat Rudrapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrudrapur",
+        "children": [
+          {
+            "id": "79981316-7309-46dd-87b9-5ab460883a49",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9e1b9c3d-9c31-44f6-a2cf-0d5e0b1b62e8",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d235316a-594c-423d-befa-502b24ad8b89",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rudrapur",
+                    "localname": "Nagar Panchayat Rudrapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

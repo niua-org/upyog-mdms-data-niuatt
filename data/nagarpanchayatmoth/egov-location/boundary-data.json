@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmoth",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Moth",
+        "localname": "Nagar Panchayat Moth",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmoth",
+        "children": [
+          {
+            "id": "69adebe2-378f-4e2e-97cf-1195cef2a01a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8736a051-4239-4a1b-bc41-3bceb2fb576e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "51b035f0-ac6c-4ef8-a69d-fbac6199ceca",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Moth",
+                    "localname": "Nagar Panchayat Moth",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

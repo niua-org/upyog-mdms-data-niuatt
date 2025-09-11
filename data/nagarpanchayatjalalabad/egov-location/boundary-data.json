@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjalalabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jalalabad",
+        "localname": "Nagar Panchayat Jalalabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjalalabad",
+        "children": [
+          {
+            "id": "dbb150d1-6749-4c9b-ac1f-c9b57114fba3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0dd72719-a513-44d9-aea8-46ff01dc28f2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8ca5494d-057e-4645-a79d-7312e65a380c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jalalabad",
+                    "localname": "Nagar Panchayat Jalalabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

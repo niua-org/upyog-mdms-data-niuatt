@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpatepur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Patepur",
+        "localname": "Nagar Panchayat Patepur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpatepur",
+        "children": [
+          {
+            "id": "c9f29925-0078-4475-9ec5-3172f58848bf",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "95866d65-5504-4944-9473-554080df0809",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7f5316ff-7660-48c1-9355-3961ef9b94b4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Patepur",
+                    "localname": "Nagar Panchayat Patepur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

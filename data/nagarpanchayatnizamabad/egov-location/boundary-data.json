@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnizamabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nizamabad",
+        "localname": "Nagar Panchayat Nizamabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnizamabad",
+        "children": [
+          {
+            "id": "c8253338-6c94-4aa7-8d56-8f4397f588b3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9e776441-d2f8-43b4-bcdc-fdcb87b1330d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d207f5bb-b03d-4f68-8c01-62bad73a1ccb",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nizamabad",
+                    "localname": "Nagar Panchayat Nizamabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

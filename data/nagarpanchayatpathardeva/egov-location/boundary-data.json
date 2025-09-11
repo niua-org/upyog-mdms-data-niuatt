@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpathardeva",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Pathardeva",
+        "localname": "Nagar Panchayat Pathardeva",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpathardeva",
+        "children": [
+          {
+            "id": "69bdc5a3-d6da-4f7a-ad72-1d955ecfeca9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a9bcdae1-c7aa-482e-86e5-cf0ffb582701",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c9f8b639-9e12-497a-8330-f6eec36ac14c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Pathardeva",
+                    "localname": "Nagar Panchayat Pathardeva",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

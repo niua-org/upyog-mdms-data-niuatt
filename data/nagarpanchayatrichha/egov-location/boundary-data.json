@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrichha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Richha",
+        "localname": "Nagar Panchayat Richha",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrichha",
+        "children": [
+          {
+            "id": "2fdc1265-792c-4b0c-9c69-80c6007f6313",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "692e5059-3b18-4c7a-b9a1-21c3f906d09b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5701b858-2530-45ef-8a6b-6889b37b851b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Richha",
+                    "localname": "Nagar Panchayat Richha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

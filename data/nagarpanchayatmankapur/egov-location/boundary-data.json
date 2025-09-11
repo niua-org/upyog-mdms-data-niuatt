@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmankapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mankapur",
+        "localname": "Nagar Panchayat Mankapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmankapur",
+        "children": [
+          {
+            "id": "0068ccf2-6119-4eda-86ca-35451a03d5ac",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "045a5ecf-8d4a-49ad-9905-d19a14018cac",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d7d2e23b-783a-4d3d-a7c7-7ae450f551a0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mankapur",
+                    "localname": "Nagar Panchayat Mankapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

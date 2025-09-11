@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbakewar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bakewar",
+        "localname": "Nagar Panchayat Bakewar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbakewar",
+        "children": [
+          {
+            "id": "715dfb61-bc96-467b-992a-34b3aeec2794",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "dc16a03a-6465-4441-8d2f-b3657d669970",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2f0cc455-4e94-4ee2-bbd0-c5cd51b80357",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bakewar",
+                    "localname": "Nagar Panchayat Bakewar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

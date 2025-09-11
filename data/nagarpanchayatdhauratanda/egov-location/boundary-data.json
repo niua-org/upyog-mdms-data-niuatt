@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdhauratanda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dhauratanda",
+        "localname": "Nagar Panchayat Dhauratanda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdhauratanda",
+        "children": [
+          {
+            "id": "1def5a0d-d1a1-4d12-abeb-e1f1530e9f5c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d0e4a063-e9ab-434f-a481-e991a60e207c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4f9a5e63-9a9f-4b64-af8e-efb26ad07ad4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dhauratanda",
+                    "localname": "Nagar Panchayat Dhauratanda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

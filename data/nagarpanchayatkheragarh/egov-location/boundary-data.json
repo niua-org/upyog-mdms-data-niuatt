@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkheragarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kheragarh",
+        "localname": "Nagar Panchayat Kheragarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkheragarh",
+        "children": [
+          {
+            "id": "cd22af38-3818-4fa3-a50d-87829a3b0a1a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "381a696e-4c2d-4f39-bbed-d212af1d7a63",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "88f79eec-28b8-4cf5-aafe-42672b06f0dc",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kheragarh",
+                    "localname": "Nagar Panchayat Kheragarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

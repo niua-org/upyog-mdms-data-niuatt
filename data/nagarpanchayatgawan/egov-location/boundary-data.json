@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgawan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gawan",
+        "localname": "Nagar Panchayat Gawan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgawan",
+        "children": [
+          {
+            "id": "5d87fe5d-c28f-49ef-9767-0c9f5232da35",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9bd8cd79-cb67-4239-ad48-c894856d9fc9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "25cb85ba-b6ca-443a-8bdd-ffb7aefdf2d4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gawan",
+                    "localname": "Nagar Panchayat Gawan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

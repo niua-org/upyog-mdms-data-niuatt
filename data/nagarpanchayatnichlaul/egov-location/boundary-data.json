@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnichlaul",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nichlaul",
+        "localname": "Nagar Panchayat Nichlaul",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnichlaul",
+        "children": [
+          {
+            "id": "0db5def5-3a43-4f12-a13f-d08a0420259f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0e9799d6-29c9-4426-accf-972f80da01ac",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a8fa6e74-14b7-42eb-9271-30cc4e3e094f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nichlaul",
+                    "localname": "Nagar Panchayat Nichlaul",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

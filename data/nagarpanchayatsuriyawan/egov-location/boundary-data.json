@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsuriyawan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Suriyawan",
+        "localname": "Nagar Panchayat Suriyawan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsuriyawan",
+        "children": [
+          {
+            "id": "0b80cb2b-15db-4b7c-9d57-973066429d0c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "44b25130-16f4-4878-bbd1-b798b6bb3d55",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8f59eb7c-fcdb-4fe3-acb2-140cdf444212",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Suriyawan",
+                    "localname": "Nagar Panchayat Suriyawan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

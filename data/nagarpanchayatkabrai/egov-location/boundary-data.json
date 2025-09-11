@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkabrai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kabrai",
+        "localname": "Nagar Panchayat Kabrai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkabrai",
+        "children": [
+          {
+            "id": "c5281d1e-7f5e-470e-884c-31c0134662b3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d0e6322c-4e22-4db2-9942-8f095386095b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "43cde815-23c4-4a54-a82a-d69101c8319d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kabrai",
+                    "localname": "Nagar Panchayat Kabrai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

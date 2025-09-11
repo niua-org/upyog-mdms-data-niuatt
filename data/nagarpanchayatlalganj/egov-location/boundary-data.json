@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatlalganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Lalganj",
+        "localname": "Nagar Panchayat Lalganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatlalganj",
+        "children": [
+          {
+            "id": "55ef2efc-20d0-412f-9baf-ef2d429e4898",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "54544bd9-5683-4165-86f6-96966b383473",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "197d482d-ce61-4f17-a72e-aec8f49ec0af",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Lalganj",
+                    "localname": "Nagar Panchayat Lalganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

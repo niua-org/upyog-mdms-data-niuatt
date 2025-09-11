@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgarwarabazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Garwarabazar",
+        "localname": "Nagar Panchayat Garwarabazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgarwarabazar",
+        "children": [
+          {
+            "id": "f3c13925-b347-48f3-a09e-2a986cf2c0af",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "02945446-a540-4b21-999b-1e8fb0e6d2c2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "526f1e86-5955-46b1-8c18-bbf05f203996",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Garwarabazar",
+                    "localname": "Nagar Panchayat Garwarabazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

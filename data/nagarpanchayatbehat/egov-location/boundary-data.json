@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbehat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Behat",
+        "localname": "Nagar Panchayat Behat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbehat",
+        "children": [
+          {
+            "id": "cf4e1b39-9246-483d-b938-e38a1ad2d761",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "dd7c275d-f878-4fa5-a72c-fbaea061af66",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1731ddf2-ec65-4e2f-ac8a-643eff5dde94",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Behat",
+                    "localname": "Nagar Panchayat Behat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

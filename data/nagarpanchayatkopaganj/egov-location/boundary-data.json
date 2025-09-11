@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkopaganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kopaganj",
+        "localname": "Nagar Panchayat Kopaganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkopaganj",
+        "children": [
+          {
+            "id": "10555744-d3dd-4e91-b806-8e025d184251",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c0d42020-01ae-425c-a076-9b8c9600c423",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f0b4e5ba-35b1-4ef9-867d-1316483f863b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kopaganj",
+                    "localname": "Nagar Panchayat Kopaganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

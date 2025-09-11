@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatshergarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Shergarh",
+        "localname": "Nagar Panchayat Shergarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatshergarh",
+        "children": [
+          {
+            "id": "33186581-750f-4abe-aeec-5aeef179dddb",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3fc617a9-b2b3-4f4c-a7f8-e4d2c5b2ad8d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c2d77d52-43a6-47d5-8341-4ea2c5d99829",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Shergarh",
+                    "localname": "Nagar Panchayat Shergarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

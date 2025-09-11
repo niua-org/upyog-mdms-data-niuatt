@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdohrighat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dohrighat",
+        "localname": "Nagar Panchayat Dohrighat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdohrighat",
+        "children": [
+          {
+            "id": "714f4133-92a1-449f-880f-695ac162dcd0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5f17d0ab-d3fe-46e8-952d-7109c69fc550",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "41fadbaf-1f87-4e54-851f-eab77bfc1bd4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dohrighat",
+                    "localname": "Nagar Panchayat Dohrighat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

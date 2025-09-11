@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdudahi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dudahi",
+        "localname": "Nagar Panchayat Dudahi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdudahi",
+        "children": [
+          {
+            "id": "0ea82f45-4fe9-43d0-a7f3-5ab508340c53",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4ee26eea-173f-4073-bc08-f622c867e009",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "103e3881-f9d7-418a-b390-0ae77b6b7777",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dudahi",
+                    "localname": "Nagar Panchayat Dudahi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

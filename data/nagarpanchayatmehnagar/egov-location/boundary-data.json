@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmehnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mehnagar",
+        "localname": "Nagar Panchayat Mehnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmehnagar",
+        "children": [
+          {
+            "id": "a50e8857-7b9a-487d-8351-03490c7bc562",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "dc651e8b-1f00-4e84-8eec-416621468b7c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "fe15173d-a43d-4d01-bb11-4857b57f9a67",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mehnagar",
+                    "localname": "Nagar Panchayat Mehnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

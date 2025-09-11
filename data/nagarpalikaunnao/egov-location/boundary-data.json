@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaunnao",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Unnao",
+        "localname": "Nagar Palika Unnao",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaunnao",
+        "children": [
+          {
+            "id": "d17c3f8d-0869-4b6a-ad0b-1fdfd985a035",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b95eeccf-8310-484c-b0d2-037f47811fd4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "192be421-422d-456e-9b87-93512248341a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Unnao",
+                    "localname": "Nagar Palika Unnao",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

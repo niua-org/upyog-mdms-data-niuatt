@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikagopiganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Gopiganj",
+        "localname": "Nagar Palika Gopiganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikagopiganj",
+        "children": [
+          {
+            "id": "1a77af1e-680e-4963-8c0e-47c21ffce622",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "05a0d649-1ef9-4384-a0d4-c31007453ec5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3568c609-6db6-4de2-8abd-8928886454a8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Gopiganj",
+                    "localname": "Nagar Palika Gopiganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

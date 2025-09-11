@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbithoor",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bithoor",
+        "localname": "Nagar Panchayat Bithoor",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbithoor",
+        "children": [
+          {
+            "id": "1b7c9a8f-6604-42dd-9fee-605c11af34f4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5c30e6c6-e2b4-47fd-bb1d-d649c467f7db",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8c3c091d-b362-4599-aa9a-e323c99aa46b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bithoor",
+                    "localname": "Nagar Panchayat Bithoor",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

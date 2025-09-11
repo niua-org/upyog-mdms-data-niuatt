@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayathetimpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Hetimpur",
+        "localname": "Nagar Panchayat Hetimpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayathetimpur",
+        "children": [
+          {
+            "id": "baceebeb-da4e-44ba-b85c-e2069ec01f33",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ceccfbc0-4694-446a-89fa-01b6df44ed67",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a089f008-ca91-48bb-8080-9b56847fbb17",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Hetimpur",
+                    "localname": "Nagar Panchayat Hetimpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

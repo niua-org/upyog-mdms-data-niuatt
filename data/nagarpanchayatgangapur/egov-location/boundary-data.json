@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgangapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gangapur",
+        "localname": "Nagar Panchayat Gangapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgangapur",
+        "children": [
+          {
+            "id": "2ea6592b-2182-4a5e-a6e0-4c85a0256768",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "02374d44-0b7a-45bd-acdf-a348812dcfa4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0d656489-b3c2-443e-83ee-08fe76dfeda2",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gangapur",
+                    "localname": "Nagar Panchayat Gangapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

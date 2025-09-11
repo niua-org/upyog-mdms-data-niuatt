@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkakori",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kakori",
+        "localname": "Nagar Panchayat Kakori",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkakori",
+        "children": [
+          {
+            "id": "6598f370-6cf8-436f-9ade-4b990373dacf",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1eee426e-10d2-4702-a5f0-ffc72f70f49a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6bf639c6-210c-4ea9-8380-ad12c03ee614",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kakori",
+                    "localname": "Nagar Panchayat Kakori",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

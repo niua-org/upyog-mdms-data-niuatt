@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkapilvastu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kapilvastu",
+        "localname": "Nagar Panchayat Kapilvastu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkapilvastu",
+        "children": [
+          {
+            "id": "d8a21877-0f71-433b-b7bb-98738188ebe7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "60f2844f-c8e5-4a86-8b63-1823ca96da31",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "fb0a6412-a662-4a47-ae1b-755d5ffbc10c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kapilvastu",
+                    "localname": "Nagar Panchayat Kapilvastu",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

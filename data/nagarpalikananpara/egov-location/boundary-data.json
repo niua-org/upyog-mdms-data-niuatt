@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikananpara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Nanpara",
+        "localname": "Nagar Palika Nanpara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikananpara",
+        "children": [
+          {
+            "id": "4939899e-249e-43b7-a508-b9b6d5abbc47",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "286bac31-6e15-40f6-9348-ebd900fbe0b9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a8377bd7-6cad-4244-867c-7bb594a7fea3",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Nanpara",
+                    "localname": "Nagar Palika Nanpara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

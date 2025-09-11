@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamanjhanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Manjhanpur",
+        "localname": "Nagar Palika Manjhanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamanjhanpur",
+        "children": [
+          {
+            "id": "b0ead7bb-f799-4a81-92da-0e1aa2e2103b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6b82ab1e-3e65-4aca-8b56-6666b9b73513",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7f08f72d-fe25-4d0a-9ad9-3338f13f092e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Manjhanpur",
+                    "localname": "Nagar Palika Manjhanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikajalaun",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Jalaun",
+        "localname": "Nagar Palika Jalaun",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikajalaun",
+        "children": [
+          {
+            "id": "dd96f29e-bf2b-42b0-bcf9-65dbb9197986",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "22d9c402-78a7-4bcd-a721-4c4a534d309d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "da2ce164-a2db-4e44-a86b-2bf679a80ac0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Jalaun",
+                    "localname": "Nagar Palika Jalaun",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

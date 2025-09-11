@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasikandrarao",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Sikandrarao",
+        "localname": "Nagar Palika Sikandrarao",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasikandrarao",
+        "children": [
+          {
+            "id": "9875d5ec-d390-40d9-bee3-fedd1e0750c2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7c3d5603-1485-4996-9250-dbf5cd3b0f38",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8e2a3ccc-9659-43e1-8024-fac11e295871",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Sikandrarao",
+                    "localname": "Nagar Palika Sikandrarao",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

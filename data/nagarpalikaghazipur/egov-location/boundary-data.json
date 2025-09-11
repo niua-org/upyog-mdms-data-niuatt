@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaghazipur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Ghazipur",
+        "localname": "Nagar Palika Ghazipur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaghazipur",
+        "children": [
+          {
+            "id": "c28f899a-8836-4e64-a3da-205ef806ec38",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4cd57994-2e81-4a94-86e5-f4614757c312",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "870d5c40-67dc-4f2f-a627-c5b411fd1593",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Ghazipur",
+                    "localname": "Nagar Palika Ghazipur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

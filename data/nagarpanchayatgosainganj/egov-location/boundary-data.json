@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgosainganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gosainganj",
+        "localname": "Nagar Panchayat Gosainganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgosainganj",
+        "children": [
+          {
+            "id": "727d4766-c037-490e-b978-c7c488563e9d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e09c59fc-2483-4419-a7d9-f0a81517a0cf",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8c674442-1486-4805-98a1-91e4fd9fac02",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gosainganj",
+                    "localname": "Nagar Panchayat Gosainganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

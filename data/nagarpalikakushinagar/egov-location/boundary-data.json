@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakushinagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Kushinagar",
+        "localname": "Nagar Palika Kushinagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakushinagar",
+        "children": [
+          {
+            "id": "924dfd02-cb92-4881-9284-4a580f2c2f76",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2f9e0466-2676-4540-8364-536dfca633c8",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d55bb9e3-96bc-4217-b32e-5f3f8dac0a9e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Kushinagar",
+                    "localname": "Nagar Palika Kushinagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

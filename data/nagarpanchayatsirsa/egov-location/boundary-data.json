@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsirsa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sirsa",
+        "localname": "Nagar Panchayat Sirsa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsirsa",
+        "children": [
+          {
+            "id": "6d596635-d91c-411a-bd78-e8430c9fd902",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7fd3adfd-9e3f-492c-805b-1c3a1e8e0025",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ffc9de05-accc-4fad-9698-35ba3112c703",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sirsa",
+                    "localname": "Nagar Panchayat Sirsa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

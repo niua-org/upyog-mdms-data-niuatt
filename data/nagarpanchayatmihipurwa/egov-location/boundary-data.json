@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmihipurwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mihipurwa",
+        "localname": "Nagar Panchayat Mihipurwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmihipurwa",
+        "children": [
+          {
+            "id": "78cae6c0-0065-4e1b-8cc6-8688c83924f7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "45142db2-89d3-4262-a3c0-683475fd17d3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "27fac5f8-23e2-428b-8c07-06cccd7e1376",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mihipurwa",
+                    "localname": "Nagar Panchayat Mihipurwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

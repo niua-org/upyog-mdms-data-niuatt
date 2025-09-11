@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatshahjahanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Shahjahanpur",
+        "localname": "Nagar Panchayat Shahjahanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatshahjahanpur",
+        "children": [
+          {
+            "id": "ba1f3d6e-f7fc-4379-93f5-4b91880ffbd4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e3a6eb0f-fe70-4f03-b724-6c48181217dc",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d548c3d1-3718-43c0-9489-ca78ccda3565",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Shahjahanpur",
+                    "localname": "Nagar Panchayat Shahjahanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

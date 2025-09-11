@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmariyahu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mariyahu",
+        "localname": "Nagar Panchayat Mariyahu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmariyahu",
+        "children": [
+          {
+            "id": "0ba1c8cb-3ffd-4be0-bc37-4fd783c56c9b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "15cbbe72-68c2-492d-9368-4da415713db4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0332c3b1-f660-43fa-860f-148610582dc4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mariyahu",
+                    "localname": "Nagar Panchayat Mariyahu",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

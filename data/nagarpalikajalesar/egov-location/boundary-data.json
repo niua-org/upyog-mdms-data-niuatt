@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikajalesar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Jalesar",
+        "localname": "Nagar Palika Jalesar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikajalesar",
+        "children": [
+          {
+            "id": "eb2955fd-4ad0-4b51-b2a1-554f660d4a62",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f88e08c5-cd89-4834-a05a-7cec4684c615",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "70df8182-1b35-4826-9dc7-5096d5fb32ad",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Jalesar",
+                    "localname": "Nagar Palika Jalesar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

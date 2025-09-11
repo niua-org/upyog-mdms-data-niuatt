@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaetah",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Etah",
+        "localname": "Nagar Palika Etah",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaetah",
+        "children": [
+          {
+            "id": "aa7f488e-06d9-49e7-a354-276d32d3a328",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4ccea714-7617-4021-8bb5-6e2818d86e3a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a0562b79-bfef-4c2f-bb3f-09d8cbfd3587",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Etah",
+                    "localname": "Nagar Palika Etah",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

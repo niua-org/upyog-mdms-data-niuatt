@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmauaima",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mauaima",
+        "localname": "Nagar Panchayat Mauaima",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmauaima",
+        "children": [
+          {
+            "id": "da5548d8-be0c-4716-9c49-730f566348c9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a0455531-8cc0-4773-ae98-94e983b53e18",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "58dd54f0-b13c-4e2d-ae1a-a4fe51047935",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mauaima",
+                    "localname": "Nagar Panchayat Mauaima",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

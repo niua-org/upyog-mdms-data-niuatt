@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkurthijafarpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kurthijafarpur",
+        "localname": "Nagar Panchayat Kurthijafarpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkurthijafarpur",
+        "children": [
+          {
+            "id": "9b97170b-41ec-4f41-8d37-bbdca5aca161",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2660a480-c047-421f-a44e-7dda6b2d4bee",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "44cbda14-428a-4855-8aa7-5a67a8b34ae4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kurthijafarpur",
+                    "localname": "Nagar Panchayat Kurthijafarpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

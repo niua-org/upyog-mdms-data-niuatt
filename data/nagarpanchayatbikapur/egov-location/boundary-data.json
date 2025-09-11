@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbikapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bikapur",
+        "localname": "Nagar Panchayat Bikapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbikapur",
+        "children": [
+          {
+            "id": "207e6537-793d-4939-bc40-90fef6a4e787",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7a639ff2-c74c-4599-86b7-3fe16d75dff2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "781cd2c0-ed43-4e2a-b23f-d310760368cd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bikapur",
+                    "localname": "Nagar Panchayat Bikapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

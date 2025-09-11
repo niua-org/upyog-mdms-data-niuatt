@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkamalganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kamalganj",
+        "localname": "Nagar Panchayat Kamalganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkamalganj",
+        "children": [
+          {
+            "id": "6cc9810b-a702-42a8-9397-5ba8ed336469",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0ebce1f4-750e-42fa-a9a8-86a401ccbc98",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "eb2921c1-02a7-4435-b83e-899efed76c43",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kamalganj",
+                    "localname": "Nagar Panchayat Kamalganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

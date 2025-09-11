@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmadanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Madanpur",
+        "localname": "Nagar Panchayat Madanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmadanpur",
+        "children": [
+          {
+            "id": "847d483a-d0ed-4de1-b45a-c3f3abe60566",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "26cacba2-95ca-42e2-9187-c6f5773d16f5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a776cdfe-e654-4ba1-afa7-33dd93d3d3a2",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Madanpur",
+                    "localname": "Nagar Panchayat Madanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

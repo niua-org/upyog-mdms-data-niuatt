@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsasni",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sasni",
+        "localname": "Nagar Panchayat Sasni",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsasni",
+        "children": [
+          {
+            "id": "0c1ebe30-91f3-478a-b8e4-3057445ca580",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "aaf61dd5-4bec-44af-a8eb-379c12f550d9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3e54c178-051a-4a69-a596-cb8473c3b907",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sasni",
+                    "localname": "Nagar Panchayat Sasni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

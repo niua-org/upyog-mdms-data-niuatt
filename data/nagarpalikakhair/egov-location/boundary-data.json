@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakhair",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Khair",
+        "localname": "Nagar Palika Khair",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakhair",
+        "children": [
+          {
+            "id": "6c5839ee-aade-47ac-b152-394da3b88119",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7751c560-5cc5-4744-9e19-4e7406474ea9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "84ac2ffe-ee01-4f7c-9efd-d2ef3c5569cb",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Khair",
+                    "localname": "Nagar Palika Khair",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

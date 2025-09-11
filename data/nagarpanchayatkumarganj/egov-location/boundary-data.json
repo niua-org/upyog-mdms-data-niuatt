@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkumarganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kumarganj",
+        "localname": "Nagar Panchayat Kumarganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkumarganj",
+        "children": [
+          {
+            "id": "1a260e24-e315-4c4d-94eb-698d403140a2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "947f36a0-854c-4918-a91a-98ca4e0e0a79",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1e6eca63-c471-4377-8328-9dd54037b8ad",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kumarganj",
+                    "localname": "Nagar Panchayat Kumarganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

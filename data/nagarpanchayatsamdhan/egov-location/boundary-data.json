@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsamdhan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Samdhan",
+        "localname": "Nagar Panchayat Samdhan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsamdhan",
+        "children": [
+          {
+            "id": "eeaa7b1f-5b65-4bc2-aa75-ace7acab115d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fde9db4b-8971-4097-86ba-e520de7c6d0b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "05291bf7-0cba-43e0-a00f-260f9457e7db",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Samdhan",
+                    "localname": "Nagar Panchayat Samdhan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

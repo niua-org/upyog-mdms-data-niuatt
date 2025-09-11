@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchandaus",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chandaus",
+        "localname": "Nagar Panchayat Chandaus",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchandaus",
+        "children": [
+          {
+            "id": "929b2b19-8358-4c48-89a7-6186327ff092",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "38f2fc81-af2b-4149-b343-0cfb25f6e40c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "55b85a32-9ddd-4502-bfa6-f1f426157146",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chandaus",
+                    "localname": "Nagar Panchayat Chandaus",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

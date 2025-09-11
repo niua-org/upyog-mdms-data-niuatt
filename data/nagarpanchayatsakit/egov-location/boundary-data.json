@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsakit",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sakit",
+        "localname": "Nagar Panchayat Sakit",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsakit",
+        "children": [
+          {
+            "id": "f0e34b03-ac48-427e-a661-f7969c65be14",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "500a36d4-105f-40c1-b86c-f58bf2a7fb1c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ec12a143-c14e-46fe-ab56-51d71b20ae0e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sakit",
+                    "localname": "Nagar Panchayat Sakit",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

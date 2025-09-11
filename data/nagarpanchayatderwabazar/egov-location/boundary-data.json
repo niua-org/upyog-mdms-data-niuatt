@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatderwabazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Derwabazar",
+        "localname": "Nagar Panchayat Derwabazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatderwabazar",
+        "children": [
+          {
+            "id": "906d6b7b-8c16-449f-b29d-420dd1ca85da",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "119a026b-90c6-41b2-bc3b-bdf26698b94d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0b5edffc-e302-4946-9fd9-bd275e36e3d4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Derwabazar",
+                    "localname": "Nagar Panchayat Derwabazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

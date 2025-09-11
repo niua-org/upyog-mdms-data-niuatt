@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayaterich",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Erich",
+        "localname": "Nagar Panchayat Erich",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayaterich",
+        "children": [
+          {
+            "id": "08c6b90d-4be1-493d-b369-b7ae7c9f74d0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f3d7c04d-6f97-4664-bae1-1428afb3ce3a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "869aa5d5-88ab-47d3-acee-4544fbbca0df",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Erich",
+                    "localname": "Nagar Panchayat Erich",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

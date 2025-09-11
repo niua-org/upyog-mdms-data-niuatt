@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrupaidiha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rupaidiha",
+        "localname": "Nagar Panchayat Rupaidiha",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrupaidiha",
+        "children": [
+          {
+            "id": "4b14fcc6-c361-4a63-9720-426a7fcc1e25",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7d8027c6-a46b-4aa6-8bf2-bf865ee56842",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "9f01ee2e-aa9b-47a1-9b83-32ce49daa551",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rupaidiha",
+                    "localname": "Nagar Panchayat Rupaidiha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

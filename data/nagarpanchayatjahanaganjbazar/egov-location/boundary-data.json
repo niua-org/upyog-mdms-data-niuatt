@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjahanaganjbazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jahanaganjbazar",
+        "localname": "Nagar Panchayat Jahanaganjbazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjahanaganjbazar",
+        "children": [
+          {
+            "id": "545d9870-ffdf-4fd7-9392-67ff377d723e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "dbddb336-0020-49e2-987d-474ceacf248e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4f9a663d-8f4d-41e1-a8de-9c6527080758",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jahanaganjbazar",
+                    "localname": "Nagar Panchayat Jahanaganjbazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

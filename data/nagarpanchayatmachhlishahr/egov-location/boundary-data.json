@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmachhlishahr",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Machhlishahr",
+        "localname": "Nagar Panchayat Machhlishahr",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmachhlishahr",
+        "children": [
+          {
+            "id": "e1471aa1-f1f4-4fce-8188-65fb78c75378",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "dce4b314-b2eb-4f71-82d2-3a16b9a5308e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "46c4fbbc-ad67-4974-849e-91370f79a26d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Machhlishahr",
+                    "localname": "Nagar Panchayat Machhlishahr",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

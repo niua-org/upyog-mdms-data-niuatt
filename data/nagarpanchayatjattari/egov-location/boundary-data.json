@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjattari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jattari",
+        "localname": "Nagar Panchayat Jattari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjattari",
+        "children": [
+          {
+            "id": "f3739f4f-c036-458d-a80b-6fab9784e57f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "695f6c0b-2fc1-4312-aa4a-bd7a95805732",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "75a6b13b-83a6-4a8c-9f3a-a1b182f62db1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jattari",
+                    "localname": "Nagar Panchayat Jattari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

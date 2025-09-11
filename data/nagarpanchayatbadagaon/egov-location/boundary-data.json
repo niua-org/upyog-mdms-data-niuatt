@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbadagaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Badagaon",
+        "localname": "Nagar Panchayat Badagaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbadagaon",
+        "children": [
+          {
+            "id": "cd802da9-cbd2-4881-a486-7684e1209457",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "335b4aa8-2ece-468d-997c-fa2ddb7f2733",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "eb9e1b30-b83f-4156-920f-a642991b08d9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Badagaon",
+                    "localname": "Nagar Panchayat Badagaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

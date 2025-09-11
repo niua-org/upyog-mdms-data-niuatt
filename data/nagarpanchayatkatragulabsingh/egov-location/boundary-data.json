@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkatragulabsingh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Katragulabsingh",
+        "localname": "Nagar Panchayat Katragulabsingh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkatragulabsingh",
+        "children": [
+          {
+            "id": "c8951342-c8c6-41e5-8657-ff92d131324a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1ea69ced-40d8-4329-bc99-5482ff186864",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7cd525bc-64ef-4c35-b5fb-03c89b9f8caf",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Katragulabsingh",
+                    "localname": "Nagar Panchayat Katragulabsingh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

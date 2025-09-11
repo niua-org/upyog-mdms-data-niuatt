@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasiswabazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Siswabazar",
+        "localname": "Nagar Palika Siswabazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasiswabazar",
+        "children": [
+          {
+            "id": "46adad89-e0ba-4048-bab5-24d6c77ba61c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "03c526f6-4074-4a76-8ffb-0dc3456311a7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4cd88376-9417-417d-8468-2d208749671b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Siswabazar",
+                    "localname": "Nagar Palika Siswabazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

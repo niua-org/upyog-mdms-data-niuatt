@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaazamgarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Azamgarh",
+        "localname": "Nagar Palika Azamgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaazamgarh",
+        "children": [
+          {
+            "id": "6af8255d-a8cf-4357-bf5f-341ff0f7338e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0766aeed-ccb6-4b52-aefe-9c957f47f939",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ae705de0-6a3a-48b8-bc9e-0347012b353c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Azamgarh",
+                    "localname": "Nagar Palika Azamgarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgainsari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gainsari",
+        "localname": "Nagar Panchayat Gainsari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgainsari",
+        "children": [
+          {
+            "id": "546996f8-da19-4434-823b-bc9f7f327079",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8ad7f571-0c3d-4526-978b-741de49c3326",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ec8e4fed-f80e-4f32-a195-b6cc14acdc0d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gainsari",
+                    "localname": "Nagar Panchayat Gainsari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgunnaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gunnaur",
+        "localname": "Nagar Panchayat Gunnaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgunnaur",
+        "children": [
+          {
+            "id": "50d3478f-4331-4285-bb1b-c4fb04ace78e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "47e6f9d9-3f92-4181-9827-6ab3468c3298",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0abeb03a-01a6-4f34-afa4-c97467c9563a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gunnaur",
+                    "localname": "Nagar Panchayat Gunnaur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattarabganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Tarabganj",
+        "localname": "Nagar Panchayat Tarabganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattarabganj",
+        "children": [
+          {
+            "id": "9886e60f-9f02-4274-9ae6-6b92c906cec4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9311e28f-fe3a-4914-b970-7fb9bd9c09aa",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6eb28929-5ce8-487f-ab83-a280bab3a40f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Tarabganj",
+                    "localname": "Nagar Panchayat Tarabganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

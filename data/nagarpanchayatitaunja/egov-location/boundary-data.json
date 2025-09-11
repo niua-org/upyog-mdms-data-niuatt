@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatitaunja",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Itaunja",
+        "localname": "Nagar Panchayat Itaunja",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatitaunja",
+        "children": [
+          {
+            "id": "9c62149d-e8b9-4174-b66b-4b5d10cecd38",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a947377a-800f-4339-b027-bbe171beaa0a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "457c3ed5-8303-43d3-9edb-0238a2e62aaa",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Itaunja",
+                    "localname": "Nagar Panchayat Itaunja",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

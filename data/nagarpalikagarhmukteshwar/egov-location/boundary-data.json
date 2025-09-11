@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikagarhmukteshwar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Garhmukteshwar",
+        "localname": "Nagar Palika Garhmukteshwar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikagarhmukteshwar",
+        "children": [
+          {
+            "id": "a9ca6e57-950d-477c-8306-1edcdd66ccc1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "12851522-d13f-4124-949c-5347427599b6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7331b5f4-c64b-406a-9d54-ad2865ad0c65",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Garhmukteshwar",
+                    "localname": "Nagar Palika Garhmukteshwar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

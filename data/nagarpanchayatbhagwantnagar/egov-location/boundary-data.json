@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbhagwantnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bhagwantnagar",
+        "localname": "Nagar Panchayat Bhagwantnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbhagwantnagar",
+        "children": [
+          {
+            "id": "500212e0-61f2-4813-a0e8-732d6c2243a7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b4a2371d-453f-4fc4-a0dc-4a59a5f9ffe1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ff538d44-ab24-4806-bb06-63cd57432a30",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bhagwantnagar",
+                    "localname": "Nagar Panchayat Bhagwantnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

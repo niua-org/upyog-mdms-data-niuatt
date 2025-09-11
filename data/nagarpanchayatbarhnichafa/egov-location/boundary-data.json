@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbarhnichafa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Barhnichafa",
+        "localname": "Nagar Panchayat Barhnichafa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbarhnichafa",
+        "children": [
+          {
+            "id": "e906687f-2e95-49b6-9c44-921755127a36",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d228b44c-54cd-457b-8f9b-360f7ca5ed81",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "63041291-ca4a-41a4-a5c5-790961daba31",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Barhnichafa",
+                    "localname": "Nagar Panchayat Barhnichafa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

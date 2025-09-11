@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatadari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Adari",
+        "localname": "Nagar Panchayat Adari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatadari",
+        "children": [
+          {
+            "id": "94ff4ac3-6683-4a48-a244-6d75f5feed87",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b2bfb71d-c676-4aa7-a576-ec56b35f4f84",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ee1b4ae4-e18b-4a8f-9450-d70cfd23cd21",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Adari",
+                    "localname": "Nagar Panchayat Adari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

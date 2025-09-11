@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbakshikatalab",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bakshikatalab",
+        "localname": "Nagar Panchayat Bakshikatalab",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbakshikatalab",
+        "children": [
+          {
+            "id": "45bd4e30-a940-4e87-8d89-c644320466ad",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "dbedff65-37a1-440f-8174-0721675b441e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e1e2bce8-8b0d-47d4-84da-5abbe88a71be",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bakshikatalab",
+                    "localname": "Nagar Panchayat Bakshikatalab",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

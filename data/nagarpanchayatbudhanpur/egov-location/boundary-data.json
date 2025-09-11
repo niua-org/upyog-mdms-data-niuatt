@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbudhanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Budhanpur",
+        "localname": "Nagar Panchayat Budhanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbudhanpur",
+        "children": [
+          {
+            "id": "21b098cd-ab57-4338-a4aa-258694b652ab",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bfdb2410-c616-46ee-b1d2-9fcf509e50e3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a1b7823f-2e1b-4cba-844a-cb2b398fc115",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Budhanpur",
+                    "localname": "Nagar Panchayat Budhanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

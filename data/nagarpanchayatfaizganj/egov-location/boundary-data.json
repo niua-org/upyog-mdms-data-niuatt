@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatfaizganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Faizganj",
+        "localname": "Nagar Panchayat Faizganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatfaizganj",
+        "children": [
+          {
+            "id": "ea4cfa00-755d-4c5e-8197-79889a8a4e55",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8a2713d0-a3ea-4189-9cfe-de595ce3d2cf",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "9037477f-b045-44e6-bba2-0513aacaa3df",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Faizganj",
+                    "localname": "Nagar Panchayat Faizganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

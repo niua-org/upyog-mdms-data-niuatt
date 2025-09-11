@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbadlapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Badlapur",
+        "localname": "Nagar Panchayat Badlapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbadlapur",
+        "children": [
+          {
+            "id": "ee2940b7-a6e3-422a-9b31-0bad8ebc58c9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "724ae472-f884-4a1f-828d-73e00658d983",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "14803fb4-e9ab-4824-87ad-0e6aab83694b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Badlapur",
+                    "localname": "Nagar Panchayat Badlapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.ayodhyanagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Ayodhya Nagar Nigam",
+        "localname": "Ayodhya Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.ayodhyanagarnigam",
+        "children": [
+          {
+            "id": "345cb98d-dd58-4127-9d73-e9184d8eed60",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fdcaeed8-3ba3-4b88-b10b-be57c68498c5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "cbb30808-41d1-4718-bd1b-f83acadde90f",
+                    "boundaryNum": 1,
+                    "name": "Ayodhya Nagar Nigam",
+                    "localname": "Ayodhya Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

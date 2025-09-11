@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatalapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Alapur",
+        "localname": "Nagar Panchayat Alapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatalapur",
+        "children": [
+          {
+            "id": "4894bf32-87e1-487e-a4a8-b3df4cf2ec90",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "daf578b6-6c33-4b1a-a352-dcdb0bd9a961",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "cf1de632-470c-48fa-9226-607ba9ad2d32",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Alapur",
+                    "localname": "Nagar Panchayat Alapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

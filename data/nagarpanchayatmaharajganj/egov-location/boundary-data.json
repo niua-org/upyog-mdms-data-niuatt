@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmaharajganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Maharajganj",
+        "localname": "Nagar Panchayat Maharajganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmaharajganj",
+        "children": [
+          {
+            "id": "08c895d4-69de-43e7-83fe-fd44c7007b61",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "eb6f6ad8-bf4e-437b-8a82-7444dfe81da7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2fcc5060-c792-4f7e-99b6-2a8be0f77938",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Maharajganj",
+                    "localname": "Nagar Panchayat Maharajganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

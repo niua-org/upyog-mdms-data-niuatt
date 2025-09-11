@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamau",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Mau",
+        "localname": "Nagar Palika Mau",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamau",
+        "children": [
+          {
+            "id": "e7541ea4-24ed-4934-8f1f-9f9f79fc2252",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3e90ee64-c3ee-4506-aea9-d28b2e3e5b54",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a5d7b759-662c-4f13-98ff-6c2566a945a1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Mau",
+                    "localname": "Nagar Palika Mau",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

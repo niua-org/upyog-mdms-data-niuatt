@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkachhwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kachhwa",
+        "localname": "Nagar Panchayat Kachhwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkachhwa",
+        "children": [
+          {
+            "id": "24203022-3380-46ca-9a89-d109be00b65b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2eaa1cf0-05a3-4e1d-ae75-a3fc9aad7740",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8c516bbb-124a-479d-9624-c69c146a70da",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kachhwa",
+                    "localname": "Nagar Panchayat Kachhwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

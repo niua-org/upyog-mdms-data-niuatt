@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatusehat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Usehat",
+        "localname": "Nagar Panchayat Usehat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatusehat",
+        "children": [
+          {
+            "id": "f2b82443-0ce1-4a4a-9aed-199173348a58",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e108ce3e-98b4-4c60-9c87-fe50285490cf",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "13880869-5656-486b-acb7-cf4e68b92526",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Usehat",
+                    "localname": "Nagar Panchayat Usehat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

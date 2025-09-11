@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikanakur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Nakur",
+        "localname": "Nagar Palika Nakur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikanakur",
+        "children": [
+          {
+            "id": "1a29c204-c8b5-4d7b-b3c5-8112e660a75b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "18f2c61e-c79e-41f8-ac66-915ea998ff0c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "138d3b91-de83-4f45-af8e-0974af5038b0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Nakur",
+                    "localname": "Nagar Palika Nakur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatfaridpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Faridpur",
+        "localname": "Nagar Panchayat Faridpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatfaridpur",
+        "children": [
+          {
+            "id": "b6926f0d-5b6e-49a9-ac93-df9ef8e74274",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b39ff078-32b0-43a1-a5fc-d112c3353265",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a39477b3-5975-41a0-844c-ae7320039368",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Faridpur",
+                    "localname": "Nagar Panchayat Faridpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkhargupur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Khargupur",
+        "localname": "Nagar Panchayat Khargupur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkhargupur",
+        "children": [
+          {
+            "id": "dd563b59-b846-49e5-bdc5-d74deb85e55b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d5fba291-117b-480d-b9e9-b9d6149e3194",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7c00711f-9041-405d-8ab6-fde1f8a807ab",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Khargupur",
+                    "localname": "Nagar Panchayat Khargupur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

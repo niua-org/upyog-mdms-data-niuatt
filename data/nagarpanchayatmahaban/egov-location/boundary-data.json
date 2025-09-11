@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmahaban",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mahaban",
+        "localname": "Nagar Panchayat Mahaban",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmahaban",
+        "children": [
+          {
+            "id": "a9a1cdf2-132d-49bb-80f0-4d0a4cf9c96a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ab5dc362-8468-4f4d-8b55-09caa8914f24",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5b55edf4-4047-42cc-ab91-ce020b0b8331",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mahaban",
+                    "localname": "Nagar Panchayat Mahaban",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

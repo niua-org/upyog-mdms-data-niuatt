@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikagauriganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Gauriganj",
+        "localname": "Nagar Palika Gauriganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikagauriganj",
+        "children": [
+          {
+            "id": "f67440c2-e1d9-4b34-a770-2e8b95e3ddad",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7125a18d-e4c3-4e04-b5aa-48bdd05be6c3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "fa836a70-8f36-45e0-a9c4-64c46398973a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Gauriganj",
+                    "localname": "Nagar Palika Gauriganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

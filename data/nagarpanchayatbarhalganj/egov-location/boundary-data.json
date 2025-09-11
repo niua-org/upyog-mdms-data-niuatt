@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbarhalganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Barhalganj",
+        "localname": "Nagar Panchayat Barhalganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbarhalganj",
+        "children": [
+          {
+            "id": "9023c235-8cec-4f90-96dd-fefd1a13e0dc",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3a5dc69e-b7a8-4fae-a339-b04a5b9dd7f4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1f4dd249-2088-4b78-a593-1c6f697d32c6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Barhalganj",
+                    "localname": "Nagar Panchayat Barhalganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

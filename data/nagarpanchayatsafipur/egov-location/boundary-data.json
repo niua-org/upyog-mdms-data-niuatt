@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsafipur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Safipur",
+        "localname": "Nagar Panchayat Safipur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsafipur",
+        "children": [
+          {
+            "id": "14908fc8-c801-485b-817d-2a9baeb187ea",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2942b444-8261-4581-b346-ba6f7f924c5d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c56cde0d-2df8-4dca-bb46-eda13d13fa98",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Safipur",
+                    "localname": "Nagar Panchayat Safipur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

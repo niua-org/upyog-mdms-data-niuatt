@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatwalidpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Walidpur",
+        "localname": "Nagar Panchayat Walidpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatwalidpur",
+        "children": [
+          {
+            "id": "e78a189b-4146-4f02-9186-29d35b32b539",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1687481a-164e-4648-bf1d-b70f4147e978",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e6866ddf-d0cf-4025-b886-c6bb04195f4d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Walidpur",
+                    "localname": "Nagar Panchayat Walidpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

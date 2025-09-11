@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbelsar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Belsar",
+        "localname": "Nagar Panchayat Belsar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbelsar",
+        "children": [
+          {
+            "id": "b5e0f1cb-43ed-4c00-81e0-4c78e368276e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "91fa0e38-f8b8-457e-bdfa-4261b287f8fd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "54e7536c-b021-46d1-97d8-2ed9434b36ca",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Belsar",
+                    "localname": "Nagar Panchayat Belsar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

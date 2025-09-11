@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmau",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mau",
+        "localname": "Nagar Panchayat Mau",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmau",
+        "children": [
+          {
+            "id": "a2cfc3a2-aa84-4aba-9eee-ac5cec819d7e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cafb0a3e-eed5-4951-bbcb-4991bd963891",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b797a3a3-a34e-4f38-a85f-52fe661572ed",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mau",
+                    "localname": "Nagar Panchayat Mau",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatfatehpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Fatehpur",
+        "localname": "Nagar Panchayat Fatehpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatfatehpur",
+        "children": [
+          {
+            "id": "74cb5cd3-afe5-4d1f-9aa3-2b70435d2d2e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a1e84d51-b7ab-4aa1-b40c-1b7991ac24bd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a398a4ca-7de9-44ad-a2aa-826fd1f3ce83",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Fatehpur",
+                    "localname": "Nagar Panchayat Fatehpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmendu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mendu",
+        "localname": "Nagar Panchayat Mendu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmendu",
+        "children": [
+          {
+            "id": "672e8773-b37e-4907-ad10-ad81f6ee9464",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "edf0e6ac-6358-49b9-9e11-7f245dce9a36",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6f39c458-3d0c-4e5c-b84a-e5f3c10fd55b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mendu",
+                    "localname": "Nagar Panchayat Mendu",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

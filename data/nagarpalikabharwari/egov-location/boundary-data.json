@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabharwari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bharwari",
+        "localname": "Nagar Palika Bharwari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabharwari",
+        "children": [
+          {
+            "id": "ea94eded-d9b5-4864-91c9-f1672530d9e0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "af8dac8c-c661-4c0e-849f-91b0b83d3c76",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5a51c842-bc57-44c7-a925-428d7470502d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bharwari",
+                    "localname": "Nagar Palika Bharwari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

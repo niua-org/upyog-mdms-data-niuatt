@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjangipur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jangipur",
+        "localname": "Nagar Panchayat Jangipur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjangipur",
+        "children": [
+          {
+            "id": "1457ebd9-61c9-4f68-b864-e5e2e82f0dbc",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d7da6942-d079-4dbe-bb6d-0cf4119bae6f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "002f87d3-607b-4fc0-ae7c-32f238a498b1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jangipur",
+                    "localname": "Nagar Panchayat Jangipur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

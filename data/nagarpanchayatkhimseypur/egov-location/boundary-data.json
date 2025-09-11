@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkhimseypur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Khimseypur",
+        "localname": "Nagar Panchayat Khimseypur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkhimseypur",
+        "children": [
+          {
+            "id": "3c58c7d8-55a5-460f-bb41-1ad2a3d1db3e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "66f118fe-5968-4000-8044-f74468627c84",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "26771a3d-99d9-4d54-b48a-66dc94963e9c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Khimseypur",
+                    "localname": "Nagar Panchayat Khimseypur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

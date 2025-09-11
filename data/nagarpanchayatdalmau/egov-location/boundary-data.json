@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdalmau",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dalmau",
+        "localname": "Nagar Panchayat Dalmau",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdalmau",
+        "children": [
+          {
+            "id": "88baf96f-c87b-4829-aab1-e9ad4bb4c11d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f041d0e0-4960-4e92-a662-d09fe12b089d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "30888dac-7d72-403a-b651-47e262637e60",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dalmau",
+                    "localname": "Nagar Panchayat Dalmau",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

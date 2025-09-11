@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikapilkhuwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Pilkhuwa",
+        "localname": "Nagar Palika Pilkhuwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikapilkhuwa",
+        "children": [
+          {
+            "id": "0c7c7d31-10c2-44d4-aaae-269612512f3a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bfbf4741-fb08-427c-ae7a-a72a5a46c24c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3333da0e-8a82-41c7-bc3f-014a489d5e00",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Pilkhuwa",
+                    "localname": "Nagar Palika Pilkhuwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

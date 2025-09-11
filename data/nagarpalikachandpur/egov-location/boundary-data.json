@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikachandpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Chandpur",
+        "localname": "Nagar Palika Chandpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikachandpur",
+        "children": [
+          {
+            "id": "6962aa69-3584-4b5d-b2a9-2daad0d41102",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "60079a1c-97e4-480f-bffb-9d2cd2252507",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7d759281-d65a-4fa6-b104-b96c30d20604",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Chandpur",
+                    "localname": "Nagar Palika Chandpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

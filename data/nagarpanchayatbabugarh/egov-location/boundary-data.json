@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbabugarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Babugarh",
+        "localname": "Nagar Panchayat Babugarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbabugarh",
+        "children": [
+          {
+            "id": "40ae3df8-36f1-4d88-ac6d-cf1c0d8d1e26",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ec7dfc6b-5cd4-4e2b-a5ca-150f5d28b37b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5852de3f-3157-41da-9391-a1bf20edeac5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Babugarh",
+                    "localname": "Nagar Panchayat Babugarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

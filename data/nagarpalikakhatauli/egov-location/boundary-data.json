@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakhatauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Khatauli",
+        "localname": "Nagar Palika Khatauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakhatauli",
+        "children": [
+          {
+            "id": "df263c3c-b98e-41d6-bf7e-8bf88d3f3f87",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "49d9eec1-e89b-445a-93da-5548b0a5e579",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "aff7459a-d6b9-4d69-ad9b-962256bad391",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Khatauli",
+                    "localname": "Nagar Palika Khatauli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgovardhan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Govardhan",
+        "localname": "Nagar Panchayat Govardhan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgovardhan",
+        "children": [
+          {
+            "id": "7b14dd3f-fe16-4fe3-bc7e-9bf0057a9dda",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f8bda9a2-fef7-4881-a855-52024cb0f8f3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "25aa8736-199d-4f9c-af97-8fe9e6e680d0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Govardhan",
+                    "localname": "Nagar Panchayat Govardhan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

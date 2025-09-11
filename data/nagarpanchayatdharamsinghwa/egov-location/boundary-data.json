@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdharamsinghwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dharamsinghwa",
+        "localname": "Nagar Panchayat Dharamsinghwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdharamsinghwa",
+        "children": [
+          {
+            "id": "1a99ad10-187a-4b3c-9542-450879166385",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "32281491-7164-410a-9385-1918056bfbd0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "fc1703fa-c129-4ccb-943a-91bdde26174b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dharamsinghwa",
+                    "localname": "Nagar Panchayat Dharamsinghwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

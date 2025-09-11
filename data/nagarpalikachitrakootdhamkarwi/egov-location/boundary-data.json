@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikachitrakootdhamkarwi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Chitrakootdhamkarwi",
+        "localname": "Nagar Palika Chitrakootdhamkarwi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikachitrakootdhamkarwi",
+        "children": [
+          {
+            "id": "2c8ded77-5f33-4fe0-9b4e-0fe2605b2096",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "608bf1c3-b35f-4dfc-9ba4-dad7eb5fa094",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "717aa7ce-f0df-4505-b40c-e69d599bcf05",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Chitrakootdhamkarwi",
+                    "localname": "Nagar Palika Chitrakootdhamkarwi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatduddhi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Duddhi",
+        "localname": "Nagar Panchayat Duddhi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatduddhi",
+        "children": [
+          {
+            "id": "147c3a96-b427-4755-a02a-89c024746855",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1c4d22da-5ce8-439f-a3e2-107cb96d1bcf",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "51f69852-d912-4342-93d7-24186a23213d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Duddhi",
+                    "localname": "Nagar Panchayat Duddhi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

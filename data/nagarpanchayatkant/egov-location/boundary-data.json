@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkant",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kant",
+        "localname": "Nagar Panchayat Kant",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkant",
+        "children": [
+          {
+            "id": "6e7a2657-7bd4-4e7e-8741-ad62c40e0a34",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3864a5da-ff06-4e38-955b-cd7730a7e2ff",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "22495399-cda8-46cf-9e46-a63e458a5e35",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kant",
+                    "localname": "Nagar Panchayat Kant",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayathasayan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Hasayan",
+        "localname": "Nagar Panchayat Hasayan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayathasayan",
+        "children": [
+          {
+            "id": "9a2c4cd2-ec83-4c7d-9517-68a5fead37bd",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "07202b01-873a-4030-b998-660b55ceb49c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "26c5aa2e-83ef-435a-b9bf-8998b2649d99",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Hasayan",
+                    "localname": "Nagar Panchayat Hasayan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

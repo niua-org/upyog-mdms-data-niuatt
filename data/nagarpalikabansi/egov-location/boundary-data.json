@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabansi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bansi",
+        "localname": "Nagar Palika Bansi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabansi",
+        "children": [
+          {
+            "id": "5fd0589a-c9cc-45ad-b2b2-a5e750ef2fb9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f2cc20b6-cc63-43c1-adf5-8db9841eb610",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "253d910e-129c-42ba-8d73-01d70a42f1a6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bansi",
+                    "localname": "Nagar Palika Bansi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

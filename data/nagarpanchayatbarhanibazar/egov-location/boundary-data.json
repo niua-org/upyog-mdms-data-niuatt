@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbarhanibazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Barhanibazar",
+        "localname": "Nagar Panchayat Barhanibazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbarhanibazar",
+        "children": [
+          {
+            "id": "a156d8b1-f55e-41e1-9ff2-d4309c8efd6a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c02c1190-c077-45a5-ad6c-465ebb572484",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1e62630e-a88d-40d7-8eb0-78c5152cf332",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Barhanibazar",
+                    "localname": "Nagar Panchayat Barhanibazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

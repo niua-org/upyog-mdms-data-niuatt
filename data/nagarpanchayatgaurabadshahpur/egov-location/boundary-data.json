@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgaurabadshahpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gaurabadshahpur",
+        "localname": "Nagar Panchayat Gaurabadshahpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgaurabadshahpur",
+        "children": [
+          {
+            "id": "a61eb526-e68c-4285-8e16-ff54581952cf",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "88f28792-ac43-4df1-965a-ee1a9c8a72f3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "34b4aebe-c649-4b8e-85e2-4692c84927c5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gaurabadshahpur",
+                    "localname": "Nagar Panchayat Gaurabadshahpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

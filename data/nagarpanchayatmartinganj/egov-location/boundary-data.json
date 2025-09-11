@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmartinganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Martinganj",
+        "localname": "Nagar Panchayat Martinganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmartinganj",
+        "children": [
+          {
+            "id": "f9c3b389-9c9f-4571-8691-d329a5b54548",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f51d5029-8bfa-4371-aaae-e396b8c27715",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2f157353-13e4-48dc-9f80-077364636dd8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Martinganj",
+                    "localname": "Nagar Panchayat Martinganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

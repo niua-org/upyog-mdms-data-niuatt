@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkarikandhata",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Karikandhata",
+        "localname": "Nagar Panchayat Karikandhata",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkarikandhata",
+        "children": [
+          {
+            "id": "65323011-7905-4023-b9ae-5b85d4d2304b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "aeef799f-ca80-4502-b5a8-0a2ad80b86ee",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "358be503-5a18-4177-bdd3-5f2a033299b8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Karikandhata",
+                    "localname": "Nagar Panchayat Karikandhata",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

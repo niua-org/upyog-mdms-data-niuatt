@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattalbehat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Talbehat",
+        "localname": "Nagar Panchayat Talbehat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattalbehat",
+        "children": [
+          {
+            "id": "fea5e11b-9cb7-419d-847b-a799865996e9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "61cb4948-5923-4dc9-9838-35497b67a292",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c32afe23-9c00-4b54-9b9c-2b877e6af7bd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Talbehat",
+                    "localname": "Nagar Panchayat Talbehat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

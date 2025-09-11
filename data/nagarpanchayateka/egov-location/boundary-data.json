@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayateka",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Eka",
+        "localname": "Nagar Panchayat Eka",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayateka",
+        "children": [
+          {
+            "id": "0234699b-26ea-436d-b156-bed3179ff8f3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "86da5d6f-21e4-485c-bcf4-3bf27792415c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2632967c-1a23-47b6-af41-d27ad62d3e05",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Eka",
+                    "localname": "Nagar Panchayat Eka",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

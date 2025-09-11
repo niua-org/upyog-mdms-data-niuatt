@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaraebareli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Raebareli",
+        "localname": "Nagar Palika Raebareli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaraebareli",
+        "children": [
+          {
+            "id": "a0a6da32-6be2-47ff-ba71-af95b4af7b3a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8827a756-a551-4f88-b698-e90347d3b353",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b331f855-f9d0-4054-829f-a61711fa65b2",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Raebareli",
+                    "localname": "Nagar Palika Raebareli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

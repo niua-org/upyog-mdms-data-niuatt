@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatlalgopalganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Lalgopalganj",
+        "localname": "Nagar Panchayat Lalgopalganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatlalgopalganj",
+        "children": [
+          {
+            "id": "48ebc17c-90fd-42be-9463-6340bc3e4d46",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1cac6a5c-30c9-4670-b7e7-317f41dd992a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "58e183f5-dcb4-4134-a504-31bad1b2de37",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Lalgopalganj",
+                    "localname": "Nagar Panchayat Lalgopalganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

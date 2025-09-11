@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjagner",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jagner",
+        "localname": "Nagar Panchayat Jagner",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjagner",
+        "children": [
+          {
+            "id": "ada594d3-3e2e-4494-9e11-1872343e05b7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8e8f8275-e44c-4fbc-b2af-f2feac06bf5d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8da1b0f5-93ae-4d27-aca2-833217952a16",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jagner",
+                    "localname": "Nagar Panchayat Jagner",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

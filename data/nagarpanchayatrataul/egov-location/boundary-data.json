@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrataul",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rataul",
+        "localname": "Nagar Panchayat Rataul",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrataul",
+        "children": [
+          {
+            "id": "5d5d74c3-b9c8-4783-b06a-677a37af11e5",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9ca23927-b721-427f-b95c-68650eae2c99",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "76d89770-626c-47b4-9306-4af6033eaf5a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rataul",
+                    "localname": "Nagar Panchayat Rataul",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

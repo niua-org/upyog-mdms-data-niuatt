@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaujhani",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Ujhani",
+        "localname": "Nagar Palika Ujhani",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaujhani",
+        "children": [
+          {
+            "id": "6b84a229-0ae4-4c79-803c-13759637c3ca",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7a45a13a-79b5-4855-ad83-7059525e2f3f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "9a1a9675-7aab-496b-9604-cc6eff108d8f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Ujhani",
+                    "localname": "Nagar Palika Ujhani",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

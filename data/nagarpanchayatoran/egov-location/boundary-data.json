@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatoran",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Oran",
+        "localname": "Nagar Panchayat Oran",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatoran",
+        "children": [
+          {
+            "id": "9613b017-74df-4213-988e-230b337249d3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "69c3b328-7068-4ef9-8cc5-c8b045594d3c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "771e29cb-3ecb-4023-a07c-750795e75518",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Oran",
+                    "localname": "Nagar Panchayat Oran",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

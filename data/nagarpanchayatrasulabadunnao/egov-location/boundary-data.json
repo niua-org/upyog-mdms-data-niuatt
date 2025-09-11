@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrasulabadunnao",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rasulabad Unnao",
+        "localname": "Nagar Panchayat Rasulabad Unnao",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrasulabadunnao",
+        "children": [
+          {
+            "id": "5387efad-3a3a-4fff-a61f-ad6c8587c094",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "886219ea-b9e8-4ad9-9945-e3a4e20e257e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "35d085eb-0186-4472-8fbc-96de664d0dd6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rasulabad Unnao",
+                    "localname": "Nagar Panchayat Rasulabad Unnao",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

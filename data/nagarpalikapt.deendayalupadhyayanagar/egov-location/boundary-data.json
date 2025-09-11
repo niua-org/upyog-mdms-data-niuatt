@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikapt.deendayalupadhyayanagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Pt.Deendayalupadhyayanagar",
+        "localname": "Nagar Palika Pt.Deendayalupadhyayanagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikapt.deendayalupadhyayanagar",
+        "children": [
+          {
+            "id": "131fa354-f40d-4de3-9d7f-3dca675e8e97",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d5f02abe-85d8-43cb-bf3f-a6babed9b9ab",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3408f3f5-e35b-42eb-a934-eaa1eeca8077",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Pt.Deendayalupadhyayanagar",
+                    "localname": "Nagar Palika Pt.Deendayalupadhyayanagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

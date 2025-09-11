@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsewalkhas",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sewalkhas",
+        "localname": "Nagar Panchayat Sewalkhas",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsewalkhas",
+        "children": [
+          {
+            "id": "0b097767-aa50-45eb-b76f-7ffd5c4cfd8c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c04b9077-1707-4458-829d-ff6224aba68d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "01364abc-91a1-4102-b137-201ad56aff17",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sewalkhas",
+                    "localname": "Nagar Panchayat Sewalkhas",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

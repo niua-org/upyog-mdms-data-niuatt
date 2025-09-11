@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatumrikalan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Umrikalan",
+        "localname": "Nagar Panchayat Umrikalan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatumrikalan",
+        "children": [
+          {
+            "id": "d0c18186-c878-4acc-bc51-b511a87dde4f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "61144178-efcf-418a-b704-9eaee8884784",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "944fab64-b708-46eb-8689-101812dd6e35",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Umrikalan",
+                    "localname": "Nagar Panchayat Umrikalan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

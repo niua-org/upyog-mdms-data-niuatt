@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkundarki",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kundarki",
+        "localname": "Nagar Panchayat Kundarki",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkundarki",
+        "children": [
+          {
+            "id": "6d504076-9014-4453-a508-c4bfb59b6285",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c9f698fb-508d-4883-a3af-1856908f7eae",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "71ceba82-c0a0-4482-b91c-f50f6d808262",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kundarki",
+                    "localname": "Nagar Panchayat Kundarki",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

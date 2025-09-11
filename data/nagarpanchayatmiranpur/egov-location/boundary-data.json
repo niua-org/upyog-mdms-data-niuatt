@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmiranpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Miranpur",
+        "localname": "Nagar Panchayat Miranpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmiranpur",
+        "children": [
+          {
+            "id": "c683e127-8b26-46ed-b017-9973d26d1a53",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0abf541d-39bf-4e82-9582-9b6faaa3c070",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3c8cafd7-99b7-4395-800a-ef2d105ccd73",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Miranpur",
+                    "localname": "Nagar Panchayat Miranpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayathargaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Hargaon",
+        "localname": "Nagar Panchayat Hargaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayathargaon",
+        "children": [
+          {
+            "id": "6abef244-c86b-4a93-8835-73b0442e54ae",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ed8e77e5-6992-43ed-ab4e-1d9fe25f28ee",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "576cbefb-ddde-4685-a06d-d5fa8276e404",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Hargaon",
+                    "localname": "Nagar Panchayat Hargaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

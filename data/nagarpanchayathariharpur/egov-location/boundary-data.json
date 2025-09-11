@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayathariharpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Hariharpur",
+        "localname": "Nagar Panchayat Hariharpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayathariharpur",
+        "children": [
+          {
+            "id": "fd2d90c1-fc29-4ebd-a976-1b2d0aa2d193",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "45fc308a-7c35-48f3-829d-55594f42050e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a572a617-719e-4167-b574-7da7faaa681f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Hariharpur",
+                    "localname": "Nagar Panchayat Hariharpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

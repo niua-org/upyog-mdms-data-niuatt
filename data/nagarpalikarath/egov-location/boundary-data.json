@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikarath",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Rath",
+        "localname": "Nagar Palika Rath",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikarath",
+        "children": [
+          {
+            "id": "80a8321d-8f0e-43ac-b2f0-76318d190e2b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d5ef6568-2a76-4950-9059-0ab1bbe2da2f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c6d261c3-50e9-4a6c-b062-d05d3519b49c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Rath",
+                    "localname": "Nagar Palika Rath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

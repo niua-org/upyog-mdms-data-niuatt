@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.varanasinagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Varanasi Nagar Nigam",
+        "localname": "Varanasi Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.varanasinagarnigam",
+        "children": [
+          {
+            "id": "b20404a7-6a47-4d9f-8ec8-dc16c6534052",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d6cfb91a-c8e5-4498-9b28-b50378d2c0ec",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6caf5e90-9b16-45f9-8f1a-d59854cfb0e9",
+                    "boundaryNum": 1,
+                    "name": "Varanasi Nagar Nigam",
+                    "localname": "Varanasi Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

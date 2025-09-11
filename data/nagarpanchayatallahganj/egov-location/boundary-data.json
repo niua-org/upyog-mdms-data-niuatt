@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatallahganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Allahganj",
+        "localname": "Nagar Panchayat Allahganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatallahganj",
+        "children": [
+          {
+            "id": "c41b02f9-dec0-4a07-804e-f09eac9b37b1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ded76e67-943a-4963-a110-c5b21e6512d1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8a66a484-5b05-4fd9-889e-1e87095fc90b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Allahganj",
+                    "localname": "Nagar Panchayat Allahganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

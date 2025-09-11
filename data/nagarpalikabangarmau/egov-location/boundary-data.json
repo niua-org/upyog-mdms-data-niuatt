@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabangarmau",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bangarmau",
+        "localname": "Nagar Palika Bangarmau",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabangarmau",
+        "children": [
+          {
+            "id": "09f0af10-0e06-468d-8b46-f2930d1842d3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e3bf58bb-adff-43f0-af43-4fc1343931f1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "deea51c4-8d3c-4456-9039-9d8b53098d56",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bangarmau",
+                    "localname": "Nagar Palika Bangarmau",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

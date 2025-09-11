@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbanda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Banda",
+        "localname": "Nagar Panchayat Banda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbanda",
+        "children": [
+          {
+            "id": "b1b7b061-564d-4338-a803-e07b51841025",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d1d45bf8-b4ca-4f57-9b15-dba1775431bc",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "70601fb8-9ddb-4fd6-aaab-e8840ce1b3ec",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Banda",
+                    "localname": "Nagar Panchayat Banda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

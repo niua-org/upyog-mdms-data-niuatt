@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatazmatgarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Azmatgarh",
+        "localname": "Nagar Panchayat Azmatgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatazmatgarh",
+        "children": [
+          {
+            "id": "b427d27f-1a62-49cc-b05d-487581ac67b1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c2246a8f-8793-4331-ba5a-146aac33411f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f4f5895f-3dbc-4b1d-9736-d860a7e05f31",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Azmatgarh",
+                    "localname": "Nagar Panchayat Azmatgarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

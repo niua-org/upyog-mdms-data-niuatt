@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatharduaganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Harduaganj",
+        "localname": "Nagar Panchayat Harduaganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatharduaganj",
+        "children": [
+          {
+            "id": "61afed67-6440-46c5-b86a-11f000ee1f9a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c962cc24-1c4c-4313-82a4-a500994b09bd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3208d297-9b6e-4617-8dfc-34b496cd99a2",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Harduaganj",
+                    "localname": "Nagar Panchayat Harduaganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

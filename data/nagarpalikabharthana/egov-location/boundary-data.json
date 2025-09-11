@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabharthana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bharthana",
+        "localname": "Nagar Palika Bharthana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabharthana",
+        "children": [
+          {
+            "id": "03ae4888-f174-449a-946a-fa8760a91bea",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "181e570b-698c-4aeb-876e-e2e1bd2d868f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5c43713a-8d71-47dc-9696-7404756a166b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bharthana",
+                    "localname": "Nagar Palika Bharthana",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

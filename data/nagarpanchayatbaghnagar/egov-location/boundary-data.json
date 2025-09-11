@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbaghnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Baghnagar",
+        "localname": "Nagar Panchayat Baghnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbaghnagar",
+        "children": [
+          {
+            "id": "793d5c55-82ef-4b1e-8327-ca51542341fd",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5a847f36-b458-435a-b0a3-097cf01d8e37",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "84fbed07-2372-4775-9d46-ad486a05fb0e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Baghnagar",
+                    "localname": "Nagar Panchayat Baghnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

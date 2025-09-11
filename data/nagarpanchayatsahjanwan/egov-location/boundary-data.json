@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsahjanwan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sahjanwan",
+        "localname": "Nagar Panchayat Sahjanwan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsahjanwan",
+        "children": [
+          {
+            "id": "70dde292-e5bc-4e2a-b7c8-f18d6a259ddc",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d9f22c53-d27a-4a7c-b740-abd3fd7dea60",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "01f5e3fc-70c8-47d8-9fdb-3d12ab5575fc",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sahjanwan",
+                    "localname": "Nagar Panchayat Sahjanwan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrajakarampur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rajakarampur",
+        "localname": "Nagar Panchayat Rajakarampur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrajakarampur",
+        "children": [
+          {
+            "id": "00a67be5-fa7b-48db-81c8-649607498ef5",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "40986ae1-2046-4f72-8745-1029ad1c82bf",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "dde2a5be-5ddb-4b39-a757-85db677acc53",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rajakarampur",
+                    "localname": "Nagar Panchayat Rajakarampur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbabarpurajitmal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Babarpurajitmal",
+        "localname": "Nagar Panchayat Babarpurajitmal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbabarpurajitmal",
+        "children": [
+          {
+            "id": "0fb4a1c9-390a-4f6d-85a2-a4a3ac726837",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ce9f58d7-8bab-4220-8055-ff2037201b0b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f6220ed6-f217-4f74-afa4-99c5216e6de2",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Babarpurajitmal",
+                    "localname": "Nagar Panchayat Babarpurajitmal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

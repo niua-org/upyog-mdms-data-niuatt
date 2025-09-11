@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbisharatganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bisharatganj",
+        "localname": "Nagar Panchayat Bisharatganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbisharatganj",
+        "children": [
+          {
+            "id": "4b7fbac7-bfcf-4d2d-b12c-7158e2aae2d7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c1a3a246-791d-45b0-96ed-d838c3763dbd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ae76703f-8690-4e40-9c6f-60153684057b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bisharatganj",
+                    "localname": "Nagar Panchayat Bisharatganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

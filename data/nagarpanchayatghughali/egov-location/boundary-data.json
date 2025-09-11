@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatghughali",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ghughali",
+        "localname": "Nagar Panchayat Ghughali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatghughali",
+        "children": [
+          {
+            "id": "a6762d6f-cca9-4fe7-ba40-2a25f0221a5e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c210a4f0-7be8-468b-90f2-7939fa50ab63",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "06ac6f42-2f5e-4602-967f-6e5e86dee8af",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ghughali",
+                    "localname": "Nagar Panchayat Ghughali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

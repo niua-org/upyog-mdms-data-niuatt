@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasandila",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Sandila",
+        "localname": "Nagar Palika Sandila",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasandila",
+        "children": [
+          {
+            "id": "2e0d7e6c-998a-4a6a-9276-7dab7a373dce",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "095591c0-1161-4a9d-a497-bb518ad82e61",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7c334cd7-7698-4de5-bfdd-c6cc54d11024",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Sandila",
+                    "localname": "Nagar Palika Sandila",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

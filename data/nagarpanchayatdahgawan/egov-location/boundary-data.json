@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdahgawan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dahgawan",
+        "localname": "Nagar Panchayat Dahgawan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdahgawan",
+        "children": [
+          {
+            "id": "fc4f474b-d3fb-4d61-8003-7ed6b1844bf2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0f464df0-4702-4720-91c5-076695877a77",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b19fc168-3b06-4ceb-bd29-1e127fac5e57",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dahgawan",
+                    "localname": "Nagar Panchayat Dahgawan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

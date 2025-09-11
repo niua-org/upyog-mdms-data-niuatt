@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkharela",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kharela",
+        "localname": "Nagar Panchayat Kharela",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkharela",
+        "children": [
+          {
+            "id": "78adec4a-90c4-4a27-a4ba-b12c34731102",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "473f81ff-df5f-4daf-a3a3-e4e5fd0af74f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0cba97dc-1874-4aab-acc9-a5ebc3980907",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kharela",
+                    "localname": "Nagar Panchayat Kharela",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

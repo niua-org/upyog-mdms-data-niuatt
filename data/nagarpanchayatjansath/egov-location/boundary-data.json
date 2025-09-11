@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjansath",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jansath",
+        "localname": "Nagar Panchayat Jansath",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjansath",
+        "children": [
+          {
+            "id": "3f3e2462-6a6d-4039-8772-ba3e566d8771",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fa9fa841-64d0-498b-9b88-72e15dfd7cc2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5c410f5e-e810-4b89-af47-4faef6bf0e09",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jansath",
+                    "localname": "Nagar Panchayat Jansath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

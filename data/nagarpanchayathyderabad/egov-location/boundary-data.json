@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayathyderabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Hyderabad",
+        "localname": "Nagar Panchayat Hyderabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayathyderabad",
+        "children": [
+          {
+            "id": "d7784eb2-bf0f-49f7-9297-a9502c3f642d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d248b602-4392-4b4e-a62e-58dff41f45a5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6671ed01-f622-45b0-9b0e-e780e31f8723",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Hyderabad",
+                    "localname": "Nagar Panchayat Hyderabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

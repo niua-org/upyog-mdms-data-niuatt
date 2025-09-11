@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkusmara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kusmara",
+        "localname": "Nagar Panchayat Kusmara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkusmara",
+        "children": [
+          {
+            "id": "d5d4eacf-50a1-4a8b-be89-f88f058151c3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ba13bf8d-ea61-4488-bedc-daa649aeb635",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "09ed0d93-23c3-462d-af56-1c1974a382f9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kusmara",
+                    "localname": "Nagar Panchayat Kusmara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

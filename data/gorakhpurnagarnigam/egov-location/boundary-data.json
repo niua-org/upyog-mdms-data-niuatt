@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.gorakhpurnagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Gorakhpur Nagar Nigam",
+        "localname": "Gorakhpur Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.gorakhpurnagarnigam",
+        "children": [
+          {
+            "id": "b930cd01-c3b2-45d9-965b-bc7977ee6a66",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c188df11-6dab-4ac2-a28c-35de023152c6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e38b1bd2-7d6d-437f-9de1-5788306a9608",
+                    "boundaryNum": 1,
+                    "name": "Gorakhpur Nagar Nigam",
+                    "localname": "Gorakhpur Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

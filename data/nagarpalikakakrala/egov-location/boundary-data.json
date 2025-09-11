@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakakrala",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Kakrala",
+        "localname": "Nagar Palika Kakrala",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakakrala",
+        "children": [
+          {
+            "id": "5c786349-2505-4343-9a4c-cd0840b4f046",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "71ad8fd8-b281-4c7f-a57d-883e445cf101",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "fba423e2-16a9-4501-8092-afb3d4c8b3c9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Kakrala",
+                    "localname": "Nagar Palika Kakrala",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

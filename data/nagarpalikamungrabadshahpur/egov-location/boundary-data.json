@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamungrabadshahpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Mungrabadshahpur",
+        "localname": "Nagar Palika Mungrabadshahpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamungrabadshahpur",
+        "children": [
+          {
+            "id": "766ff508-da82-4072-93a6-e8cfb93471df",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7ab7bd08-009c-4f4d-8343-2b188aa3de8c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a2e8cbc1-b1cd-4cd4-b0b7-4f5e8b5f11ed",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Mungrabadshahpur",
+                    "localname": "Nagar Palika Mungrabadshahpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

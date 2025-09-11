@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpurdilnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Purdilnagar",
+        "localname": "Nagar Panchayat Purdilnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpurdilnagar",
+        "children": [
+          {
+            "id": "59ab7e73-209e-45a8-b447-701f19cef82e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4aca845d-cd13-4f3c-bdb4-2a56690535c6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f577d92c-9f69-4bef-bdcc-6e0880524073",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Purdilnagar",
+                    "localname": "Nagar Panchayat Purdilnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

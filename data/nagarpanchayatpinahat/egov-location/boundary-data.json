@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpinahat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Pinahat",
+        "localname": "Nagar Panchayat Pinahat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpinahat",
+        "children": [
+          {
+            "id": "fb9e0c19-ecf0-4432-a525-cb20fc706812",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "24fe2874-1ffe-4138-a881-4f54d756f6dc",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "28c68a44-4aba-4a73-8ed8-6d1c6a351d40",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Pinahat",
+                    "localname": "Nagar Panchayat Pinahat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

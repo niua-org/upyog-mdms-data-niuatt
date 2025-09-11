@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatcharthawal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Charthawal",
+        "localname": "Nagar Panchayat Charthawal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatcharthawal",
+        "children": [
+          {
+            "id": "36bee972-bc75-4e35-87c6-4cc0d379cf9b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5e1eb08b-2d96-423c-9826-7983d6ea75f6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ba33ce3b-e190-4dd7-abb7-bfa42c9aefb9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Charthawal",
+                    "localname": "Nagar Panchayat Charthawal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjewar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jewar",
+        "localname": "Nagar Panchayat Jewar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjewar",
+        "children": [
+          {
+            "id": "2cb6f0a4-63b4-44f6-9ec1-e47117162ee6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "08bff6d4-0b12-4c9b-8761-bb515c48e68f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8f6f5e47-1321-415f-849b-c448656b0f49",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jewar",
+                    "localname": "Nagar Panchayat Jewar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchopan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chopan",
+        "localname": "Nagar Panchayat Chopan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchopan",
+        "children": [
+          {
+            "id": "c53da9e3-61a9-4cdb-b2bb-a2c6e35e973d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d2125505-922f-4766-b67a-7240db6e51d0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "390f8a0c-c84b-4aca-973c-a880c1006dee",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chopan",
+                    "localname": "Nagar Panchayat Chopan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

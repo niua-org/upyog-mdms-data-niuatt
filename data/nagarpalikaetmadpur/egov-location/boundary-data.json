@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaetmadpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Etmadpur",
+        "localname": "Nagar Palika Etmadpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaetmadpur",
+        "children": [
+          {
+            "id": "ddb4fbfe-4b0f-4e12-ad86-2cf7a3494db7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7b01b86e-9427-4849-9ff9-77e00e05da2f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8624e592-4b1e-4289-b2a4-0314858a9346",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Etmadpur",
+                    "localname": "Nagar Palika Etmadpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

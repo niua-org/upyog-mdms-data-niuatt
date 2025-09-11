@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabilaspur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bilaspur",
+        "localname": "Nagar Palika Bilaspur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabilaspur",
+        "children": [
+          {
+            "id": "0672be9d-52c4-40dd-be5f-51a99293870d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "788752d6-58a6-4f99-9100-c3642aa71168",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b7d2dca7-fb82-45a9-9236-da4386feead7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bilaspur",
+                    "localname": "Nagar Palika Bilaspur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

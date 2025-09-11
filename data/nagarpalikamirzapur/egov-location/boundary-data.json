@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamirzapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Mirzapur",
+        "localname": "Nagar Palika Mirzapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamirzapur",
+        "children": [
+          {
+            "id": "75e0de44-7fdb-46a3-99ee-00a3f0ea252a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "010d6060-7953-4551-ac5a-8933d9a08c83",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5b034a9d-828e-4555-87c6-f3e27d06ceac",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Mirzapur",
+                    "localname": "Nagar Palika Mirzapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbewar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bewar",
+        "localname": "Nagar Panchayat Bewar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbewar",
+        "children": [
+          {
+            "id": "fad64944-08b9-4eea-bc9f-6507cd0fb359",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "25ee83e0-f612-406f-96b9-b2bb48d20891",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8d32f3ba-e129-4f97-ba39-2f50d26a9ec1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bewar",
+                    "localname": "Nagar Panchayat Bewar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamuradnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Muradnagar",
+        "localname": "Nagar Palika Muradnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamuradnagar",
+        "children": [
+          {
+            "id": "90c2c6b6-7682-4f29-8233-48a8566ee7ee",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d270853e-852b-4215-b85c-deabc36e882c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a886e43f-2387-48bc-b92a-ec9a7dcfe34c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Muradnagar",
+                    "localname": "Nagar Palika Muradnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

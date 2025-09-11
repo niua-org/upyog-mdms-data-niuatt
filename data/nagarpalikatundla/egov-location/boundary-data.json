@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikatundla",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Tundla",
+        "localname": "Nagar Palika Tundla",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikatundla",
+        "children": [
+          {
+            "id": "4e990d62-3b2c-445d-b645-c557d40582e7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2aba7f34-e90d-4aac-8941-243d018245ef",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "557199e8-15a8-4819-9719-2d51e1712a7e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Tundla",
+                    "localname": "Nagar Palika Tundla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

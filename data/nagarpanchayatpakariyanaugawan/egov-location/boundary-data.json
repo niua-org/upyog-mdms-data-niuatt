@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpakariyanaugawan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Pakariyanaugawan",
+        "localname": "Nagar Panchayat Pakariyanaugawan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpakariyanaugawan",
+        "children": [
+          {
+            "id": "ab0aeef5-d77b-4a7e-b665-f853aad5c1ee",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d88779ae-1729-4318-b584-1fbe0713f600",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1eb555bf-e87a-4598-807a-9b313c91f8a1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Pakariyanaugawan",
+                    "localname": "Nagar Panchayat Pakariyanaugawan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

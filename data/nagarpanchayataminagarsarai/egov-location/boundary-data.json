@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayataminagarsarai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Aminagarsarai",
+        "localname": "Nagar Panchayat Aminagarsarai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayataminagarsarai",
+        "children": [
+          {
+            "id": "53c7f463-dd06-4358-95d2-24629fbe55a3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0113a053-be7e-465b-af20-8d8a0c7a95d6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b3ed6fab-0136-4dc5-b2c9-7fc5943fbb4d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Aminagarsarai",
+                    "localname": "Nagar Panchayat Aminagarsarai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

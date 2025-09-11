@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbajna",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bajna",
+        "localname": "Nagar Panchayat Bajna",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbajna",
+        "children": [
+          {
+            "id": "997bf443-b879-4f4b-b243-2d585d8abd22",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7f6e8f59-f083-46f9-a384-3557e1061817",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b5d08711-ac61-49e6-9f37-b22465b73345",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bajna",
+                    "localname": "Nagar Panchayat Bajna",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

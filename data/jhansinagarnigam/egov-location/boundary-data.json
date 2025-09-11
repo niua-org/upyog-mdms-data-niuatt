@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.jhansinagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Jhansi Nagar Nigam",
+        "localname": "Jhansi Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.jhansinagarnigam",
+        "children": [
+          {
+            "id": "6fe4e152-97cc-45f4-a4a4-cd5c6f335d16",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c73a31f5-bb46-4fa0-a6ed-15c22c871217",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a96d2e60-b8ed-40cb-8fc7-488d02c69506",
+                    "boundaryNum": 1,
+                    "name": "Jhansi Nagar Nigam",
+                    "localname": "Jhansi Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnaraini",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Naraini",
+        "localname": "Nagar Panchayat Naraini",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnaraini",
+        "children": [
+          {
+            "id": "ef13f9ab-27af-4cfc-b503-33541c04db7b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "82f71832-3871-4e35-af68-82ca656379ff",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0c31f8e3-0e6d-47ab-9a56-4c97be48283e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Naraini",
+                    "localname": "Nagar Panchayat Naraini",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

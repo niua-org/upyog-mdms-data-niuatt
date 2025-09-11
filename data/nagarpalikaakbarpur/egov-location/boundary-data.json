@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaakbarpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Akbarpur",
+        "localname": "Nagar Palika Akbarpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaakbarpur",
+        "children": [
+          {
+            "id": "fd7495f9-f6ad-40c6-bfe1-bd12fde0d4e3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ba928445-0a00-47af-b538-3e5a55d16b1a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c8cf1dab-30a1-4fc1-820f-4951394ea30b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Akbarpur",
+                    "localname": "Nagar Palika Akbarpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamohammadi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Mohammadi",
+        "localname": "Nagar Palika Mohammadi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamohammadi",
+        "children": [
+          {
+            "id": "96b848b4-e5b7-44e1-8a0d-a7bf039b1837",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6221d71d-a8b9-4b0e-a9f6-0ebbcef1112b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d7f21cff-3995-4fa5-9bfc-68fe051cf4fc",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Mohammadi",
+                    "localname": "Nagar Palika Mohammadi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakaimganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Kaimganj",
+        "localname": "Nagar Palika Kaimganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakaimganj",
+        "children": [
+          {
+            "id": "231df692-ac09-44c4-9d41-72f049684423",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5ab5fb28-e3d0-4986-86c7-1aba4076c82f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4e3af491-456f-4452-99f6-277c44429356",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Kaimganj",
+                    "localname": "Nagar Palika Kaimganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

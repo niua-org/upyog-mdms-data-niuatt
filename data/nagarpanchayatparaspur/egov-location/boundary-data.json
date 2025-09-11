@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatparaspur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Paraspur",
+        "localname": "Nagar Panchayat Paraspur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatparaspur",
+        "children": [
+          {
+            "id": "2080eb94-e5a1-4148-b7fb-d0890ac01b3b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "584980c1-9244-439f-b33f-5761d0e9a3c9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7cd2ce95-0710-4556-bb3c-c384e9b03d67",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Paraspur",
+                    "localname": "Nagar Panchayat Paraspur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

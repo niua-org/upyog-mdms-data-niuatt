@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjyotikhuria",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jyotikhuria",
+        "localname": "Nagar Panchayat Jyotikhuria",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjyotikhuria",
+        "children": [
+          {
+            "id": "eb55c6c4-5f3a-41bf-a91f-bcc23331e444",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bd662aba-bbcc-4fad-a03b-98928cfaecd7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e1f02e54-15d3-4614-9dab-be3fc3cf00f1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jyotikhuria",
+                    "localname": "Nagar Panchayat Jyotikhuria",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

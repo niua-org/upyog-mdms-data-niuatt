@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakiratpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Kiratpur",
+        "localname": "Nagar Palika Kiratpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakiratpur",
+        "children": [
+          {
+            "id": "4a76bd9e-6f0c-4cb1-abc8-a331b7d53870",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cd4a8311-0238-423c-b4bf-23895651c35a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "55ad3eb0-3cc2-4960-8831-08222da91532",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Kiratpur",
+                    "localname": "Nagar Palika Kiratpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

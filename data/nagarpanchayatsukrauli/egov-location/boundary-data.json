@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsukrauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sukrauli",
+        "localname": "Nagar Panchayat Sukrauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsukrauli",
+        "children": [
+          {
+            "id": "7c881b3d-0e3b-4cb3-8865-f69f9b42cc3b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3cdbee2b-d158-4c26-90be-18b0eef7d962",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "741b8dd3-ef6a-4e71-b624-d5493285ccbe",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sukrauli",
+                    "localname": "Nagar Panchayat Sukrauli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

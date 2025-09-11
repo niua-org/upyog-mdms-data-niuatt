@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpipraich",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Pipraich",
+        "localname": "Nagar Panchayat Pipraich",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpipraich",
+        "children": [
+          {
+            "id": "32bbab94-1f2a-4ba5-8729-23ef5aa50e68",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5d2c5811-d9d2-45d0-862e-631c0641c5ec",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "63c537b2-4455-4c2f-bdff-f3c855bb4227",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Pipraich",
+                    "localname": "Nagar Panchayat Pipraich",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsatrikh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Satrikh",
+        "localname": "Nagar Panchayat Satrikh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsatrikh",
+        "children": [
+          {
+            "id": "e926313e-0b2c-4f05-a0ea-c230d4c30cde",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9bde1065-b0d7-418f-a3c8-3f23b88cd0f1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7bf43e2f-38bd-4e0d-a63d-b02ef3aa5c93",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Satrikh",
+                    "localname": "Nagar Panchayat Satrikh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

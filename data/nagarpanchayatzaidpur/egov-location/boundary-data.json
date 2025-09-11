@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatzaidpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Zaidpur",
+        "localname": "Nagar Panchayat Zaidpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatzaidpur",
+        "children": [
+          {
+            "id": "c9ca1833-dbb5-44f4-9a30-615224277bd4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "82259aaf-350c-45e5-afae-7d7724995fbd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "59b5c2b9-3244-422a-9e0e-46e0ba4d6dbb",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Zaidpur",
+                    "localname": "Nagar Panchayat Zaidpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

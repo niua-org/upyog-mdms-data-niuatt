@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikagursarai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Gursarai",
+        "localname": "Nagar Palika Gursarai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikagursarai",
+        "children": [
+          {
+            "id": "a4b4f01c-a08c-4dc3-9783-daff1cfa8a0f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "52b91572-4e86-49a7-b99b-a9430cdce722",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1ee28a69-c4e7-4c5f-9f55-28e3b7b5ffa0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Gursarai",
+                    "localname": "Nagar Palika Gursarai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

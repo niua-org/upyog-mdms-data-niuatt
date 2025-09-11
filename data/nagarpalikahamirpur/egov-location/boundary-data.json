@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikahamirpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Hamirpur",
+        "localname": "Nagar Palika Hamirpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikahamirpur",
+        "children": [
+          {
+            "id": "25ec2504-21d4-4e8c-848e-a37f5be9b648",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "db822a73-423e-4274-8023-ba326ad424e3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "195718d1-618c-4c4b-9332-07f9fe19915a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Hamirpur",
+                    "localname": "Nagar Palika Hamirpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

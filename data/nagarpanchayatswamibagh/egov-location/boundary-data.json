@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatswamibagh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Swamibagh",
+        "localname": "Nagar Panchayat Swamibagh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatswamibagh",
+        "children": [
+          {
+            "id": "d3740a09-400d-437f-9e2f-38031df55a3f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "005e20d3-b53f-41e6-878f-047f9add15ef",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7e900286-f415-4bad-a152-f0c8b4d76b57",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Swamibagh",
+                    "localname": "Nagar Panchayat Swamibagh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

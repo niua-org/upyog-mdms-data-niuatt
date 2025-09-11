@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpratapgarhcity",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Pratapgarhcity",
+        "localname": "Nagar Panchayat Pratapgarhcity",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpratapgarhcity",
+        "children": [
+          {
+            "id": "4efcaf37-d1b7-42bc-ae2a-bc591f23329e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "779b7669-77e6-4c5a-9907-a188a4256ad0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0cef5f24-f962-4749-ac2f-6052f99bdf5e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Pratapgarhcity",
+                    "localname": "Nagar Panchayat Pratapgarhcity",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

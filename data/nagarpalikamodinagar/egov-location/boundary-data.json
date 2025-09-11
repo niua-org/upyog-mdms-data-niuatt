@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamodinagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Modinagar",
+        "localname": "Nagar Palika Modinagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamodinagar",
+        "children": [
+          {
+            "id": "5a9e67b0-e64b-4f5b-ba75-573fb21781b4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c2407a32-bd63-4b76-ad29-86efca05ff7b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "cf74a488-aaa7-4cb9-990f-7f797c53ee52",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Modinagar",
+                    "localname": "Nagar Palika Modinagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

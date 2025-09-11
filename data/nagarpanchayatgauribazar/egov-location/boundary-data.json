@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgauribazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gauribazar",
+        "localname": "Nagar Panchayat Gauribazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgauribazar",
+        "children": [
+          {
+            "id": "dc00a76b-8b71-4ec4-b39e-22d9c24073d7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1630391a-1116-4b71-8d85-6ca7eb7778a4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7f7672e5-a005-4530-9efd-0695593cca4f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gauribazar",
+                    "localname": "Nagar Panchayat Gauribazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

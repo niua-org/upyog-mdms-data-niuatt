@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikajahangirabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Jahangirabad",
+        "localname": "Nagar Palika Jahangirabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikajahangirabad",
+        "children": [
+          {
+            "id": "7090f0de-6996-4845-aa5a-d33ba701bc28",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "299ba168-e885-409f-a4c7-1801ec457281",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "593166cd-a347-44f0-9e1d-d29d0f1af71e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Jahangirabad",
+                    "localname": "Nagar Palika Jahangirabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

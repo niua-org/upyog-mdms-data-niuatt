@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabhadohi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bhadohi",
+        "localname": "Nagar Palika Bhadohi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabhadohi",
+        "children": [
+          {
+            "id": "44f27ab7-9e1d-4e24-a014-d1e465ccbf38",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d3dd1bd9-4033-43c1-8c3e-c03fb586c37a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "78b65f58-dc66-499f-8283-18161a58b345",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bhadohi",
+                    "localname": "Nagar Palika Bhadohi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

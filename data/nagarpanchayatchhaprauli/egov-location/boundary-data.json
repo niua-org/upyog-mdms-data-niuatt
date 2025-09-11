@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchhaprauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chhaprauli",
+        "localname": "Nagar Panchayat Chhaprauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchhaprauli",
+        "children": [
+          {
+            "id": "b1a62368-a29f-4d08-b749-8b488f8ce273",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "37f52c9b-d8a5-45ac-92a8-d041457f10cf",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e67dd3b4-9113-4781-93e8-153f57954622",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chhaprauli",
+                    "localname": "Nagar Panchayat Chhaprauli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

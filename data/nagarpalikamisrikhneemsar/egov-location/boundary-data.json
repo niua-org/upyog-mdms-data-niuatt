@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamisrikhneemsar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Misrikhneemsar",
+        "localname": "Nagar Palika Misrikhneemsar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamisrikhneemsar",
+        "children": [
+          {
+            "id": "fc675b9e-0793-41c2-b135-3dc3f66cabe4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2dc380bb-e0fb-4bd1-ab6b-48f37b778c0a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "58086104-ccf9-4171-ae78-715becca2d8d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Misrikhneemsar",
+                    "localname": "Nagar Palika Misrikhneemsar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

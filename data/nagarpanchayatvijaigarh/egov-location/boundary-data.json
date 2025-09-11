@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatvijaigarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Vijaigarh",
+        "localname": "Nagar Panchayat Vijaigarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatvijaigarh",
+        "children": [
+          {
+            "id": "114457bd-9517-4274-8411-5103635e2ed1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d76f5fc8-4c11-4ce0-b866-24ed4b345b42",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f560cfab-6751-4cc1-b038-2f0e6438c9c4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Vijaigarh",
+                    "localname": "Nagar Panchayat Vijaigarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

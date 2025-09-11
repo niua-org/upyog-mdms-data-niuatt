@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikajhinjhak",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Jhinjhak",
+        "localname": "Nagar Palika Jhinjhak",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikajhinjhak",
+        "children": [
+          {
+            "id": "583b63dc-1ab5-4454-9bb9-570de98fd134",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1b694afc-f4de-4bf7-8967-cb85a23deab8",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8cb593f3-788a-4458-9083-cd8e815c10e8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Jhinjhak",
+                    "localname": "Nagar Palika Jhinjhak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

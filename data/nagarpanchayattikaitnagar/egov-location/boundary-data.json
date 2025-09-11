@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattikaitnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Tikaitnagar",
+        "localname": "Nagar Panchayat Tikaitnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattikaitnagar",
+        "children": [
+          {
+            "id": "ffdda04c-0a78-4d22-b79e-f3629550e68d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8c47eddb-7a11-487c-8bc6-57f9f61b6409",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "dab64c68-7460-4998-a269-8ab6921c32fd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Tikaitnagar",
+                    "localname": "Nagar Panchayat Tikaitnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

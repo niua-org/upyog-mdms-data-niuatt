@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatashrafpurkichhauchha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ashrafpurkichhauchha",
+        "localname": "Nagar Panchayat Ashrafpurkichhauchha",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatashrafpurkichhauchha",
+        "children": [
+          {
+            "id": "6154d78c-c7c9-4361-91a3-8a263e1d9895",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d0170ba3-00c2-4dee-b509-310d4f9ae7c1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "bcacff1a-10ae-49ce-b41a-f6d42236db3d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ashrafpurkichhauchha",
+                    "localname": "Nagar Panchayat Ashrafpurkichhauchha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

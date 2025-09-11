@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsadabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sadabad",
+        "localname": "Nagar Panchayat Sadabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsadabad",
+        "children": [
+          {
+            "id": "d696887f-16a4-4161-b6bb-e6a6285d3608",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f0448882-375a-41b9-963b-2c94e6639e4b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "14f755a7-2e11-414f-89cf-0899cbe064f4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sadabad",
+                    "localname": "Nagar Panchayat Sadabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

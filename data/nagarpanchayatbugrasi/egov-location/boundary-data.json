@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbugrasi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bugrasi",
+        "localname": "Nagar Panchayat Bugrasi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbugrasi",
+        "children": [
+          {
+            "id": "0da260ac-14f1-4100-a4ce-9a4da6354d02",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7c21f6fe-ebef-41c9-9766-6ccdc3577454",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "93ff2cf2-5073-4719-8ce1-630d7b5fa755",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bugrasi",
+                    "localname": "Nagar Panchayat Bugrasi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

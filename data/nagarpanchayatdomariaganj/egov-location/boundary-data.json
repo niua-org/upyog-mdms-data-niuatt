@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdomariaganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Domariaganj",
+        "localname": "Nagar Panchayat Domariaganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdomariaganj",
+        "children": [
+          {
+            "id": "f259b0b6-ae91-4d32-8e9a-4083065192d2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7f61e598-a443-4d5c-975b-8dc086b8a4a9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "60519423-84df-458f-b379-4f8d7ae45ba5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Domariaganj",
+                    "localname": "Nagar Panchayat Domariaganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

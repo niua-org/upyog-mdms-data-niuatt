@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsainthal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sainthal",
+        "localname": "Nagar Panchayat Sainthal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsainthal",
+        "children": [
+          {
+            "id": "2fe8ac08-6a50-4796-b50d-8ab5944f9f95",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "119a9a1d-0caa-49e2-99d4-9b73be963e2e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d433f807-b01b-4223-a1eb-fefc08f157cd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sainthal",
+                    "localname": "Nagar Panchayat Sainthal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

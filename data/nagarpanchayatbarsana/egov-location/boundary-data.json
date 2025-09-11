@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbarsana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Barsana",
+        "localname": "Nagar Panchayat Barsana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbarsana",
+        "children": [
+          {
+            "id": "80659ff4-3340-4cb9-87bb-ac3f71e96135",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5ae46690-2145-4e61-83d8-53c7d7c5edbb",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "afbcd432-6c6b-41ff-b78e-77e8b324424a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Barsana",
+                    "localname": "Nagar Panchayat Barsana",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaseohara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Seohara",
+        "localname": "Nagar Palika Seohara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaseohara",
+        "children": [
+          {
+            "id": "c5db3af6-3b05-4bad-8ee4-e6d28ea0f253",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "033cebc3-f1df-409c-97c2-b979d12d9219",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "62fcf6be-1ead-45c7-97a5-288ce829ee06",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Seohara",
+                    "localname": "Nagar Palika Seohara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchilkanasultanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chilkanasultanpur",
+        "localname": "Nagar Panchayat Chilkanasultanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchilkanasultanpur",
+        "children": [
+          {
+            "id": "2f5d04cf-d3d7-4f11-bef7-b37a57eaa7de",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2272098c-6aa0-4d64-a08a-92d88178d41e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ff3b636b-598e-459f-9378-dac1147fb202",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chilkanasultanpur",
+                    "localname": "Nagar Panchayat Chilkanasultanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

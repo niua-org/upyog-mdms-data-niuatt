@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatlambhua",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Lambhua",
+        "localname": "Nagar Panchayat Lambhua",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatlambhua",
+        "children": [
+          {
+            "id": "2cc72b7e-0bd5-4234-b7ef-50d552532d9a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "06bb70b6-a27e-442d-8ba6-e8b9d222ec9a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8d738cc5-a55d-4770-98e2-fbba7815510f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Lambhua",
+                    "localname": "Nagar Panchayat Lambhua",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatauras",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Auras",
+        "localname": "Nagar Panchayat Auras",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatauras",
+        "children": [
+          {
+            "id": "08ac3861-0e62-4c4c-ba75-c395ca369076",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f52b0808-8828-4929-8dd5-4b4113f8c0b2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "16eadbf3-ed03-42ef-a60e-c2204ad7d010",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Auras",
+                    "localname": "Nagar Panchayat Auras",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

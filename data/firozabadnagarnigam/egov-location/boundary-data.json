@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.firozabadnagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Firozabad Nagar Nigam",
+        "localname": "Firozabad Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.firozabadnagarnigam",
+        "children": [
+          {
+            "id": "a8731408-fbb1-433d-b15f-14676d21452a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cef0c631-516a-46b3-92ac-5e96b0d73e3a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6e0dcbd7-7e72-47fa-97cc-6cd6515e9c15",
+                    "boundaryNum": 1,
+                    "name": "Firozabad Nagar Nigam",
+                    "localname": "Firozabad Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

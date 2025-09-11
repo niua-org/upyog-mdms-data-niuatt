@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdhakwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dhakwa",
+        "localname": "Nagar Panchayat Dhakwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdhakwa",
+        "children": [
+          {
+            "id": "b9caf09c-5b62-4b5b-b547-306e1191bf7e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a91d9925-4c31-45ea-a9cb-bc2392fa25b5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "db76c7a9-343b-40e1-be5e-056e62db964c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dhakwa",
+                    "localname": "Nagar Panchayat Dhakwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

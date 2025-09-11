@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikashamsabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Shamsabad",
+        "localname": "Nagar Palika Shamsabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikashamsabad",
+        "children": [
+          {
+            "id": "b74a24b0-3dc7-4475-9330-bdbc24130c54",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9e1d87d3-8227-404a-8937-e216944a3a84",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f62d7f81-7693-472a-8a4a-79ffda654bf4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Shamsabad",
+                    "localname": "Nagar Palika Shamsabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

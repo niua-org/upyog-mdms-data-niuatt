@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsaraiaquil",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Saraiaquil",
+        "localname": "Nagar Panchayat Saraiaquil",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsaraiaquil",
+        "children": [
+          {
+            "id": "52dd3207-2fdc-48dd-8f3f-ae4c76956a72",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1a72db44-7d4a-4fc6-bcca-c6dd8d7323ec",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5d459ce0-7163-4911-b513-16781509f7cf",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Saraiaquil",
+                    "localname": "Nagar Panchayat Saraiaquil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

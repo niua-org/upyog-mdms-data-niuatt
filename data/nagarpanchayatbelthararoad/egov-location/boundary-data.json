@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbelthararoad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Belthararoad",
+        "localname": "Nagar Panchayat Belthararoad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbelthararoad",
+        "children": [
+          {
+            "id": "ba9b1968-a578-488f-bdbc-7762067349f7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f7b72bb9-81c3-438a-9424-9a3aaed22aa2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1994a494-f0b7-47b7-935b-f0c07b627d80",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Belthararoad",
+                    "localname": "Nagar Panchayat Belthararoad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

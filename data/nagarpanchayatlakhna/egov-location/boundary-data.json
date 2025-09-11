@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatlakhna",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Lakhna",
+        "localname": "Nagar Panchayat Lakhna",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatlakhna",
+        "children": [
+          {
+            "id": "1b23456f-d414-425d-938d-37877d48f6a7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "92adc16c-64b6-4783-b710-a254ec2650cd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ed3ab282-ab10-4f26-aa64-f234a61f45b3",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Lakhna",
+                    "localname": "Nagar Panchayat Lakhna",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

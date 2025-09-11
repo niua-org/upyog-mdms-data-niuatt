@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnyotini",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nyotini",
+        "localname": "Nagar Panchayat Nyotini",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnyotini",
+        "children": [
+          {
+            "id": "cabe5aed-20c3-49cb-88f6-afadf91ac5f2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "dc7cc5e1-8cc5-4e0e-bfc5-ad108299b58a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4281f69a-af3c-4b34-9ebe-e54d44d9c83a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nyotini",
+                    "localname": "Nagar Panchayat Nyotini",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

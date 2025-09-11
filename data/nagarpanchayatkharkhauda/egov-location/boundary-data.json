@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkharkhauda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kharkhauda",
+        "localname": "Nagar Panchayat Kharkhauda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkharkhauda",
+        "children": [
+          {
+            "id": "ca9b7d03-5e39-4bac-b166-16927b7b678e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4b23b08c-ff97-47bd-86c4-649620e6dc78",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f532b7b4-f38c-44a3-8a43-f1544f0b3eee",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kharkhauda",
+                    "localname": "Nagar Panchayat Kharkhauda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

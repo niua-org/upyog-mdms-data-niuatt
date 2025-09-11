@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmadhuban",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Madhuban",
+        "localname": "Nagar Panchayat Madhuban",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmadhuban",
+        "children": [
+          {
+            "id": "4692752f-bbef-4fbd-a01f-b3e82f63948e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "dd3ae23d-d5ca-43fb-93fb-b4fd21484324",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "05528d31-0b44-467b-84ea-ea2ee6c68727",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Madhuban",
+                    "localname": "Nagar Panchayat Madhuban",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

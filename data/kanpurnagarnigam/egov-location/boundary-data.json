@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.kanpurnagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Kanpur Nagar Nigam",
+        "localname": "Kanpur Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.kanpurnagarnigam",
+        "children": [
+          {
+            "id": "01d1c965-bda3-4b6c-a96d-ed1f7d8eac92",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e254159d-8758-4cff-b6a7-46d598f6c62d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f1336359-bf83-43b2-a93a-38fe5d9e36d1",
+                    "boundaryNum": 1,
+                    "name": "Kanpur Nagar Nigam",
+                    "localname": "Kanpur Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

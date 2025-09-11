@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabachhraon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bachhraon",
+        "localname": "Nagar Palika Bachhraon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabachhraon",
+        "children": [
+          {
+            "id": "3238259e-0589-426e-b39c-8af0e49e832b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a3084938-3c71-453e-bb5b-8ea01b5ad885",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "17831220-f031-404b-a22a-075512b1fb53",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bachhraon",
+                    "localname": "Nagar Palika Bachhraon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

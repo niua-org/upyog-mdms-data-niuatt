@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdoghat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Doghat",
+        "localname": "Nagar Panchayat Doghat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdoghat",
+        "children": [
+          {
+            "id": "b9ae8b42-801a-4691-83ba-ce082b88b6bc",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bc8fda65-a712-4f8f-8cd0-7404827d2248",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "81cf9b18-6b38-440a-9c39-8f0b41e1f65f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Doghat",
+                    "localname": "Nagar Panchayat Doghat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

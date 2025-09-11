@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdostpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dostpur",
+        "localname": "Nagar Panchayat Dostpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdostpur",
+        "children": [
+          {
+            "id": "f8e16c48-9bb1-49f6-8616-bd939119bf46",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b24a4960-cbab-4a73-83b4-cc34c8e701da",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "123e06d2-623c-4a9b-9bf8-db5ccaaaa42f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dostpur",
+                    "localname": "Nagar Panchayat Dostpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakandhla",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Kandhla",
+        "localname": "Nagar Palika Kandhla",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakandhla",
+        "children": [
+          {
+            "id": "67f0fe9d-974a-4deb-b32b-50f1b8890064",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3952fd70-4a6d-4cd0-8f64-795b8ee67fc4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c6372c76-17c5-4f95-bd35-c57d91c1c3ea",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Kandhla",
+                    "localname": "Nagar Palika Kandhla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

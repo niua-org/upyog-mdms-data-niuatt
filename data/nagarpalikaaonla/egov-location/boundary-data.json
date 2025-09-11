@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaaonla",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Aonla",
+        "localname": "Nagar Palika Aonla",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaaonla",
+        "children": [
+          {
+            "id": "62e6ae69-e76a-450b-bfad-6ea4af486526",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f82d3dff-07cb-4066-afc0-0c52dd5494e1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e9848f12-dc3c-4386-95bb-ab3f612e4264",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Aonla",
+                    "localname": "Nagar Palika Aonla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaachhnera",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Achhnera",
+        "localname": "Nagar Palika Achhnera",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaachhnera",
+        "children": [
+          {
+            "id": "8604f129-0772-4827-a534-58c5750332fe",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "600c3f3f-ce99-4b07-bdd7-b7e49a0505ff",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e5ae5121-fffa-4bcc-8f90-41c82514cc0b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Achhnera",
+                    "localname": "Nagar Palika Achhnera",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

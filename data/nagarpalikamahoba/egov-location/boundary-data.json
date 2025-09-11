@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamahoba",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Mahoba",
+        "localname": "Nagar Palika Mahoba",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamahoba",
+        "children": [
+          {
+            "id": "e2954852-33bd-425d-838d-67496eee05c0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d046e809-1732-4acc-9138-5ecb031403be",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "75ef0ee4-8e27-4af9-bb79-ca850f77d113",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Mahoba",
+                    "localname": "Nagar Palika Mahoba",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

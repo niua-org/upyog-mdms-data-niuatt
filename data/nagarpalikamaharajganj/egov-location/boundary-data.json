@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamaharajganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Maharajganj",
+        "localname": "Nagar Palika Maharajganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamaharajganj",
+        "children": [
+          {
+            "id": "78489edb-fb62-4391-bf06-1e0b31de7781",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "abb7125b-70b1-483c-8b71-6849f9e855d6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6be9aa7b-6182-4f41-88c8-3f2bcf15be9f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Maharajganj",
+                    "localname": "Nagar Palika Maharajganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

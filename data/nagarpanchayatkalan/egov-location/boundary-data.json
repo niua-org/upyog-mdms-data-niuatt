@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkalan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kalan",
+        "localname": "Nagar Panchayat Kalan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkalan",
+        "children": [
+          {
+            "id": "fae7e845-a72c-4d12-9b9b-20443d0bcd50",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1d26ee57-1945-4c3a-ae37-49622a7ebe9c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "51c496a6-c91d-4e8b-9d2a-545979459bcd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kalan",
+                    "localname": "Nagar Panchayat Kalan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

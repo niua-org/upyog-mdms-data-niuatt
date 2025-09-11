@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnanauta",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nanauta",
+        "localname": "Nagar Panchayat Nanauta",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnanauta",
+        "children": [
+          {
+            "id": "13f7bab5-f669-4644-8bbc-d3ac91f8e0a5",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bfaaeccd-1bd0-42b9-8338-edf92049838a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8568a96f-72bb-407b-b2a2-f864248e3c94",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nanauta",
+                    "localname": "Nagar Panchayat Nanauta",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

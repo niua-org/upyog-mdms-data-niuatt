@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgabhana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gabhana",
+        "localname": "Nagar Panchayat Gabhana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgabhana",
+        "children": [
+          {
+            "id": "45bacd70-faee-415d-bd1c-45243479af5d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e07c72a6-0d49-49b5-938b-681ce2004df6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "85fd10ee-5583-4e6f-a049-a47e53cc876a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gabhana",
+                    "localname": "Nagar Panchayat Gabhana",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

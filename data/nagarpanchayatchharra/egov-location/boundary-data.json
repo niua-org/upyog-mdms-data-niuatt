@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchharra",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chharra",
+        "localname": "Nagar Panchayat Chharra",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchharra",
+        "children": [
+          {
+            "id": "13ac748c-74d9-449c-ac45-0da1297d5b3f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6f7532ae-0618-43de-b55f-59c309d97a80",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8a490fb0-60e0-4cac-9b63-f6ec1b90f243",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chharra",
+                    "localname": "Nagar Panchayat Chharra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

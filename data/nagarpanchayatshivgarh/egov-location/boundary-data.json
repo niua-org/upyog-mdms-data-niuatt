@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatshivgarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Shivgarh",
+        "localname": "Nagar Panchayat Shivgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatshivgarh",
+        "children": [
+          {
+            "id": "944170ed-1aca-47b7-bdbb-8e4cf19cca04",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8f6bdacb-cfc3-4b21-97e0-494d37c488ac",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8487a7b9-cd33-45f4-9f0d-fa4e6f46dd60",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Shivgarh",
+                    "localname": "Nagar Panchayat Shivgarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

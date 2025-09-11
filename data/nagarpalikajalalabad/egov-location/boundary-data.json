@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikajalalabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Jalalabad",
+        "localname": "Nagar Palika Jalalabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikajalalabad",
+        "children": [
+          {
+            "id": "a21bc5e1-8e4b-49ae-be46-6bc8ff3e208d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "165cd581-5280-4549-bcfb-d873ff5364ef",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1082f69a-d0f9-4c27-a471-bccc92286b67",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Jalalabad",
+                    "localname": "Nagar Palika Jalalabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

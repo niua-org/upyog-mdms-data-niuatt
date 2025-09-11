@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbachhrawan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bachhrawan",
+        "localname": "Nagar Panchayat Bachhrawan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbachhrawan",
+        "children": [
+          {
+            "id": "f95cecbe-8a2b-4cf5-b031-474b0e0993bd",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "bc883ea6-a5d2-4e73-b8f5-9de1ca682064",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "bdc648e1-9b71-413a-970b-b483bb0cbfd2",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bachhrawan",
+                    "localname": "Nagar Panchayat Bachhrawan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

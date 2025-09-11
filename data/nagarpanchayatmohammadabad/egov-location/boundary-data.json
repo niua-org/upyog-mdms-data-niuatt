@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmohammadabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mohammadabad",
+        "localname": "Nagar Panchayat Mohammadabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmohammadabad",
+        "children": [
+          {
+            "id": "a63edb6e-cc10-45f3-9f10-387e58452a97",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2f4aa680-4dcf-4114-9077-f0e52930915a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8463073a-d4d3-4e0f-96e7-6ab55435bd6f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mohammadabad",
+                    "localname": "Nagar Panchayat Mohammadabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

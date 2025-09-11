@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbanat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Banat",
+        "localname": "Nagar Panchayat Banat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbanat",
+        "children": [
+          {
+            "id": "93627132-ec5e-461e-819a-5a6ecc294956",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a99946eb-d9aa-4d69-b6c0-ba6f666c29fc",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ade28ee8-5e69-4f5a-a026-27236507fd6a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Banat",
+                    "localname": "Nagar Panchayat Banat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

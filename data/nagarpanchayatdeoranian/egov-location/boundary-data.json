@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdeoranian",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Deoranian",
+        "localname": "Nagar Panchayat Deoranian",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdeoranian",
+        "children": [
+          {
+            "id": "ff392db7-291a-4374-b0da-d7b5d389a0b0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "da123460-f740-4ac6-818d-72df13a74d43",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c8b5ca9c-db40-4431-9f98-533e7ff87860",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Deoranian",
+                    "localname": "Nagar Panchayat Deoranian",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

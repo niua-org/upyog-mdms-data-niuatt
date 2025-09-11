@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkaiserganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kaiserganj",
+        "localname": "Nagar Panchayat Kaiserganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkaiserganj",
+        "children": [
+          {
+            "id": "d578782c-d823-4f49-9ef6-4ce757c8f4ef",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "769567fb-05ba-4855-a018-25d1d373f306",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4667cf6f-b8fc-4e26-9411-7f2fc281626b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kaiserganj",
+                    "localname": "Nagar Panchayat Kaiserganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

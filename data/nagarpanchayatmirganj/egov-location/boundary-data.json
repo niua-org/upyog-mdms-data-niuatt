@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmirganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mirganj",
+        "localname": "Nagar Panchayat Mirganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmirganj",
+        "children": [
+          {
+            "id": "1683e9b3-4abf-4d3c-8918-e3b51ccad248",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7baca04c-20f9-47f2-9bc5-c57ed5757b7b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8a6eef2e-017c-4f9c-9358-c9af8a8c37bf",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mirganj",
+                    "localname": "Nagar Panchayat Mirganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

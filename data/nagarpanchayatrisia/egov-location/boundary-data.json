@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrisia",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Risia",
+        "localname": "Nagar Panchayat Risia",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrisia",
+        "children": [
+          {
+            "id": "a1011dab-4fba-4e17-b9ab-463fc7a602e5",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e468f882-40b5-4455-b2e9-1afbd24cb24f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5af163d3-2cc4-401d-b3ae-13828d7b6959",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Risia",
+                    "localname": "Nagar Panchayat Risia",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

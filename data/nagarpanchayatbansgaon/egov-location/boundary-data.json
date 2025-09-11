@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbansgaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bansgaon",
+        "localname": "Nagar Panchayat Bansgaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbansgaon",
+        "children": [
+          {
+            "id": "7ad12b13-e008-42ab-9932-2cc22b4c838d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6941ccfc-3691-4e31-bbbf-22595f93799b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f8d04803-7c0e-4525-9ec6-da6f75adadc4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bansgaon",
+                    "localname": "Nagar Panchayat Bansgaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

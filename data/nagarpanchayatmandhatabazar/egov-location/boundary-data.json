@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmandhatabazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mandhatabazar",
+        "localname": "Nagar Panchayat Mandhatabazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmandhatabazar",
+        "children": [
+          {
+            "id": "6c110b7f-444f-4ba0-8053-af106da63f8e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e5317f7e-f210-4ea3-ace7-73c7d0376912",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "68358241-c782-4052-a645-c7b6e6192f2c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mandhatabazar",
+                    "localname": "Nagar Panchayat Mandhatabazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsiddhaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Siddhaur",
+        "localname": "Nagar Panchayat Siddhaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsiddhaur",
+        "children": [
+          {
+            "id": "f97647c6-201a-4d40-ad18-080b8ae8ebb2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "327761f8-2369-4042-b479-80421e4b7936",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7db2cdc3-5ce8-47da-a6ae-cf53244d2b3d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Siddhaur",
+                    "localname": "Nagar Panchayat Siddhaur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

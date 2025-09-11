@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasultanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Sultanpur",
+        "localname": "Nagar Palika Sultanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasultanpur",
+        "children": [
+          {
+            "id": "cb3c516e-d23e-44fd-9755-13535c012a27",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "757ff3c8-8696-41da-93fa-7e1522ce4c26",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "16b1b723-1c28-4bac-9ae1-412c23ac5c9e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Sultanpur",
+                    "localname": "Nagar Palika Sultanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

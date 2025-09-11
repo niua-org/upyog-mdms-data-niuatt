@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikalakhimpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Lakhimpur",
+        "localname": "Nagar Palika Lakhimpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikalakhimpur",
+        "children": [
+          {
+            "id": "68e756d8-bb03-4696-bf24-fb243d439370",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fccc5cfc-cde3-4a68-bfeb-03f13e72a041",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d33524b6-611b-4a64-9b7e-9ad94801b3a1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Lakhimpur",
+                    "localname": "Nagar Palika Lakhimpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

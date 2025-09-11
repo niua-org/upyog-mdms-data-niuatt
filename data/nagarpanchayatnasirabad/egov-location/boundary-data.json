@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnasirabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nasirabad",
+        "localname": "Nagar Panchayat Nasirabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnasirabad",
+        "children": [
+          {
+            "id": "6dc43041-b0cf-41e5-afdf-9c2efbdfa39b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "743f402d-d79d-4fd8-99f8-ece3466e46dd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2af4c0d0-7180-48d6-b6c7-c6c097605acd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nasirabad",
+                    "localname": "Nagar Panchayat Nasirabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

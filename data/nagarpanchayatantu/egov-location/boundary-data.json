@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatantu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Antu",
+        "localname": "Nagar Panchayat Antu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatantu",
+        "children": [
+          {
+            "id": "6799a161-e6e9-43bf-812c-3bf285612c0b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "31e7fa05-0905-46b7-862d-bfc6b95c543a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7acb4e73-b0a2-466f-a1fd-31dfa5946bb5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Antu",
+                    "localname": "Nagar Panchayat Antu",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

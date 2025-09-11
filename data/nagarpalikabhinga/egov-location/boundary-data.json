@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabhinga",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bhinga",
+        "localname": "Nagar Palika Bhinga",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabhinga",
+        "children": [
+          {
+            "id": "b8ec231e-82bc-4e59-a146-32fb50e778e4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8d5a35b1-cf54-44b5-8060-4ee86b50613e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e255bed8-e4d0-4127-af9b-beb04bab3fca",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bhinga",
+                    "localname": "Nagar Palika Bhinga",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

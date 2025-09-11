@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgarhipukhta",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Garhipukhta",
+        "localname": "Nagar Panchayat Garhipukhta",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgarhipukhta",
+        "children": [
+          {
+            "id": "3f423adc-fada-47a1-b1ea-346d86076cae",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b7921664-d681-4748-82d5-0f2b28577de3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b0642a39-2756-4d90-97ea-4317aaedd448",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Garhipukhta",
+                    "localname": "Nagar Panchayat Garhipukhta",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

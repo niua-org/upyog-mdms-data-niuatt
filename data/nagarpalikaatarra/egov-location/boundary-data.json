@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaatarra",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Atarra",
+        "localname": "Nagar Palika Atarra",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaatarra",
+        "children": [
+          {
+            "id": "fe8e2a42-83ef-4537-b768-1007c66d7d3f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1cb5c43d-b945-421a-876f-01bbea5c7c5b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "70153cbf-d15e-4a5a-83f7-1216eefc6b1f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Atarra",
+                    "localname": "Nagar Palika Atarra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

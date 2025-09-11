@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsahawar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sahawar",
+        "localname": "Nagar Panchayat Sahawar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsahawar",
+        "children": [
+          {
+            "id": "7066b459-4f48-453c-92ea-7b96d0d57b3a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6546bc7b-2151-4250-baf1-ce115f10953e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "424a9a09-1f5b-4d00-a0fd-e570cf196c1d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sahawar",
+                    "localname": "Nagar Panchayat Sahawar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

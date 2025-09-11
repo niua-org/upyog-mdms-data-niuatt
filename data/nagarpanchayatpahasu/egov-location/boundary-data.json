@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpahasu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Pahasu",
+        "localname": "Nagar Panchayat Pahasu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpahasu",
+        "children": [
+          {
+            "id": "e1b167f9-96c6-4437-a7b5-10c96b2f338f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3e9dbf05-9601-4226-bce4-d73f9c8639ed",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "bb07fbec-5ec6-433a-b5db-3520ab797bfc",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Pahasu",
+                    "localname": "Nagar Panchayat Pahasu",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatfarah",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Farah",
+        "localname": "Nagar Panchayat Farah",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatfarah",
+        "children": [
+          {
+            "id": "e3c602f4-582f-4e0d-819f-6a3ede47f478",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "40877d03-8b13-46c4-927e-a0dcdbfec77e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "715f55cb-5862-4346-8b25-42b2f38d1a26",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Farah",
+                    "localname": "Nagar Panchayat Farah",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

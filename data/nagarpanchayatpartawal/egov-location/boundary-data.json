@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpartawal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Partawal",
+        "localname": "Nagar Panchayat Partawal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpartawal",
+        "children": [
+          {
+            "id": "74061c37-378d-4d32-8834-e91c0dab3f45",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d8d68353-28c7-4165-bded-d1a5955b7de4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2a1e9c29-5644-49c2-bdfa-eaed0130fd53",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Partawal",
+                    "localname": "Nagar Panchayat Partawal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

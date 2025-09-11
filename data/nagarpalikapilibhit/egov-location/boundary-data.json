@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikapilibhit",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Pilibhit",
+        "localname": "Nagar Palika Pilibhit",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikapilibhit",
+        "children": [
+          {
+            "id": "8dad290f-2dc3-4ac7-90fa-d319414379c9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c9eaaddd-c182-4c46-bcae-729e04363885",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4f752298-0ece-46cc-a5ec-c4665cf2acc1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Pilibhit",
+                    "localname": "Nagar Palika Pilibhit",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

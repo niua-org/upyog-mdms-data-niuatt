@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrania",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rania",
+        "localname": "Nagar Panchayat Rania",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrania",
+        "children": [
+          {
+            "id": "305b3b45-e562-4e65-b387-5afb587d08de",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e7827211-9e39-4b34-b02e-e3034e6090f9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "65411bdf-1d15-4be4-bfdd-5030760eee58",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rania",
+                    "localname": "Nagar Panchayat Rania",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

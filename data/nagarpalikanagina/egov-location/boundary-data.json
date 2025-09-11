@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikanagina",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Nagina",
+        "localname": "Nagar Palika Nagina",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikanagina",
+        "children": [
+          {
+            "id": "e1b9f3d7-7137-4cfd-8054-f9d179364a7f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8f80cb8b-0291-4757-a21b-91f3555250db",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c3902a95-b629-4c5f-b8c7-29c576f71065",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Nagina",
+                    "localname": "Nagar Palika Nagina",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

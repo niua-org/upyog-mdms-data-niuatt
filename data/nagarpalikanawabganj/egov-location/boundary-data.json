@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikanawabganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Nawabganj",
+        "localname": "Nagar Palika Nawabganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikanawabganj",
+        "children": [
+          {
+            "id": "a57df225-d8c0-4fa4-9b01-9ff5e1f82fc6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "52ba05f4-a809-4e61-878e-d5eae85b7f83",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "95066a67-0d0b-4aa8-bae0-5cdc63c2f44d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Nawabganj",
+                    "localname": "Nagar Palika Nawabganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

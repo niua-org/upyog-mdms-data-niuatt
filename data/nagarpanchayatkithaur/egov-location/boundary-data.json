@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkithaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kithaur",
+        "localname": "Nagar Panchayat Kithaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkithaur",
+        "children": [
+          {
+            "id": "0f98ca13-73bc-49d7-a55e-03fabbacaebd",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fc17c45a-0f3b-4ed4-a03b-3748512de600",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "bf34dcce-e362-4b99-aae2-1e6dd18ee4a2",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kithaur",
+                    "localname": "Nagar Panchayat Kithaur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

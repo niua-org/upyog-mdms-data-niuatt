@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsahpau",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sahpau",
+        "localname": "Nagar Panchayat Sahpau",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsahpau",
+        "children": [
+          {
+            "id": "b49dcafb-51fb-4a25-bc29-120aa9924335",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e249f459-9c24-4ccd-8826-b2fadcf064d3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "abb134ec-d448-48dd-86dd-71be0d1937c9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sahpau",
+                    "localname": "Nagar Panchayat Sahpau",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

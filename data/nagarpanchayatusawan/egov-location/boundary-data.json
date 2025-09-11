@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatusawan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Usawan",
+        "localname": "Nagar Panchayat Usawan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatusawan",
+        "children": [
+          {
+            "id": "91ef8c55-9dfa-40d8-9263-b03ff0e64142",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "da433894-e84b-4331-bf99-48e8c0094afc",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b40199f4-d78f-4c4d-84f8-50c91c5574b4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Usawan",
+                    "localname": "Nagar Panchayat Usawan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

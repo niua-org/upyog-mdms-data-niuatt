@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatramnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ramnagar",
+        "localname": "Nagar Panchayat Ramnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatramnagar",
+        "children": [
+          {
+            "id": "8000f6bc-55d5-440c-b360-245201ef3a54",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fc25ed9c-cde9-4ac5-b581-eeb8d79efff3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5c4a49b9-7a70-4295-93ef-84fc2bb92cde",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ramnagar",
+                    "localname": "Nagar Panchayat Ramnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

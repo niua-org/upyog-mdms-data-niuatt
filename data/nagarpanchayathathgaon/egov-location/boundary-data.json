@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayathathgaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Hathgaon",
+        "localname": "Nagar Panchayat Hathgaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayathathgaon",
+        "children": [
+          {
+            "id": "25c5a1d9-6643-4130-9696-523263fde6d2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cda0e966-47d8-47b6-999a-97bce57318de",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a408720e-d8d0-4140-a4e5-0ab887fa0797",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Hathgaon",
+                    "localname": "Nagar Panchayat Hathgaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

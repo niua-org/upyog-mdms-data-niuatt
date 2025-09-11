@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrajpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rajpur",
+        "localname": "Nagar Panchayat Rajpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrajpur",
+        "children": [
+          {
+            "id": "516ae131-54cc-46c6-b256-1a09219652c3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ff161e12-41d5-4a3f-b30d-9522335e79a2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b4d49e08-d260-4dee-adcf-24300920892c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rajpur",
+                    "localname": "Nagar Panchayat Rajpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbilram",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bilram",
+        "localname": "Nagar Panchayat Bilram",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbilram",
+        "children": [
+          {
+            "id": "def492fd-7ec0-443a-9a9b-2dbe78116c5a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8db9c281-02a6-49d2-80ab-244c1e2bd919",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "537ea2c7-550b-4321-8617-dfadf3b79796",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bilram",
+                    "localname": "Nagar Panchayat Bilram",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

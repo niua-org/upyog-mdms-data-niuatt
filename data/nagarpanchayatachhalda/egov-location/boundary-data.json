@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatachhalda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Achhalda",
+        "localname": "Nagar Panchayat Achhalda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatachhalda",
+        "children": [
+          {
+            "id": "ede3c94f-ac54-4b07-be15-84e54af4e9c4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c5797776-6e24-4268-85f3-0ff013a73f12",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "fc7908e9-b586-4483-add8-7e525d3837de",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Achhalda",
+                    "localname": "Nagar Panchayat Achhalda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

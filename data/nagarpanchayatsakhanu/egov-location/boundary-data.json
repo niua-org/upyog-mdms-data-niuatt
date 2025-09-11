@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsakhanu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sakhanu",
+        "localname": "Nagar Panchayat Sakhanu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsakhanu",
+        "children": [
+          {
+            "id": "282a1738-bd9f-4727-b620-5d9b781cdd2c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3451423f-3fc5-468c-a184-368c8c40100b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f10487ce-6d75-4202-add8-cdc44be0a589",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sakhanu",
+                    "localname": "Nagar Panchayat Sakhanu",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

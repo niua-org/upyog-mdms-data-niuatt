@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmehmoodpurmaafi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mehmoodpurmaafi",
+        "localname": "Nagar Panchayat Mehmoodpurmaafi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmehmoodpurmaafi",
+        "children": [
+          {
+            "id": "33e47ea9-cb60-4501-ae31-705c090f57f6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d27d84a3-e482-4c7d-b525-d3245ad15d13",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "115b0fca-7aef-4b5d-8afe-1a84bfda5e57",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mehmoodpurmaafi",
+                    "localname": "Nagar Panchayat Mehmoodpurmaafi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

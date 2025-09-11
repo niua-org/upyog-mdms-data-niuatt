@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakonch",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Konch",
+        "localname": "Nagar Palika Konch",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakonch",
+        "children": [
+          {
+            "id": "a068f526-c3db-4b65-a809-8906fdc7d3d5",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0b40e2dd-00f0-4f08-afca-6f0a47325b9a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "431e0b00-7b5f-4f78-b39c-bd0c1af09d55",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Konch",
+                    "localname": "Nagar Palika Konch",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

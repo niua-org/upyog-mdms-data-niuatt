@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatfatehpurchaurasi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Fatehpurchaurasi",
+        "localname": "Nagar Panchayat Fatehpurchaurasi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatfatehpurchaurasi",
+        "children": [
+          {
+            "id": "2ea132f6-9087-441e-ac57-40c4308ed82b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "86116e2c-62c0-4a52-af19-0a9845fb1185",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "77b37abb-7855-4e7f-a6df-29580104cab0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Fatehpurchaurasi",
+                    "localname": "Nagar Panchayat Fatehpurchaurasi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

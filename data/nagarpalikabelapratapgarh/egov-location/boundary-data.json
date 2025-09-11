@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabelapratapgarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Belapratapgarh",
+        "localname": "Nagar Palika Belapratapgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabelapratapgarh",
+        "children": [
+          {
+            "id": "d6c18a8f-b42e-4ec7-967a-16f82b2cac12",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0261f633-30c9-436e-be8c-30c995ddb1bf",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c2ac5a06-1b33-45a1-b5c9-fa613263ceaf",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Belapratapgarh",
+                    "localname": "Nagar Palika Belapratapgarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkauriaganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kauriaganj",
+        "localname": "Nagar Panchayat Kauriaganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkauriaganj",
+        "children": [
+          {
+            "id": "856fb711-4467-4388-9c4d-7f0d105947b7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e139d656-81c1-4ae7-9a04-c250c80aeca9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4b16b84f-ebf4-4e95-99da-6f819b9b37ff",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kauriaganj",
+                    "localname": "Nagar Panchayat Kauriaganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

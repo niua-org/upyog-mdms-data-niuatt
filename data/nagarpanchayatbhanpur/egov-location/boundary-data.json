@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbhanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bhanpur",
+        "localname": "Nagar Panchayat Bhanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbhanpur",
+        "children": [
+          {
+            "id": "264136ce-6cf5-4f9e-9b34-2ac4c7e4b3c7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f48b3d44-ad1e-43e6-aaca-213bb7f376ca",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "acf4af15-58fd-4e76-b73b-d72ab308fe4d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bhanpur",
+                    "localname": "Nagar Panchayat Bhanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

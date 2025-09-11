@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmohanlalganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mohanlalganj",
+        "localname": "Nagar Panchayat Mohanlalganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmohanlalganj",
+        "children": [
+          {
+            "id": "d75f0647-6b05-4dc3-8d2d-7083a71e1ff9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "49c2b0eb-6652-4331-8572-ee170c5a74bb",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "509ca350-4a59-4360-b4aa-791fecb04647",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mohanlalganj",
+                    "localname": "Nagar Panchayat Mohanlalganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsubeha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Subeha",
+        "localname": "Nagar Panchayat Subeha",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsubeha",
+        "children": [
+          {
+            "id": "ddea2d35-0b46-4469-aa85-028823fb6508",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b0efc980-9925-4e21-942b-b81a592e69c2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d946ec73-b870-41dc-81b5-d4ad5f87be44",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Subeha",
+                    "localname": "Nagar Panchayat Subeha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

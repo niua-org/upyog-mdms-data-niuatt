@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattatiri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Tatiri",
+        "localname": "Nagar Panchayat Tatiri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattatiri",
+        "children": [
+          {
+            "id": "1551a903-207a-41fb-9e45-b32d6d52d3f1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f5c53a43-493b-4e3c-9c5a-fe0eba7b37ee",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "9112f1ca-d540-4a1f-a2b7-b54bc28b637a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Tatiri",
+                    "localname": "Nagar Panchayat Tatiri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

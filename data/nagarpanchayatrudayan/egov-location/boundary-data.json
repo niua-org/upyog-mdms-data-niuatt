@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrudayan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rudayan",
+        "localname": "Nagar Panchayat Rudayan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrudayan",
+        "children": [
+          {
+            "id": "31989545-e895-417f-9172-f8bd7d52c6f9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "dc8bfaec-673f-4259-a1a7-4b366ac7cbbd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "843da225-6a20-49c3-959a-6eb31efd2401",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rudayan",
+                    "localname": "Nagar Panchayat Rudayan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

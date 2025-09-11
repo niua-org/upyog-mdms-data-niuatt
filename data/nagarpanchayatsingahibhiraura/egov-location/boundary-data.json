@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsingahibhiraura",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Singahibhiraura",
+        "localname": "Nagar Panchayat Singahibhiraura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsingahibhiraura",
+        "children": [
+          {
+            "id": "5557aa93-2671-42cb-b64d-074e38b40426",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0a7d1891-eaae-4460-8443-87ad44e75e6f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d1c27eb3-6e6b-4d2d-b74c-fe0ae1a712d0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Singahibhiraura",
+                    "localname": "Nagar Panchayat Singahibhiraura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

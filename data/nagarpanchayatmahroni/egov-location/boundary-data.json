@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmahroni",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mahroni",
+        "localname": "Nagar Panchayat Mahroni",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmahroni",
+        "children": [
+          {
+            "id": "1da4923b-2eb1-4de8-a0c3-bfa9347d4f54",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f89f684f-270f-4f42-a603-66fd278d03a3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1e0991fe-f59b-450b-b173-d8c9bfe7f6c4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mahroni",
+                    "localname": "Nagar Panchayat Mahroni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

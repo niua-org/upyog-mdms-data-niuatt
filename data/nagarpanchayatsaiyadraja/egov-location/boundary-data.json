@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsaiyadraja",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Saiyadraja",
+        "localname": "Nagar Panchayat Saiyadraja",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsaiyadraja",
+        "children": [
+          {
+            "id": "74e359c0-3263-4c39-9b3d-f55a1e37d5eb",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6d334cb5-f0b7-475d-b7ac-7958d4c9ac39",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f9120468-2f65-4460-bce4-86f66ceb5be5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Saiyadraja",
+                    "localname": "Nagar Panchayat Saiyadraja",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

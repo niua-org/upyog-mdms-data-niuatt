@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnadigaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nadigaon",
+        "localname": "Nagar Panchayat Nadigaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnadigaon",
+        "children": [
+          {
+            "id": "905c2a66-f435-42d8-87c2-31fc64848845",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "21a44cc8-8e98-4f39-be8b-637167843ffc",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4aca1348-6f58-49d9-a75f-32a73d85b967",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nadigaon",
+                    "localname": "Nagar Panchayat Nadigaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

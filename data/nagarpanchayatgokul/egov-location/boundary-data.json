@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgokul",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gokul",
+        "localname": "Nagar Panchayat Gokul",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgokul",
+        "children": [
+          {
+            "id": "17fe41c7-e239-4422-897c-5c4d4a3dc226",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "256d0587-2cc6-43d0-8849-a5090af84cc2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a6e550eb-1f0c-4c66-aa7a-2c33019c6817",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gokul",
+                    "localname": "Nagar Panchayat Gokul",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatghosi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ghosi",
+        "localname": "Nagar Panchayat Ghosi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatghosi",
+        "children": [
+          {
+            "id": "5a0a16e1-d027-4f4a-9254-229309e3fd6e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "75e584ab-25e9-4306-8ae8-49caacb45874",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e8a774c0-1ca4-4b6d-99f2-f9b3172585c9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ghosi",
+                    "localname": "Nagar Panchayat Ghosi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

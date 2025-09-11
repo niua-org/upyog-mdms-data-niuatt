@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsarila",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sarila",
+        "localname": "Nagar Panchayat Sarila",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsarila",
+        "children": [
+          {
+            "id": "7ba22829-88b3-4322-9178-021d6d6ad539",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "61c6bc82-b2d6-4698-b3a5-e7d54af3c2db",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d11f75e5-fd29-4e7c-9c46-a73dfc292b0d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sarila",
+                    "localname": "Nagar Panchayat Sarila",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

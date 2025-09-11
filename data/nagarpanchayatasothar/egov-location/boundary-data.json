@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatasothar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Asothar",
+        "localname": "Nagar Panchayat Asothar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatasothar",
+        "children": [
+          {
+            "id": "d7fe7468-51b0-448a-8fc5-a477676bc8e8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "92b3f0f4-625a-4c50-99bb-29b2e9b23ba8",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "cb53d712-e97d-498c-9d9e-e49d67867572",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Asothar",
+                    "localname": "Nagar Panchayat Asothar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbabhnanbazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Babhnanbazar",
+        "localname": "Nagar Panchayat Babhnanbazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbabhnanbazar",
+        "children": [
+          {
+            "id": "53eba99e-0f7c-4cdc-8ad8-4b5a2ca1d420",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5f060884-4cd3-4ff7-b16d-e89d7d6956f1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d94a6bea-965c-47b4-b459-cae9ddc04ba2",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Babhnanbazar",
+                    "localname": "Nagar Panchayat Babhnanbazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

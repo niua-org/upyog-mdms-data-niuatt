@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikadeoband",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Deoband",
+        "localname": "Nagar Palika Deoband",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikadeoband",
+        "children": [
+          {
+            "id": "ce6c50f2-d856-407d-8254-48d442bb9769",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "af0ec243-c715-4e2c-af0d-904e1c044a37",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "61ec6024-89d0-4708-8b10-ac2bfd0f1dda",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Deoband",
+                    "localname": "Nagar Palika Deoband",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

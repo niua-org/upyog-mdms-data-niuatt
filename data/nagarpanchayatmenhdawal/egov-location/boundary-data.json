@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmenhdawal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Menhdawal",
+        "localname": "Nagar Panchayat Menhdawal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmenhdawal",
+        "children": [
+          {
+            "id": "e00308c8-96d2-4044-bc4b-8be5dd18b6c8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ea52b422-59fd-4049-b1e5-c33cb52b23ea",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6a9f645b-dd07-417d-8098-264a94df60a6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Menhdawal",
+                    "localname": "Nagar Panchayat Menhdawal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

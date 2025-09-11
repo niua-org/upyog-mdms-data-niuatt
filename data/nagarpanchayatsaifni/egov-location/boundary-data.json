@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsaifni",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Saifni",
+        "localname": "Nagar Panchayat Saifni",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsaifni",
+        "children": [
+          {
+            "id": "261893bb-c074-44f6-b7fd-ba75cf6a6883",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "15b72f5e-8078-4648-93a3-6e462047cf25",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e672041e-92b9-4c55-8d84-778c21856c34",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Saifni",
+                    "localname": "Nagar Panchayat Saifni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

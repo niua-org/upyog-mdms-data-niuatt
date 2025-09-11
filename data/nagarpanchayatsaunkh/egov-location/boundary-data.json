@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsaunkh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Saunkh",
+        "localname": "Nagar Panchayat Saunkh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsaunkh",
+        "children": [
+          {
+            "id": "87091da0-da7a-467c-bcd9-ff25e3820812",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b32f9575-8dce-438f-8b74-892ee6ed2441",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6ca806ec-c7f6-4690-8f5f-d61b00c56080",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Saunkh",
+                    "localname": "Nagar Panchayat Saunkh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkuraoli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kuraoli",
+        "localname": "Nagar Panchayat Kuraoli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkuraoli",
+        "children": [
+          {
+            "id": "c6029509-4ff0-4c6b-b393-206508caa103",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "73d0862a-a613-47fd-830b-877c33b061b6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "38ad61d4-c0a3-467c-a150-8f6650da0f86",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kuraoli",
+                    "localname": "Nagar Panchayat Kuraoli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

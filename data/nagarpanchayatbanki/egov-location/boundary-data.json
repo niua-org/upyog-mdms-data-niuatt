@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbanki",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Banki",
+        "localname": "Nagar Panchayat Banki",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbanki",
+        "children": [
+          {
+            "id": "8860c62b-b417-438f-8256-95de7a6eb55f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f18c02f8-4452-405f-972d-5ea13dbb5f32",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a5e0d22d-364c-4a91-aa87-6d5b6a754dce",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Banki",
+                    "localname": "Nagar Panchayat Banki",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

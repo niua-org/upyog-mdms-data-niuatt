@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkampil",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kampil",
+        "localname": "Nagar Panchayat Kampil",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkampil",
+        "children": [
+          {
+            "id": "2b6dc1e5-d0a7-4480-80dd-765d38e9b8ee",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "91069a81-48bb-4dae-b72c-164848d4b28c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "39fddb8a-27e0-4c7f-a932-a8b8838f58bf",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kampil",
+                    "localname": "Nagar Panchayat Kampil",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

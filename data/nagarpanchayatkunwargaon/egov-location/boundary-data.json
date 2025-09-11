@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkunwargaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kunwargaon",
+        "localname": "Nagar Panchayat Kunwargaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkunwargaon",
+        "children": [
+          {
+            "id": "2363f58e-b6f1-43c3-9666-3ef0f00f8a15",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1cc61c5b-5d66-4746-b36e-e64dadbd4ab5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "143f0380-1686-4ecc-89cc-cb7e17447fa7",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kunwargaon",
+                    "localname": "Nagar Panchayat Kunwargaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

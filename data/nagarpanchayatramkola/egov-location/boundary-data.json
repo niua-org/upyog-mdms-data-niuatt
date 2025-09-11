@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatramkola",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ramkola",
+        "localname": "Nagar Panchayat Ramkola",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatramkola",
+        "children": [
+          {
+            "id": "2dc1647c-69bd-4ef9-8ae4-987690d67a30",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "76120dbb-7222-48b3-bc3a-60790904bb97",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "832c5501-8a8f-4b67-804d-9e6fe7c9b4ad",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ramkola",
+                    "localname": "Nagar Panchayat Ramkola",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikacolonelganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Colonelganj",
+        "localname": "Nagar Palika Colonelganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikacolonelganj",
+        "children": [
+          {
+            "id": "e85d426d-1b9b-4d26-b2fa-e5221c5e29cc",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "834b95ea-01c9-45f5-9f65-69d7b7bc4eae",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8458e61c-8c88-4267-a57a-8d3b345ecc4b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Colonelganj",
+                    "localname": "Nagar Palika Colonelganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

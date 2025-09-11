@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbeniganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Beniganj",
+        "localname": "Nagar Panchayat Beniganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbeniganj",
+        "children": [
+          {
+            "id": "ca82239a-7603-4036-bf3b-1198b594869f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "233f2150-3f78-4b2f-bb23-612c9ddcf85b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c0758f53-0e22-4cd3-8c49-ccf00d94fce4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Beniganj",
+                    "localname": "Nagar Panchayat Beniganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

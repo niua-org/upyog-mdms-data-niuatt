@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjhinjhana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jhinjhana",
+        "localname": "Nagar Panchayat Jhinjhana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjhinjhana",
+        "children": [
+          {
+            "id": "cd79ff13-0afa-4e2c-922d-9f15ab46ebf3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d7d22631-308d-41e9-bda3-55411258b878",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "389db334-1fcb-4572-a48a-63d9b6b4bfcc",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jhinjhana",
+                    "localname": "Nagar Panchayat Jhinjhana",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

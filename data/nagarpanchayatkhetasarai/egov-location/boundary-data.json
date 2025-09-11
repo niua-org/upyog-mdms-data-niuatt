@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkhetasarai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Khetasarai",
+        "localname": "Nagar Panchayat Khetasarai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkhetasarai",
+        "children": [
+          {
+            "id": "e80a8048-5932-4edf-933a-8bbf1fea1baa",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6b70154a-1e09-4bfc-af52-b90c7665e893",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "263f924d-5557-4630-87f6-91b8f35444ab",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Khetasarai",
+                    "localname": "Nagar Panchayat Khetasarai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

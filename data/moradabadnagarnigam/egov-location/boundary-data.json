@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.moradabadnagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Moradabad Nagar Nigam",
+        "localname": "Moradabad Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.moradabadnagarnigam",
+        "children": [
+          {
+            "id": "9a64e05e-0970-4bab-813b-582f14e167e5",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a14d5b7b-997e-4ec5-9918-317916e57bf0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4593b95e-b258-4f28-871b-6cdb1ea2d183",
+                    "boundaryNum": 1,
+                    "name": "Moradabad Nagar Nigam",
+                    "localname": "Moradabad Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

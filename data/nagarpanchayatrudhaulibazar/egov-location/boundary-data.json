@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrudhaulibazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rudhaulibazar",
+        "localname": "Nagar Panchayat Rudhaulibazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrudhaulibazar",
+        "children": [
+          {
+            "id": "1a937886-7d8c-4654-bace-944a71b54632",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f1a9f832-48a9-4093-900c-5b0a1554e16b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f8660eda-9dbd-48f3-bb57-b6229ce4468e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rudhaulibazar",
+                    "localname": "Nagar Panchayat Rudhaulibazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

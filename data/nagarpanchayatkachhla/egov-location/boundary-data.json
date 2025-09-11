@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkachhla",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kachhla",
+        "localname": "Nagar Panchayat Kachhla",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkachhla",
+        "children": [
+          {
+            "id": "441499c3-0d52-4f50-bd4c-02ae64cca91c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8284fd5a-dd83-4f1d-aba6-79a82408dcd5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a15d4f7f-d674-4c57-aeb2-9cb4a4473931",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kachhla",
+                    "localname": "Nagar Panchayat Kachhla",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

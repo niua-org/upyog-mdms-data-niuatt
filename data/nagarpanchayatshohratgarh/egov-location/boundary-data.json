@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatshohratgarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Shohratgarh",
+        "localname": "Nagar Panchayat Shohratgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatshohratgarh",
+        "children": [
+          {
+            "id": "5ea903c3-f6d8-47e5-b4b9-7dbc569f9016",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8d146c63-fca1-4017-9794-b9b4dd9b3249",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f56f4754-58f8-43ec-a99d-aa385a52924e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Shohratgarh",
+                    "localname": "Nagar Panchayat Shohratgarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

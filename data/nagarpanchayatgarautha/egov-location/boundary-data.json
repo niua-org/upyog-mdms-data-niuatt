@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgarautha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Garautha",
+        "localname": "Nagar Panchayat Garautha",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgarautha",
+        "children": [
+          {
+            "id": "0d0140c5-81c1-4bc3-a9e9-81c73297b5ec",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3460df82-005f-4671-acf8-dee1b84ecc7c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "98a817f4-96f2-4536-b029-8ba568d0f0ea",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Garautha",
+                    "localname": "Nagar Panchayat Garautha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

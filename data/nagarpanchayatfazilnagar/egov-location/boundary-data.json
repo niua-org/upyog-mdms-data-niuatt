@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatfazilnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Fazilnagar",
+        "localname": "Nagar Panchayat Fazilnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatfazilnagar",
+        "children": [
+          {
+            "id": "8dc050bd-2340-4eaa-83e9-4179c80d860b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "02dc8e73-8609-4cbf-be9e-2df7fad212b3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "81d1bbe0-745c-490b-9c9c-a451fa1925b1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Fazilnagar",
+                    "localname": "Nagar Panchayat Fazilnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

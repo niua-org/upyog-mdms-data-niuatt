@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchaumuhan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chaumuhan",
+        "localname": "Nagar Panchayat Chaumuhan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchaumuhan",
+        "children": [
+          {
+            "id": "232257aa-382c-44ee-9ef9-635c0f2db7e8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "aae6eb05-e22c-41ac-9af8-e11b342c5e9c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d3758b4f-e178-42c6-a156-574da796e5e8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chaumuhan",
+                    "localname": "Nagar Panchayat Chaumuhan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

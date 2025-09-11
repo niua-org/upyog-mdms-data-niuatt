@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatshishgarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Shishgarh",
+        "localname": "Nagar Panchayat Shishgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatshishgarh",
+        "children": [
+          {
+            "id": "a19e6651-7f2c-4663-a9b9-d20e4c78f121",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d1ed3900-7a39-463c-a6b0-74ecf5b884ae",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c27ccb4d-81e1-4524-af06-b8a72cb7a8ba",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Shishgarh",
+                    "localname": "Nagar Panchayat Shishgarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

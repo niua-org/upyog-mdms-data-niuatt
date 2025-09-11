@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatthanabhawan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Thanabhawan",
+        "localname": "Nagar Panchayat Thanabhawan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatthanabhawan",
+        "children": [
+          {
+            "id": "2316d916-c142-414a-b590-2cc3b8efaa02",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cc5be96f-5d12-4a39-ac87-a017f3130d88",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "993b00d1-e432-4cdf-9892-60ef7acc995a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Thanabhawan",
+                    "localname": "Nagar Panchayat Thanabhawan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

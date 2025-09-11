@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikafatehpursikri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Fatehpursikri",
+        "localname": "Nagar Palika Fatehpursikri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikafatehpursikri",
+        "children": [
+          {
+            "id": "c3c16440-5eab-4ab6-af61-44fa3ebf2b5e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4745fb38-bd51-45ee-a6df-62cffa4f465d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f7a22c5f-a8c0-4b4e-98d2-c37aafc9818b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Fatehpursikri",
+                    "localname": "Nagar Palika Fatehpursikri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

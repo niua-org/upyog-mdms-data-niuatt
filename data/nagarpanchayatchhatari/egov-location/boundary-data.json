@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchhatari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chhatari",
+        "localname": "Nagar Panchayat Chhatari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchhatari",
+        "children": [
+          {
+            "id": "9c1f6d32-fa97-4e86-ac4a-68f677047108",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1defb80b-a94f-498a-9b80-18b9ef91fe25",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "be4a229f-2a63-4c85-aab4-d7c83ad1b550",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chhatari",
+                    "localname": "Nagar Panchayat Chhatari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

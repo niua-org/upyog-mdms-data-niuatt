@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamuzaffarnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Muzaffarnagar",
+        "localname": "Nagar Palika Muzaffarnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamuzaffarnagar",
+        "children": [
+          {
+            "id": "57b3045d-6f01-426c-b67e-3c5ea37d0475",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "953a3ffb-6b7d-4175-b10c-3bc70eb73949",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "809d3452-40d6-43b0-a55b-350263d55fd6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Muzaffarnagar",
+                    "localname": "Nagar Palika Muzaffarnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

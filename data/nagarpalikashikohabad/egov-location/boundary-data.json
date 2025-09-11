@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikashikohabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Shikohabad",
+        "localname": "Nagar Palika Shikohabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikashikohabad",
+        "children": [
+          {
+            "id": "342afec4-8327-46e8-9c54-2c980da8a92a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8750284c-f6df-4234-adcc-5f5a60d17c9b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "bbc48623-5a2a-4b8e-93e3-e1c2ec10eaad",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Shikohabad",
+                    "localname": "Nagar Palika Shikohabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

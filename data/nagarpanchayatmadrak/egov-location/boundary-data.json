@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmadrak",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Madrak",
+        "localname": "Nagar Panchayat Madrak",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmadrak",
+        "children": [
+          {
+            "id": "f9888c46-0b82-4f2c-91c3-d67d0376f2f2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "21463225-37b9-42fd-b5d8-0ff180702caa",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4ebf225d-7ab9-4b1c-89f8-24abb942226d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Madrak",
+                    "localname": "Nagar Panchayat Madrak",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbilsanda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bilsanda",
+        "localname": "Nagar Panchayat Bilsanda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbilsanda",
+        "children": [
+          {
+            "id": "bcf56325-0f7e-45a8-b2b6-b7f6bfbbb685",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "84dbb6f3-bd08-43d5-b331-0f4186cf3a29",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "11f955e9-9289-4ae3-8818-0f105f227a13",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bilsanda",
+                    "localname": "Nagar Panchayat Bilsanda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

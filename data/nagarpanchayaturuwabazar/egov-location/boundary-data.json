@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayaturuwabazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Uruwabazar",
+        "localname": "Nagar Panchayat Uruwabazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayaturuwabazar",
+        "children": [
+          {
+            "id": "1ca1122f-27c7-4b46-b44d-5360761fad49",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7921db4b-f2a5-4f14-91a8-ecffb0a75292",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "50a5eab0-8931-4bae-9091-73acb9a78930",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Uruwabazar",
+                    "localname": "Nagar Panchayat Uruwabazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

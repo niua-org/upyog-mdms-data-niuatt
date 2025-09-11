@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikakasganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Kasganj",
+        "localname": "Nagar Palika Kasganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikakasganj",
+        "children": [
+          {
+            "id": "b0c1217b-409b-4d9c-b9cf-2263ef69f8e0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ab5c7d1e-3335-4944-988f-93d063ad34f2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b69e6dab-8dfd-461f-be3c-d686fc057a41",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Kasganj",
+                    "localname": "Nagar Palika Kasganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

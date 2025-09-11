@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpatiyali",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Patiyali",
+        "localname": "Nagar Panchayat Patiyali",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpatiyali",
+        "children": [
+          {
+            "id": "daf8d7b8-d12f-43c1-9600-684ad962ef4a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8601a173-5108-465d-8102-4a4100e4dcc4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "98226489-f148-4d91-b4c1-5d691e406a08",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Patiyali",
+                    "localname": "Nagar Panchayat Patiyali",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

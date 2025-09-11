@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkatra",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Katra",
+        "localname": "Nagar Panchayat Katra",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkatra",
+        "children": [
+          {
+            "id": "553ad6ad-82c8-4120-a820-ff73b4dd0940",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4c730546-8e22-4246-9046-c0e5b258f630",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "01ea7965-d497-4d98-b6a7-e431215c8e01",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Katra",
+                    "localname": "Nagar Panchayat Katra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

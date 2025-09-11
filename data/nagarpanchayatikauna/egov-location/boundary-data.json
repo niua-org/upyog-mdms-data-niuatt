@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatikauna",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ikauna",
+        "localname": "Nagar Panchayat Ikauna",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatikauna",
+        "children": [
+          {
+            "id": "9733d523-acb1-4669-921e-39e896622b6a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "10b61d25-6027-408d-99ac-ef067a1ea478",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b32e35d7-6655-473f-95c6-f96faed494d4",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ikauna",
+                    "localname": "Nagar Panchayat Ikauna",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

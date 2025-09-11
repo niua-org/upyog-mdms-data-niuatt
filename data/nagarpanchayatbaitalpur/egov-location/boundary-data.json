@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbaitalpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Baitalpur",
+        "localname": "Nagar Panchayat Baitalpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbaitalpur",
+        "children": [
+          {
+            "id": "f80b7774-83e0-4692-99cc-193a21615c25",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6a667add-b6f3-4d9f-a930-9e9ca5839181",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e510f181-a70b-445a-a2ea-106970203a39",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Baitalpur",
+                    "localname": "Nagar Panchayat Baitalpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

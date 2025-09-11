@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabilgram",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bilgram",
+        "localname": "Nagar Palika Bilgram",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabilgram",
+        "children": [
+          {
+            "id": "d708180d-b94e-48ba-ab24-96bad1c545b1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7dd6fa20-5e3b-446a-97da-173dce34f57c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "68b2e483-3f68-499b-aee6-873eb2ce366c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bilgram",
+                    "localname": "Nagar Palika Bilgram",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

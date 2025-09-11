@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatfatehabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Fatehabad",
+        "localname": "Nagar Panchayat Fatehabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatfatehabad",
+        "children": [
+          {
+            "id": "9818298e-2a9e-4324-97c1-737222605b4a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3c4ad8ca-3a11-4b36-a11a-b85c3e89b7e0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "860ca492-88ed-4a50-a751-b8fa1b16d795",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Fatehabad",
+                    "localname": "Nagar Panchayat Fatehabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

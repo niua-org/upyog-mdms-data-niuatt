@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatunchahar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Unchahar",
+        "localname": "Nagar Panchayat Unchahar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatunchahar",
+        "children": [
+          {
+            "id": "3a1d5098-c0c8-4228-b3b5-b6a28688e595",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "458fa755-edfc-4ae4-982f-b3f31049aec6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "38d5dc1b-7d8b-4b36-9f25-3b222d0e2f38",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Unchahar",
+                    "localname": "Nagar Panchayat Unchahar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

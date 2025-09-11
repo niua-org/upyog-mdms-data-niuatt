@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatoeldhakwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Oeldhakwa",
+        "localname": "Nagar Panchayat Oeldhakwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatoeldhakwa",
+        "children": [
+          {
+            "id": "5ef1dd8b-6d7c-4172-bf68-a5d3a4f09db3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8afdeff4-0087-4608-bf28-3c5ac33f011c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e92b98b9-cbcf-4919-9b07-d4a39e3e939c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Oeldhakwa",
+                    "localname": "Nagar Panchayat Oeldhakwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

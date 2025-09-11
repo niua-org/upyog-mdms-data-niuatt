@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatamethi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Amethi",
+        "localname": "Nagar Panchayat Amethi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatamethi",
+        "children": [
+          {
+            "id": "dd811474-9295-4dea-b966-9dff2cfda693",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f7a33485-6206-4d1d-9dd1-09d40e8de4b1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a08d0123-4977-475d-94d0-9327cb0a1d50",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Amethi",
+                    "localname": "Nagar Panchayat Amethi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

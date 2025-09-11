@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikathakurdwara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Thakurdwara",
+        "localname": "Nagar Palika Thakurdwara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikathakurdwara",
+        "children": [
+          {
+            "id": "889d8c3c-6587-477f-8508-2c06981689a8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e15f1633-1afe-4be0-bf06-3fccfa69b36f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "9b88e712-12e7-45c0-9329-9c40e8021998",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Thakurdwara",
+                    "localname": "Nagar Palika Thakurdwara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

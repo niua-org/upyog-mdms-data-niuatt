@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatajhuwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ajhuwa",
+        "localname": "Nagar Panchayat Ajhuwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatajhuwa",
+        "children": [
+          {
+            "id": "2aeee044-2f36-49ce-aa1e-b0954bac0a5c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "65f34f4f-8b36-458d-bd52-f253a2263048",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "467bae49-95fd-45c5-b086-8f6d64c14059",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ajhuwa",
+                    "localname": "Nagar Panchayat Ajhuwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

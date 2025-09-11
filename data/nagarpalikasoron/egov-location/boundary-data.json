@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasoron",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Soron",
+        "localname": "Nagar Palika Soron",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasoron",
+        "children": [
+          {
+            "id": "a1b446aa-0f00-4cfb-b956-cc2183afb1c8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "39d9b0f4-3213-40c6-b8da-d1513788eed7",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "71082695-1d68-41a9-96f9-dacfcb510b5c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Soron",
+                    "localname": "Nagar Palika Soron",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

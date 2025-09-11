@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatgyanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Gyanpur",
+        "localname": "Nagar Panchayat Gyanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatgyanpur",
+        "children": [
+          {
+            "id": "e0022cbf-59b7-48da-ba6e-b53846783f4d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d6577907-d51b-4f63-9bf0-cecc6bc30268",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "15ad68a2-2a93-49c0-b386-916591836da0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Gyanpur",
+                    "localname": "Nagar Panchayat Gyanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

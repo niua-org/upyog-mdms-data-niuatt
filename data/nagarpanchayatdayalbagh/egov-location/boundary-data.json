@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdayalbagh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dayalbagh",
+        "localname": "Nagar Panchayat Dayalbagh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdayalbagh",
+        "children": [
+          {
+            "id": "77fbcfb2-ca55-4a9b-a77a-4b695455f579",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d264aedf-ece5-4dab-bcd7-73b16db26601",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a28587b9-e16d-4cdf-b525-5ff498e036f9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dayalbagh",
+                    "localname": "Nagar Panchayat Dayalbagh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

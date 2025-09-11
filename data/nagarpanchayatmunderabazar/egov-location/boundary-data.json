@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmunderabazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Munderabazar",
+        "localname": "Nagar Panchayat Munderabazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmunderabazar",
+        "children": [
+          {
+            "id": "d3443175-5c99-42bc-b761-795fb4c72fca",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "175c83f2-8183-4c89-a63c-3301359503d0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "56aa8ef1-5ed0-43a6-a1e2-6512c1507050",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Munderabazar",
+                    "localname": "Nagar Panchayat Munderabazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

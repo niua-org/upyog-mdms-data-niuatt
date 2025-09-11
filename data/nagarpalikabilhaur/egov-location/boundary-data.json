@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabilhaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Bilhaur",
+        "localname": "Nagar Palika Bilhaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabilhaur",
+        "children": [
+          {
+            "id": "93d6bee0-568b-4810-82f3-07be0409dc50",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3fc44a4a-185f-46d8-b7a4-5766add68028",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "70be5d60-6ce5-4c98-a60c-84882261332d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Bilhaur",
+                    "localname": "Nagar Palika Bilhaur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnigohi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nigohi",
+        "localname": "Nagar Panchayat Nigohi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnigohi",
+        "children": [
+          {
+            "id": "de911785-f683-454e-9054-8c9fd0cf5ec3",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a66de65a-4133-4dca-8163-3d8c56ddfafd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8b2e25ec-0c04-4c1f-8442-a34f245943db",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nigohi",
+                    "localname": "Nagar Panchayat Nigohi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

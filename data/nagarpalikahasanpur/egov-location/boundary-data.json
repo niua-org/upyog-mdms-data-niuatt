@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikahasanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Hasanpur",
+        "localname": "Nagar Palika Hasanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikahasanpur",
+        "children": [
+          {
+            "id": "20bcfb94-4acb-44f6-aa78-78851c8fcf02",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "74999875-b262-4719-a640-ee90c1b72221",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "698d4e1b-c4ea-4bdb-b183-9fe97cc91897",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Hasanpur",
+                    "localname": "Nagar Palika Hasanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

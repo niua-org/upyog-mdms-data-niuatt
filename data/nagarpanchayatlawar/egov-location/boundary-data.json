@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatlawar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Lawar",
+        "localname": "Nagar Panchayat Lawar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatlawar",
+        "children": [
+          {
+            "id": "a4b2cadc-52d4-4c09-b188-441ba1445016",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "04ebc8a6-9dc6-47da-bcc7-24229a86099c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a904d6d4-9c6c-4969-a05d-a747290e9b26",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Lawar",
+                    "localname": "Nagar Panchayat Lawar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

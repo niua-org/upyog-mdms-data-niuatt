@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasitapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Sitapur",
+        "localname": "Nagar Palika Sitapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasitapur",
+        "children": [
+          {
+            "id": "9b9077b2-5ea5-45da-be27-a8ceeb9c9510",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c6a3b300-36f0-4b64-ae0f-66f9330e5bd8",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "834d626d-7519-46a1-8df9-cd38ea518b7c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Sitapur",
+                    "localname": "Nagar Palika Sitapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

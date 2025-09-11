@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbairia",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bairia",
+        "localname": "Nagar Panchayat Bairia",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbairia",
+        "children": [
+          {
+            "id": "6a66b72f-0142-40e3-b213-581f11255273",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "09df2843-f7f7-440d-ad7d-202faaa7bb9b",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b0ffa57c-127e-45ab-b52d-137e4319c36e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bairia",
+                    "localname": "Nagar Panchayat Bairia",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

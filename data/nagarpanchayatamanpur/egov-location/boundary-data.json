@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatamanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Amanpur",
+        "localname": "Nagar Panchayat Amanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatamanpur",
+        "children": [
+          {
+            "id": "ab7fb13a-b4fc-4c74-b67b-f21cfe9cbdb4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ae079e93-d095-4978-b464-cd99dbc03b8e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "91ec8c3e-5837-41c1-9c5d-527af78da965",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Amanpur",
+                    "localname": "Nagar Panchayat Amanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

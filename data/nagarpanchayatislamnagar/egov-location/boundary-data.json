@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatislamnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Islamnagar",
+        "localname": "Nagar Panchayat Islamnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatislamnagar",
+        "children": [
+          {
+            "id": "6febfd52-6bcc-471d-b145-caabf0254bd4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3e0bd54a-42a5-49d1-9a6e-dd01a9e4ea0d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f75a0b11-9f7d-47ba-821e-d4d6769ca50e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Islamnagar",
+                    "localname": "Nagar Panchayat Islamnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

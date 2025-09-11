@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatreoti",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Reoti",
+        "localname": "Nagar Panchayat Reoti",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatreoti",
+        "children": [
+          {
+            "id": "74852545-e8dc-4271-af9f-fd4113db556a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6dd7f3fa-a795-4302-9574-b95699a21008",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4fa2bd91-ab0c-420e-994b-196b50a62d20",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Reoti",
+                    "localname": "Nagar Panchayat Reoti",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

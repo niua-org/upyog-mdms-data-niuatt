@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatshankargarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Shankargarh",
+        "localname": "Nagar Panchayat Shankargarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatshankargarh",
+        "children": [
+          {
+            "id": "19b1e49b-696a-4186-8283-749e5ff0e27c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a26a623e-98b5-430e-9193-561a8604c438",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5f89cfa0-aa61-4045-9e04-d8cecda5aace",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Shankargarh",
+                    "localname": "Nagar Panchayat Shankargarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

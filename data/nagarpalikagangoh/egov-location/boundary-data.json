@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikagangoh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Gangoh",
+        "localname": "Nagar Palika Gangoh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikagangoh",
+        "children": [
+          {
+            "id": "f9f19595-6576-4701-ac26-7f61ca6698a9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9046d35c-602b-44d0-aade-765b980a1c9a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "73193c15-0517-46fc-8b4c-01470163fe71",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Gangoh",
+                    "localname": "Nagar Palika Gangoh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

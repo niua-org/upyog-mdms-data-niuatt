@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatghorawal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ghorawal",
+        "localname": "Nagar Panchayat Ghorawal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatghorawal",
+        "children": [
+          {
+            "id": "d3d6a9ab-396c-4e68-be64-68267c6e4b5f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0fec3f0b-69a1-4093-ade6-4e2862a1ad17",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c6c0f4a1-b053-4d72-973e-c0190722d157",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ghorawal",
+                    "localname": "Nagar Panchayat Ghorawal",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

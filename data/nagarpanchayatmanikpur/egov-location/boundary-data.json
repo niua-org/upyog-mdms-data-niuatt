@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmanikpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Manikpur",
+        "localname": "Nagar Panchayat Manikpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmanikpur",
+        "children": [
+          {
+            "id": "1c8da9d4-28d8-4aca-8e6d-2e9cb9f116aa",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1313dc9d-9dd5-4ad9-b436-d365ebc2b7f9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "61ace1ea-6672-49ef-b507-9ecd0ccc8e60",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Manikpur",
+                    "localname": "Nagar Panchayat Manikpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

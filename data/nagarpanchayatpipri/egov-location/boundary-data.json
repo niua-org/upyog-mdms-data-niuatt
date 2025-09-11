@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpipri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Pipri",
+        "localname": "Nagar Panchayat Pipri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpipri",
+        "children": [
+          {
+            "id": "27ab2020-c49a-41d1-bd73-0bd8eadd9c3d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1845adcc-3991-4cf3-ac09-db81a597f2c9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b49a486b-8685-42c4-89f3-f5b3d0d3fefc",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Pipri",
+                    "localname": "Nagar Panchayat Pipri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

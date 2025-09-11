@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkatgharlalganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Katgharlalganj",
+        "localname": "Nagar Panchayat Katgharlalganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkatgharlalganj",
+        "children": [
+          {
+            "id": "231fdac1-1a9a-4cf3-afee-c4241c90d704",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1ecb202a-3c21-4a8a-9ca1-5384021f459c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "66dfaaaa-4424-4e37-9831-d640ba5aad66",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Katgharlalganj",
+                    "localname": "Nagar Panchayat Katgharlalganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

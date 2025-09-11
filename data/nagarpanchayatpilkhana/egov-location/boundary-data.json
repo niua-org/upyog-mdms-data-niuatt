@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpilkhana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Pilkhana",
+        "localname": "Nagar Panchayat Pilkhana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpilkhana",
+        "children": [
+          {
+            "id": "c1536f7e-b642-4036-8ef6-408e65363213",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6183757f-001e-4bf3-9d9f-2b072cece88a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "60890092-0a1c-4501-a399-d71af76c44fb",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Pilkhana",
+                    "localname": "Nagar Panchayat Pilkhana",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

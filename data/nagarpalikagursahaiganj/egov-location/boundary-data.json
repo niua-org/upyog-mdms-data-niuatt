@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikagursahaiganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Gursahaiganj",
+        "localname": "Nagar Palika Gursahaiganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikagursahaiganj",
+        "children": [
+          {
+            "id": "59005afb-3155-4815-8cb5-7c661c3a89f0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "945527f2-327a-4d91-8896-f3c85f8a78e0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "45c9fbce-b656-4425-9de5-8be9303b3d47",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Gursahaiganj",
+                    "localname": "Nagar Palika Gursahaiganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

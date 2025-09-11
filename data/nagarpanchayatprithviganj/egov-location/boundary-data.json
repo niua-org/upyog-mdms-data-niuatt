@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatprithviganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Prithviganj",
+        "localname": "Nagar Panchayat Prithviganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatprithviganj",
+        "children": [
+          {
+            "id": "57a061c8-9fd5-47ff-b83e-fcdf5c2ed827",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "622f6ae9-5b4a-41ec-bdda-597abb3bfd7e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "de3f2055-62ba-425f-bf39-abbfafebaede",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Prithviganj",
+                    "localname": "Nagar Panchayat Prithviganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

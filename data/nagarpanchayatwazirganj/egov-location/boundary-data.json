@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatwazirganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Wazirganj",
+        "localname": "Nagar Panchayat Wazirganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatwazirganj",
+        "children": [
+          {
+            "id": "8660453b-3d9c-462b-a799-9f0a43dd60ab",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "cafff709-3a30-46ff-9221-1c3f2b5c613f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b98481f9-8b20-4f9d-acaf-ccd25217e5d9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Wazirganj",
+                    "localname": "Nagar Panchayat Wazirganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

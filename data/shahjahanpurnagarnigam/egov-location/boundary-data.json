@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.shahjahanpurnagarnigam",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Shahjahanpur Nagar Nigam",
+        "localname": "Shahjahanpur Nagar Nigam",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.shahjahanpurnagarnigam",
+        "children": [
+          {
+            "id": "e56c5283-00e8-4f0f-aa92-31e7e0b4ca15",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7dbb4a93-132f-4440-a490-f83435b6a4e2",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6ec5dfb5-4e49-4fc2-980e-dfd040613c43",
+                    "boundaryNum": 1,
+                    "name": "Shahjahanpur Nagar Nigam",
+                    "localname": "Shahjahanpur Nagar Nigam",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

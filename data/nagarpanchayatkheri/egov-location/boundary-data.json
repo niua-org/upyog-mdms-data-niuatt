@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkheri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kheri",
+        "localname": "Nagar Panchayat Kheri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkheri",
+        "children": [
+          {
+            "id": "11364ad9-305e-43ca-bd51-70f6d8d755d9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c4ac9ad9-3ecc-499e-a242-a538785ad76f",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "09b1e4e5-360b-45c5-a274-6202b38ca513",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kheri",
+                    "localname": "Nagar Panchayat Kheri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

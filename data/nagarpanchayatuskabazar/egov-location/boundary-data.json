@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatuskabazar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Uskabazar",
+        "localname": "Nagar Panchayat Uskabazar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatuskabazar",
+        "children": [
+          {
+            "id": "2ecac3a1-4b7b-499c-96ac-da1db6f194f0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ef3c2f0f-e08a-48e5-a928-0e4ca6198aca",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3986bcdd-29fc-4150-b7cb-f281a0ad7cca",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Uskabazar",
+                    "localname": "Nagar Panchayat Uskabazar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

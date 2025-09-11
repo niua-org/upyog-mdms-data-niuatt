@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikajais",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Jais",
+        "localname": "Nagar Palika Jais",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikajais",
+        "children": [
+          {
+            "id": "56c35e20-6bcc-4840-a93f-02557c286411",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fe3cd013-2f8d-4c5f-a762-c98cfc15e7b3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "70c41bfb-c2f3-451d-9fea-8ad511148a67",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Jais",
+                    "localname": "Nagar Palika Jais",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikadhanaura",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Dhanaura",
+        "localname": "Nagar Palika Dhanaura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikadhanaura",
+        "children": [
+          {
+            "id": "776fdac6-f662-4801-92fc-f6c5e08f8818",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f965abaf-19cf-4c4c-9c63-14c044d84bd5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "92055cdb-50ab-4813-90e0-e8fdd411b936",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Dhanaura",
+                    "localname": "Nagar Palika Dhanaura",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

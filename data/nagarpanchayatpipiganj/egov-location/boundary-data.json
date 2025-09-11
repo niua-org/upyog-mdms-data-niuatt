@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpipiganj",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Pipiganj",
+        "localname": "Nagar Panchayat Pipiganj",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpipiganj",
+        "children": [
+          {
+            "id": "c049df27-5ae1-4399-bfe8-ba81664883a7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c5af876c-b586-46e7-a1d9-0c6ccdea36ae",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "98dd6109-67f8-4bd9-92ab-1b14ce766973",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Pipiganj",
+                    "localname": "Nagar Panchayat Pipiganj",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

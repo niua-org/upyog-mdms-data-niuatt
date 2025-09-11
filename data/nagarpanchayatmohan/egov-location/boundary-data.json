@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmohan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Mohan",
+        "localname": "Nagar Panchayat Mohan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmohan",
+        "children": [
+          {
+            "id": "cf739fea-ee8a-41ef-8cc0-d08acb26f48d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2982c453-716a-408d-a3c4-0c852535a602",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "30111b6a-f415-40ad-9206-7c21d5b685c6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Mohan",
+                    "localname": "Nagar Panchayat Mohan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

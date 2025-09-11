@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikagolagokarannath",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Golagokarannath",
+        "localname": "Nagar Palika Golagokarannath",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikagolagokarannath",
+        "children": [
+          {
+            "id": "57e3ccbb-b3fd-471f-ba00-2a2f47bc38de",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b983a382-e198-4295-9406-363ac3e4d65e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d721e9f4-f41c-48ad-8a30-0444f36c427d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Golagokarannath",
+                    "localname": "Nagar Palika Golagokarannath",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

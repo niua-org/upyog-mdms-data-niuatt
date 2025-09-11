@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikachirgaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Chirgaon",
+        "localname": "Nagar Palika Chirgaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikachirgaon",
+        "children": [
+          {
+            "id": "03b05673-9d47-49b6-abac-0b8533482e4b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "404841f3-7b22-4a77-ba09-89911750eb14",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "23d670b1-af16-4d7d-b948-d8e1ea1de858",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Chirgaon",
+                    "localname": "Nagar Palika Chirgaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

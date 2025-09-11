@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnandgaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nandgaon",
+        "localname": "Nagar Panchayat Nandgaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnandgaon",
+        "children": [
+          {
+            "id": "46ea68d1-1477-4e5d-87d4-58299af31dc0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0e7ee4d8-7c8a-402a-93d4-7ebed7589035",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "005dc0bb-8fa3-4327-9024-fc1f7dfd63d1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nandgaon",
+                    "localname": "Nagar Panchayat Nandgaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

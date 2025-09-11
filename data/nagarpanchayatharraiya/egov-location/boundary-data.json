@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatharraiya",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Harraiya",
+        "localname": "Nagar Panchayat Harraiya",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatharraiya",
+        "children": [
+          {
+            "id": "66ce69d1-76f6-454b-a063-2f0980942a70",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b8301e28-ffae-42d3-bbcf-c9dcc385e981",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4f8f1585-759d-428e-9c5c-7cf1b592a5ca",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Harraiya",
+                    "localname": "Nagar Panchayat Harraiya",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

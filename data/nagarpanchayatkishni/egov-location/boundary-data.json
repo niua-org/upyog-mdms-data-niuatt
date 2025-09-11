@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkishni",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kishni",
+        "localname": "Nagar Panchayat Kishni",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkishni",
+        "children": [
+          {
+            "id": "6cd74161-8cd9-4c09-bc91-d1c28a5da65f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7e369983-d84a-4f5e-801d-937abbc84856",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2330ae59-010a-4104-8e07-31e72f5cafdd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kishni",
+                    "localname": "Nagar Panchayat Kishni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

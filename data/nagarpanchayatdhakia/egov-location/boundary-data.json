@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdhakia",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dhakia",
+        "localname": "Nagar Panchayat Dhakia",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdhakia",
+        "children": [
+          {
+            "id": "8c6c7094-76a6-4b96-85d3-5a02a82181e4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "aa49122b-da08-4213-8758-f4eea361e030",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4587b893-b740-4367-8616-5a6ccd9561b8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dhakia",
+                    "localname": "Nagar Panchayat Dhakia",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

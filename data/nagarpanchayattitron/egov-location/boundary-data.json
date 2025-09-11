@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattitron",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Titron",
+        "localname": "Nagar Panchayat Titron",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattitron",
+        "children": [
+          {
+            "id": "2a4f0a95-cc2f-4935-b887-96f1c85b1ad4",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "484cca16-dcb4-4960-82e8-b1fe6c582074",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e84585b6-87b0-47b3-a2f7-6ab43142c538",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Titron",
+                    "localname": "Nagar Panchayat Titron",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatniwari",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Niwari",
+        "localname": "Nagar Panchayat Niwari",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatniwari",
+        "children": [
+          {
+            "id": "47cdae33-8a27-451b-83b2-d50aba2feeb2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "819331c5-8f6e-4ec6-b375-37b1dcbf4dea",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d5febb24-1d37-4596-91a3-21be9c83599e",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Niwari",
+                    "localname": "Nagar Panchayat Niwari",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

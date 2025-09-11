@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatfatehganjpurvi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Fatehganjpurvi",
+        "localname": "Nagar Panchayat Fatehganjpurvi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatfatehganjpurvi",
+        "children": [
+          {
+            "id": "7dd7d297-458b-45ee-b4dc-f95c88cf9965",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "88c79fde-9fbe-4090-9854-1c2ca0aa6d71",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7f8c0a38-e81b-4a71-8675-1cf811d1c01d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Fatehganjpurvi",
+                    "localname": "Nagar Panchayat Fatehganjpurvi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikafatehpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Fatehpur",
+        "localname": "Nagar Palika Fatehpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikafatehpur",
+        "children": [
+          {
+            "id": "855dcee0-3026-49dc-a9e8-77f0cd3d9d2a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "613a7a3d-20a3-406b-9f9a-98cd34d9cc24",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ee33d501-9437-4140-8665-c47c8a363cc9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Fatehpur",
+                    "localname": "Nagar Palika Fatehpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

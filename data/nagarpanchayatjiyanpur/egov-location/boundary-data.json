@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatjiyanpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Jiyanpur",
+        "localname": "Nagar Panchayat Jiyanpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatjiyanpur",
+        "children": [
+          {
+            "id": "716fe993-8bba-4737-b387-30ca4c605a82",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d8232ec4-5281-4293-8034-550d29879790",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "6f489fdc-8b87-43de-b158-05c9ca4f190f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Jiyanpur",
+                    "localname": "Nagar Panchayat Jiyanpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsirsi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sirsi",
+        "localname": "Nagar Panchayat Sirsi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsirsi",
+        "children": [
+          {
+            "id": "2fe20711-dbd3-426e-ad1e-444ff5669bd2",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "433476a9-0f97-4fe6-9380-895468b17253",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0c1576ad-849b-47c0-8f5a-d54d421fea51",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sirsi",
+                    "localname": "Nagar Panchayat Sirsi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

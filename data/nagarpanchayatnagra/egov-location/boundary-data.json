@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnagra",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nagra",
+        "localname": "Nagar Panchayat Nagra",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnagra",
+        "children": [
+          {
+            "id": "e07e1852-1795-4eb5-bc4e-f8f1aec46ab8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f1aabbba-fb11-4c64-ba16-1e940c2cd3a3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "63b95327-199c-40e4-b96e-0a8ab7730a98",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nagra",
+                    "localname": "Nagar Panchayat Nagra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaatrauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Atrauli",
+        "localname": "Nagar Palika Atrauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaatrauli",
+        "children": [
+          {
+            "id": "33cf3f54-78cd-4589-be3e-0acab0b61411",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1a95dda7-2efb-461d-a80c-61367520350a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "47641815-def4-4698-bf40-8fa6d49ed2ef",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Atrauli",
+                    "localname": "Nagar Palika Atrauli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

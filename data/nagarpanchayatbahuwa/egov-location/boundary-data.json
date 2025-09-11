@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbahuwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bahuwa",
+        "localname": "Nagar Panchayat Bahuwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbahuwa",
+        "children": [
+          {
+            "id": "c91fbf21-990b-48d4-b959-28d0b40cd73a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "560f7743-627d-4513-89a2-de1361128397",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "63d88f4f-898a-47e9-a29e-348d84269e96",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bahuwa",
+                    "localname": "Nagar Panchayat Bahuwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

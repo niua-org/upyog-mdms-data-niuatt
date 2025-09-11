@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikapadrauna",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Padrauna",
+        "localname": "Nagar Palika Padrauna",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikapadrauna",
+        "children": [
+          {
+            "id": "08ab3d39-0c10-4875-ad00-01c1161996f7",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f8a0f487-149e-402b-91a7-47b3ff49fc2a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "5e7c9fcd-5505-44cf-90ab-120442171c0b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Padrauna",
+                    "localname": "Nagar Palika Padrauna",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikafarrukhabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Farrukhabad",
+        "localname": "Nagar Palika Farrukhabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikafarrukhabad",
+        "children": [
+          {
+            "id": "f868d4e3-943f-4c8b-9fca-12414e4708ef",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "09b7926a-d291-464f-b9b1-cae9abc66cff",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "08e19f9b-1d15-4015-8412-fa61bc993a51",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Farrukhabad",
+                    "localname": "Nagar Palika Farrukhabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

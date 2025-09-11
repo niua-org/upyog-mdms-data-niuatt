@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsalon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Salon",
+        "localname": "Nagar Panchayat Salon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsalon",
+        "children": [
+          {
+            "id": "e67c7c2a-1333-4e32-bb0e-3997942ba0d9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7b7abcdd-3214-4cdd-8bc2-55dccbeff5c0",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "c3e4ae53-8e4e-4d43-a095-1c622cc6994d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Salon",
+                    "localname": "Nagar Panchayat Salon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

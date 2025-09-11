@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattulsipur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Tulsipur",
+        "localname": "Nagar Panchayat Tulsipur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattulsipur",
+        "children": [
+          {
+            "id": "ca5e2d1b-cea9-43df-9149-0fdc0f7f3c54",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2e548c46-15d9-4a19-b396-111aacdaf321",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "24b11fe9-5492-4bb0-af22-1d5c17b0983c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Tulsipur",
+                    "localname": "Nagar Panchayat Tulsipur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

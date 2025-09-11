@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbhokarhedi",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bhokarhedi",
+        "localname": "Nagar Panchayat Bhokarhedi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbhokarhedi",
+        "children": [
+          {
+            "id": "f8f71aef-3153-4dd1-af74-b2e794c8a9b9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2ee241de-0177-4ee2-937a-b7c9b0731dfc",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "93890e34-76b8-4773-8df2-a30575d16190",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bhokarhedi",
+                    "localname": "Nagar Panchayat Bhokarhedi",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

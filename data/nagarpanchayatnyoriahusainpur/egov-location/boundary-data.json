@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnyoriahusainpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nyoriahusainpur",
+        "localname": "Nagar Panchayat Nyoriahusainpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnyoriahusainpur",
+        "children": [
+          {
+            "id": "e39940e5-da5f-40f2-ae29-12ee27dcfdbc",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d6d1e0fb-20af-4b6c-9e00-7020df03aabb",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "7c03c496-38e7-4218-86c4-4b169e4080ab",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nyoriahusainpur",
+                    "localname": "Nagar Panchayat Nyoriahusainpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

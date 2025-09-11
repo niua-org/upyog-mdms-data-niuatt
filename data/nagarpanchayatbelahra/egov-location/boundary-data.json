@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbelahra",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Belahra",
+        "localname": "Nagar Panchayat Belahra",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbelahra",
+        "children": [
+          {
+            "id": "9927b473-8222-43ae-a6ec-1b23e20cf7f6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1004341f-1d31-4e3a-b40f-de6bceb30337",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e3b69457-c6c1-4403-89d4-f0d3213b8157",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Belahra",
+                    "localname": "Nagar Panchayat Belahra",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

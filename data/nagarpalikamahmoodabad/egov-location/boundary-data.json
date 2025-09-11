@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamahmoodabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Mahmoodabad",
+        "localname": "Nagar Palika Mahmoodabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamahmoodabad",
+        "children": [
+          {
+            "id": "13563552-e886-4d9e-a886-8210d3e5daa8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1149a44d-eb47-402b-9305-0d1c7e6f59b8",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "eb2dd868-3a9c-4129-ba57-a08cb2236ff0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Mahmoodabad",
+                    "localname": "Nagar Palika Mahmoodabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

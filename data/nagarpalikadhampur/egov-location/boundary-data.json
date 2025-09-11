@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikadhampur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Dhampur",
+        "localname": "Nagar Palika Dhampur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikadhampur",
+        "children": [
+          {
+            "id": "c9f1a23c-2889-4ed4-b96a-cf6d938a4a5e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e5b96193-f053-481e-8c0c-7f73fc394de5",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d0c7788e-0d1c-46ca-bdc3-b9b50b1bfd8d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Dhampur",
+                    "localname": "Nagar Palika Dhampur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

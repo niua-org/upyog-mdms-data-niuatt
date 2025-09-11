@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatumri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Umri",
+        "localname": "Nagar Panchayat Umri",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatumri",
+        "children": [
+          {
+            "id": "b42306b1-80cf-4551-a862-08c1f86d0048",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5711ce54-1da7-4d36-aa9e-3969d0d7bba9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "9beb4690-f646-4a2d-9747-3878d969ec0b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Umri",
+                    "localname": "Nagar Panchayat Umri",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

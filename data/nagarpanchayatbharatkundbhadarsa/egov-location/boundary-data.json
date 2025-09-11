@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbharatkundbhadarsa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bharatkundbhadarsa",
+        "localname": "Nagar Panchayat Bharatkundbhadarsa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbharatkundbhadarsa",
+        "children": [
+          {
+            "id": "4486b2d6-81cb-4470-8945-be1ee92cd175",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fe899ff7-cb70-412f-a794-6df52ea6d2f4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "bdf5f218-d101-4814-93dc-8ddcb8c2d5c9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bharatkundbhadarsa",
+                    "localname": "Nagar Panchayat Bharatkundbhadarsa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

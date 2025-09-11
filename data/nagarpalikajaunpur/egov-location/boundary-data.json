@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikajaunpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Jaunpur",
+        "localname": "Nagar Palika Jaunpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikajaunpur",
+        "children": [
+          {
+            "id": "4e083731-423a-483d-a3f9-81d4a7146129",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "18a0aefa-a09e-4eb2-bc35-37f68121ff84",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "669d60d7-59ef-414f-a522-ebfd9a28739b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Jaunpur",
+                    "localname": "Nagar Palika Jaunpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

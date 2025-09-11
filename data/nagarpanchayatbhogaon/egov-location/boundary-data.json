@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbhogaon",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bhogaon",
+        "localname": "Nagar Panchayat Bhogaon",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbhogaon",
+        "children": [
+          {
+            "id": "7754e61e-75e6-4ab9-aeaa-66deadfeacda",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a8935621-aefc-4c42-91bb-232bfb5b4d52",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "b4f7e9e6-055c-4edb-80d5-b3a36a89321d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bhogaon",
+                    "localname": "Nagar Panchayat Bhogaon",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

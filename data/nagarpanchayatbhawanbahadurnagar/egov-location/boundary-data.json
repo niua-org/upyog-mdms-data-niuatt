@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbhawanbahadurnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bhawanbahadurnagar",
+        "localname": "Nagar Panchayat Bhawanbahadurnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbhawanbahadurnagar",
+        "children": [
+          {
+            "id": "26da1bef-83ad-406a-899d-7225cdd66ebe",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "a13b3f91-4fdd-4d39-96a0-10c937b28e87",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "050a9ef8-173b-4e14-84e4-9859f1219ee0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bhawanbahadurnagar",
+                    "localname": "Nagar Panchayat Bhawanbahadurnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

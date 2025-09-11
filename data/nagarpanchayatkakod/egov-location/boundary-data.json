@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkakod",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kakod",
+        "localname": "Nagar Panchayat Kakod",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkakod",
+        "children": [
+          {
+            "id": "c08d6443-3c0e-4474-b82b-fe167753ceac",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0df3a35d-33e4-43d5-a628-c902e6f54480",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "9932c532-28d5-4f35-abbe-4c0869331d08",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kakod",
+                    "localname": "Nagar Panchayat Kakod",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

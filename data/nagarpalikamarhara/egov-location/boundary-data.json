@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikamarhara",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Marhara",
+        "localname": "Nagar Palika Marhara",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikamarhara",
+        "children": [
+          {
+            "id": "0848a016-d204-43eb-9232-525cbfc65c69",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "72648aa1-3ebf-44d1-a614-dc7c9c7cb2c9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e2d0bc24-f3a0-49a7-9709-c2bd720c7994",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Marhara",
+                    "localname": "Nagar Palika Marhara",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

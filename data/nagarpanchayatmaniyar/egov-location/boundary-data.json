@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmaniyar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Maniyar",
+        "localname": "Nagar Panchayat Maniyar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmaniyar",
+        "children": [
+          {
+            "id": "7a313971-114f-4ff1-9f5b-969e005c1411",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "01dcf0e0-97db-46ff-b43d-e61bf63a0145",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "3d734821-f898-4f2d-ba40-bc58443481fa",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Maniyar",
+                    "localname": "Nagar Panchayat Maniyar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

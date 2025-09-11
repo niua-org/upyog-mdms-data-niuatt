@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatghosia",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ghosia",
+        "localname": "Nagar Panchayat Ghosia",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatghosia",
+        "children": [
+          {
+            "id": "139471c5-980f-4856-be12-20904a7d3ace",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e4166ce8-90c1-4edd-bed3-9027b383f9b1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4da4249e-8f40-4dc8-8ad0-dddf158efa0b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ghosia",
+                    "localname": "Nagar Panchayat Ghosia",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

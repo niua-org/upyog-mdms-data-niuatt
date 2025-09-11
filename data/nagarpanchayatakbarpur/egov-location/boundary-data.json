@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatakbarpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Akbarpur",
+        "localname": "Nagar Panchayat Akbarpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatakbarpur",
+        "children": [
+          {
+            "id": "550e9bfd-76cd-4eb8-8a8c-fdf629726bcf",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "092c4350-561a-4a86-a5eb-84d3599fd889",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e35b2152-ad46-44c3-b3d0-ed14eae136cd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Akbarpur",
+                    "localname": "Nagar Panchayat Akbarpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

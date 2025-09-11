@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatiglas",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Iglas",
+        "localname": "Nagar Panchayat Iglas",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatiglas",
+        "children": [
+          {
+            "id": "8ffb85c5-7fa1-449a-ac98-68f366796767",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "73dbb7a6-3efa-4986-93ac-ede5d1b6860d",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ce8dcbe3-e266-4ed9-bca8-3096da5487c5",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Iglas",
+                    "localname": "Nagar Panchayat Iglas",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatpurabpashchimsharira",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Purab-Pashchimsharira",
+        "localname": "Nagar Panchayat Purab-Pashchimsharira",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatpurabpashchimsharira",
+        "children": [
+          {
+            "id": "3617a305-31f1-4677-8a12-ef85cd05f44f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c8481075-a90a-402c-8449-29bff600ac83",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "873a36f4-89c6-4db9-8455-07e98e099c4d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Purab-Pashchimsharira",
+                    "localname": "Nagar Panchayat Purab-Pashchimsharira",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

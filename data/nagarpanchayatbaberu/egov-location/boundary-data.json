@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbaberu",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Baberu",
+        "localname": "Nagar Panchayat Baberu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbaberu",
+        "children": [
+          {
+            "id": "30f01239-c5b7-466b-9254-d92b03961c5f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c1f1234b-04c2-4094-a2d0-563bea45c553",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ed003962-8aaa-42fe-880b-3019b64ea474",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Baberu",
+                    "localname": "Nagar Panchayat Baberu",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

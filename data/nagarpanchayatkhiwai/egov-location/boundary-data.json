@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkhiwai",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Khiwai",
+        "localname": "Nagar Panchayat Khiwai",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkhiwai",
+        "children": [
+          {
+            "id": "697d2fd2-84e8-4197-8041-06ca069445fb",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e4c8d1a1-195f-4f49-ac16-d5dba392d1df",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "bd523218-39ea-4192-8186-adfe201200f9",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Khiwai",
+                    "localname": "Nagar Panchayat Khiwai",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

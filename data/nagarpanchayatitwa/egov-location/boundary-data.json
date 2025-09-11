@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatitwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Itwa",
+        "localname": "Nagar Panchayat Itwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatitwa",
+        "children": [
+          {
+            "id": "201e2180-d163-43f0-9045-3de20b6886f5",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d1c4bfbf-4c4e-4e16-b76c-369503a69e90",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1d7f37a4-ea2c-46b9-ac2a-50d9a30e3760",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Itwa",
+                    "localname": "Nagar Panchayat Itwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

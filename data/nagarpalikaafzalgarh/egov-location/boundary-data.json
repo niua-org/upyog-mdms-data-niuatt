@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaafzalgarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Afzalgarh",
+        "localname": "Nagar Palika Afzalgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaafzalgarh",
+        "children": [
+          {
+            "id": "55bdc92c-7ee9-4ccf-b70f-606aac36e903",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1626684f-1f2f-4e71-affd-25cb070a5b39",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4c447038-4781-421c-92b1-2c6600255e4f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Afzalgarh",
+                    "localname": "Nagar Palika Afzalgarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikapuranpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Puranpur",
+        "localname": "Nagar Palika Puranpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikapuranpur",
+        "children": [
+          {
+            "id": "48b1676f-cbaa-43f1-990c-e7b703380f83",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3bd724a5-a31a-464b-8f6a-855ff933ca31",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "93067f72-6492-4626-8d7b-b0b8e5ca7edd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Puranpur",
+                    "localname": "Nagar Palika Puranpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

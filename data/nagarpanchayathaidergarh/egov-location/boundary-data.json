@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayathaidergarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Haidergarh",
+        "localname": "Nagar Panchayat Haidergarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayathaidergarh",
+        "children": [
+          {
+            "id": "1b2490f4-ed88-4f2c-95bb-16aff88c176f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ef13cb37-45e0-41db-beac-08911158a0ee",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "f065b834-1dd5-445c-848a-662285818f7f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Haidergarh",
+                    "localname": "Nagar Panchayat Haidergarh",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

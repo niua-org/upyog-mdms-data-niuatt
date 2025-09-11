@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatshamshabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Shamshabad",
+        "localname": "Nagar Panchayat Shamshabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatshamshabad",
+        "children": [
+          {
+            "id": "b862dc1f-86cb-43a0-91ef-cc29728b3d0b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "15c21b33-ec70-4896-99a7-1a19ba12a178",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a6207faa-0e1c-45cb-a536-f340ab2256c0",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Shamshabad",
+                    "localname": "Nagar Panchayat Shamshabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

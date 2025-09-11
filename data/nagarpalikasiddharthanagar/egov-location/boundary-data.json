@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikasiddharthanagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Siddharthanagar",
+        "localname": "Nagar Palika Siddharthanagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikasiddharthanagar",
+        "children": [
+          {
+            "id": "0872ba78-e5b4-4f40-ad9a-cbe188ee66f8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4ca00abb-3282-4764-afd2-c1fa55fd8a89",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "e879baf1-2216-49a9-84e4-1d30d57caa8a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Siddharthanagar",
+                    "localname": "Nagar Palika Siddharthanagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

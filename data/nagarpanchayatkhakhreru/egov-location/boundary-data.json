@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkhakhreru",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Khakhreru",
+        "localname": "Nagar Panchayat Khakhreru",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkhakhreru",
+        "children": [
+          {
+            "id": "9b9f8715-096e-45f6-83f9-83999498f19d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "d49384bb-42fe-47dc-8592-66618e42b0d4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "00aae3bc-762b-465a-afc0-285e18373e57",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Khakhreru",
+                    "localname": "Nagar Panchayat Khakhreru",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

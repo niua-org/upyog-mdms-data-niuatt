@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikarudauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Rudauli",
+        "localname": "Nagar Palika Rudauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikarudauli",
+        "children": [
+          {
+            "id": "ae55d332-0d93-48e1-b0f7-64ff4fabbe18",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "8edb6a0a-7519-4c23-b3b7-071e08023b95",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "944082c0-fca5-472b-b158-9cb084d170d8",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Rudauli",
+                    "localname": "Nagar Palika Rudauli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

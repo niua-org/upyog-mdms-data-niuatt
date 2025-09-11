@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrampurkarkhana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rampurkarkhana",
+        "localname": "Nagar Panchayat Rampurkarkhana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrampurkarkhana",
+        "children": [
+          {
+            "id": "f40e1b55-4796-4bf9-b983-e8153c65679a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7baeae68-1af5-4ef3-91e1-63d629453504",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "bbfe14bd-21d2-41c1-9e2d-f2930f9bb213",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rampurkarkhana",
+                    "localname": "Nagar Panchayat Rampurkarkhana",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

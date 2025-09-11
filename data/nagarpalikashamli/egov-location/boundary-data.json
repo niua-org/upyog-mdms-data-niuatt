@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikashamli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Shamli",
+        "localname": "Nagar Palika Shamli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikashamli",
+        "children": [
+          {
+            "id": "e9f2c7ee-7d5a-43d9-88b0-dc29c4f956cb",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b63e3664-302c-41c6-9a9f-25a38a5874e6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1894b908-de73-4a4d-9fe5-3badd52e1b14",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Shamli",
+                    "localname": "Nagar Palika Shamli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

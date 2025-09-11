@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatphalauda",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Phalauda",
+        "localname": "Nagar Panchayat Phalauda",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatphalauda",
+        "children": [
+          {
+            "id": "4c0bc64f-29d8-44b9-abcb-e6fb50fc9083",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e3dbaff9-195d-4987-8fb8-00cc21f8ed5a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0eeca6c0-86fa-4a82-86ba-bc2209b69ba3",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Phalauda",
+                    "localname": "Nagar Panchayat Phalauda",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

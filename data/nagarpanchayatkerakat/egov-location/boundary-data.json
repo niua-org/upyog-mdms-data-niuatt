@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatkerakat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Kerakat",
+        "localname": "Nagar Panchayat Kerakat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatkerakat",
+        "children": [
+          {
+            "id": "9d4308b9-4192-4f81-81bc-b7276bd7e8fb",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "180b08c4-bfbb-46ce-81e1-9fb4d2c6a31e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a04e3a63-a85b-401f-91d8-54f35a71627b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Kerakat",
+                    "localname": "Nagar Panchayat Kerakat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

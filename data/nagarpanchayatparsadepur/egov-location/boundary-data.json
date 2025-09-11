@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatparsadepur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Parsadepur",
+        "localname": "Nagar Panchayat Parsadepur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatparsadepur",
+        "children": [
+          {
+            "id": "82c4ba42-d7a4-4b0e-8e26-345f94f02f5b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "ec90f7a9-1fd1-498f-8799-9e7a7d1f7960",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "8e5aa742-19ff-45f9-aa3e-9efd1135f9ea",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Parsadepur",
+                    "localname": "Nagar Panchayat Parsadepur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

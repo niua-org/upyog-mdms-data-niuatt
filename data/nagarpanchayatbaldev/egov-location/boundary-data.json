@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbaldev",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Baldev",
+        "localname": "Nagar Panchayat Baldev",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbaldev",
+        "children": [
+          {
+            "id": "0215ba9e-dab5-41b5-94ea-711ce8ab1ad1",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3dfe729b-57bc-41c5-95ac-2707957e4e66",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "47949cdf-df74-4355-ab07-c7c3c9a07edd",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Baldev",
+                    "localname": "Nagar Panchayat Baldev",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

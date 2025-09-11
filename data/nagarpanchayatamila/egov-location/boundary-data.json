@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatamila",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Amila",
+        "localname": "Nagar Panchayat Amila",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatamila",
+        "children": [
+          {
+            "id": "f261b007-9618-4d08-bdf9-6c29ca8a3bc0",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0bcc1d0f-45a0-49a0-b009-dfc8797292f4",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1bafcad6-309b-473c-b42c-57ca2d5ea7d6",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Amila",
+                    "localname": "Nagar Panchayat Amila",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

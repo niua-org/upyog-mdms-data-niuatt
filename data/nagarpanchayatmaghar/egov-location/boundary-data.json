@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmaghar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Maghar",
+        "localname": "Nagar Panchayat Maghar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmaghar",
+        "children": [
+          {
+            "id": "6c55cb74-a7bd-4ac8-a519-513c95c2d28e",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "884de431-aaa6-4d78-8392-a4c3d09cd22e",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "02fda485-b1d8-49e6-8e51-9d27bdbfbd3b",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Maghar",
+                    "localname": "Nagar Panchayat Maghar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

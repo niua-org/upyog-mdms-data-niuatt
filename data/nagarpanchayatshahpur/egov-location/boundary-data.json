@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatshahpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Shahpur",
+        "localname": "Nagar Panchayat Shahpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatshahpur",
+        "children": [
+          {
+            "id": "5a350f46-680b-4d27-94c3-8c1ac41539b6",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "b123b4c9-ed78-4a99-b539-3456e1bfd9d1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a26aa5bb-b73f-4951-b7d5-ea04806a4c33",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Shahpur",
+                    "localname": "Nagar Panchayat Shahpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

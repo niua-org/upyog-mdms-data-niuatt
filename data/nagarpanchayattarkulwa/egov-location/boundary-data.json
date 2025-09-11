@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayattarkulwa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Tarkulwa",
+        "localname": "Nagar Panchayat Tarkulwa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayattarkulwa",
+        "children": [
+          {
+            "id": "590c7af0-d229-4d4d-b725-61c0a1f89306",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "89826569-a6ae-4824-aa45-d47684f78929",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "47c4a2cb-608c-423e-b028-c9d930849caa",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Tarkulwa",
+                    "localname": "Nagar Panchayat Tarkulwa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

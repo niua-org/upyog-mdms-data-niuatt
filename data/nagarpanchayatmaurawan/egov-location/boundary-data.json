@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatmaurawan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Maurawan",
+        "localname": "Nagar Panchayat Maurawan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatmaurawan",
+        "children": [
+          {
+            "id": "928ddcdd-dc0d-4b38-931d-574e12759c5d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2de9d3ac-2c05-4087-ac45-666ec227c624",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "763d0cdf-ef42-4ffe-a050-2762afc65918",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Maurawan",
+                    "localname": "Nagar Panchayat Maurawan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

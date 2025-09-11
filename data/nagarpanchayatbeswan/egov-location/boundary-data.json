@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbeswan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Beswan",
+        "localname": "Nagar Panchayat Beswan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbeswan",
+        "children": [
+          {
+            "id": "8c71ead0-2fbf-4b3d-badd-12a76b112441",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "6e95ff9c-5b7b-4f45-b620-bdb9a7d25ce9",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "75db4758-40ff-4f7f-8769-337e1d10e213",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Beswan",
+                    "localname": "Nagar Panchayat Beswan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

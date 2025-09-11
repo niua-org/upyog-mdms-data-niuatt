@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatdewa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Dewa",
+        "localname": "Nagar Panchayat Dewa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatdewa",
+        "children": [
+          {
+            "id": "6199e82a-d9a9-4a01-b59f-2a7af5f11cab",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "25aa2ae1-a2eb-4aae-a124-0ec24d162b9a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0e4f2a50-20eb-4d1e-9df2-076b645a863d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Dewa",
+                    "localname": "Nagar Panchayat Dewa",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

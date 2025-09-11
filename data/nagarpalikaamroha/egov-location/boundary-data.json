@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikaamroha",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Amroha",
+        "localname": "Nagar Palika Amroha",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikaamroha",
+        "children": [
+          {
+            "id": "216b0da4-621b-476a-89a7-3e090073ead9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "1fb1ded2-142b-4bbd-bd29-ba90a2fbf0aa",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "73cca03d-7ef3-4aed-ad3e-a62cd4c7d280",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Amroha",
+                    "localname": "Nagar Palika Amroha",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

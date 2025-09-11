@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbhatni",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bhatni",
+        "localname": "Nagar Panchayat Bhatni",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbhatni",
+        "children": [
+          {
+            "id": "f615707d-e3f2-47d5-bfc2-5e8b0a32dd42",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "fb4e7763-bade-458f-88c6-848e8f84c85c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a0d5e328-4359-42da-a22e-7c24e7997466",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bhatni",
+                    "localname": "Nagar Panchayat Bhatni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatsirauli",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Sirauli",
+        "localname": "Nagar Panchayat Sirauli",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatsirauli",
+        "children": [
+          {
+            "id": "31ac4b56-61af-40fe-969f-aa2a2a95176a",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "c830b76c-3535-4d58-9061-e42b96651a70",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "0e31158c-773f-40f2-954d-f8cf0912fab3",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Sirauli",
+                    "localname": "Nagar Panchayat Sirauli",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

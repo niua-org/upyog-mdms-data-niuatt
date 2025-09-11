@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikapihani",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Pihani",
+        "localname": "Nagar Palika Pihani",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikapihani",
+        "children": [
+          {
+            "id": "39977fab-7a01-4b23-9bf6-3e7d308a9072",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "f9de9191-f313-405a-8ed2-7d8e1d3e822a",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "53433d87-608f-4c86-a908-a4edddc6ce64",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Pihani",
+                    "localname": "Nagar Palika Pihani",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

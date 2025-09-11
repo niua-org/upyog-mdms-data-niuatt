@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatganeshpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Ganeshpur",
+        "localname": "Nagar Panchayat Ganeshpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatganeshpur",
+        "children": [
+          {
+            "id": "872a7bab-dd6c-4c94-8f27-126e9bcb769b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "70a3d1af-5444-455e-9c8d-182fb024ec27",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "d7313576-ed30-4fe8-8578-1b706634c242",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Ganeshpur",
+                    "localname": "Nagar Panchayat Ganeshpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikabaruasagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Baruasagar",
+        "localname": "Nagar Palika Baruasagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikabaruasagar",
+        "children": [
+          {
+            "id": "e418154a-db5f-4c3e-9418-4c68abbb746d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "7e38de9f-5670-4350-999d-d2b52ad935e6",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ab1fbc93-953c-4c0d-9928-a981d7687ff1",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Baruasagar",
+                    "localname": "Nagar Palika Baruasagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

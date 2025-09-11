@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikanajibabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Najibabad",
+        "localname": "Nagar Palika Najibabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikanajibabad",
+        "children": [
+          {
+            "id": "bde59321-a35e-4e2c-a781-03a70335f74f",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "9b815dbd-334d-48bd-ab88-ac3560f9c708",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "ff3942ef-1ebb-4dbd-ba84-b29f5f03345a",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Najibabad",
+                    "localname": "Nagar Palika Najibabad",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

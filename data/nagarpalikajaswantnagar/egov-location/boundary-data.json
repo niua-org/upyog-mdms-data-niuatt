@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikajaswantnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Jaswantnagar",
+        "localname": "Nagar Palika Jaswantnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikajaswantnagar",
+        "children": [
+          {
+            "id": "12417b28-beba-4fce-a8b2-b01bff7ade0d",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "31dd944e-b5db-4cac-897a-be27a31604c3",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "87297133-b46b-4562-929e-8377ed0b2411",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Jaswantnagar",
+                    "localname": "Nagar Palika Jaswantnagar",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

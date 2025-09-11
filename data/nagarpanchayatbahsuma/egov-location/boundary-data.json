@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbahsuma",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bahsuma",
+        "localname": "Nagar Panchayat Bahsuma",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbahsuma",
+        "children": [
+          {
+            "id": "075e268e-3451-45b2-a29c-6fcb1d4bef1c",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "e6689a1e-a696-4f89-9527-89e2be9d45ed",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "1087e45c-4d64-4312-8921-ea2ca2d0a32c",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bahsuma",
+                    "localname": "Nagar Panchayat Bahsuma",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

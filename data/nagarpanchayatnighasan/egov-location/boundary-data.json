@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnighasan",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Nighasan",
+        "localname": "Nagar Panchayat Nighasan",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnighasan",
+        "children": [
+          {
+            "id": "df0d8a18-7eef-4f0f-ae0f-5a67ed6e7041",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "4f554f4c-01ee-43b0-94b1-fccb8b6d13fd",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "527e0f06-80b3-4e5a-b535-d43c2e99044d",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Nighasan",
+                    "localname": "Nagar Panchayat Nighasan",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

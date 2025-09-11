@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbhaluani",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Bhaluani",
+        "localname": "Nagar Panchayat Bhaluani",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbhaluani",
+        "children": [
+          {
+            "id": "81689e94-97e2-4f87-b443-81a224983465",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "5e84f8a9-d868-4924-8c5a-88b6fc3e8308",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "a241b6f2-a65d-4e47-971a-64e951fff798",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Bhaluani",
+                    "localname": "Nagar Panchayat Bhaluani",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

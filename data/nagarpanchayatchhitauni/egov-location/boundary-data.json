@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatchhitauni",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Chhitauni",
+        "localname": "Nagar Panchayat Chhitauni",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatchhitauni",
+        "children": [
+          {
+            "id": "4070151d-3f9b-4696-b796-865ec6bae1e9",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "0a39ab06-e730-49d5-b639-9942d3b7af81",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "735092ef-8fd4-4b65-89e3-018e9d405c39",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Chhitauni",
+                    "localname": "Nagar Panchayat Chhitauni",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

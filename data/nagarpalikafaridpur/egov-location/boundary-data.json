@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpalikafaridpur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Palika Faridpur",
+        "localname": "Nagar Palika Faridpur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpalikafaridpur",
+        "children": [
+          {
+            "id": "92841121-4c3e-45ff-8270-dc8799028bee",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "2d14573d-b9d0-40a0-aebc-55ba9562e149",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "cc946316-c2ec-430b-9520-362b8a85be94",
+                    "boundaryNum": 1,
+                    "name": "Nagar Palika Faridpur",
+                    "localname": "Nagar Palika Faridpur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

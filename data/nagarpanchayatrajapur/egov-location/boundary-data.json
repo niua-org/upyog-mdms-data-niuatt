@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatrajapur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Rajapur",
+        "localname": "Nagar Panchayat Rajapur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatrajapur",
+        "children": [
+          {
+            "id": "da090759-cff6-4136-9c00-1786544b6101",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "53cf475c-7e33-4418-8a7e-378f9aed8377",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "81c93faa-1619-42d6-a246-b35c0471701f",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Rajapur",
+                    "localname": "Nagar Panchayat Rajapur",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

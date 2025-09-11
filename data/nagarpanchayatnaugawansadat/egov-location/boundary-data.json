@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatnaugawansadat",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Naugawansadat",
+        "localname": "Nagar Panchayat Naugawansadat",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatnaugawansadat",
+        "children": [
+          {
+            "id": "8ae09567-bbd1-454d-bb94-212469b0946b",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "3077b312-29a1-4e65-9f57-14861719018c",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "4708a602-1673-42e7-8d03-b0ea892f1c90",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Naugawansadat",
+                    "localname": "Nagar Panchayat Naugawansadat",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "tenantId": "pg.nagarpanchayatbudhana",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Nagar Panchayat Budhana",
+        "localname": "Nagar Panchayat Budhana",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.nagarpanchayatbudhana",
+        "children": [
+          {
+            "id": "51e4b1be-7105-4dae-ad6b-cfa302b385e8",
+            "boundaryNum": 1,
+            "name": "ZONE_1",
+            "localname": "ZONE_1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "Z1",
+            "children": [
+              {
+                "id": "daf58af9-8c0b-47cc-8633-f1c12d32b4e1",
+                "boundaryNum": 1,
+                "name": "WARD_1",
+                "localname": "WARD_1",
+                "longitude": null,
+                "latitude": null,
+                "label": "Block",
+                "code": "W1",
+                "children": [
+                  {
+                    "id": "2bc4cdd0-5b51-44ac-a483-e7d8f7eb96df",
+                    "boundaryNum": 1,
+                    "name": "Nagar Panchayat Budhana",
+                    "localname": "Nagar Panchayat Budhana",
+                    "longitude": null,
+                    "latitude": null,
+                    "label": "Locality",
+                    "code": "L1",
+                    "area": "Area1",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
