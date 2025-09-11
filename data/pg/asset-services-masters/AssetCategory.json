@@ -735,32 +735,32 @@
     "assetParentCategory": "CHEMICAL_ITEMS"
   },
   {
-    "name": "Generator",
-    "code": "GENERATOR",
+    "name": "Broom",
+    "code": "BROOM",
     "active": true,
     "assetParentCategory": "OTHER"
   },
   {
-    "name": "Computers & Printers",
-    "code": "COMPUTERS_PRINTERS",
+    "name": "Semi Under Ground Bins",
+    "code": "SEMI_UNDER_GROUND_BINS",
     "active": true,
     "assetParentCategory": "OTHER"
   },
   {
-    "name": "Stationery",
-    "code": "STATIONERY",
+    "name": "Smoke Gun Installation On Water Tanker",
+    "code": "SMOKE_GUN_INSTALLATION_ON_WATER_TANKER",
     "active": true,
     "assetParentCategory": "OTHER"
   },
   {
-    "name": "Electrical Items",
-    "code": "ELECTRICAL_ITEMS",
+    "name": "Dustbin Container",
+    "code": "DUSTBIN_CONTAINER",
     "active": true,
     "assetParentCategory": "OTHER"
   },
   {
-    "name": "Chemical Items",
-    "code": "CHEMICAL_ITEMS",
+    "name": "Wheelbarrows",
+    "code": "WHEELBARROWS",
     "active": true,
     "assetParentCategory": "OTHER"
   }
