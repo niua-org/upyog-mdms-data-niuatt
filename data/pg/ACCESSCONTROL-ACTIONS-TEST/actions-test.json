@@ -21404,6 +21404,21 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.User Create"
-    }
+    },
+    {
+       "id": 3072,
+       "name": "Asset Registry For UP",
+       "url": "url",
+       "displayName": "Asset Registry For UP",
+       "orderNumber": 2,
+       "enabled": true,
+       "serviceCode": "ASSETREGISTRYUP",
+       "code": "null",
+       "path": "UPAsset.Application.Registry",
+       "parentModule": "asset-services-masters",
+       "navigationURL": "/upyog-ui/employee/asset/assetservice-up/asset-registry",
+       "leftIcon": "editor:collections",
+       "rightIcon": ""
+    } 
   ]
 }
