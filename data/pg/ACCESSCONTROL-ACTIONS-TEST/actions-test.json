@@ -21393,6 +21393,17 @@
          "serviceCode": "NSS",
          "code": "null",
          "path": ""
-      }         	
+      },
+     {
+       "id": 3071,
+      "name": " User Create",
+      "url": "/user/oauth/token",
+      "displayName": "User Create",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": "Administration.User Create"
+    }
   ]
 }
