@@ -21435,7 +21435,7 @@
          "name": "BPA_APPLY_FOR_REGISTER_AS_RTP",
          "url": "digit-ui-card",
          "displayName": "Register as RTP",
-         "orderNumber": 2,
+         "orderNumber": 3,
          "parentModule": "OBPSV2",
          "enabled": true,
          "serviceCode": "",

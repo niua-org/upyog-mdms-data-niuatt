@@ -1,0 +1,36 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "constructionTypes": [
+      {
+        "id": 1,
+        "code": "NEW_CONSTRUCTION",
+        "name": "New Construction",
+        "active": true
+      },
+      {
+        "id": 2,
+        "code": "ADDITION_ALTERATION",
+        "name": "Addition Alteration",
+        "active": true
+      },
+      {
+        "id": 3,
+        "code": "REVISION",
+        "name": "Revision",
+        "active": true
+      },
+      {
+        "id": 4,
+        "code": "CHANGE_OF_USE",
+        "name": "Change of Use",
+        "active": true
+      },
+      {
+        "id": 5,
+        "code": "DEMOLITION",
+        "name": "Demolition Permission",
+        "active": true
+      }
+    ]
+  }

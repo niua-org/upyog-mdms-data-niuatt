@@ -1,0 +1,24 @@
+{
+    "tenantId": "as",
+    "moduleName": "BPA",
+    "rtpCategories": [
+      {
+        "id": 1,
+        "code": "ENGINEER",
+        "name": "Engineer",
+        "active": true
+      },
+      {
+        "id": 2,
+        "code": "ARCHITECT",
+        "name": "Architect",
+        "active": true
+      },
+      {
+        "id": 3,
+        "code": "GENERAL_AGENCY",
+        "name": "General Agency",
+        "active": true
+      }
+    ]
+  }
