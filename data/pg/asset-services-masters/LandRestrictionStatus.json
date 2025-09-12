@@ -1,0 +1,20 @@
+{
+  "tenantId": "pg",
+  "moduleName": "ASSET",
+  "LandRestrictionStatus": [
+    {
+              "name": "landRestrictionStatus",
+              "code": "ASTUP_PRATIBANDHIT_LAND",
+              "i18nKey": "Pratibandhit Land",
+              "value": "Pratibandhit Land",
+              "active": true
+            },
+            {
+              "name": "landRestrictionStatus",
+              "code": "ASTUP_NON_PRATIBANDHIT_LAND",
+              "i18nKey": "Non-Pratibandhit Land",
+              "value": "Non-Pratibandhit Land",
+              "active": true
+            }
+  ]
+}

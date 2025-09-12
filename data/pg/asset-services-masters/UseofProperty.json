@@ -1,0 +1,27 @@
+{
+  "tenantId": "pg",
+  "moduleName": "ASSET",
+  "UseofProperty": [
+    {
+      "name": "useOfProperty",
+      "i18nKey": "Rented",
+      "code": "ASTUP_RENTED",
+      "value": "Rented",
+      "active": true
+    },
+    {
+      "name": "useOfProperty",
+      "i18nKey": "Non-rented",
+      "code": "ASTUP_NON_RENTED",
+      "value": "Non-rented",
+      "active": true
+    },
+    {
+      "name": "useOfProperty",
+      "i18nKey": "other",
+      "code": "ASTUP_OTHER",
+      "value": "other",
+      "active": true
+    }
+  ]
+}

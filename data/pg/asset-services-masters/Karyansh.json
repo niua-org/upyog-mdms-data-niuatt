@@ -1,0 +1,104 @@
+{
+  "tenantId": "pg",
+  "moduleName": "ASSET",
+  "Karyansh": [
+    {
+      "name": "karyansh",
+      "i18nKey": "Animal Catcher",
+      "code": "ASTUP_ANIMAL_CATCHER",
+      "value": "Animal Catcher",
+      "active": true
+    },
+    {
+      "name": "karyansh",
+      "i18nKey": "Nala Cleaning",
+      "code": "ASTUP_ANIMAL_CLEANING",
+      "value": "Nala Cleaning",
+      "active": true
+    },
+    {
+      "name": "karyansh",
+      "i18nKey": "E-TOURIST VEHICLE",
+      "code": "ASTUP_E_TOURIST_VEHICLE",
+      "value": "E-TOURIST VEHICLE",
+      "active": true
+    },
+    {
+      "name": "karyansh",
+      "i18nKey": "GARBAGE USE",
+      "code": "ASTUP_GARBAGE_USE",
+      "value": "GARBAGE USE",
+      "active": true
+    },
+    {
+      "name": "karyansh",
+      "i18nKey": "POLL LIGHTING REPAIR",
+      "code": "ASTUP_POLL_LIGHTING_REPAIR",
+      "value": "POLL LIGHTING REPAIR",
+      "active": true
+    },
+    {
+      "name": "karyansh",
+      "i18nKey": "PUBLIC USE",
+      "code": "ASTUP_PUBLIC_USE",
+      "value": "PUBLIC USE",
+      "active": true
+    },
+    {
+      "name": "karyansh",
+      "i18nKey": "RECYLING POTHOLE ROAD PATCHING",
+      "code": "ASTUP_RECYLING_POTHOLE_ROAD_PATCHING",
+      "value": "RECYLING POTHOLE ROAD PATCHING",
+      "active": true
+    },
+    {
+      "name": "karyansh",
+      "i18nKey": "RIVER CLEANING/NALA CLEANING",
+      "code": "ASTUP_RIVER_CLEANING_NALA_CLEANING",
+      "value": "RIVER CLEANING/NALA CLEANING",
+      "active": true
+    },
+    {
+      "name": "karyansh",
+      "i18nKey": "ROAD SWEEPING",
+      "code": "ASTUP_ROAD_SWEEPING",
+      "value": "ROAD SWEEPING",
+      "active": true
+    },
+    {
+      "name": "karyansh",
+      "i18nKey": "SEWER CLEANING",
+      "code": "ASTUP_SEWER_CLEANING",
+      "value": "SEWER CLEANING",
+      "active": true
+    },
+    {
+      "name": "karyansh",
+      "i18nKey": "TOWING",
+      "code": "ASTUP_TOWING",
+      "value": "TOWING",
+      "active": true
+    },
+    {
+      "name": "karyansh",
+      "i18nKey": "WATER SPRAYER",
+      "code": "ASTUP_WATER_SPRAYER",
+      "value": "WATER SPRAYER",
+      "active": true
+    },
+    {
+      "name": "karyansh",
+      "i18nKey": "WATER SPRAYER/GARBAGE/MOBILE TIOLET",
+      "code": "ASTUP_WATER_SPRAYER_GARBAGE_MOBILE_TIOLET",
+      "value": "WATER SPRAYER/GARBAGE/MOBILE TIOLET",
+      "active": true
+    },
+    {
+      "name": "karyansh",
+      "i18nKey": "WATER SPRINKER SMOG GUN",
+      "code": "ASTUP_WATER_SPRINKER_SMOG_GUN",
+      "value": "WATER SPRINKER SMOG GUN",
+      "active": true
+    }
+  ]
+}

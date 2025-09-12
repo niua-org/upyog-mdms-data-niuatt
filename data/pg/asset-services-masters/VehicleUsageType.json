@@ -1,0 +1,20 @@
+{
+  "tenantId": "pg",
+  "moduleName": "ASSET",
+  "VehicleUsageType": [
+   {
+              "name": "vehicleUsageType",
+              "i18nKey": "Office Use",
+              "code": "ASTUP_OFFICE_USE",
+              "value": "Office Use",
+               "active": true
+            },
+            {
+              "name": "vehicleUsageType",
+              "i18nKey": "Work Use",
+              "code": "ASTUP_WORK_USE",
+              "value": "Work Use",
+               "active": true
+            }
+  ]
+}

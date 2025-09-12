@@ -1,0 +1,20 @@
+{
+  "tenantId": "pg",
+  "moduleName": "ASSET",
+  "Litigation": [
+    {
+      "name": "litigation",
+      "code": "YES",
+      "i18nKey": "YES",
+      "value": "YES",
+      "active": true
+    },
+    {
+      "name": "litigation",
+      "code": "NO",
+      "i18nKey": "NO",
+      "value": "NO",
+      "active": true
+    }
+  ]
+}

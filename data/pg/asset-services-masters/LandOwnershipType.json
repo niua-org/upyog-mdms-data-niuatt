@@ -1,0 +1,41 @@
+{
+  "tenantId": "pg",
+  "moduleName": "ASSET",
+  "LandOwnershipType": [
+    {
+              "name": "landOwnershipType",
+              "code": "ASTUP_OWNED_LAND",
+              "i18nKey": "Owned Land",
+              "value": "Owned Land",
+              "active": true
+            },
+            {
+              "name": "landOwnershipType",
+              "code": "ASTUP_CARETAKER_LAND",
+              "i18nKey": "Caretaker Land",
+              "value": "Caretaker Land",
+              "active": true
+            },
+            {
+              "name": "landOwnershipType",
+              "code": "ASTUP_CENTRAL_GOVERNMENT_ASSETS",
+              "i18nKey": "Central Government Assets",
+              "value": "Central Government Assets",
+              "active": true
+            },
+            {
+              "name": "landOwnershipType",
+              "code": "ASTUP_STATE_GOVERNMENT_ASSETS",
+              "i18nKey": "State Government Assets",
+              "value": "State Government Assets",
+              "active": true
+            },
+            {
+              "name": "landOwnershipType",
+              "code": "ASTUP_MUNICIPAL_GOVERNMENT_ASSETS",
+              "i18nKey": "Municipal Government Assets",
+              "value": "Municipal Government Assets",
+              "active": true
+            }
+  ]
+}

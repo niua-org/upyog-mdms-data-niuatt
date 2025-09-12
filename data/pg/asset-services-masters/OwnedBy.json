@@ -1,0 +1,27 @@
+{
+  "tenantId": "pg",
+  "moduleName": "ASSET",
+  "OwnedBy": [
+    {
+      "name": "ownedBy",
+      "i18nKey": "Central Government Assets",
+      "code": "ASTUP_CENTRAL_GOVERNMENT_ASSETS",
+      "value": "Central Government Assets",
+      "active": true
+    },
+    {
+      "name": "ownedBy",
+      "i18nKey": "State Government Assets",
+      "code": "ASTUP_STATE_GOVERNMENT_ASSETS",
+      "value": "State Government Assets",
+      "active": true
+    },
+    {
+      "name": "ownedBy",
+      "i18nKey": "Municipal Government Assets",
+      "code": "ASTUP_MUNICIPAL_GOVERNMENT_ASSETS",
+      "value": "Municipal Government Assets",
+      "active": true
+    }
+  ]
+}
