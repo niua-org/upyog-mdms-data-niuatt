@@ -21396,6 +21396,17 @@
       },
       {
          "id": 3071,
+        "name": " User Create",
+        "url": "/user/oauth/token",
+        "displayName": "User Create",
+        "orderNumber": 1,
+        "enabled": false,
+        "serviceCode": "ADMIN",
+        "code": "null",
+        "path": "Administration.User Create"
+      },
+      {
+         "id": 3072,
          "name": "BPA_CITIZEN_HOME_VIEW_APP_BY_CITIZEN_LABEL",
          "url": "digit-ui-card",
          "displayName": "View applications by Citizen",
@@ -21413,7 +21424,7 @@
          "sidebarURL": "/digit-ui/citizen/obpsv2-home"
        },
        {
-         "id": 3072,
+         "id": 3073,
          "name": "BPA_APPLY_FOR_BUILDING_PERMIT",
          "url": "digit-ui-card",
          "displayName": "Apply for Building Permit",
@@ -21431,7 +21442,7 @@
          "sidebarURL": "/digit-ui/citizen/obpsv2-home"
        },
        {
-         "id": 3073,
+         "id": 3074,
          "name": "BPA_APPLY_FOR_REGISTER_AS_RTP",
          "url": "digit-ui-card",
          "displayName": "Register as RTP",
