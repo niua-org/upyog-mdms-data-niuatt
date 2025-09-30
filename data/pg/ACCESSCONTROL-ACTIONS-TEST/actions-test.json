@@ -21404,6 +21404,51 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": "Administration.User Create"
+    },
+	{
+      "id": 3072,
+      "name": "Asset Report",
+      "url": "url",
+      "displayName": "Asset Count Report",
+      "orderNumber": 1,
+      "parentModule": "asset-services-masters",
+      "enabled": true,
+      "serviceCode": "ASSET",
+      "code": "null",
+      "path": "Asset.Reports.AssetCountReport",
+      "navigationURL": "report/rainmaker-asset/AssetCountReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 3073,
+      "name": "AssetCountReport",
+      "url": "/report/rainmaker-asset/AssetCountReport/metadata/_get",
+      "displayName": "rainmaker-asset-AssetCountReport",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 3074,
+      "name": "AssetCountReport",
+      "url": "/report/rainmaker-asset/AssetCountReport/_get",
+      "displayName": "rainmaker-asset-AssetCountReport",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
     }
   ]
 }
