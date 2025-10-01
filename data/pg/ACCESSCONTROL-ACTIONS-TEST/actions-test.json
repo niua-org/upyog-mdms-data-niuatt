@@ -21443,6 +21443,45 @@
       "serviceCode": "report",
       "code": "null",
       "path": ""
-    }
+    },
+	{
+         "id": 3075,
+         "name": "Land Report",
+         "url": "url",
+         "displayName": "Land Report",
+         "orderNumber": 2,
+         "parentModule": "asset-services-masters",
+         "enabled": true,
+         "serviceCode": "ASSET",
+         "code": "null",
+         "path": "Asset.Reports.LandReport",
+         "navigationURL": "report/rainmaker-asset/LandReport",
+         "leftIcon": "places:business-center",
+         "rightIcon": ""
+      },
+      {
+         "id": 3076,
+         "name": "LandReport",
+         "url": "/report/rainmaker-asset/LandReport/metadata/_get",
+         "displayName": "rainmaker-asset-LandReport",
+         "orderNumber": 6,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3077,
+         "name": "LandReport",
+         "url": "/report/rainmaker-asset/LandReport/_get",
+         "displayName": "rainmaker-asset-LandReport",
+         "orderNumber": 7,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      } 
   ]
 }
