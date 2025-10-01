@@ -21482,6 +21482,29 @@
          "serviceCode": "report",
          "code": "null",
          "path": ""
-      } 
+      },
+	   {
+      "id": 3078,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_update/ASSET.AssetCategory",
+      "displayName": "update ASSET.AssetCategory",
+      "orderNumber": "1",
+      "parentModule": "",
+      "enabled": "true",
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    },
+	{
+      "id": 3079,
+      "name": "MDMS",
+      "url": "/mdms-v2/v2/_create/ASSET.AssetCategory",
+      "displayName": "Create ASSET.AssetCategory",
+      "orderNumber": "1",
+      "enabled": "true",
+      "serviceCode": "MDMS",
+      "code": "null",
+      "path": ""
+    }   
   ]
 }
