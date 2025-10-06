@@ -240,7 +240,6 @@
         "isAssetAllowFromUi": true,
         "unitOfMeasurement": "SFT",
         "isDepreciationApplicable": false,
-        "depreciationRate": "0",
         "fields": [
           {
             "name": "acquistionDate",
@@ -282,6 +281,41 @@
             "group": "acquistionDetails",
             "active": true,
             "columnType": "text"
+          },
+          {
+            "name": "depriciationRate",
+            "value": "depriciationRate",
+            "code": "AST_DEPRICIATION_RATE",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setDepriciationRate",
+            "depriciationRate": "N/A",
+            "group": "acquistionDetails",
+            "disable": true,
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "depriciationMethod",
+            "value": "depriciationMethod",
+            "code": "AST_DEPRICIATION_METHOD",
+            "type": "dropdown",
+            "isMandatory": false,
+            "group":"acquistionDetails",
+            "disable": true,
+            "active": true,
+            "options": [
+              {
+                "code": "STRAIGHT_LINE_METHOD",
+                "i18nKey": "Straight Line Method",
+                "value": "Straight Line Method"
+              },
+              {
+                "code": "WRITTEN_VALUE_METHOD",
+                "i18nKey": "Written Down Value Method",
+                "value": "Written Down Value Method"
+              }
+            ]
           },
           {
             "name": "landStatus",
