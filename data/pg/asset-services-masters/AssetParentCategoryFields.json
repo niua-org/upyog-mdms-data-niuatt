@@ -88,6 +88,46 @@
             ]
           },
           {
+            "name": "howAssetBeingUsed",
+            "code": "AST_HOW_ASSET_USE",
+            "type": "dropdown",
+            "isMandatory": true,
+            "group":"generalDetails",
+            "active": true,
+            "options": [
+              {
+                "code": "AGRICULTURE_WATER_BODIES",
+                "i18nKey": "AGRICULTURE & WATER BODIES",
+                "value": "AGRICULTURE"
+              },
+              {
+                "code": "RESIDENTIAL",
+                "i18nKey": "RESIDENTIAL",
+                "value": "RESIDENTIAL"
+              },
+              {
+                "code": "COMMERCIAL",
+                "i18nKey": "COMMERCIAL",
+                "value": "COMMERCIAL"
+              },
+              {
+                "code": "PUBLIC_UTILITIES",
+                "i18nKey": "PUBLIC UTILITIES",
+                "value": "PUBLIC UTILITIES"
+              },
+              {
+                "code": "PROTECTIVE",
+                "i18nKey": "PROTECTIVE & UNDEVELOPABLE USE ZONE",
+                "value": "PROTECTIVE & UNDEVELOPABLE"
+              },
+              {
+                "code": "MIXED_USE",
+                "i18nKey": "MIXED USE",
+                "value": "MIXED USE"
+              }
+            ]
+          },
+          {
             "name": "warranty",
             "code": "AST_WARRANTY",
             "type": "dropdown",
@@ -470,46 +510,6 @@
               }
             ]
           },
-           {
-            "name": "howAssetBeingUsed",
-            "code": "AST_HOW_ASSET_USE",
-            "type": "dropdown",
-            "isMandatory": true,
-            "group":"generalDetails",
-            "active": true,
-            "options": [
-              {
-                "code": "AGRICULTURE_WATER_BODIES",
-                "i18nKey": "AGRICULTURE & WATER BODIES",
-                "value": "AGRICULTURE"
-              },
-              {
-                "code": "RESIDENTIAL",
-                "i18nKey": "RESIDENTIAL",
-                "value": "RESIDENTIAL"
-              },
-              {
-                "code": "COMMERCIAL",
-                "i18nKey": "COMMERCIAL",
-                "value": "COMMERCIAL"
-              },
-              {
-                "code": "PUBLIC_UTILITIES",
-                "i18nKey": "PUBLIC UTILITIES",
-                "value": "PUBLIC UTILITIES"
-              },
-              {
-                "code": "PROTECTIVE",
-                "i18nKey": "PROTECTIVE & UNDEVELOPABLE USE ZONE",
-                "value": "PROTECTIVE & UNDEVELOPABLE"
-              },
-              {
-                "code": "MIXED_USE",
-                "i18nKey": "MIXED USE",
-                "value": "MIXED USE"
-              }
-            ]
-          },
           {
             "name": "area",
             "value": "area",
@@ -570,29 +570,10 @@
         "depreciationRate": "5",
         "fields": [
           {
-            "name": "buildingSno",
-            "value": "buildingSno",
-            "code": "AST_BUILDING_NO",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setbuildingsNo",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "floorNo",
-            "value": "floorNo",
-            "code": "AST_FLOORS_NO",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setFloorNo",
-            "active": true,
-            "columnType": "number"
-          },
-          {
             "name": "dimensions",
             "value": "dimensions",
             "code": "AST_DIMENSIONS",
+            "group":"physicialCharacteristics",
             "type": "text",
             "isMandatory": false,
             "onChange": "setDimensions",
@@ -600,10 +581,53 @@
             "columnType": "text"
           },
           {
+            "name": "unitsofMeasurments",
+            "code": "AST_UNITS",
+            "type": "dropdown",
+            "isMandatory": true,
+            "active": true,
+            "group":"physicialCharacteristics",
+            "options": [
+              {
+                "code": "METER",
+                "i18nKey": "Meter",
+                "value": "Meter"
+              },
+              {
+                "code": "FEET_INCHES",
+                "i18nKey": "Feet Inches",
+                "value": "Feet Inches"
+              }
+            ]
+          },
+          {
+            "name": "totalCarpetArea",
+            "value": "totalCarpetArea",
+            "code": "AST_CARPET_AREA",
+            "type": "text",
+            "isMandatory": false,
+             "group":"physicialCharacteristics",
+            "onChange": "settotalCarpetArea",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "floorNo",
+            "value": "floorNo",
+            "code": "AST_FLOORS_NO",
+            "type": "text",
+            "isMandatory": false,
+             "group":"physicialCharacteristics",
+            "onChange": "setFloorNo",
+            "active": true,
+            "columnType": "number"
+          },
+          {
             "name": "plotArea",
             "value": "plotArea",
             "code": "AST_PLOT_AREA",
             "type": "text",
+            "group":"physicialCharacteristics",
             "isMandatory": false,
             "onChange": "setPlotArea",
             "active": true,
@@ -615,17 +639,124 @@
             "code": "AST_PLINTH_AREA",
             "type": "text",
             "isMandatory": false,
+            "group":"physicialCharacteristics",
             "onChange": "setPlinthArea",
             "active": true,
             "columnType": "text"
           },
           {
-            "name": "howAssetBeingUsed",
-            "value": "howAssetBeingUsed",
-            "code": "AST_HOW_ASSET_USE",
+            "name": "anyImprovements",
+            "code": "AST_IMPROVEMENTS",
+            "type": "dropdown",
+            "isMandatory": false,
+            "group": "physicialCharacteristics",
+            "active": true,
+            "options": [
+              {
+                "code": "YES",
+                "i18nKey": "YES",
+                "value": "Yes"
+              },
+              {
+                "code": "NO",
+                "i18nKey": "NO",
+                "value": "No"
+              }
+            ]
+          },
+          {
+            "name": "improvemnetDetails",
+            "value": "improvemnetDetails",
+            "code": "AST_IMPROVEMENTS_DETAILS",
             "type": "text",
             "isMandatory": false,
-            "onChange": "setHowassetbeingused",
+            "onChange": "setimprovemnetDetails",
+            "group": "physicialCharacteristics",
+            "active": true,
+            "columnType": "text",
+            "conditionalField": {
+              "dependsOn": "anyImprovements",
+              "showWhen": "YES"
+            }
+          },
+          {
+            "name": "improvementDate",
+            "value": "improvementDate",
+            "code": "AST_IMPROVEMENT_DATE",
+            "type": "date",
+            "isMandatory": false,
+            "active": true,
+            "onChange": "setimprovementDate",
+            "group": "physicialCharacteristics",
+            "conditionalField": {
+              "dependsOn": "anyImprovements",
+              "showWhen": "YES"
+            }
+          },
+          {
+            "name": "improvementCost",
+            "value": "improvementCost",
+            "code": "AST_IMPROVEMENT_COST",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setimprovementCost",
+            "group": "physicialCharacteristics",
+            "active": true,
+            "columnType": "number",
+            "conditionalField": {
+              "dependsOn": "anyImprovements",
+              "showWhen": "YES"
+            }
+          },
+          {
+            "name": "valueAdded",
+            "value": "valueAdded",
+            "code": "AST_VALUE_ADDED",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setvalueAdded",
+            "group": "physicialCharacteristics",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "acquistionDate",
+            "value": "acquistionDate",
+            "code": "AST_ACQUISTION_DATE",
+            "type": "date",
+            "isMandatory": false,
+            "onChange": "setacquistionDate",
+            "group": "acquistionDetails",
+            "active": true
+          },
+          {
+            "name": "dateOfDeedExecution",
+            "value": "dateOfDeedExecution",
+            "code": "AST_DATE_DEED_EXECUTION",
+            "type": "date",
+            "isMandatory": false,
+            "onChange": "setdateofDeedExecution",
+            "group": "acquistionDetails",
+            "active": true
+          },
+          {
+            "name": "dateOfPossession",
+            "value": "dateOfPossession",
+            "code": "AST_DATE_POSSESION",
+            "type": "date",
+            "isMandatory": false,
+            "onChange": "setdateofPossesion",
+            "group": "acquistionDetails",
+            "active": true
+          },
+          {
+            "name": "fromWhomDeedTaken",
+            "value": "fromWhomDeedTaken",
+            "code": "AST_FROM_DEED_TAKEN",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setfromWhomDeedTaken",
+            "group": "acquistionDetails",
             "active": true,
             "columnType": "text"
           }
