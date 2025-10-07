@@ -46,6 +46,26 @@
         "code": "tradelicense",
         "name": "Trade License",
         "active": true
+      },
+      {
+        "code": "wt",
+        "name": "Water Tanker",
+        "active": true
+      },
+      {
+        "code": "mt",
+        "name": "Mobile Toilet",
+        "active": true
+      },
+      {
+        "code": "tp",
+        "name": "Tree Pruning",
+        "active": true
+      },
+      {
+        "code": "cnd",
+        "name": "Construction & Demolition",
+        "active": true
       }
     ]
   }
