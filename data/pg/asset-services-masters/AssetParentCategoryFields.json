@@ -12,10 +12,11 @@
             "value": "assetId",
             "code": "AST_ID",
             "type": "text",
-            "isMandatory": true,
+            "isMandatory": false,
             "group": "generalDetails",
             "active": true,
-            "columnType": "text"
+            "columnType": "text",
+            "disable": true
           },
           {
             "name": "modeOfPossessionOrAcquisition",
@@ -88,7 +89,7 @@
             ]
           },
           {
-            "name": "howAssetBeingUsed",
+            "name": "assetUsage",
             "code": "AST_HOW_ASSET_USE",
             "type": "dropdown",
             "isMandatory": true,
@@ -126,6 +127,73 @@
                 "value": "MIXED USE"
               }
             ]
+          },
+          {
+            "name": "depriciationRate",
+            "value": "depriciationRate",
+            "code": "AST_DEPRICIATION_RATE",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setDepriciationRate",
+            "group": "acquistionDetails",
+            "disable": true,
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "depriciationMethod",
+            "value": "depriciationMethod",
+            "code": "AST_DEPRICIATION_METHOD",
+            "type": "dropdown",
+            "isMandatory": false,
+            "group":"acquistionDetails",
+            "disable": true,
+            "active": true,
+            "options": [
+              {
+                "code": "STRAIGHT_LINE_METHOD",
+                "i18nKey": "Straight Line Method",
+                "value": "Straight Line Method"
+              },
+              {
+                "code": "WRITTEN_VALUE_METHOD",
+                "i18nKey": "Written Down Value Method",
+                "value": "Written Down Value Method"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "parent": null,
+        "assetClassification": "MOVABLE",
+        "assetParentCategory": "IT",
+        "depreciationMethod": "Straight Line method",
+        "isAssetAllowFromUi": true,
+        "unitOfMeasurement": "NOS",
+        "isDepreciationApplicable": true,
+        "depreciationRate": "10",
+        "fields": [
+          {
+            "name": "brand",
+            "value": "brand",
+            "code": "AST_BRAND",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setBrand",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "manufacturer",
+            "value": "manufacturer",
+            "code": "AST_MANUFACTURER",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "selectmanufacturer",
+            "active": true,
+            "columnType": "text"
           },
           {
             "name": "warranty",
@@ -172,49 +240,6 @@
                 "value": "NA"
               }
             ]
-          },
-          {
-            "name": "assetAge",
-            "value": "assetAge",
-            "code": "AST_ASSET_AGE",
-            "type": "text",
-            "isMandatory": false,
-            "isNeeded": false,
-            "active": true,
-            "columnType": "text"
-          }
-        ]
-      },
-      {
-        "id": "1",
-        "parent": null,
-        "assetClassification": "MOVABLE",
-        "assetParentCategory": "IT",
-        "depreciationMethod": "Straight Line method",
-        "isAssetAllowFromUi": true,
-        "unitOfMeasurement": "NOS",
-        "isDepreciationApplicable": true,
-        "depreciationRate": "10",
-        "fields": [
-          {
-            "name": "brand",
-            "value": "brand",
-            "code": "AST_BRAND",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setBrand",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "manufacturer",
-            "value": "manufacturer",
-            "code": "AST_MANUFACTURER",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "selectmanufacturer",
-            "active": true,
-            "columnType": "text"
           }
         ]
       },
@@ -321,41 +346,6 @@
             "group": "acquistionDetails",
             "active": true,
             "columnType": "text"
-          },
-          {
-            "name": "depriciationRate",
-            "value": "depriciationRate",
-            "code": "AST_DEPRICIATION_RATE",
-            "type": "num",
-            "isMandatory": false,
-            "onChange": "setDepriciationRate",
-            "depriciationRate": "N/A",
-            "group": "acquistionDetails",
-            "disable": true,
-            "active": true,
-            "columnType": "number"
-          },
-          {
-            "name": "depriciationMethod",
-            "value": "depriciationMethod",
-            "code": "AST_DEPRICIATION_METHOD",
-            "type": "dropdown",
-            "isMandatory": false,
-            "group":"acquistionDetails",
-            "disable": true,
-            "active": true,
-            "options": [
-              {
-                "code": "STRAIGHT_LINE_METHOD",
-                "i18nKey": "Straight Line Method",
-                "value": "Straight Line Method"
-              },
-              {
-                "code": "WRITTEN_VALUE_METHOD",
-                "i18nKey": "Written Down Value Method",
-                "value": "Written Down Value Method"
-              }
-            ]
           },
           {
             "name": "landStatus",
@@ -584,7 +574,7 @@
             "name": "unitsofMeasurments",
             "code": "AST_UNITS",
             "type": "dropdown",
-            "isMandatory": true,
+            "isMandatory": false,
             "active": true,
             "group":"physicialCharacteristics",
             "options": [
