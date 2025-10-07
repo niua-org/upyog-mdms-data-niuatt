@@ -28,6 +28,11 @@
         "active": true
       },
       {
+        "name": "Not Applicable",
+        "code": "NOT_APPLICABLE",
+        "active": true
+      },
+      {
         "name": "Own Source",
         "code": "OWN_SOURCE",
         "active": false
