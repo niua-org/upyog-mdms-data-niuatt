@@ -3,116 +3,146 @@
     "moduleName": "ASSET",
     "assetCategory": [
       {
-        "name": "Vacant Land",
-        "code": "VACANT_LAND",
+        "name": "Parks",
+        "code": "PARKS",
         "active": true,
         "assetParentCategory": "LAND"
       },
       {
-        "name": "Open Spaces",
-        "code": "OPEN_SPACES",
+        "name": "Playground",
+        "code": "PLAYGROUND",
         "active": true,
         "assetParentCategory": "LAND"
       },
       {
-        "name": "Parks and Gardens",
-        "code": "PARKS_AND_GARDENS",
+        "name": "Agricultural Land",
+        "code": "AGRICULTURAL_LAND",
         "active": true,
         "assetParentCategory": "LAND"
       },
       {
-        "name": "Burial Grounds",
-        "code": "BURIAL_GROUNDS",
+        "name": "Vehicle Parking Areas",
+        "code": "VEHICLE_PARKING_AREAS",
         "active": true,
         "assetParentCategory": "LAND"
       },
       {
-        "name": "Cremation Grounds",
-        "code": "CREMATION_GROUNDS",
+        "name": "Bus Stands",
+        "code": "BUS_STANDS",
         "active": true,
         "assetParentCategory": "LAND"
       },
       {
-        "name": "Athletic Fields",
-        "code": "ATHLETIC_FIELDS",
+        "name": "Cycle Stands",
+        "code": "CYCLE_STANDS",
         "active": true,
         "assetParentCategory": "LAND"
       },
       {
-        "name": "Market yards/Structures",
-        "code": "MARKET_YARDS_STRUCTURES",
+        "name": "Lakes & Ponds",
+        "code": "LAKES_PONDS",
         "active": true,
         "assetParentCategory": "LAND"
       },
       {
-        "name": "Cultural/Tourism",
-        "code": "CULTURAL_TOURISM",
-        "active": true,
-        "assetParentCategory": "LAND"
-      },
-      {
-        "name": "Waste Landfill Sites",
-        "code": "WASTE_LANDFILL_SITES",
-        "active": true,
-        "assetParentCategory": "LAND"
-      },
-      {
-        "name": "Administration",
-        "code": "ADMINISTRATION",
+        "name": "Office Buildings",
+        "code": "OFFICE_BUILDINGS",
         "active": true,
         "assetParentCategory": "BUILDING"
       },
       {
-        "name": "Commercial",
-        "code": "COMMERCIAL",
+        "name": "School Buildings",
+        "code": "SCHOOL_BUILDING",
         "active": true,
         "assetParentCategory": "BUILDING"
       },
       {
-        "name": "Education",
-        "code": "EDUCATION",
+        "name": "Market",
+        "code": "MARKET_BUILDINGS",
         "active": true,
         "assetParentCategory": "BUILDING"
       },
       {
-        "name": "Health",
-        "code": "HEALTH",
+        "name": "Shopping Mall",
+        "code": "SHOPPING_MALL",
         "active": true,
         "assetParentCategory": "BUILDING"
       },
       {
-        "name": "Industrial",
-        "code": "INDUSTRIAL",
+        "name": "Public Convenience",
+        "code": "PUBLIC_CONVENIENCE",
         "active": true,
         "assetParentCategory": "BUILDING"
       },
       {
-        "name": "Public Facilities",
-        "code": "PUBLIC_FACILITIES",
+        "name": "Community Centre",
+        "code": "COMMUNITY_CENTRE",
         "active": true,
         "assetParentCategory": "BUILDING"
       },
       {
-        "name": "Recreation",
-        "code": "RECREATION",
+        "name": "Child Welfare Centre",
+        "code": "CHILD_WELFARE_CENTRE",
         "active": true,
         "assetParentCategory": "BUILDING"
       },
       {
-        "name": "Residential",
-        "code": "RESIDENTIAL",
+        "name": "Polyclinics",
+        "code": "POLYCLINICS",
         "active": true,
         "assetParentCategory": "BUILDING"
       },
       {
-        "name": "Services",
-        "code": "SERVICES",
+        "name": "Milk Booth",
+        "code": "MILK_BOOTH",
         "active": true,
         "assetParentCategory": "BUILDING"
       },
       {
-        "name": "Storage",
-        "code": "STORAGE",
+        "name": "Workshop",
+        "code": "WORKSHOP",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Fire Station",
+        "code": "FIRE_STATIONS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Store Buildings",
+        "code": "STORE_BUILDINGS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Staff Quarters",
+        "code": "STAFF_QUARTERS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Covered Parking Areas",
+        "code": "COVERED_PARKING_AREAS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Garbage Vats",
+        "code": "GARBAGE_VATS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Transfer Station",
+        "code": "TRANSFER_STATION",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Fountains",
+        "code": "FOUNTAINS",
         "active": true,
         "assetParentCategory": "BUILDING"
       },
@@ -280,4 +310,3 @@
       }
     ]
   }
-  
