@@ -7,13 +7,92 @@
         "parent": null,
         "assetParentCategory": "COMMON",
         "fields": [
-          
+          {
+            "name": "assetId",
+            "value": "assetId",
+            "code": "AST_ID",
+            "type": "text",
+            "isMandatory": true,
+            "group": "generalDetails",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "modeOfPossessionOrAcquisition",
+            "code": "AST_MODE_OF_POSSESSION_OR_ACQUISITION",
+            "type": "dropdown",
+            "isMandatory": true,
+            "group": "generalDetails",
+            "active": true,
+            "options": [
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Purchase",
+                "code": "PURCHASE",
+                "value": "Purchase"
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Donated",
+                "code": "DONATED",
+                "value": "Donated "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Inherited",
+                "code": "INHERITED",
+                "value": "Inherited "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Leased",
+                "code": "LEASED",
+                "value": "Leased "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Gifted",
+                "code": "GIFTED",
+                "value": "Gifted "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Constructed",
+                "code": "CONSTRUCTED",
+                "value": "Constructed "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Acquired through exchange",
+                "code": "ACQUIRED THROUGH EXCHANGE",
+                "value": "Acquired through exchange "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Transferred",
+                "code": "TRANSFERRED",
+                "value": "Transferred"
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Government grant",
+                "code": "GOVERNMENT_GRANT",
+                "value": "Government grant"
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Other",
+                "code": "OTHER",
+                "value": "Other"
+              }
+            ]
+          },
           {
             "name": "warranty",
             "code": "AST_WARRANTY",
             "type": "dropdown",
-            "masterName": "Warranty",  
             "isMandatory": false,
+            "isNeeded": false,
             "active": true,
             "options": [
               {
@@ -53,9 +132,19 @@
                 "value": "NA"
               }
             ]
+          },
+          {
+            "name": "assetAge",
+            "value": "assetAge",
+            "code": "AST_ASSET_AGE",
+            "type": "text",
+            "isMandatory": false,
+            "isNeeded": false,
+            "active": true,
+            "columnType": "text"
           }
         ]
-      },   
+      },
       {
         "id": "1",
         "parent": null,
@@ -151,27 +240,16 @@
         "isAssetAllowFromUi": true,
         "unitOfMeasurement": "SFT",
         "isDepreciationApplicable": false,
-        "depreciationRate": "0",
         "fields": [
           {
-            "name": "landType",
-            "value": "landType",
-            "code": "AST_LAND_TYPE",
-            "type": "text",
+            "name": "acquistionDate",
+            "value": "acquistionDate",
+            "code": "AST_ACQUISTION_DATE",
+            "type": "date",
             "isMandatory": false,
-            "onChange": "setLandType",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "area",
-            "value": "area",
-            "code": "AST_LAND_AREA",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setArea",
-            "active": true,
-            "columnType": "text"
+            "onChange": "setacquistionDate",
+            "group": "acquistionDetails",
+            "active": true
           },
           {
             "name": "dateOfDeedExecution",
@@ -180,6 +258,7 @@
             "type": "date",
             "isMandatory": false,
             "onChange": "setdateofDeedExecution",
+            "group": "acquistionDetails",
             "active": true
           },
           {
@@ -189,6 +268,7 @@
             "type": "date",
             "isMandatory": false,
             "onChange": "setdateofPossesion",
+            "group": "acquistionDetails",
             "active": true
           },
           {
@@ -198,84 +278,160 @@
             "type": "text",
             "isMandatory": false,
             "onChange": "setfromWhomDeedTaken",
+            "group": "acquistionDetails",
             "active": true,
             "columnType": "text"
           },
           {
-            "name": "governmentOrderNumber",
-            "value": "governmentOrderNumber",
-            "code": "AST_GOVT_ORDER_NUM",
+            "name": "depriciationRate",
+            "value": "depriciationRate",
+            "code": "AST_DEPRICIATION_RATE",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setDepriciationRate",
+            "depriciationRate": "N/A",
+            "group": "acquistionDetails",
+            "disable": true,
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "depriciationMethod",
+            "value": "depriciationMethod",
+            "code": "AST_DEPRICIATION_METHOD",
+            "type": "dropdown",
+            "isMandatory": false,
+            "group":"acquistionDetails",
+            "disable": true,
+            "active": true,
+            "options": [
+              {
+                "code": "STRAIGHT_LINE_METHOD",
+                "i18nKey": "Straight Line Method",
+                "value": "Straight Line Method"
+              },
+              {
+                "code": "WRITTEN_VALUE_METHOD",
+                "i18nKey": "Written Down Value Method",
+                "value": "Written Down Value Method"
+              }
+            ]
+          },
+          {
+            "name": "landStatus",
+            "code": "AST_LAND_STATUS",
+            "type": "dropdown",
+            "isMandatory": false,
+            "group":"physicialCharacteristics",
+            "active": true,
+            "options": [
+              {
+                "code": "LEASEHOLD",
+                "i18nKey": "LEASEHOLD",
+                "value": "Leasehold"
+              },
+              {
+                "code": "FREEHOLD",
+                "i18nKey": "FREEHOLD",
+                "value": "Freehold"
+              }
+            ]
+          },
+          {
+            "name": "leaseEndDate",
+            "value": "leaseEndDate",
+            "code": "AST_LEASE_END_DATE",
+            "type": "date",
+            "isMandatory": false,
+            "active": true,
+            "onChange": "setleaseEndDate",
+            "group":"physicialCharacteristics",
+            "conditionalField": {
+              "dependsOn": "landStatus",
+              "showWhen": "LEASEHOLD"
+            }
+          },
+          {
+            "name": "anyImprovements",
+            "code": "AST_IMPROVEMENTS",
+            "type": "dropdown",
+            "isMandatory": false,
+            "group": "physicialCharacteristics",
+            "active": true,
+            "options": [
+              {
+                "code": "YES",
+                "i18nKey": "YES",
+                "value": "Yes"
+              },
+              {
+                "code": "NO",
+                "i18nKey": "NO",
+                "value": "No"
+              }
+            ]
+          },
+          {
+            "name": "improvemnetDetails",
+            "value": "improvemnetDetails",
+            "code": "AST_IMPROVEMENTS_DETAILS",
             "type": "text",
             "isMandatory": false,
-            "onChange": "setgovernmentorderNumber",
+            "onChange": "setimprovemnetDetails",
+            "group": "physicialCharacteristics",
             "active": true,
-            "columnType": "text"
+            "columnType": "text",
+            "conditionalField": {
+              "dependsOn": "anyImprovements",
+              "showWhen": "YES"
+            }
           },
           {
-            "name": "councilResolutionNumber",
-            "value": "councilResolutionNumber",
-            "code": "AST_COUNCIL_RES_NUM",
-            "type": "text",
+            "name": "improvementDate",
+            "value": "improvementDate",
+            "code": "AST_IMPROVEMENT_DATE",
+            "type": "date",
             "isMandatory": false,
-            "onChange": "setcouncilResolutionNumber",
             "active": true,
-            "columnType": "text"
+            "onChange": "setimprovementDate",
+            "group": "physicialCharacteristics",
+            "conditionalField": {
+              "dependsOn": "anyImprovements",
+              "showWhen": "YES"
+            }
           },
           {
-            "name": "awardNumber",
-            "value": "awardNumber",
-            "code": "AST_AWARD_NUMBER",
-            "type": "text",
+            "name": "improvementCost",
+            "value": "improvementCost",
+            "code": "AST_IMPROVEMENT_COST",
+            "type": "num",
             "isMandatory": false,
-            "onChange": "setawardNumber",
+            "onChange": "setimprovementCost",
+            "group": "physicialCharacteristics",
             "active": true,
-            "columnType": "text"
+            "columnType": "number",
+            "conditionalField": {
+              "dependsOn": "anyImprovements",
+              "showWhen": "YES"
+            }
           },
           {
-            "name": "oAndMCOI",
-            "value": "oAndMCOI",
-            "code": "AST_COI",
-            "type": "text",
+            "name": "valueAdded",
+            "value": "valueAdded",
+            "code": "AST_VALUE_ADDED",
+            "type": "num",
             "isMandatory": false,
-            "onChange": "setoandMCOI",
+            "onChange": "setvalueAdded",
+            "group": "physicialCharacteristics",
             "active": true,
-            "columnType": "text"
+            "columnType": "number"
           },
-          {
-            "name": "oAndMTaskDetail",
-            "value": "oAndMTaskDetail",
-            "code": "AST_OM_TASK",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setoandMTaskDetail",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "osrLand",
-            "value": "osrLand",
-            "code": "AST_OSR_LAND",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setoSRLand",
-            "active": true,
-            "columnType": "text"
-          },
-          {
-            "name": "howAssetBeingUsed",
-            "value": "howAssetBeingUsed",
-            "code": "AST_HOW_ASSET_USE",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setHowassetbeingused",
-            "active": true,
-            "columnType": "text"
-          },
-          {
+           {
             "name": "isitFenced",
             "code": "Is it Fenced",
             "type": "dropdown",
             "isMandatory": false,
+            "group":"physicialCharacteristics",
             "active": true,
             "options": [
               {
@@ -297,6 +453,7 @@
             "code": "AST_ANY_BUILTUP",
             "type": "dropdown",
             "isMandatory": false,
+            "group":"physicialCharacteristics",
             "active": true,
             "options": [
               {
@@ -313,15 +470,91 @@
               }
             ]
           },
-          {
+           {
             "name": "howAssetBeingUsed",
-            "value": "howAssetBeingUsed",
             "code": "AST_HOW_ASSET_USE",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setHowassetbeingused",
+            "type": "dropdown",
+            "isMandatory": true,
+            "group":"generalDetails",
             "active": true,
-            "columnType": "text"
+            "options": [
+              {
+                "code": "AGRICULTURE_WATER_BODIES",
+                "i18nKey": "AGRICULTURE & WATER BODIES",
+                "value": "AGRICULTURE"
+              },
+              {
+                "code": "RESIDENTIAL",
+                "i18nKey": "RESIDENTIAL",
+                "value": "RESIDENTIAL"
+              },
+              {
+                "code": "COMMERCIAL",
+                "i18nKey": "COMMERCIAL",
+                "value": "COMMERCIAL"
+              },
+              {
+                "code": "PUBLIC_UTILITIES",
+                "i18nKey": "PUBLIC UTILITIES",
+                "value": "PUBLIC UTILITIES"
+              },
+              {
+                "code": "PROTECTIVE",
+                "i18nKey": "PROTECTIVE & UNDEVELOPABLE USE ZONE",
+                "value": "PROTECTIVE & UNDEVELOPABLE"
+              },
+              {
+                "code": "MIXED_USE",
+                "i18nKey": "MIXED USE",
+                "value": "MIXED USE"
+              }
+            ]
+          },
+          {
+            "name": "area",
+            "value": "area",
+            "code": "AST_LAND_AREA",
+            "type": "num",
+            "isMandatory": true,
+            "onChange": "setArea",
+            "group":"generalDetails",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "unitsofMeasurments",
+            "code": "AST_UNITS",
+            "type": "dropdown",
+            "isMandatory": true,
+            "active": true,
+            "group":"generalDetails",
+            "options": [
+              {
+                "code": "ACRE",
+                "i18nKey": "Acre",
+                "value": "Acre"
+              },
+              {
+                "code": "HECTARE",
+                "i18nKey": "Hectare",
+                "value": "Hectare"
+              },
+              {
+                "code": "SQUARE_METER",
+                "i18nKey": "Square Meter (sq.m)",
+                "value": "Square Meter"
+              },
+              {
+                "code": "SQUARE_FOOT",
+                "i18nKey": "Square Foot (sq.ft)",
+                "value": "Square Foot"
+              },
+              {
+                "code": "SQUARE_YARD",
+                "i18nKey": "Square Yard (Gaj)",
+                "value": "Square Yard"
+              }
+            ]
           }
         ]
       },
