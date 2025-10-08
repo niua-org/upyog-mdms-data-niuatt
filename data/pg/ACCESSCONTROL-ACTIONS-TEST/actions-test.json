@@ -21505,6 +21505,45 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
-    }   
+    },
+	{
+         "id": 3080,
+         "name": "Building Report",
+         "url": "url",
+         "displayName": "Building Report",
+         "orderNumber": 3,
+         "parentModule": "asset-services-masters",
+         "enabled": true,
+         "serviceCode": "ASSET",
+         "code": "null",
+         "path": "Asset.Reports.DetailedBuildingAssetsReport",
+         "navigationURL": "report/rainmaker-asset/DetailedBuildingAssetsReport",
+         "leftIcon": "places:business-center",
+         "rightIcon": ""
+      },
+      {
+         "id": 3081,
+         "name": "DetailedBuildingAssetsReport",
+         "url": "/report/rainmaker-asset/DetailedBuildingAssetsReport/metadata/_get",
+         "displayName": "rainmaker-asset-DetailedBuildingAssetsReport",
+         "orderNumber": 8,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3082,
+         "name": "DetailedBuildingAssetsReport",
+         "url": "/report/rainmaker-asset/DetailedBuildingAssetsReport/_get",
+         "displayName": "rainmaker-asset-DetailedBuildingAssetsReport",
+         "orderNumber": 9,
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "report",
+         "code": "null",
+         "path": ""
+      }   
   ]
 }
