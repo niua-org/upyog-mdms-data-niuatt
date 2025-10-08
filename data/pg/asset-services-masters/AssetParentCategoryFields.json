@@ -594,7 +594,7 @@
             "name": "totalCarpetArea",
             "value": "totalCarpetArea",
             "code": "AST_CARPET_AREA",
-            "type": "text",
+            "type": "num",
             "isMandatory": false,
              "group":"physicialCharacteristics",
             "onChange": "settotalCarpetArea",
@@ -605,7 +605,7 @@
             "name": "floorNo",
             "value": "floorNo",
             "code": "AST_FLOORS_NO",
-            "type": "text",
+            "type": "num",
             "isMandatory": false,
              "group":"physicialCharacteristics",
             "onChange": "setFloorNo",
@@ -616,23 +616,23 @@
             "name": "plotArea",
             "value": "plotArea",
             "code": "AST_PLOT_AREA",
-            "type": "text",
+            "type": "num",
             "group":"physicialCharacteristics",
             "isMandatory": false,
             "onChange": "setPlotArea",
             "active": true,
-            "columnType": "text"
+            "columnType": "number"
           },
           {
             "name": "plinthArea",
             "value": "plinthArea",
             "code": "AST_PLINTH_AREA",
-            "type": "text",
+            "type": "num",
             "isMandatory": false,
             "group":"physicialCharacteristics",
             "onChange": "setPlinthArea",
             "active": true,
-            "columnType": "text"
+            "columnType": "number"
           },
           {
             "name": "anyImprovements",
@@ -894,6 +894,70 @@
       },
       {
         "id": "6",
+        "parent": null,
+        "assetClassification": "MOVABLE",
+        "assetParentCategory": "PLANTS_MACHINERY",
+        "isAssetAllowFromUi": true,
+        "unitOfMeasurement": "SFT",
+        "isDepreciationApplicable": true,
+        "fields": [
+          {
+            "name": "capacity",
+            "value": "capacity",
+            "code": "AST_CAPACITY",
+            "group":"physicialCharacteristics",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setCapacity",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "shiftsUsed",
+            "value": "shiftsUsed",
+            "code": "AST_SHIFTS_USED",
+            "group":"physicialCharacteristics",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setCapacity",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "yearOfCommencement",
+            "value": "yearOfCommencement",
+            "code": "AST_YEAR_COMMENCEMENT",
+            "group":"physicialCharacteristics",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setYearOfCommencement",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "assignableAssets",
+            "code": "AST_ASSIGNABLE_ASSETS",
+            "type": "dropdown",
+            "isMandatory": false,
+            "active": true,
+            "group":"physicialCharacteristics",
+            "options": [
+              {
+                "code": "YES",
+                "i18nKey": "Yes",
+                "value": "Yes"
+              },
+              {
+                "code": "NO",
+                "i18nKey": "No",
+                "value": "No"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
         "parent": null,
         "assetClassification": "MOVABLE",
         "assetParentCategory": "OTHER",
