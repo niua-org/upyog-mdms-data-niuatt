@@ -19,6 +19,14 @@
         "depriciationMethod":"STRAIGHT LINE METHOD"
       },
       {
+        "name": "Plants & Machinery",
+        "code": "PLANTS_MACHINERY",
+        "active": true,
+        "assetClassification": "MOVABLE",
+        "depriciationRate": 10,
+        "depriciationMethod":"STRAIGHT LINE METHOD"
+      },
+      {
         "name": "Service",
         "code": "SERVICE",
         "active": true,

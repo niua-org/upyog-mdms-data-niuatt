@@ -147,6 +147,42 @@
         "assetParentCategory": "BUILDING"
       },
       {
+        "name": "Road Roller",
+        "code": "ROAD_ROLLER",
+        "active": true,
+        "assetParentCategory": "PLANTS_MACHINERY"
+      },
+      {
+        "name": "Medical Equipment",
+        "code": "MEDICAL_EQUIPMENT",
+        "active": true,
+        "assetParentCategory": "PLANTS_MACHINERY"
+      },
+      {
+        "name": "School Equipment",
+        "code": "SCHOOL_EQUIPMENT",
+        "active": true,
+        "assetParentCategory": "PLANTS_MACHINERY"
+      },
+      {
+        "name": "Public Health Equipment",
+        "code": "PUBLIC_HEALTH_EQUIPMENT",
+        "active": true,
+        "assetParentCategory": "PLANTS_MACHINERY"
+      },
+      {
+        "name": "Electrical Equipment",
+        "code": "ELECTRICAL_EQUIPMENT",
+        "active": true,
+        "assetParentCategory": "PLANTS_MACHINERY"
+      },
+      {
+        "name": "Other Equipments",
+        "code": "OTHER_EQUIPMENTS",
+        "active": true,
+        "assetParentCategory": "PLANTS_MACHINERY"
+      },
+      {
         "name": "Road Infrastructure",
         "code": "ROAD_INFRASTRUCTURE",
         "active": true,
