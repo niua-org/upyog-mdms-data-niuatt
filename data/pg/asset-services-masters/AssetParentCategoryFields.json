@@ -89,44 +89,15 @@
             ]
           },
           {
-            "name": "assetUsage",
-            "code": "AST_HOW_ASSET_USE",
-            "type": "dropdown",
-            "isMandatory": true,
-            "group":"generalDetails",
+            "name": "lifeOfAsset",
+            "value": "lifeOfAsset",
+            "code": "AST_LIFE_OF_ASSET",
+            "type": "num",
+            "isMandatory": false,
+            "group": "acquistionDetails",
             "active": true,
-            "options": [
-              {
-                "code": "AGRICULTURE_WATER_BODIES",
-                "i18nKey": "AGRICULTURE & WATER BODIES",
-                "value": "AGRICULTURE"
-              },
-              {
-                "code": "RESIDENTIAL",
-                "i18nKey": "RESIDENTIAL",
-                "value": "RESIDENTIAL"
-              },
-              {
-                "code": "COMMERCIAL",
-                "i18nKey": "COMMERCIAL",
-                "value": "COMMERCIAL"
-              },
-              {
-                "code": "PUBLIC_UTILITIES",
-                "i18nKey": "PUBLIC UTILITIES",
-                "value": "PUBLIC UTILITIES"
-              },
-              {
-                "code": "PROTECTIVE",
-                "i18nKey": "PROTECTIVE & UNDEVELOPABLE USE ZONE",
-                "value": "PROTECTIVE & UNDEVELOPABLE"
-              },
-              {
-                "code": "MIXED_USE",
-                "i18nKey": "MIXED USE",
-                "value": "MIXED USE"
-              }
-            ]
+            "columnType": "number",
+            "disable": false
           },
           {
             "name": "depriciationRate",
@@ -307,6 +278,80 @@
         "isDepreciationApplicable": false,
         "fields": [
           {
+            "name": "assetUsage",
+            "code": "AST_HOW_ASSET_USE",
+            "type": "dropdown",
+            "isMandatory": true,
+            "group":"generalDetails",
+            "active": true,
+            "options": [
+              {
+                "code": "AGRICULTURE_WATER_BODIES",
+                "i18nKey": "AGRICULTURE & WATER BODIES",
+                "value": "AGRICULTURE"
+              },
+              {
+                "code": "RESIDENTIAL",
+                "i18nKey": "RESIDENTIAL",
+                "value": "RESIDENTIAL"
+              },
+              {
+                "code": "COMMERCIAL",
+                "i18nKey": "COMMERCIAL",
+                "value": "COMMERCIAL"
+              },
+              {
+                "code": "PUBLIC_UTILITIES",
+                "i18nKey": "PUBLIC UTILITIES",
+                "value": "PUBLIC UTILITIES"
+              },
+              {
+                "code": "PROTECTIVE",
+                "i18nKey": "PROTECTIVE & UNDEVELOPABLE USE ZONE",
+                "value": "PROTECTIVE & UNDEVELOPABLE"
+              },
+              {
+                "code": "MIXED_USE",
+                "i18nKey": "MIXED USE",
+                "value": "MIXED USE"
+              }
+            ]
+          },
+          {
+            "name": "landStatus",
+            "code": "AST_LAND_STATUS",
+            "type": "dropdown",
+            "isMandatory": true,
+            "group":"generalDetails",
+            "active": true,
+            "options": [
+              {
+                "code": "LEASEHOLD",
+                "i18nKey": "LEASEHOLD",
+                "value": "Leasehold"
+              },
+              {
+                "code": "FREEHOLD",
+                "i18nKey": "FREEHOLD",
+                "value": "Freehold"
+              }
+            ]
+          },
+          {
+            "name": "leaseEndDate",
+            "value": "leaseEndDate",
+            "code": "AST_LEASE_END_DATE",
+            "type": "date",
+            "isMandatory": false,
+            "active": true,
+            "onChange": "setleaseEndDate",
+            "group":"generalDetails",
+            "conditionalField": {
+              "dependsOn": "landStatus",
+              "showWhen": "LEASEHOLD"
+            }
+          },
+          {
             "name": "acquistionDate",
             "value": "acquistionDate",
             "code": "AST_ACQUISTION_DATE",
@@ -348,38 +393,39 @@
             "columnType": "text"
           },
           {
-            "name": "landStatus",
-            "code": "AST_LAND_STATUS",
+            "name": "landUtilization",
+            "code": "AST_UTILIZATION",
             "type": "dropdown",
             "isMandatory": false,
-            "group":"physicialCharacteristics",
+            "group": "physicialCharacteristics",
             "active": true,
             "options": [
               {
-                "code": "LEASEHOLD",
-                "i18nKey": "LEASEHOLD",
-                "value": "Leasehold"
+                "code": "FORESTATION",
+                "i18nKey": "Forestation",
+                "value": "Forestation"
               },
               {
-                "code": "FREEHOLD",
-                "i18nKey": "FREEHOLD",
-                "value": "Freehold"
+                "code": "OPEN_GROUND",
+                "i18nKey": "Open Ground",
+                "value": "Open Ground"
+              },
+              {
+                "code": "ENROACHMENT",
+                "i18nKey": "Encroachment",
+                "value": "Encroachment"
+              },
+              {
+                "code": "CHILDREN_PARK",
+                "i18nKey": "Children Park",
+                "value": "Children Park"
+              },
+              {
+                "code": "OTHER",
+                "i18nKey": "Other",
+                "value": "Other"
               }
             ]
-          },
-          {
-            "name": "leaseEndDate",
-            "value": "leaseEndDate",
-            "code": "AST_LEASE_END_DATE",
-            "type": "date",
-            "isMandatory": false,
-            "active": true,
-            "onChange": "setleaseEndDate",
-            "group":"physicialCharacteristics",
-            "conditionalField": {
-              "dependsOn": "landStatus",
-              "showWhen": "LEASEHOLD"
-            }
           },
           {
             "name": "anyImprovements",
@@ -563,9 +609,9 @@
             "name": "dimensions",
             "value": "dimensions",
             "code": "AST_DIMENSIONS",
-            "group":"physicialCharacteristics",
+            "group":"generalDetails",
             "type": "text",
-            "isMandatory": false,
+            "isMandatory": true,
             "onChange": "setDimensions",
             "active": true,
             "columnType": "text"
@@ -574,9 +620,9 @@
             "name": "unitsofMeasurments",
             "code": "AST_UNITS",
             "type": "dropdown",
-            "isMandatory": false,
+            "isMandatory": true,
             "active": true,
-            "group":"physicialCharacteristics",
+            "group":"generalDetails",
             "options": [
               {
                 "code": "METER",
@@ -595,8 +641,8 @@
             "value": "totalCarpetArea",
             "code": "AST_CARPET_AREA",
             "type": "num",
-            "isMandatory": false,
-             "group":"physicialCharacteristics",
+            "isMandatory": true,
+             "group":"generalDetails",
             "onChange": "settotalCarpetArea",
             "active": true,
             "columnType": "number"
@@ -606,8 +652,8 @@
             "value": "floorNo",
             "code": "AST_FLOORS_NO",
             "type": "num",
-            "isMandatory": false,
-             "group":"physicialCharacteristics",
+            "isMandatory": true,
+             "group":"generalDetails",
             "onChange": "setFloorNo",
             "active": true,
             "columnType": "number"
@@ -617,8 +663,8 @@
             "value": "plotArea",
             "code": "AST_PLOT_AREA",
             "type": "num",
-            "group":"physicialCharacteristics",
-            "isMandatory": false,
+            "group":"generalDetails",
+            "isMandatory": true,
             "onChange": "setPlotArea",
             "active": true,
             "columnType": "number"
@@ -628,8 +674,8 @@
             "value": "plinthArea",
             "code": "AST_PLINTH_AREA",
             "type": "num",
-            "isMandatory": false,
-            "group":"physicialCharacteristics",
+            "isMandatory": true,
+            "group":"generalDetails",
             "onChange": "setPlinthArea",
             "active": true,
             "columnType": "number"
