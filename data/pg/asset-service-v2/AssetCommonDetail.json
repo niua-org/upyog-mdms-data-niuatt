@@ -1,0 +1,26 @@
+{
+  "tenantId": "pg",
+  "moduleName": "ASSETV2",
+  "AssetCommonDetail": [
+    {
+      "name": "Private",
+      "code": "PRIVATE",
+      "active": true
+    },
+    {
+      "name": "Government",
+      "code": "GOVERNMENT",
+      "active": true
+    },
+    {
+      "name": "NGO",
+      "code": "NGO",
+      "active": true
+    },
+    {
+      "name": "Partnership",
+      "code": "PARTNERSHIP",
+      "active": true
+    }
+  ]
+}

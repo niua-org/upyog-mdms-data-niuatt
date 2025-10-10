@@ -1,0 +1,1018 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSETV2",
+    "AssetParentCategoryFields": [
+      {
+        "id": "0",
+        "parent": null,
+        "assetParentCategory": "COMMON",
+        "fields": [
+          {
+            "name": "assetId",
+            "value": "assetId",
+            "code": "AST_ID",
+            "type": "text",
+            "isMandatory": false,
+            "group": "generalDetails",
+            "active": true,
+            "columnType": "text",
+            "disable": true
+          },
+          {
+            "name": "modeOfPossessionOrAcquisition",
+            "code": "AST_MODE_OF_POSSESSION_OR_ACQUISITION",
+            "type": "dropdown",
+            "isMandatory": true,
+            "group": "generalDetails",
+            "active": true,
+            "options": [
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Purchase",
+                "code": "PURCHASE",
+                "value": "Purchase"
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Donated",
+                "code": "DONATED",
+                "value": "Donated "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Inherited",
+                "code": "INHERITED",
+                "value": "Inherited "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Leased",
+                "code": "LEASED",
+                "value": "Leased "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Gifted",
+                "code": "GIFTED",
+                "value": "Gifted "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Constructed",
+                "code": "CONSTRUCTED",
+                "value": "Constructed "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Acquired through exchange",
+                "code": "ACQUIRED THROUGH EXCHANGE",
+                "value": "Acquired through exchange "
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Transferred",
+                "code": "TRANSFERRED",
+                "value": "Transferred"
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Government grant",
+                "code": "GOVERNMENT_GRANT",
+                "value": "Government grant"
+              },
+              {
+                "name": "modeOfPossessionOrAcquisition",
+                "i18nKey": "Other",
+                "code": "OTHER",
+                "value": "Other"
+              }
+            ]
+          },
+          {
+            "name": "lifeOfAsset",
+            "value": "lifeOfAsset",
+            "code": "AST_LIFE_OF_ASSET",
+            "type": "num",
+            "isMandatory": false,
+            "group": "acquistionDetails",
+            "active": true,
+            "columnType": "number",
+            "disable": false
+          },
+          {
+            "name": "depriciationRate",
+            "value": "depriciationRate",
+            "code": "AST_DEPRICIATION_RATE",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setDepriciationRate",
+            "group": "acquistionDetails",
+            "disable": true,
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "depriciationMethod",
+            "value": "depriciationMethod",
+            "code": "AST_DEPRICIATION_METHOD",
+            "type": "dropdown",
+            "isMandatory": false,
+            "group":"acquistionDetails",
+            "disable": true,
+            "active": true,
+            "options": [
+              {
+                "code": "STRAIGHT_LINE_METHOD",
+                "i18nKey": "Straight Line Method",
+                "value": "Straight Line Method"
+              },
+              {
+                "code": "WRITTEN_VALUE_METHOD",
+                "i18nKey": "Written Down Value Method",
+                "value": "Written Down Value Method"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1",
+        "parent": null,
+        "assetClassification": "MOVABLE",
+        "assetParentCategory": "IT",
+        "depreciationMethod": "Straight Line method",
+        "isAssetAllowFromUi": true,
+        "unitOfMeasurement": "NOS",
+        "isDepreciationApplicable": true,
+        "depreciationRate": "10",
+        "fields": [
+          {
+            "name": "brand",
+            "value": "brand",
+            "code": "AST_BRAND",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setBrand",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "manufacturer",
+            "value": "manufacturer",
+            "code": "AST_MANUFACTURER",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "selectmanufacturer",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "warranty",
+            "code": "AST_WARRANTY",
+            "type": "dropdown",
+            "isMandatory": false,
+            "isNeeded": false,
+            "active": true,
+            "options": [
+              {
+                "name": "warranty",
+                "i18nKey": "1 Year",
+                "code": "1_YEAR",
+                "value": "1 Year"
+              },
+              {
+                "name": "warranty",
+                "i18nKey": "2 Years",
+                "code": "2_YEAR",
+                "value": "2 Years"
+              },
+              {
+                "name": "warranty",
+                "i18nKey": "3 Years",
+                "code": "3_YEAR",
+                "value": "3 Years"
+              },
+              {
+                "name": "warranty",
+                "i18nKey": "4 Years",
+                "code": "4_YEAR",
+                "value": "4 Years"
+              },
+              {
+                "name": "warranty",
+                "i18nKey": "5 Years",
+                "code": "5_YEAR",
+                "value": "5 Years"
+              },
+              {
+                "name": "warranty",
+                "i18nKey": "NA",
+                "code": "NA",
+                "value": "NA"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": null,
+        "assetClassification": "MOVABLE",
+        "assetParentCategory": "VEHICLE",
+        "depreciationMethod": "Straight Line method",
+        "isAssetAllowFromUi": true,
+        "unitOfMeasurement": "VEHICLE",
+        "isDepreciationApplicable": true,
+        "depreciationRate": "15",
+        "fields": [
+          {
+            "name": "registrationNumber",
+            "value": "registrationNumber",
+            "code": "AST_REGISTRATION_NUMBER",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setRegistrationNumber",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "engineNumber",
+            "value": "engineNumber",
+            "code": "AST_ENGINE_NUMBER",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setEngineNumber",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "chasisNumber",
+            "value": "chasisNumber",
+            "code": "AST_CHASIS_NUMBER",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setChasisNumber",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "parkingLocation",
+            "value": "parkingLocation",
+            "code": "AST_PARKING_LOCATION",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setParkingLocation",
+            "active": true,
+            "columnType": "text"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "parent": null,
+        "assetClassification": "IMMOVABLE",
+        "assetParentCategory": "LAND",
+        "depreciationMethod": "Straight Line method",
+        "isAssetAllowFromUi": true,
+        "unitOfMeasurement": "SFT",
+        "isDepreciationApplicable": false,
+        "fields": [
+          {
+            "name": "assetUsage",
+            "code": "AST_HOW_ASSET_USE",
+            "type": "dropdown",
+            "isMandatory": true,
+            "group":"generalDetails",
+            "active": true,
+            "options": [
+              {
+                "code": "AGRICULTURE_WATER_BODIES",
+                "i18nKey": "AGRICULTURE & WATER BODIES",
+                "value": "AGRICULTURE"
+              },
+              {
+                "code": "RESIDENTIAL",
+                "i18nKey": "RESIDENTIAL",
+                "value": "RESIDENTIAL"
+              },
+              {
+                "code": "COMMERCIAL",
+                "i18nKey": "COMMERCIAL",
+                "value": "COMMERCIAL"
+              },
+              {
+                "code": "PUBLIC_UTILITIES",
+                "i18nKey": "PUBLIC UTILITIES",
+                "value": "PUBLIC UTILITIES"
+              },
+              {
+                "code": "PROTECTIVE",
+                "i18nKey": "PROTECTIVE & UNDEVELOPABLE USE ZONE",
+                "value": "PROTECTIVE & UNDEVELOPABLE"
+              },
+              {
+                "code": "MIXED_USE",
+                "i18nKey": "MIXED USE",
+                "value": "MIXED USE"
+              }
+            ]
+          },
+          {
+            "name": "landStatus",
+            "code": "AST_LAND_STATUS",
+            "type": "dropdown",
+            "isMandatory": true,
+            "group":"generalDetails",
+            "active": true,
+            "options": [
+              {
+                "code": "LEASEHOLD",
+                "i18nKey": "LEASEHOLD",
+                "value": "Leasehold"
+              },
+              {
+                "code": "FREEHOLD",
+                "i18nKey": "FREEHOLD",
+                "value": "Freehold"
+              }
+            ]
+          },
+          {
+            "name": "leaseEndDate",
+            "value": "leaseEndDate",
+            "code": "AST_LEASE_END_DATE",
+            "type": "date",
+            "isMandatory": false,
+            "active": true,
+            "onChange": "setleaseEndDate",
+            "group":"generalDetails",
+            "conditionalField": {
+              "dependsOn": "landStatus",
+              "showWhen": "LEASEHOLD"
+            }
+          },
+          {
+            "name": "acquistionDate",
+            "value": "acquistionDate",
+            "code": "AST_ACQUISTION_DATE",
+            "type": "date",
+            "isMandatory": false,
+            "onChange": "setacquistionDate",
+            "group": "acquistionDetails",
+            "active": true
+          },
+          {
+            "name": "dateOfDeedExecution",
+            "value": "dateOfDeedExecution",
+            "code": "AST_DATE_DEED_EXECUTION",
+            "type": "date",
+            "isMandatory": false,
+            "onChange": "setdateofDeedExecution",
+            "group": "acquistionDetails",
+            "active": true
+          },
+          {
+            "name": "dateOfPossession",
+            "value": "dateOfPossession",
+            "code": "AST_DATE_POSSESION",
+            "type": "date",
+            "isMandatory": false,
+            "onChange": "setdateofPossesion",
+            "group": "acquistionDetails",
+            "active": true
+          },
+          {
+            "name": "fromWhomDeedTaken",
+            "value": "fromWhomDeedTaken",
+            "code": "AST_FROM_DEED_TAKEN",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setfromWhomDeedTaken",
+            "group": "acquistionDetails",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "landUtilization",
+            "code": "AST_UTILIZATION",
+            "type": "dropdown",
+            "isMandatory": false,
+            "group": "physicialCharacteristics",
+            "active": true,
+            "options": [
+              {
+                "code": "FORESTATION",
+                "i18nKey": "Forestation",
+                "value": "Forestation"
+              },
+              {
+                "code": "OPEN_GROUND",
+                "i18nKey": "Open Ground",
+                "value": "Open Ground"
+              },
+              {
+                "code": "ENROACHMENT",
+                "i18nKey": "Encroachment",
+                "value": "Encroachment"
+              },
+              {
+                "code": "CHILDREN_PARK",
+                "i18nKey": "Children Park",
+                "value": "Children Park"
+              },
+              {
+                "code": "OTHER",
+                "i18nKey": "Other",
+                "value": "Other"
+              }
+            ]
+          },
+          {
+            "name": "anyImprovements",
+            "code": "AST_IMPROVEMENTS",
+            "type": "dropdown",
+            "isMandatory": false,
+            "group": "physicialCharacteristics",
+            "active": true,
+            "options": [
+              {
+                "code": "YES",
+                "i18nKey": "YES",
+                "value": "Yes"
+              },
+              {
+                "code": "NO",
+                "i18nKey": "NO",
+                "value": "No"
+              }
+            ]
+          },
+          {
+            "name": "improvemnetDetails",
+            "value": "improvemnetDetails",
+            "code": "AST_IMPROVEMENTS_DETAILS",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setimprovemnetDetails",
+            "group": "physicialCharacteristics",
+            "active": true,
+            "columnType": "text",
+            "conditionalField": {
+              "dependsOn": "anyImprovements",
+              "showWhen": "YES"
+            }
+          },
+          {
+            "name": "improvementDate",
+            "value": "improvementDate",
+            "code": "AST_IMPROVEMENT_DATE",
+            "type": "date",
+            "isMandatory": false,
+            "active": true,
+            "onChange": "setimprovementDate",
+            "group": "physicialCharacteristics",
+            "conditionalField": {
+              "dependsOn": "anyImprovements",
+              "showWhen": "YES"
+            }
+          },
+          {
+            "name": "improvementCost",
+            "value": "improvementCost",
+            "code": "AST_IMPROVEMENT_COST",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setimprovementCost",
+            "group": "physicialCharacteristics",
+            "active": true,
+            "columnType": "number",
+            "conditionalField": {
+              "dependsOn": "anyImprovements",
+              "showWhen": "YES"
+            }
+          },
+          {
+            "name": "valueAdded",
+            "value": "valueAdded",
+            "code": "AST_VALUE_ADDED",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setvalueAdded",
+            "group": "physicialCharacteristics",
+            "active": true,
+            "columnType": "number"
+          },
+           {
+            "name": "isitFenced",
+            "code": "Is it Fenced",
+            "type": "dropdown",
+            "isMandatory": false,
+            "group":"physicialCharacteristics",
+            "active": true,
+            "options": [
+              {
+                "name": "isitFenced",
+                "code": "YES",
+                "i18nKey": "YES",
+                "value": "YES"
+              },
+              {
+                "name": "isitFenced",
+                "code": "NO",
+                "i18nKey": "NO",
+                "value": "NO"
+              }
+            ]
+          },
+          {
+            "name": "anyBuiltup",
+            "code": "AST_ANY_BUILTUP",
+            "type": "dropdown",
+            "isMandatory": false,
+            "group":"physicialCharacteristics",
+            "active": true,
+            "options": [
+              {
+                "name": "anyBuiltup",
+                "code": "YES",
+                "i18nKey": "YES",
+                "value": "YES"
+              },
+              {
+                "name": "anyBuiltup",
+                "code": "NO",
+                "i18nKey": "NO",
+                "value": "NO"
+              }
+            ]
+          },
+          {
+            "name": "area",
+            "value": "area",
+            "code": "AST_LAND_AREA",
+            "type": "num",
+            "isMandatory": true,
+            "onChange": "setArea",
+            "group":"generalDetails",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "unitsofMeasurments",
+            "code": "AST_UNITS",
+            "type": "dropdown",
+            "isMandatory": true,
+            "active": true,
+            "group":"generalDetails",
+            "options": [
+              {
+                "code": "ACRE",
+                "i18nKey": "Acre",
+                "value": "Acre"
+              },
+              {
+                "code": "HECTARE",
+                "i18nKey": "Hectare",
+                "value": "Hectare"
+              },
+              {
+                "code": "SQUARE_METER",
+                "i18nKey": "Square Meter (sq.m)",
+                "value": "Square Meter"
+              },
+              {
+                "code": "SQUARE_FOOT",
+                "i18nKey": "Square Foot (sq.ft)",
+                "value": "Square Foot"
+              },
+              {
+                "code": "SQUARE_YARD",
+                "i18nKey": "Square Yard (Gaj)",
+                "value": "Square Yard"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "parent": null,
+        "assetClassification": "IMMOVABLE",
+        "assetParentCategory": "BUILDING",
+        "depreciationMethod": "Straight Line method",
+        "isAssetAllowFromUi": true,
+        "unitOfMeasurement": "SFT",
+        "isDepreciationApplicable": true,
+        "depreciationRate": "5",
+        "fields": [
+          {
+            "name": "dimensions",
+            "value": "dimensions",
+            "code": "AST_DIMENSIONS",
+            "group":"generalDetails",
+            "type": "text",
+            "isMandatory": true,
+            "onChange": "setDimensions",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "unitsofMeasurments",
+            "code": "AST_UNITS",
+            "type": "dropdown",
+            "isMandatory": true,
+            "active": true,
+            "group":"generalDetails",
+            "options": [
+              {
+                "code": "METER",
+                "i18nKey": "Meter",
+                "value": "Meter"
+              },
+              {
+                "code": "FEET_INCHES",
+                "i18nKey": "Feet Inches",
+                "value": "Feet Inches"
+              }
+            ]
+          },
+          {
+            "name": "totalCarpetArea",
+            "value": "totalCarpetArea",
+            "code": "AST_CARPET_AREA",
+            "type": "num",
+            "isMandatory": true,
+             "group":"generalDetails",
+            "onChange": "settotalCarpetArea",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "floorNo",
+            "value": "floorNo",
+            "code": "AST_FLOORS_NO",
+            "type": "num",
+            "isMandatory": true,
+             "group":"generalDetails",
+            "onChange": "setFloorNo",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "plotArea",
+            "value": "plotArea",
+            "code": "AST_PLOT_AREA",
+            "type": "num",
+            "group":"generalDetails",
+            "isMandatory": true,
+            "onChange": "setPlotArea",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "plinthArea",
+            "value": "plinthArea",
+            "code": "AST_PLINTH_AREA",
+            "type": "num",
+            "isMandatory": true,
+            "group":"generalDetails",
+            "onChange": "setPlinthArea",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "anyImprovements",
+            "code": "AST_IMPROVEMENTS",
+            "type": "dropdown",
+            "isMandatory": false,
+            "group": "physicialCharacteristics",
+            "active": true,
+            "options": [
+              {
+                "code": "YES",
+                "i18nKey": "YES",
+                "value": "Yes"
+              },
+              {
+                "code": "NO",
+                "i18nKey": "NO",
+                "value": "No"
+              }
+            ]
+          },
+          {
+            "name": "improvemnetDetails",
+            "value": "improvemnetDetails",
+            "code": "AST_IMPROVEMENTS_DETAILS",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setimprovemnetDetails",
+            "group": "physicialCharacteristics",
+            "active": true,
+            "columnType": "text",
+            "conditionalField": {
+              "dependsOn": "anyImprovements",
+              "showWhen": "YES"
+            }
+          },
+          {
+            "name": "improvementDate",
+            "value": "improvementDate",
+            "code": "AST_IMPROVEMENT_DATE",
+            "type": "date",
+            "isMandatory": false,
+            "active": true,
+            "onChange": "setimprovementDate",
+            "group": "physicialCharacteristics",
+            "conditionalField": {
+              "dependsOn": "anyImprovements",
+              "showWhen": "YES"
+            }
+          },
+          {
+            "name": "improvementCost",
+            "value": "improvementCost",
+            "code": "AST_IMPROVEMENT_COST",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setimprovementCost",
+            "group": "physicialCharacteristics",
+            "active": true,
+            "columnType": "number",
+            "conditionalField": {
+              "dependsOn": "anyImprovements",
+              "showWhen": "YES"
+            }
+          },
+          {
+            "name": "valueAdded",
+            "value": "valueAdded",
+            "code": "AST_VALUE_ADDED",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setvalueAdded",
+            "group": "physicialCharacteristics",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "acquistionDate",
+            "value": "acquistionDate",
+            "code": "AST_ACQUISTION_DATE",
+            "type": "date",
+            "isMandatory": false,
+            "onChange": "setacquistionDate",
+            "group": "acquistionDetails",
+            "active": true
+          },
+          {
+            "name": "dateOfDeedExecution",
+            "value": "dateOfDeedExecution",
+            "code": "AST_DATE_DEED_EXECUTION",
+            "type": "date",
+            "isMandatory": false,
+            "onChange": "setdateofDeedExecution",
+            "group": "acquistionDetails",
+            "active": true
+          },
+          {
+            "name": "dateOfPossession",
+            "value": "dateOfPossession",
+            "code": "AST_DATE_POSSESION",
+            "type": "date",
+            "isMandatory": false,
+            "onChange": "setdateofPossesion",
+            "group": "acquistionDetails",
+            "active": true
+          },
+          {
+            "name": "fromWhomDeedTaken",
+            "value": "fromWhomDeedTaken",
+            "code": "AST_FROM_DEED_TAKEN",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setfromWhomDeedTaken",
+            "group": "acquistionDetails",
+            "active": true,
+            "columnType": "text"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "parent": null,
+        "assetClassification": "IMMOVABLE",
+        "assetParentCategory": "SERVICE",
+        "depreciationMethod": "Straight Line method",
+        "isAssetAllowFromUi": true,
+        "unitOfMeasurement": "MTR",
+        "isDepreciationApplicable": false,
+        "depreciationRate": "0",
+        "fields": [
+          {
+            "name": "roadType",
+            "value": "roadType",
+            "code": "AST_ROAD_TYPE",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setRoadType",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "totalLength",
+            "value": "totalLength",
+            "code": "AST_TOTAL_LENGTH",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setTotalLength",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "lastMaintainence",
+            "value": "lastMaintainence",
+            "code": "AST_LAST_MAINTAINENCE",
+            "type": "date",
+            "isMandatory": false,
+            "onChange": "setLastMaintainence",
+            "active": true
+          },
+          {
+            "name": "surfaceType",
+            "value": "surfaceType",
+            "code": "AST_SURFACE_TYPE",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setSurfaceType",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "protectionLength",
+            "value": "protectionLength",
+            "code": "AST_PROTECTION_LENGTH",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setProtectionLength",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "drainageLength",
+            "value": "drainageLength",
+            "code": "AST_DRAINAGE_CHANNEL_LENGTH",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setDrainageLength",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "numOfFootpath",
+            "value": "numOfFootpath",
+            "code": "AST_FOOTPATH_NUMBER",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setNumOfFootpath",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "numOfPedastrianCross",
+            "value": "numOfPedastrianCross",
+            "code": "AST_PEDASTRIAN_CROSSING_NUMBER",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setNumOfPedastrianCross",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "numOfBusStop",
+            "value": "numOfBusStop",
+            "code": "AST_BUSSTOP_NUMBER",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setNumOfBusStop",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "numOfMetroStation",
+            "value": "numOfMetroStation",
+            "code": "AST_METROSTATION_NUMBER",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setNumOfMetroStation",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "lengthOfCycletrack",
+            "value": "lengthOfCycletrack",
+            "code": "AST_CYCLETRACK_LENGTH",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setLengthOfCycletrack",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "lastMaintainence",
+            "value": "lastMaintainence",
+            "code": "AST_LAST_MAINTAINENCE",
+            "type": "date",
+            "isMandatory": false,
+            "onChange": "setLastMaintainence",
+            "active": true
+          },
+          {
+            "name": "nextMaintainence",
+            "value": "nextMaintainence",
+            "code": "AST_NEXT_MAINTAINENCE",
+            "type": "date",
+            "isMandatory": false,
+            "onChange": "setNextMaintainence",
+            "active": true
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "parent": null,
+        "assetClassification": "MOVABLE",
+        "assetParentCategory": "PLANTS_MACHINERY",
+        "isAssetAllowFromUi": true,
+        "unitOfMeasurement": "SFT",
+        "isDepreciationApplicable": true,
+        "fields": [
+          {
+            "name": "capacity",
+            "value": "capacity",
+            "code": "AST_CAPACITY",
+            "group":"physicialCharacteristics",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setCapacity",
+            "active": true,
+            "columnType": "text"
+          },
+          {
+            "name": "shiftsUsed",
+            "value": "shiftsUsed",
+            "code": "AST_SHIFTS_USED",
+            "group":"physicialCharacteristics",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setCapacity",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "yearOfCommencement",
+            "value": "yearOfCommencement",
+            "code": "AST_YEAR_COMMENCEMENT",
+            "group":"physicialCharacteristics",
+            "type": "num",
+            "isMandatory": false,
+            "onChange": "setYearOfCommencement",
+            "active": true,
+            "columnType": "number"
+          },
+          {
+            "name": "assignableAssets",
+            "code": "AST_ASSIGNABLE_ASSETS",
+            "type": "dropdown",
+            "isMandatory": false,
+            "active": true,
+            "group":"physicialCharacteristics",
+            "options": [
+              {
+                "code": "YES",
+                "i18nKey": "Yes",
+                "value": "Yes"
+              },
+              {
+                "code": "NO",
+                "i18nKey": "No",
+                "value": "No"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "parent": null,
+        "assetClassification": "MOVABLE",
+        "assetParentCategory": "OTHER",
+        "depreciationMethod": "Straight Line method",
+        "isAssetAllowFromUi": true,
+        "unitOfMeasurement": "UNIT",
+        "isDepreciationApplicable": true,
+        "depreciationRate": "8",
+        "fields": []
+      }
+    ]
+  }
