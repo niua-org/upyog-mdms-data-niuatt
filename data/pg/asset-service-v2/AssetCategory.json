@@ -1,0 +1,348 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSETV2",
+    "assetCategory": [
+      {
+        "name": "Parks",
+        "code": "PARKS",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "Playground",
+        "code": "PLAYGROUND",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "Agricultural Land",
+        "code": "AGRICULTURAL_LAND",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "Vehicle Parking Areas",
+        "code": "VEHICLE_PARKING_AREAS",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "Bus Stands",
+        "code": "BUS_STANDS",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "Cycle Stands",
+        "code": "CYCLE_STANDS",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "Lakes & Ponds",
+        "code": "LAKES_PONDS",
+        "active": true,
+        "assetParentCategory": "LAND"
+      },
+      {
+        "name": "Office Buildings",
+        "code": "OFFICE_BUILDINGS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "School Buildings",
+        "code": "SCHOOL_BUILDING",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Market",
+        "code": "MARKET_BUILDINGS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Shopping Mall",
+        "code": "SHOPPING_MALL",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Public Convenience",
+        "code": "PUBLIC_CONVENIENCE",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Community Centre",
+        "code": "COMMUNITY_CENTRE",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Child Welfare Centre",
+        "code": "CHILD_WELFARE_CENTRE",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Polyclinics",
+        "code": "POLYCLINICS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Milk Booth",
+        "code": "MILK_BOOTH",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Workshop",
+        "code": "WORKSHOP",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Fire Station",
+        "code": "FIRE_STATIONS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Store Buildings",
+        "code": "STORE_BUILDINGS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Staff Quarters",
+        "code": "STAFF_QUARTERS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Covered Parking Areas",
+        "code": "COVERED_PARKING_AREAS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Garbage Vats",
+        "code": "GARBAGE_VATS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Transfer Station",
+        "code": "TRANSFER_STATION",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Fountains",
+        "code": "FOUNTAINS",
+        "active": true,
+        "assetParentCategory": "BUILDING"
+      },
+      {
+        "name": "Road Roller",
+        "code": "ROAD_ROLLER",
+        "active": true,
+        "assetParentCategory": "PLANTS_MACHINERY"
+      },
+      {
+        "name": "Medical Equipment",
+        "code": "MEDICAL_EQUIPMENT",
+        "active": true,
+        "assetParentCategory": "PLANTS_MACHINERY"
+      },
+      {
+        "name": "School Equipment",
+        "code": "SCHOOL_EQUIPMENT",
+        "active": true,
+        "assetParentCategory": "PLANTS_MACHINERY"
+      },
+      {
+        "name": "Public Health Equipment",
+        "code": "PUBLIC_HEALTH_EQUIPMENT",
+        "active": true,
+        "assetParentCategory": "PLANTS_MACHINERY"
+      },
+      {
+        "name": "Electrical Equipment",
+        "code": "ELECTRICAL_EQUIPMENT",
+        "active": true,
+        "assetParentCategory": "PLANTS_MACHINERY"
+      },
+      {
+        "name": "Other Equipments",
+        "code": "OTHER_EQUIPMENTS",
+        "active": true,
+        "assetParentCategory": "PLANTS_MACHINERY"
+      },
+      {
+        "name": "Road Infrastructure",
+        "code": "ROAD_INFRASTRUCTURE",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "Water WorkDistribution",
+        "code": "WATER_WORK_DISTRIBUTION",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "Drains Including Underground Drain Details",
+        "code": "DRAINS_INCLUDING_UNDERGROUND_DRAINS_DETAILS",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "Irrigation",
+        "code": "IRRIGATION",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "Public Lighting System",
+        "code": "PUBLIC_LIGHTING_SYSTEM",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "Lakes And Ponds",
+        "code": "LAKES_AND_PONDS",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "Electricity",
+        "code": "ELECTRICITY",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "Solid Work",
+        "code": "SOLID_WORK",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "Plants And Machinery",
+        "code": "PLANTS_AND_MACHINERY",
+        "active": true,
+        "assetParentCategory": "SERVICE"
+      },
+      {
+        "name": "LMV",
+        "code": "LMV",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "MCWG",
+        "code": "MCWG",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "EV",
+        "code": "EV",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "HMV",
+        "code": "HMV",
+        "active": true,
+        "assetParentCategory": "VEHICLE"
+      },
+      {
+        "name": "Computers and Laptops",
+        "code": "COMPUTERS_AND_LAPTOPS",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Peripherals",
+        "code": "PERIPHERALS",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Networking Equipment",
+        "code": "NETWORKING_EQUIPMENT",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Storage Devices",
+        "code": "STORAGE_DEVICES",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Servers",
+        "code": "SERVERS",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Software Licenses",
+        "code": "SOFTWARE_LICENSES",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Computer Accessories",
+        "code": "COMPUTER_ACCESSORIES",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "IT Consumables",
+        "code": "IT_CONSUMABLES",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Software-Service",
+        "code": "SOFTWARE_SERVICE",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Office Productivity Software",
+        "code": "OFFICE_PRODUCTIVITY_SOFTWARE",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Miscellaneous Equipment",
+        "code": "MISCELLANEOUS_EQUIPMENT",
+        "active": true,
+        "assetParentCategory": "IT"
+      },
+      {
+        "name": "Furnitures and Fixtures",
+        "code": "FURNITURES_AND_FIXTURES",
+        "active": true,
+        "assetParentCategory": "OTHER"
+      },
+      {
+        "name": "Office equipments",
+        "code": "OFFICE_EQUIPMENTS",
+        "active": true,
+        "assetParentCategory": "OTHER"
+      },
+      {
+        "name": "Other equipments",
+        "code": "OTHER_EQUIPMENTS",
+        "active": true,
+        "assetParentCategory": "OTHER"
+      }
+    ]
+  }

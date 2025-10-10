@@ -1,0 +1,26 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSETV2",
+    "Action": [
+      {
+        "name": "Approved",
+        "code": "APPROVED",
+        "active": true
+      },
+      {
+        "name": "Verified",
+        "code": "VERIFIED",
+        "active": true
+      },
+      {
+        "name": "Initiated",
+        "code": "INITIATED",
+        "active": true
+      },
+     {
+        "name": "Rejected",
+        "code": "REJECTED",
+        "active": true
+      }
+    ]
+}
