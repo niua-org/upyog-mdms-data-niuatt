@@ -21544,6 +21544,45 @@
    "serviceCode": "report",
    "code": "null",
    "path": ""
-}  
+},
+{
+  "id": 3083,
+  "name": "Plants Machinery Report",
+  "url": "url",
+  "displayName": "Plants Machinery Report",
+  "orderNumber": 4,
+  "parentModule": "asset-services-masters",
+  "enabled": true,
+  "serviceCode": "ASSET",
+  "code": "null",
+  "path": "Asset.Reports.PlantsMachineryReport",
+  "navigationURL": "report/rainmaker-asset/PlantsMachineryReport",
+  "leftIcon": "places:business-center",
+  "rightIcon": ""
+},
+{
+  "id": 3084,
+  "name": "PlantsMachineryReport",
+  "url": "/report/rainmaker-asset/PlantsMachineryReport/metadata/_get",
+  "displayName": "rainmaker-asset-PlantsMachineryReport",
+  "orderNumber": 10,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 3085,
+  "name": "PlantsMachineryReport",
+  "url": "/report/rainmaker-asset/PlantsMachineryReport/_get",
+  "displayName": "rainmaker-asset-PlantsMachineryReport",
+  "orderNumber": 11,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
+}	   
   ]
 }
