@@ -118,7 +118,7 @@
             "type": "dropdown",
             "isMandatory": false,
             "group":"acquistionDetails",
-            "disable": true,
+            "disable": false,
             "active": true,
             "options": [
               {
@@ -286,8 +286,8 @@
             "active": true,
             "options": [
               {
-                "code": "AGRICULTURE_WATER_BODIES",
-                "i18nKey": "AGRICULTURE & WATER BODIES",
+                "code": "AGRICULTURE",
+                "i18nKey": "AGRICULTURE",
                 "value": "AGRICULTURE"
               },
               {
@@ -301,14 +301,19 @@
                 "value": "COMMERCIAL"
               },
               {
-                "code": "PUBLIC_UTILITIES",
-                "i18nKey": "PUBLIC UTILITIES",
-                "value": "PUBLIC UTILITIES"
+                "code": "INDUSTRIAL",
+                "i18nKey": "INDUSTRIAL",
+                "value": "INDUSTRIAL"
               },
               {
-                "code": "PROTECTIVE",
-                "i18nKey": "PROTECTIVE & UNDEVELOPABLE USE ZONE",
-                "value": "PROTECTIVE & UNDEVELOPABLE"
+                "code": "RECREATIONAL",
+                "i18nKey": "RECREATIONAL",
+                "value": "RECREATIONAL"
+              },
+              {
+                "code": "PUBLIC_SEMI_PUBLIC",
+                "i18nKey": "PUBLIC / SEMI PUBLIC",
+                "value": "PUBLIC / SEMI PUBLIC"
               },
               {
                 "code": "MIXED_USE",
@@ -428,6 +433,21 @@
             ]
           },
           {
+            "name": "landUtilizationOther",
+            "value": "landUtilizationOther",
+            "code": "AST_UTILIZATION_IN_OTHER",
+            "type": "text",
+            "isMandatory": false,
+            "onChange": "setlandUtilizationOther",
+            "group": "physicialCharacteristics",
+            "active": true,
+            "columnType": "text",
+            "conditionalField": {
+              "dependsOn": "landUtilization",
+              "showWhen": "OTHER"
+            }
+          },
+          {
             "name": "anyImprovements",
             "code": "AST_IMPROVEMENTS",
             "type": "dropdown",
@@ -451,7 +471,7 @@
             "name": "improvemnetDetails",
             "value": "improvemnetDetails",
             "code": "AST_IMPROVEMENTS_DETAILS",
-            "type": "text",
+            "type": "textArea",
             "isMandatory": false,
             "onChange": "setimprovemnetDetails",
             "group": "physicialCharacteristics",
@@ -460,7 +480,8 @@
             "conditionalField": {
               "dependsOn": "anyImprovements",
               "showWhen": "YES"
-            }
+            },
+            "placeHolder": "Provide details of improvements under 200-250 characters"
           },
           {
             "name": "improvementDate",
@@ -490,17 +511,6 @@
               "dependsOn": "anyImprovements",
               "showWhen": "YES"
             }
-          },
-          {
-            "name": "valueAdded",
-            "value": "valueAdded",
-            "code": "AST_VALUE_ADDED",
-            "type": "num",
-            "isMandatory": false,
-            "onChange": "setvalueAdded",
-            "group": "physicialCharacteristics",
-            "active": true,
-            "columnType": "number"
           },
            {
             "name": "isitFenced",
@@ -546,6 +556,53 @@
               }
             ]
           },
+          {
+            "name": "builtupDetails",
+            "code": "AST_BUILTUP_DETAILS",
+            "type": "dropdown",
+            "isMandatory": false,
+            "group": "physicialCharacteristics",
+            "active": true,
+            "conditionalField": {
+              "dependsOn": "anyBuiltup",
+              "showWhen": "YES"
+            },
+            "options": [
+              {
+                "name": "builtupDetails",
+                "code": "RESIDENTIAL",
+                "i18nKey": "RESIDENTIAL",
+                "value": "RESIDENTIAL"
+              },
+              {
+                "name": "builtupDetails",
+                "code": "COMMERCIAL",
+                "i18nKey": "COMMERCIAL",
+                "value": "COMMERCIAL"
+              },
+              {
+                "name": "builtupDetails",
+                "code": "INDUSTRIAL",
+                "i18nKey": "INDUSTRIAL",
+                "value": "INDUSTRIAL"
+              }
+
+            ]
+          },
+          {
+            "name": "builtupDimensions",
+            "code": "AST_BUILTUP_DIMENSIONS",
+            "type": "num",
+            "isMandatory": false,
+            "group": "physicialCharacteristics",
+            "active": true,
+            "columnType": "number",
+            "conditionalField": {
+              "dependsOn": "anyBuiltup",
+              "showWhen": "YES"
+            }
+          },
+
           {
             "name": "area",
             "value": "area",
@@ -704,7 +761,7 @@
             "name": "improvemnetDetails",
             "value": "improvemnetDetails",
             "code": "AST_IMPROVEMENTS_DETAILS",
-            "type": "text",
+            "type": "textArea",
             "isMandatory": false,
             "onChange": "setimprovemnetDetails",
             "group": "physicialCharacteristics",
@@ -743,17 +800,6 @@
               "dependsOn": "anyImprovements",
               "showWhen": "YES"
             }
-          },
-          {
-            "name": "valueAdded",
-            "value": "valueAdded",
-            "code": "AST_VALUE_ADDED",
-            "type": "num",
-            "isMandatory": false,
-            "onChange": "setvalueAdded",
-            "group": "physicialCharacteristics",
-            "active": true,
-            "columnType": "number"
           },
           {
             "name": "acquistionDate",
