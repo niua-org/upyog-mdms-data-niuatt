@@ -21583,6 +21583,73 @@
   "serviceCode": "report",
   "code": "null",
   "path": ""
-}	   
+},
+{
+   "id": 3086,
+   "name": "MAP_HEADER",
+   "url": "digit-ui-card",
+   "displayName": "Map",
+   "orderNumber": 1,
+   "parentModule": "GIS",
+   "enabled": true,
+   "serviceCode": "GIS",
+   "code": "null",
+   "path": "",
+   "navigationURL": "/digit-ui/citizen/gis/map",
+   "leftIcon": "CHBIcon",
+   "rightIcon": "",
+   "queryParams": "",
+   "sidebar": "digit-ui-links",
+   "sidebarURL": "/digit-ui/citizen/gis-home"
+},
+{
+   "id": 3087,
+   "name": "MAP_HEADER2",
+   "url": "digit-ui-card",
+   "displayName": "Map",
+   "orderNumber": 2,
+   "parentModule": "GIS",
+   "enabled": true,
+   "serviceCode": "GIS",
+   "code": "null",
+   "path": "",
+   "navigationURL": "/digit-ui/citizen/gis/map2",
+   "leftIcon": "CHBIcon",
+   "rightIcon": "",
+   "queryParams": "",
+   "sidebar": "digit-ui-links",
+   "sidebarURL": "/digit-ui/citizen/gis-home"
+},
+{
+   "id": 3088,
+   "name": "MAP_HEADER3",
+   "url": "digit-ui-card",
+   "displayName": "Map",
+   "orderNumber": 3,
+   "parentModule": "GIS",
+   "enabled": true,
+   "serviceCode": "GIS",
+   "code": "null",
+   "path": "",
+   "navigationURL": "/digit-ui/citizen/gis/map3",
+   "leftIcon": "CHBIcon",
+   "rightIcon": "",
+   "queryParams": "",
+   "sidebar": "digit-ui-links",
+   "sidebarURL": "/digit-ui/citizen/gis-home"
+},
+{
+   "id": 3089,
+   "name": "PT GIS",
+   "url": "/gis-dx-service/gix-dx/v1/PT/_search",
+   "displayName": "PT GIS",
+   "orderNumber": 1,
+   "parentModule": "",
+   "enabled": false,
+   "serviceCode": "",
+   "code": "null",
+   "path": ""
+}
+
   ]
 }
