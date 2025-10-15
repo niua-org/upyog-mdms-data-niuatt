@@ -802,6 +802,10 @@
         {
             "format": "TP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "request-service.tree_pruning.receipt.id"
+        },
+        {
+            "format": "EST-[CITY.CODE]-[seq_estate_management_asset_id]",
+            "idname": "estate.management.asset.id"
         }
     ]
 }
