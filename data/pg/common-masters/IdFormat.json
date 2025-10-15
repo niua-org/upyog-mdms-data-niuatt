@@ -806,11 +806,6 @@
         {
             "format": "EST-[CITY.CODE]-[seq_estate_management_asset_id]",
             "idname": "estate.management.asset.id"
-        },
-        {
-            "format": "EST-[CITY.CODE]-[seq_estate_management_asset_id]",
-            "idname": "estate.management.asset.id"
         }
-
     ]
 }
