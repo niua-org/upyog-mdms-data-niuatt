@@ -32931,6 +32931,24 @@
   "actionid": 3098,
   "actioncode": "",
   "tenantId": "pg"
-}
+},
+{
+  "rolecode": "ASSET_APPROVER",
+  "actionid": 3099,
+  "actioncode": "",
+  "tenantId": "pg"
+},
+{
+  "rolecode": "ASSET_APPROVER",
+  "actionid": 3100,
+  "actioncode": "",
+  "tenantId": "pg"
+},
+{
+  "rolecode": "ASSET_APPROVER",
+  "actionid": 3101,
+  "actioncode": "",
+  "tenantId": "pg"
+}	  
   ]
 }

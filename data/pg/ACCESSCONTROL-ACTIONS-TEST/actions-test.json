@@ -21766,6 +21766,45 @@
   "serviceCode": "report",
   "code": "null",
   "path": ""
-}
+},
+{
+  "id": 3099,
+  "name": "Hierarchical Asset Data Report",
+  "url": "url",
+  "displayName": "Hierarchical Asset Data Report",
+  "orderNumber": 1,
+  "parentModule": "rainmaker-asset",
+  "enabled": true,
+  "serviceCode": "ASSET",
+  "code": "null",
+  "path": "Asset.Reports.hierarchicalAssetDataReport",
+  "navigationURL": "report/rainmaker-asset/hierarchical/_get",
+  "leftIcon": "places:business-center",
+  "rightIcon": ""
+},
+{
+  "id": 3100,
+  "name": "HierarchicalAssetDataReport",
+  "url": "/report/rainmaker-asset/hierarchical/metadata/_get",
+  "displayName": "rainmaker-asset-HierarchicalAssetDataReport",
+  "orderNumber": 2,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 3101,
+  "name": "HierarchicalAssetDataReport",
+  "url": "/report/rainmaker-asset/hierarchical/_get",
+  "displayName": "rainmaker-asset-HierarchicalAssetDataReport",
+  "orderNumber": 2,
+  "parentModule": "",
+  "enabled": true,
+  "serviceCode": "report",
+  "code": "null",
+  "path": ""
+}	   
   ]
 }
