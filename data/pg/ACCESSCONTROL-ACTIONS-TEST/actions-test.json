@@ -21777,15 +21777,15 @@
   "enabled": true,
   "serviceCode": "ASSET",
   "code": "null",
-  "path": "Asset.Reports.hierarchicalAssetDataReport",
-  "navigationURL": "report/rainmaker-asset/hierarchical/_get",
+  "path": "Asset.Reports.HierarchicalAssetDataReport",
+  "navigationURL": "report/rainmaker-asset/HierarchicalAssetDataReport",
   "leftIcon": "places:business-center",
   "rightIcon": ""
 },
 {
   "id": 3100,
   "name": "HierarchicalAssetDataReport",
-  "url": "/report/rainmaker-asset/hierarchical/metadata/_get",
+  "url": "/report/rainmaker-asset/HierarchicalAssetDataReport/metadata/_get",
   "displayName": "rainmaker-asset-HierarchicalAssetDataReport",
   "orderNumber": 2,
   "parentModule": "",
@@ -21797,7 +21797,7 @@
 {
   "id": 3101,
   "name": "HierarchicalAssetDataReport",
-  "url": "/report/rainmaker-asset/hierarchical/_get",
+  "url": "/report/rainmaker-asset/HierarchicalAssetDataReport/_get",
   "displayName": "rainmaker-asset-HierarchicalAssetDataReport",
   "orderNumber": 2,
   "parentModule": "",
