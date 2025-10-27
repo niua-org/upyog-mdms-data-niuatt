@@ -21640,9 +21640,9 @@
 },
 {
    "id": 3089,
-   "name": "GIS DX",
-   "url": "/gis-dx-service/gis-dx/v1/_search",
-   "displayName": "GIS DX",
+   "name": "GIS DX PT",
+   "url": "/gis-dx-service/gis-dx/v1/_search/PT",
+   "displayName": "GIS DX PT",
    "orderNumber": 1,
    "parentModule": "",
    "enabled": false,
@@ -21805,6 +21805,18 @@
   "serviceCode": "report",
   "code": "null",
   "path": ""
-}	   
+},
+{
+   "id": 3102,
+   "name": "GIS DX ASSET",
+   "url": "/gis-dx-service/gis-dx/v1/_search/ASSET",
+   "displayName": "GIS DX ASSET",
+   "orderNumber": 1,
+   "parentModule": "",
+   "enabled": false,
+   "serviceCode": "",
+   "code": "null",
+   "path": ""
+}  
   ]
 }
