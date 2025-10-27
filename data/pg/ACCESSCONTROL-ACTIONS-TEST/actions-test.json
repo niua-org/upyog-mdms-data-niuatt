@@ -21817,6 +21817,35 @@
    "serviceCode": "",
    "code": "null",
    "path": ""
-}  
+},
+{
+      "id": 4000,
+      "name": "EST_CREATE_REQUEST_HEADER",
+      "url": "digit-ui-card",
+      "displayName": "Create Request",
+      "orderNumber": 1,
+      "parentModule": "EST",
+      "enabled": true,
+      "serviceCode": "EST",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/upyog-ui/citizen/est/create-request",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/upyog-ui/citizen/est-home"
+    } , 
+      {
+         "id": 4001,
+         "name": "Create Tree Pruning application",
+         "url": "/estate-management/estate/asset/v1/_create",
+         "displayName": "Create Tree Pruning application",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "estate-management",
+         "code": "null",
+         "path": ""
+      }  
   ]
 }
