@@ -32955,6 +32955,24 @@
   "actionid": 3102,
   "actioncode": "",
   "tenantId": "pg"
-}
+},
+{
+      "rolecode": "CITIZEN",
+      "actionid": 4000,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SVCEMP",
+      "actionid": 4001,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "TVCEMPLOYEE",
+      "actionid": 4001,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }
