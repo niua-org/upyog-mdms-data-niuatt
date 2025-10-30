@@ -21838,14 +21838,25 @@
     } , 
       {
          "id": 4001,
-         "name": "Create Tree Pruning application",
+         "name": "Create Estate Asset",
          "url": "/estate-management/estate/asset/v1/_create",
-         "displayName": "Create Tree Pruning application",
+         "displayName": "Create Asset",
          "orderNumber": 1,
          "enabled": false,
          "serviceCode": "estate-management",
          "code": "null",
          "path": ""
-      }  
+      },  
+      {
+         "id": 4002,
+         "name": "Search Estate Asset",
+         "url": "/estate-management/estate/asset/v1/_search",
+         "displayName": "Search Asset",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "estate-management",
+         "code": "null",
+         "path": ""
+      }
   ]
 }
