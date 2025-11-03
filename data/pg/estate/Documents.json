@@ -1,0 +1,81 @@
+{
+  "tenantId": "pg",
+  "moduleName": "EST",
+  "Documents": [
+    {
+      "code": "EST_CITIZEN_REQUEST_LETTER",
+      "documentType": "EST_CITIZEN_REQUEST_LETTER",
+      "required": true,
+      "active": true,
+      "additionalDetails": {
+        "enabledActions": {
+          "update": {
+            "disableUpload": true,
+            "disableDropdown": true
+          },
+          "create": {
+            "disableUpload": false,
+            "disableDropdown": false
+          }
+        }
+      },
+      "dropdownData": [
+        {
+          "code": "EST_CITIZEN_REQUEST_LETTER",
+          "active": true
+        }
+      ],
+      "description": "EST_CITIZEN_REQUEST_LETTER_DESCRIPTION"
+    },
+    {
+      "code": "EST_ALLOTMENT_LETTER",
+      "documentType": "EST_ALLOTMENT_LETTER",
+      "required": true,
+      "active": true,
+      "additionalDetails": {
+        "enabledActions": {
+          "update": {
+            "disableUpload": true,
+            "disableDropdown": true
+          },
+          "create": {
+            "disableUpload": false,
+            "disableDropdown": false
+          }
+        }
+      },
+      "dropdownData": [
+        {
+          "code": "EST_ALLOTMENT_LETTER",
+          "active": true
+        }
+      ],
+      "description": "EST_ALLOTMENT_LETTER_DESCRIPTION"
+    },
+    {
+      "code": "EST_SIGNED_DEED",
+      "documentType": "EST_SIGNED_DEED",
+      "required": true,
+      "active": true,
+      "additionalDetails": {
+        "enabledActions": {
+          "update": {
+            "disableUpload": true,
+            "disableDropdown": true
+          },
+          "create": {
+            "disableUpload": false,
+            "disableDropdown": false
+          }
+        }
+      },
+      "dropdownData": [
+        {
+          "code": "EST_SIGNED_DEED",
+          "active": true
+        }
+      ],
+      "description": "EST_SIGNED_DEED_DESCRIPTION"
+    }
+  ]
+}
