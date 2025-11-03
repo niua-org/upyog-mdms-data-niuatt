@@ -21857,6 +21857,17 @@
          "serviceCode": "estate-management",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 4003,
+         "name": "Alloment Estate Asset",
+         "url": "/estate-management/estate/allotment/v1/_create",
+         "displayName": "Asset Allotment",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "estate-management",
+         "code": "null",
+         "path": ""
       }
   ]
 }
