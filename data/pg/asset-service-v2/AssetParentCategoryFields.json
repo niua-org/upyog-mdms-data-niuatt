@@ -859,66 +859,71 @@
             "name": "roadType",
             "value": "roadType",
             "code": "AST_ROAD_TYPE",
-            "type": "text",
+            "group":"physicialCharacteristics",
+            "type": "dropdown",
             "isMandatory": false,
-            "onChange": "setRoadType",
             "active": true,
-            "columnType": "text"
+            "options": [
+              {
+                "code": "CONCRETE_ROAD",
+                "i18nKey": "Concrete Road",
+                "value": "Concrete Road"
+              },
+              {
+                "code": "BLACKTOP_ROAD",
+                "i18nKey": "Blacktop Road",
+                "value": "Blacktop Road"
+              }
+            ]
           },
           {
             "name": "totalLength",
             "value": "totalLength",
             "code": "AST_TOTAL_LENGTH",
-            "type": "text",
+            "group":"physicialCharacteristics",
+            "type": "num",
             "isMandatory": false,
             "onChange": "setTotalLength",
             "active": true,
-            "columnType": "text"
+            "columnType": "number"
           },
           {
             "name": "lastMaintainence",
             "value": "lastMaintainence",
             "code": "AST_LAST_MAINTAINENCE",
+            "group":"physicialCharacteristics",
             "type": "date",
             "isMandatory": false,
             "onChange": "setLastMaintainence",
             "active": true
           },
           {
-            "name": "surfaceType",
-            "value": "surfaceType",
-            "code": "AST_SURFACE_TYPE",
-            "type": "text",
-            "isMandatory": false,
-            "onChange": "setSurfaceType",
-            "active": true,
-            "columnType": "text"
-          },
-          {
             "name": "protectionLength",
             "value": "protectionLength",
             "code": "AST_PROTECTION_LENGTH",
-            "type": "text",
+            "type": "num",
             "isMandatory": false,
             "onChange": "setProtectionLength",
             "active": true,
-            "columnType": "text"
+            "columnType": "number"
           },
           {
             "name": "drainageLength",
             "value": "drainageLength",
             "code": "AST_DRAINAGE_CHANNEL_LENGTH",
-            "type": "text",
+            "group":"physicialCharacteristics",
+            "type": "num",
             "isMandatory": false,
             "onChange": "setDrainageLength",
             "active": true,
-            "columnType": "text"
+            "columnType": "number"
           },
           {
             "name": "numOfFootpath",
             "value": "numOfFootpath",
             "code": "AST_FOOTPATH_NUMBER",
-            "type": "text",
+            "group":"physicialCharacteristics",
+            "type": "num",
             "isMandatory": false,
             "onChange": "setNumOfFootpath",
             "active": true,
@@ -928,17 +933,19 @@
             "name": "numOfPedastrianCross",
             "value": "numOfPedastrianCross",
             "code": "AST_PEDASTRIAN_CROSSING_NUMBER",
-            "type": "text",
+            "group":"physicialCharacteristics",
+            "type": "num",
             "isMandatory": false,
             "onChange": "setNumOfPedastrianCross",
             "active": true,
-            "columnType": "text"
+            "columnType": "number"
           },
           {
             "name": "numOfBusStop",
             "value": "numOfBusStop",
             "code": "AST_BUSSTOP_NUMBER",
-            "type": "text",
+            "group":"physicialCharacteristics",
+            "type": "num",
             "isMandatory": false,
             "onChange": "setNumOfBusStop",
             "active": true,
@@ -948,7 +955,8 @@
             "name": "numOfMetroStation",
             "value": "numOfMetroStation",
             "code": "AST_METROSTATION_NUMBER",
-            "type": "text",
+            "group":"physicialCharacteristics",
+            "type": "num",
             "isMandatory": false,
             "onChange": "setNumOfMetroStation",
             "active": true,
@@ -958,16 +966,18 @@
             "name": "lengthOfCycletrack",
             "value": "lengthOfCycletrack",
             "code": "AST_CYCLETRACK_LENGTH",
-            "type": "text",
+            "group":"physicialCharacteristics",
+            "type": "num",
             "isMandatory": false,
             "onChange": "setLengthOfCycletrack",
             "active": true,
-            "columnType": "text"
+            "columnType": "number"
           },
           {
             "name": "lastMaintainence",
             "value": "lastMaintainence",
             "code": "AST_LAST_MAINTAINENCE",
+            "group":"physicialCharacteristics",
             "type": "date",
             "isMandatory": false,
             "onChange": "setLastMaintainence",
@@ -977,6 +987,7 @@
             "name": "nextMaintainence",
             "value": "nextMaintainence",
             "code": "AST_NEXT_MAINTAINENCE",
+            "group":"physicialCharacteristics",
             "type": "date",
             "isMandatory": false,
             "onChange": "setNextMaintainence",
