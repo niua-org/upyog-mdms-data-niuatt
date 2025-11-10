@@ -21872,7 +21872,7 @@
       {
          "id": 4004,
          "name": "Search Allot Estate Asset",
-         "url": "/estate-management/estate/allotment/v1/_create",
+         "url": "/estate-management/estate/allotment/v1/_search",
          "displayName": "Search Allot Asset",
          "orderNumber": 1,
          "enabled": false,
