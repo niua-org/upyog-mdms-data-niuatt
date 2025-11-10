@@ -21857,6 +21857,28 @@
          "serviceCode": "estate-management",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 4003,
+         "name": "Allot Estate Asset",
+         "url": "/estate-management/estate/allotment/v1/_create",
+         "displayName": "Allot Asset",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "estate-management",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 4004,
+         "name": "Search Allot Estate Asset",
+         "url": "/estate-management/estate/allotment/v1/_create",
+         "displayName": "Search Allot Asset",
+         "orderNumber": 1,
+         "enabled": false,
+         "serviceCode": "estate-management",
+         "code": "null",
+         "path": ""
       }
   ]
 }
