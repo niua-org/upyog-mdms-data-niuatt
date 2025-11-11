@@ -926,6 +926,11 @@
       "code": "PET_INTERNAL_MICROSERVICE_ROLE",
       "name": "PET Internal Microservice Role",
       "description": "Internal role for plain access"
+    },
+    {
+      "code": "EST_CEMP",
+      "name": "Counter Employee for EState Service",
+      "description": "Counter Employee for EState Service"
     }
   ]
 }
