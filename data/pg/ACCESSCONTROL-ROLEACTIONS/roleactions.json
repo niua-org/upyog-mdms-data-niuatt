@@ -33009,6 +33009,18 @@
       "actionid": 4004,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "GIS_CEMP",
+      "actionid": 3089,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GIS_CEMP",
+      "actionid": 3102,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
