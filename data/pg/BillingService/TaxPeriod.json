@@ -1882,6 +1882,15 @@
       "service": "CND.TRIP_CHARGES",
       "code": "CNDTRIPCHARGE10YRS",
       "financialYear": "2025-2035"
-    }
+    },
+    {
+     "fromDate": 1554057000000,
+     "toDate": 1869676199000,
+     "periodCycle": "TENYEARS",
+     "service": "est-services",
+     "code": "EST10YRS2024",
+     "financialYear": "2025-35"
+   }
+
   ]
 }

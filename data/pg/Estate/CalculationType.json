@@ -1,0 +1,14 @@
+{
+   "tenantId": "pg",
+   "moduleName": "Estate",
+   "EstateCalculationType": [
+       {
+           "id": "1",
+           "code": "RENT",
+           "applicationType": "ESTATE_SERVICE",
+           "serviceType": "NEW_BOOKING",
+           "feeType": "EST_BOOKING_FEE",
+           "amount": 2500
+       }
+   ]
+}

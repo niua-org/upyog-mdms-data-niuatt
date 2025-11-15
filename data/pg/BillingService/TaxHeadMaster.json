@@ -5967,6 +5967,17 @@
         "isActualDemand": true,
         "order": "0",
         "isRequired": false
-      }
+      },
+      {
+       "category": "FEE",
+       "service": "est-services",
+       "name": "Rent",
+       "code": "EST_BOOKING_FEE",
+       "isDebit": false,
+       "isActualDemand": true,
+       "order": "0",
+       "isRequired": false
+     }
+
   ]
 }
