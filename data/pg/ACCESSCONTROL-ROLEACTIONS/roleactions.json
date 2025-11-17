@@ -33011,6 +33011,24 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 4002,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4004,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4005,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "GIS_CEMP",
       "actionid": 3089,
       "actioncode": "",

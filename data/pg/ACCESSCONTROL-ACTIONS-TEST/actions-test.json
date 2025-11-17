@@ -21820,16 +21820,16 @@
 },
 {
       "id": 4000,
-      "name": "EST_CREATE_REQUEST_HEADER",
+      "name": "EST_MY_APPLICATION",
       "url": "digit-ui-card",
-      "displayName": "Create Request",
+      "displayName": "My Applications",
       "orderNumber": 1,
       "parentModule": "EST",
       "enabled": true,
       "serviceCode": "EST",
       "code": "null",
       "path": "",
-      "navigationURL": "/upyog-ui/citizen/est/create-request",
+      "navigationURL": "/upyog-ui/citizen/est/my-applications",
       "leftIcon": "TLIcon",
       "rightIcon": "",
       "queryParams": "",
@@ -21879,6 +21879,24 @@
          "serviceCode": "estate-management",
          "code": "null",
          "path": ""
-      }
+      },
+      {
+      "id": 4005,
+      "name": "EST_PAYMENT_HISTORY",
+      "url": "digit-ui-card",
+      "displayName": "Payment History",
+      "orderNumber": 1,
+      "parentModule": "EST",
+      "enabled": true,
+      "serviceCode": "EST",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/upyog-ui/citizen/est/payment-history",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/upyog-ui/citizen/est-home"
+    } 
   ]
 }
