@@ -2114,7 +2114,19 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true
-    }
+    },
+    {
+     "businessService": "est-services",
+     "code": "est-services",
+     "collectionModesNotAllowed": [
+       "DD"
+     ],
+     "partPaymentAllowed": false,
+     "isAdvanceAllowed": false,
+     "isVoucherCreationEnabled": true,
+     "isActive": true
+   }
+
     
   ]
 }
