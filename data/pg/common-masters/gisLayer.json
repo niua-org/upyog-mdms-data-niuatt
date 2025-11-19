@@ -1,0 +1,10 @@
+{
+        "tenantId": "pg",
+        "moduleName": "common-masters",
+        "gisLayer":
+        [
+          {
+                "gisLink": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          }      
+        ]
+      }
