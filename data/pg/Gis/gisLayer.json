@@ -4,7 +4,10 @@
         "GisLayer":
         [
           {
-                "BaseLayer": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+                "BaseLayer": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                "active": true,
+                "code": "openstreetmap"
+
           },
           {
             "WmsLayer": ""
