@@ -1,0 +1,13 @@
+{
+        "tenantId": "pg",
+        "moduleName": "GIS",
+        "GisLayer":
+        [
+          {
+                "BaseLayer": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+          },
+          {
+            "WmsLayer": ""
+           }     
+        ]
+      }
