@@ -936,6 +936,11 @@
       "code": "GIS_CEMP",
       "name": "GIS Role for employees",
       "description": "GIS Role for employees"
+    },
+    {
+      "roleCode": "MT_DRIVER",
+      "roleName": "Mobile Toilet Driver role",
+      "description": "Mobile Toilet Driver"
     }
   ]
 }
