@@ -1,0 +1,16 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Estate",
+  "AssetStatus": [
+    {
+      "code": "AVAILABLE",
+      "name": "Available",
+      "active": true
+    },
+    {
+      "code": "ALLOTTED",
+      "name": "Allotted", 
+      "active": true
+    }
+  ]
+}
