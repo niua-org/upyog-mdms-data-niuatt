@@ -1,0 +1,16 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Estate", 
+  "AllotmentType": [
+    {
+      "code": "RENT",
+      "name": "Rent",
+      "active": true
+    },
+    {
+      "code": "LEASE",
+      "name": "Lease",
+      "active": true
+    }
+  ]
+}

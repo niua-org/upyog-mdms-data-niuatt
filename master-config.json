@@ -1145,19 +1145,20 @@
       "uniqueKeys": [
         "$.code"
       ]
-      },
-      "PaymentType": {
+    },
+    "PaymentType": {
       "masterName": "PaymentType",
       "isStateLevel": true,
       "uniqueKeys": [
         "$.code"
       ]
-    },"ReceivedPaymentType": {
-			"masterName": "ReceivedPaymentType",
-			"isStateLevel": true,
-			"uniqueKeys": [
-				"$.code"
-			]
+    },
+    "ReceivedPaymentType": {
+      "masterName": "ReceivedPaymentType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
     },
     "CheckList": {
       "masterName": "CheckList",
@@ -1237,19 +1238,19 @@
       ]
     },
     "AdvancePayment": {
-			"masterName": "AdvancePayment",
-			"isStateLevel": true,
-			"uniqueKeys": [
-				"$.code"
-			]
-		},
-		"CancellationFee": {
-			"masterName": "CancellationFee",
-			"isStateLevel": true,
-			"uniqueKeys": [
-				"$.code"
-			]
-		}
+      "masterName": "AdvancePayment",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "CancellationFee": {
+      "masterName": "CancellationFee",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    }
   },
   "Vehicle": {
     "SuctionType": {
@@ -1290,14 +1291,51 @@
       },
       "Channel": {
         "ChannelList": {
-         "masterName": "ChannelList",
+          "masterName": "ChannelList",
           "isStateLevel": true,
           "uniqueKeys": [
-             "$.businessService",
-             "$.channelNames"
-        ]
+            "$.businessService",
+            "$.channelNames"
+          ]
+        },
+        "Estate": {
+          "AssetStatus": {
+            "masterName": "AssetStatus",
+            "isStateLevel": true,
+            "uniqueKeys": [
+              "$.code"
+            ]
+          },
+          "AssetType": {
+            "masterName": "AssetType",
+            "isStateLevel": true,
+            "uniqueKeys": [
+              "$.code"
+            ]
+          },
+          "AllotmentStatus": {
+            "masterName": "AllotmentStatus",
+            "isStateLevel": true,
+            "uniqueKeys": [
+              "$.code"
+            ]
+          },
+          "AllotmentType": {
+            "masterName": "AllotmentType",
+            "isStateLevel": true,
+            "uniqueKeys": [
+              "$.code"
+            ]
+          },
+          "PaymentStatus": {
+            "masterName": "PaymentStatus",
+            "isStateLevel": true,
+            "uniqueKeys": [
+              "$.code"
+            ]
+          }
+        }
       }
-     }	    
     }
   }
 }
