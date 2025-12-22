@@ -1,7 +1,7 @@
 {
   "tenantId": "pg",
   "moduleName": "GIS",
-  "gisAssetClassificationOptions": [
+  "assetClassificationOptions": [
     {
       "code": "ALL",
       "value": "ALL",

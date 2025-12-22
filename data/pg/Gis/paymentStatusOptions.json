@@ -1,7 +1,7 @@
 {
         "tenantId": "pg",
         "moduleName": "GIS",
-        "gisPaymentStatusOptions": [
+        "paymentStatusOptions": [
           {
             "code": "ALL",
             "value": "ALL",

@@ -1,7 +1,7 @@
 {
   "tenantId": "pg",
   "moduleName": "GIS",
-  "gisUsageCategoryOptions": [
+  "usageCategoryOptions": [
     {
       "code": "ALL",
       "value": "ALL",

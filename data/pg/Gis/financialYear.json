@@ -1,7 +1,7 @@
 {
   "tenantId": "pg",
   "moduleName": "GIS",
-  "gisFinancialYear": [
+  "financialYear": [
     {
       "code": "2024-25",
       "value": {
