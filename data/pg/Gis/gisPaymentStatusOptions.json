@@ -1,0 +1,22 @@
+{
+        "tenantId": "pg",
+        "moduleName": "GIS",
+        "gisPaymentStatusOptions": [
+          {
+            "code": "ALL",
+            "value": "ALL",
+            "i18nKey": "All"
+          },
+          {
+            "code": "PAID",
+            "value": "PAID",
+            "i18nKey": "Paid"
+          },
+          {
+            "code": "UNPAID",
+            "value": "UNPAID",
+            "i18nKey": "Unpaid"
+          }
+        ]
+      }
+      
