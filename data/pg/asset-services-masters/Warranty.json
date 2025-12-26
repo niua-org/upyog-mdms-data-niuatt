@@ -1,81 +1,111 @@
 {
-    "tenantId": "pg",
-    "moduleName": "ASSET",
-    "Warranty": [
-      {
-        "name": "1 Year",
-        "code": "1_YEAR",
-        "active": true
-      },
-      {
-        "name": "2 Years",
-        "code": "2_YEAR",
-        "active": true
-      },
-      {
-        "name": "3 Years",
-        "code": "3_YEAR",
-        "active": true
-      },
-      {
-        "name": "4 Years",
-        "code": "4_YEAR",
-        "active": true
-      },
-      {
-        "name": "5 Years",
-        "code": "5_YEAR",
-        "active": true
-      },
-      {
-        "name": "6 Years",
-        "code": "6_YEAR",
-        "active": true
-      },
-      {
-        "name": "7 Years",
-        "code": "7_YEAR",
-        "active": true
-      },
-      {
-        "name": "8 Years",
-        "code": "8_YEAR",
-        "active": true
-      },
-      {
-        "name": "9 Years",
-        "code": "9_YEAR",
-        "active": true
-      },
-      {
-        "name": "10 Years",
-        "code": "10_YEAR",
-        "active": true
-      },
-      {
-        "name": "11 Years",
-        "code": "11_YEAR",
-        "active": true
-      },
-      {
-        "name": "12 Years",
-        "code": "12_YEAR",
-        "active": true
-      },
-      {
-        "name": "13 Years",
-        "code": "13_YEAR",
-        "active": true
-      },
-      {
-        "name": "14 Years",
-        "code": "14_YEAR",
-        "active": true
-      },
-      {
-        "name": "15 Years",
-        "code": "15_YEAR",
-        "active": true
-      }
-    ]
+  "tenantId": "pg",
+  "moduleName": "ASSET",
+  "Warranty": [
+    {
+      "name": "warranty",
+      "i18nKey": "1 Years",
+      "code": "1_YEAR",
+      "value": "1 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "2 Years",
+      "code": "2_YEAR",
+      "value": "2 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "3 Years",
+      "code": "3_YEAR",
+      "value": "3 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "4 Years",
+      "code": "4_YEAR",
+      "value": "4 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "5 Years",
+      "code": "5_YEAR",
+      "value": "5 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "6 Years",
+      "code": "6_YEAR",
+      "value": "6 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "7 Years",
+      "code": "7_YEAR",
+      "value": "7 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "8 Years",
+      "code": "8_YEAR",
+      "value": "8 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "9 Years",
+      "code": "9_YEAR",
+      "value": "9 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "10 Years",
+      "code": "10_YEAR",
+      "value": "10 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "11 Years",
+      "code": "11_YEAR",
+      "value": "11 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "12 Years",
+      "code": "12_YEAR",
+      "value": "12 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "13 Years",
+      "code": "13_YEAR",
+      "value": "13 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "14 Years",
+      "code": "14_YEAR",
+      "value": "14 Years",
+      "active": true
+    },
+    {
+      "name": "warranty",
+      "i18nKey": "15 Years",
+      "code": "15_YEAR",
+      "value": "15 Years",
+      "active": true
+    }
+  ]
 }
