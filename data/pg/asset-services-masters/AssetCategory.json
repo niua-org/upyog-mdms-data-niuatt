@@ -1,283 +1,877 @@
 {
-    "tenantId": "pg",
-    "moduleName": "ASSET",
-    "assetCategory": [
-      {
-        "name": "Vacant Land",
-        "code": "VACANT_LAND",
-        "active": true,
-        "assetParentCategory": "LAND"
-      },
-      {
-        "name": "Open Spaces",
-        "code": "OPEN_SPACES",
-        "active": true,
-        "assetParentCategory": "LAND"
-      },
-      {
-        "name": "Parks and Gardens",
-        "code": "PARKS_AND_GARDENS",
-        "active": true,
-        "assetParentCategory": "LAND"
-      },
-      {
-        "name": "Burial Grounds",
-        "code": "BURIAL_GROUNDS",
-        "active": true,
-        "assetParentCategory": "LAND"
-      },
-      {
-        "name": "Cremation Grounds",
-        "code": "CREMATION_GROUNDS",
-        "active": true,
-        "assetParentCategory": "LAND"
-      },
-      {
-        "name": "Athletic Fields",
-        "code": "ATHLETIC_FIELDS",
-        "active": true,
-        "assetParentCategory": "LAND"
-      },
-      {
-        "name": "Market yards/Structures",
-        "code": "MARKET_YARDS_STRUCTURES",
-        "active": true,
-        "assetParentCategory": "LAND"
-      },
-      {
-        "name": "Cultural/Tourism",
-        "code": "CULTURAL_TOURISM",
-        "active": true,
-        "assetParentCategory": "LAND"
-      },
-      {
-        "name": "Waste Landfill Sites",
-        "code": "WASTE_LANDFILL_SITES",
-        "active": true,
-        "assetParentCategory": "LAND"
-      },
-      {
-        "name": "Administration",
-        "code": "ADMINISTRATION",
-        "active": true,
-        "assetParentCategory": "BUILDING"
-      },
-      {
-        "name": "Commercial",
-        "code": "COMMERCIAL",
-        "active": true,
-        "assetParentCategory": "BUILDING"
-      },
-      {
-        "name": "Education",
-        "code": "EDUCATION",
-        "active": true,
-        "assetParentCategory": "BUILDING"
-      },
-      {
-        "name": "Health",
-        "code": "HEALTH",
-        "active": true,
-        "assetParentCategory": "BUILDING"
-      },
-      {
-        "name": "Industrial",
-        "code": "INDUSTRIAL",
-        "active": true,
-        "assetParentCategory": "BUILDING"
-      },
-      {
-        "name": "Public Facilities",
-        "code": "PUBLIC_FACILITIES",
-        "active": true,
-        "assetParentCategory": "BUILDING"
-      },
-      {
-        "name": "Recreation",
-        "code": "RECREATION",
-        "active": true,
-        "assetParentCategory": "BUILDING"
-      },
-      {
-        "name": "Residential",
-        "code": "RESIDENTIAL",
-        "active": true,
-        "assetParentCategory": "BUILDING"
-      },
-      {
-        "name": "Services",
-        "code": "SERVICES",
-        "active": true,
-        "assetParentCategory": "BUILDING"
-      },
-      {
-        "name": "Storage",
-        "code": "STORAGE",
-        "active": true,
-        "assetParentCategory": "BUILDING"
-      },
-      {
-        "name": "Road Infrastructure",
-        "code": "ROAD_INFRASTRUCTURE",
-        "active": true,
-        "assetParentCategory": "SERVICE"
-      },
-      {
-        "name": "Water WorkDistribution",
-        "code": "WATER_WORK_DISTRIBUTION",
-        "active": true,
-        "assetParentCategory": "SERVICE"
-      },
-      {
-        "name": "Drains Including Underground Drain Details",
-        "code": "DRAINS_INCLUDING_UNDERGROUND_DRAINS_DETAILS",
-        "active": true,
-        "assetParentCategory": "SERVICE"
-      },
-      {
-        "name": "Irrigation",
-        "code": "IRRIGATION",
-        "active": true,
-        "assetParentCategory": "SERVICE"
-      },
-      {
-        "name": "Public Lighting System",
-        "code": "PUBLIC_LIGHTING_SYSTEM",
-        "active": true,
-        "assetParentCategory": "SERVICE"
-      },
-      {
-        "name": "Lakes And Ponds",
-        "code": "LAKES_AND_PONDS",
-        "active": true,
-        "assetParentCategory": "SERVICE"
-      },
-      {
-        "name": "Electricity",
-        "code": "ELECTRICITY",
-        "active": true,
-        "assetParentCategory": "SERVICE"
-      },
-      {
-        "name": "Solid Work",
-        "code": "SOLID_WORK",
-        "active": true,
-        "assetParentCategory": "SERVICE"
-      },
-      {
-        "name": "Plants And Machinery",
-        "code": "PLANTS_AND_MACHINERY",
-        "active": true,
-        "assetParentCategory": "SERVICE"
-      },
-      {
-        "name": "LMV",
-        "code": "LMV",
-        "active": true,
-        "assetParentCategory": "VEHICLE"
-      },
-      {
-        "name": "MCWG",
-        "code": "MCWG",
-        "active": true,
-        "assetParentCategory": "VEHICLE"
-      },
-      {
-        "name": "EV",
-        "code": "EV",
-        "active": true,
-        "assetParentCategory": "VEHICLE"
-      },
-      {
-        "name": "HMV",
-        "code": "HMV",
-        "active": true,
-        "assetParentCategory": "VEHICLE"
-      },
-      {
-        "name": "Computers and Laptops",
-        "code": "COMPUTERS_AND_LAPTOPS",
-        "active": true,
-        "assetParentCategory": "IT"
-      },
-      {
-        "name": "Peripherals",
-        "code": "PERIPHERALS",
-        "active": true,
-        "assetParentCategory": "IT"
-      },
-      {
-        "name": "Networking Equipment",
-        "code": "NETWORKING_EQUIPMENT",
-        "active": true,
-        "assetParentCategory": "IT"
-      },
-      {
-        "name": "Storage Devices",
-        "code": "STORAGE_DEVICES",
-        "active": true,
-        "assetParentCategory": "IT"
-      },
-      {
-        "name": "Servers",
-        "code": "SERVERS",
-        "active": true,
-        "assetParentCategory": "IT"
-      },
-      {
-        "name": "Software Licenses",
-        "code": "SOFTWARE_LICENSES",
-        "active": true,
-        "assetParentCategory": "IT"
-      },
-      {
-        "name": "Computer Accessories",
-        "code": "COMPUTER_ACCESSORIES",
-        "active": true,
-        "assetParentCategory": "IT"
-      },
-      {
-        "name": "IT Consumables",
-        "code": "IT_CONSUMABLES",
-        "active": true,
-        "assetParentCategory": "IT"
-      },
-      {
-        "name": "Software-Service",
-        "code": "SOFTWARE_SERVICE",
-        "active": true,
-        "assetParentCategory": "IT"
-      },
-      {
-        "name": "Office Productivity Software",
-        "code": "OFFICE_PRODUCTIVITY_SOFTWARE",
-        "active": true,
-        "assetParentCategory": "IT"
-      },
-      {
-        "name": "Miscellaneous Equipment",
-        "code": "MISCELLANEOUS_EQUIPMENT",
-        "active": true,
-        "assetParentCategory": "IT"
-      },
-      {
-        "name": "Furnitures and Fixtures",
-        "code": "FURNITURES_AND_FIXTURES",
-        "active": true,
-        "assetParentCategory": "OTHER"
-      },
-      {
-        "name": "Office equipments",
-        "code": "OFFICE_EQUIPMENTS",
-        "active": true,
-        "assetParentCategory": "OTHER"
-      },
-      {
-        "name": "Other equipments",
-        "code": "OTHER_EQUIPMENTS",
-        "active": true,
-        "assetParentCategory": "OTHER"
-      }
-    ]
-  }
-  
+  "tenantId": "pg",
+  "moduleName": "ASSET",
+  "assetCategory": [
+    {
+      "name": "Vacant Land",
+      "code": "VACANT_LAND",
+      "active": true,
+      "assetParentCategory": "LAND"
+    },
+    {
+      "name": "Open Spaces",
+      "code": "OPEN_SPACES",
+      "active": true,
+      "assetParentCategory": "LAND"
+    },
+    {
+      "name": "Parks and Gardens",
+      "code": "PARKS_AND_GARDENS",
+      "active": true,
+      "assetParentCategory": "LAND"
+    },
+    {
+      "name": "Burial Grounds",
+      "code": "BURIAL_GROUNDS",
+      "active": true,
+      "assetParentCategory": "LAND"
+    },
+    {
+      "name": "Cremation Grounds",
+      "code": "CREMATION_GROUNDS",
+      "active": true,
+      "assetParentCategory": "LAND"
+    },
+    {
+      "name": "Athletic Fields",
+      "code": "ATHLETIC_FIELDS",
+      "active": true,
+      "assetParentCategory": "LAND"
+    },
+    {
+      "name": "Market yards/Structures",
+      "code": "MARKET_YARDS_STRUCTURES",
+      "active": true,
+      "assetParentCategory": "LAND"
+    },
+    {
+      "name": "Cultural/Tourism",
+      "code": "CULTURAL_TOURISM",
+      "active": true,
+      "assetParentCategory": "LAND"
+    },
+    {
+      "name": "Waste Landfill Sites",
+      "code": "WASTE_LANDFILL_SITES",
+      "active": true,
+      "assetParentCategory": "LAND"
+    },
+    {
+      "name": "Parks",
+      "code": "PARKS",
+      "active": true,
+      "assetParentCategory": "LAND",
+      "glcode": "4101001"
+    },
+    {
+      "name": "Playground",
+      "code": "PLAYGROUND",
+      "active": true,
+      "assetParentCategory": "LAND",
+      "glcode": "4101002"
+    },
+    {
+      "name": "Agricultural land",
+      "code": "AGRICULTURAL_LAND",
+      "active": true,
+      "assetParentCategory": "LAND",
+      "glcode": "4101003"
+    },
+    {
+      "name": "Vehicle Parking Areas",
+      "code": "VEHICLE_PARKING_AREAS",
+      "active": true,
+      "assetParentCategory": "LAND",
+      "glcode": "4101004"
+    },
+    {
+      "name": "Bus Stands",
+      "code": "BUS_STANDS",
+      "active": true,
+      "assetParentCategory": "LAND",
+      "glcode": "4101005"
+    },
+    {
+      "name": "Cycle Stands",
+      "code": "CYCLE_STANDS",
+      "active": true,
+      "assetParentCategory": "LAND",
+      "glcode": "4101006"
+    },
+    {
+      "name": "Lakes and Ponds",
+      "code": "LAKES_AND_PONDS",
+      "active": true,
+      "assetParentCategory": "LAND",
+      "glcode": "4101007"
+    },
+    {
+      "name": "Administration",
+      "code": "ADMINISTRATION",
+      "active": true,
+      "assetParentCategory": "BUILDING"
+    },
+    {
+      "name": "Commercial",
+      "code": "COMMERCIAL",
+      "active": true,
+      "assetParentCategory": "BUILDING"
+    },
+    {
+      "name": "Education",
+      "code": "EDUCATION",
+      "active": true,
+      "assetParentCategory": "BUILDING"
+    },
+    {
+      "name": "Health",
+      "code": "HEALTH",
+      "active": true,
+      "assetParentCategory": "BUILDING"
+    },
+    {
+      "name": "Industrial",
+      "code": "INDUSTRIAL",
+      "active": true,
+      "assetParentCategory": "BUILDING"
+    },
+    {
+      "name": "Public Facilities",
+      "code": "PUBLIC_FACILITIES",
+      "active": true,
+      "assetParentCategory": "BUILDING"
+    },
+    {
+      "name": "Recreation",
+      "code": "RECREATION",
+      "active": true,
+      "assetParentCategory": "BUILDING"
+    },
+    {
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true,
+      "assetParentCategory": "BUILDING"
+    },
+    {
+      "name": "Services",
+      "code": "SERVICES",
+      "active": true,
+      "assetParentCategory": "BUILDING"
+    },
+    {
+      "name": "Storage",
+      "code": "STORAGE",
+      "active": true,
+      "assetParentCategory": "BUILDING"
+    },
+    {
+      "name": "Office Building",
+      "code": "OFFICE_BUILDING",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102001"
+    },
+    {
+      "name": "School Building",
+      "code": "SCHOOL_BUILDING",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102002"
+    },
+    {
+      "name": "Market",
+      "code": "MARKET",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102003"
+    },
+    {
+      "name": "Shopping Mall",
+      "code": "SHOPPING_MALL",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102004"
+    },
+    {
+      "name": "Public Convenience",
+      "code": "PUBLIC_CONVENIENCE",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102005"
+    },
+    {
+      "name": "Community Centre",
+      "code": "COMMUNITY_CENTRE",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102006"
+    },
+    {
+      "name": "Child Welfare Centre",
+      "code": "CHILD_WELFARE_CENTRE",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102007"
+    },
+    {
+      "name": "Polyclinics",
+      "code": "POLYCLINICS",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102008"
+    },
+    {
+      "name": "Milk Booth",
+      "code": "MILK_BOOTH",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102009"
+    },
+    {
+      "name": "Workshop",
+      "code": "WORKSHOP",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102010"
+    },
+    {
+      "name": "Fire Station",
+      "code": "FIRE_STATION",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102011"
+    },
+    {
+      "name": "Store Buildings",
+      "code": "STORE_BUILDINGS",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102012"
+    },
+    {
+      "name": "Staff Quarters",
+      "code": "STAFF_QUARTERS",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102013"
+    },
+    {
+      "name": "Covered Parking Areas",
+      "code": "COVERED_PARKING_AREAS",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102014"
+    },
+    {
+      "name": "Garbage Vats",
+      "code": "GARBAGE_VATS",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102015"
+    },
+    {
+      "name": "Transfer Station",
+      "code": "TRANSFER_STATION",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102016"
+    },
+    {
+      "name": "Fountains",
+      "code": "FOUNTAINS",
+      "active": true,
+      "assetParentCategory": "BUILDING",
+      "glcode": "4102017"
+    },
+    {
+      "name": "Road 30 m. wide",
+      "code": "ROAD_30_M_WIDE",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103001"
+    },
+    {
+      "name": "Road 20 m. wide",
+      "code": "ROAD_20_M_WIDE",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103002"
+    },
+    {
+      "name": "Road 15 m. wide",
+      "code": "ROAD_15_M_WIDE",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103003"
+    },
+    {
+      "name": "Road 10 m. wide",
+      "code": "ROAD_10_M_WIDE",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103004"
+    },
+    {
+      "name": "Road 5 m. wide",
+      "code": "ROAD_5_M_WIDE",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103005"
+    },
+    {
+      "name": "Road 3 m. wide",
+      "code": "ROAD_3_M_WIDE",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103006"
+    },
+    {
+      "name": "Bridge more than 100 m.",
+      "code": "BRIDGE_MORE_THAN_100_M",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103007"
+    },
+    {
+      "name": "Bridge less than 100 m.",
+      "code": "BRIDGE_LESS_THAN_100_M",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103008"
+    },
+    {
+      "name": "Pavements concrete inter locking slabs",
+      "code": "PAVEMENTS_CONCRETE_INTERLOCKING_SLABS",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103009"
+    },
+    {
+      "name": "Pavement with nominal reinforcement for lanes",
+      "code": "PAVEMENT_NOMINAL_REINFORCEMENT_LANES",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103010"
+    },
+    {
+      "name": "BT roads with wearing surface, Chip carpet",
+      "code": "BT_ROADS_WEARING_SURFACE_CHIP_CARPET",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103011"
+    },
+    {
+      "name": "BT roads with wearing surface BMSDBC",
+      "code": "BT_ROADS_WEARING_SURFACE_BMSDBC",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103012"
+    },
+    {
+      "name": "Roads and Pavements Sub grade",
+      "code": "ROADS_PAVEMENTS_SUB_GRADE",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103013"
+    },
+    {
+      "name": "Flyovers and grade Separators",
+      "code": "FLYOVERS_GRADE_SEPARATORS",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103014"
+    },
+    {
+      "name": "Causeways",
+      "code": "CAUSEWAYS",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103015"
+    },
+    {
+      "name": "Culverts",
+      "code": "CULVERTS",
+      "active": true,
+      "assetParentCategory": "ROADS_&_BRIDGES",
+      "glcode": "4103016"
+    },
+    {
+      "name": "Electrical installation",
+      "code": "ELECTRICAL_INSTALLATION",
+      "active": true,
+      "assetParentCategory": "PUBLIC_LIGHTING",
+      "glcode": "4103301"
+    },
+    {
+      "name": "Lamp-Posts",
+      "code": "LAMP_POSTS",
+      "active": true,
+      "assetParentCategory": "PUBLIC_LIGHTING",
+      "glcode": "4103302"
+    },
+    {
+      "name": "Mercury vapor Lamps",
+      "code": "MERCURY_VAPOR_LAMPS",
+      "active": true,
+      "assetParentCategory": "PUBLIC_LIGHTING",
+      "glcode": "4103303"
+    },
+    {
+      "name": "Electrical fittings for Public Lighting",
+      "code": "ELECTRICAL_FITTINGS_PUBLIC_LIGHTING",
+      "active": true,
+      "assetParentCategory": "PUBLIC_LIGHTING",
+      "glcode": "4103304"
+    },
+    {
+      "name": "Insurance spares for Heavy Machinery",
+      "code": "INSURANCE_SPARES_HEAVY_MACHINERY",
+      "active": true,
+      "assetParentCategory": "OTHER_FIXED_ASSETS",
+      "glcode": "4108001"
+    },
+    {
+      "name": "Insurance spares for Heavy Pumps",
+      "code": "INSURANCE_SPARES_HEAVY_PUMPS",
+      "active": true,
+      "assetParentCategory": "OTHER_FIXED_ASSETS",
+      "glcode": "4108002"
+    },
+    {
+      "name": "Heritage Buildings",
+      "code": "HERITAGE_BUILDINGS",
+      "active": true,
+      "assetParentCategory": "OTHER_FIXED_ASSETS",
+      "glcode": "4108003"
+    },
+    {
+      "name": "Historical Assets",
+      "code": "HISTORICAL_ASSETS",
+      "active": true,
+      "assetParentCategory": "OTHER_FIXED_ASSETS",
+      "glcode": "4108004"
+    },
+    {
+      "name": "Work of Art",
+      "code": "WORK_OF_ART",
+      "active": true,
+      "assetParentCategory": "OTHER_FIXED_ASSETS",
+      "glcode": "4108005"
+    },
+    {
+      "name": "Road Infrastructure",
+      "code": "ROAD_INFRASTRUCTURE",
+      "active": true,
+      "assetParentCategory": "SERVICE"
+    },
+    {
+      "name": "Water WorkDistribution",
+      "code": "WATER_WORK_DISTRIBUTION",
+      "active": true,
+      "assetParentCategory": "SERVICE"
+    },
+    {
+      "name": "Drains Including Underground Drain Details",
+      "code": "DRAINS_INCLUDING_UNDERGROUND_DRAINS_DETAILS",
+      "active": true,
+      "assetParentCategory": "SERVICE"
+    },
+    {
+      "name": "Irrigation",
+      "code": "IRRIGATION",
+      "active": true,
+      "assetParentCategory": "SERVICE"
+    },
+    {
+      "name": "Public Lighting System",
+      "code": "PUBLIC_LIGHTING_SYSTEM",
+      "active": true,
+      "assetParentCategory": "SERVICE"
+    },
+    {
+      "name": "Lakes And Ponds",
+      "code": "LAKES_AND_PONDS",
+      "active": true,
+      "assetParentCategory": "SERVICE"
+    },
+    {
+      "name": "Electricity",
+      "code": "ELECTRICITY",
+      "active": true,
+      "assetParentCategory": "SERVICE"
+    },
+    {
+      "name": "Solid Work",
+      "code": "SOLID_WORK",
+      "active": true,
+      "assetParentCategory": "SERVICE"
+    },
+    {
+      "name": "Plants And Machinery",
+      "code": "PLANTS_AND_MACHINERY",
+      "active": true,
+      "assetParentCategory": "SERVICE"
+    },
+    {
+      "name": "LMV",
+      "code": "LMV",
+      "active": true,
+      "assetParentCategory": "VEHICLE"
+    },
+    {
+      "name": "MCWG",
+      "code": "MCWG",
+      "active": true,
+      "assetParentCategory": "VEHICLE"
+    },
+    {
+      "name": "EV",
+      "code": "EV",
+      "active": true,
+      "assetParentCategory": "VEHICLE"
+    },
+    {
+      "name": "HMV",
+      "code": "HMV",
+      "active": true,
+      "assetParentCategory": "VEHICLE"
+    },
+    {
+      "name": "Heavy Vehicles",
+      "code": "HEAVY_VEHICLES",
+      "active": true,
+      "assetParentCategory": "VEHICLE",
+      "glcode": "4105001"
+    },
+    {
+      "name": "Light Vehicles",
+      "code": "LIGHT_VEHICLES",
+      "active": true,
+      "assetParentCategory": "VEHICLE",
+      "glcode": "4105002"
+    },
+    {
+      "name": "Earth-Moving Vehicles",
+      "code": "EARTH_MOVING_VEHICLES",
+      "active": true,
+      "assetParentCategory": "VEHICLE",
+      "glcode": "4105003"
+    },
+    {
+      "name": "Other Vehicles",
+      "code": "OTHER_VEHICLES",
+      "active": true,
+      "assetParentCategory": "VEHICLE",
+      "glcode": "4105004"
+    },
+    {
+      "name": "Storm Water Drains",
+      "code": "STORM_WATER_DRAINS",
+      "active": true,
+      "assetParentCategory": "SEWERAGE_AND_DRAINAGE",
+      "glcode": "4103101"
+    },
+    {
+      "name": "Sewerage System (UGD)",
+      "code": "SEWERAGE_SYSTEM_UGD",
+      "active": true,
+      "assetParentCategory": "SEWERAGE_AND_DRAINAGE",
+      "glcode": "4103102"
+    },
+    {
+      "name": "Roadside Drains",
+      "code": "ROADSIDE_DRAINS",
+      "active": true,
+      "assetParentCategory": "SEWERAGE_AND_DRAINAGE",
+      "glcode": "4103103"
+    },
+    {
+      "name": "Water Supply Source and Transmission System",
+      "code": "WATER_SUPPLY_SOURCE_TRANSMISSION_SYSTEM",
+      "active": true,
+      "assetParentCategory": "WATERWAYS",
+      "glcode": "4103204"
+    },
+    {
+      "name": "Water Distribution System",
+      "code": "WATER_DISTRIBUTION_SYSTEM",
+      "active": true,
+      "assetParentCategory": "WATERWAYS",
+      "glcode": "4103205"
+    },
+    {
+      "name": "Water Distribution System (Mini Water Supply Scheme)",
+      "code": "WATER_DISTRIBUTION_SYSTEM_MINI_WATER_SUPPLY_SCHEME",
+      "active": true,
+      "assetParentCategory": "WATERWAYS",
+      "glcode": "4103206"
+    },
+    {
+      "name": "Road Roller",
+      "code": "ROAD_ROLLER",
+      "active": true,
+      "assetParentCategory": "PLANT_AND_MACHINERY",
+      "glcode": "4104001"
+    },
+    {
+      "name": "Medical Equipment",
+      "code": "MEDICAL_EQUIPMENT",
+      "active": true,
+      "assetParentCategory": "PLANT_AND_MACHINERY",
+      "glcode": "4104002"
+    },
+    {
+      "name": "School Equipment",
+      "code": "SCHOOL_EQUIPMENT",
+      "active": true,
+      "assetParentCategory": "PLANT_AND_MACHINERY",
+      "glcode": "4104003"
+    },
+    {
+      "name": "Public Health Equipment",
+      "code": "PUBLIC_HEALTH_EQUIPMENT",
+      "active": true,
+      "assetParentCategory": "PLANT_AND_MACHINERY",
+      "glcode": "4104004"
+    },
+    {
+      "name": "Electrical Equipment",
+      "code": "ELECTRICAL_EQUIPMENT",
+      "active": true,
+      "assetParentCategory": "PLANT_AND_MACHINERY",
+      "glcode": "4104005"
+    },
+    {
+      "name": "Other Equipments",
+      "code": "OTHER_EQUIPMENTS",
+      "active": true,
+      "assetParentCategory": "PLANT_AND_MACHINERY",
+      "glcode": "4104006"
+    },
+    {
+      "name": "Typewriters",
+      "code": "TYPEWRITERS",
+      "active": true,
+      "assetParentCategory": "OFFICE_AND_OTHER_EQUIPMENTS",
+      "glcode": "4106001"
+    },
+    {
+      "name": "Photocopy Machines",
+      "code": "PHOTOCOPY_MACHINES",
+      "active": true,
+      "assetParentCategory": "OFFICE_AND_OTHER_EQUIPMENTS",
+      "glcode": "4106002"
+    },
+    {
+      "name": "Communication and Telecom Equipment",
+      "code": "COMMUNICATION_AND_TELECOM_EQUIPMENT",
+      "active": true,
+      "assetParentCategory": "OFFICE_AND_OTHER_EQUIPMENTS",
+      "glcode": "4106003"
+    },
+    {
+      "name": "Equipment",
+      "code": "EQUIPMENT",
+      "active": true,
+      "assetParentCategory": "OFFICE_AND_OTHER_EQUIPMENTS",
+      "glcode": "4106004"
+    },
+    {
+      "name": "Office Equipment",
+      "code": "OFFICE_EQUIPMENT",
+      "active": true,
+      "assetParentCategory": "OFFICE_AND_OTHER_EQUIPMENTS",
+      "glcode": "4106005"
+    },
+    {
+      "name": "Other Equipments",
+      "code": "OTHER_EQUIPMENTS",
+      "active": true,
+      "assetParentCategory": "OFFICE_AND_OTHER_EQUIPMENTS",
+      "glcode": "4106006"
+    },
+    {
+      "name": "Computers",
+      "code": "COMPUTERS",
+      "active": true,
+      "assetParentCategory": "OFFICE_AND_OTHER_EQUIPMENTS",
+      "glcode": "4106007"
+    },
+    {
+      "name": "Computer Network",
+      "code": "COMPUTER_NETWORK",
+      "active": true,
+      "assetParentCategory": "OFFICE_AND_OTHER_EQUIPMENTS",
+      "glcode": "4106008"
+    },
+    {
+      "name": "Printers",
+      "code": "PRINTERS",
+      "active": true,
+      "assetParentCategory": "OFFICE_AND_OTHER_EQUIPMENTS",
+      "glcode": "4106009"
+    },
+    {
+      "name": "Network Server",
+      "code": "NETWORK_SERVER",
+      "active": true,
+      "assetParentCategory": "OFFICE_AND_OTHER_EQUIPMENTS",
+      "glcode": "4106010"
+    },
+    {
+      "name": "Other Computer Equipments",
+      "code": "OTHER_COMPUTER_EQUIPMENTS",
+      "active": true,
+      "assetParentCategory": "OFFICE_AND_OTHER_EQUIPMENTS",
+      "glcode": "4106011"
+    },
+    {
+      "name": "Insurance spares for Generators",
+      "code": "INSURANCE_SPARES_FOR_GENERATORS",
+      "active": true,
+      "assetParentCategory": "OFFICE_AND_OTHER_EQUIPMENTS",
+      "glcode": "4106012"
+    },
+    {
+      "name": "Wooden Chairs",
+      "code": "WOODEN_CHAIRS",
+      "active": true,
+      "assetParentCategory": "FURNITURE_FIXTURES_FITTINGS_AND_ELECTRICAL_APPLIANCES",
+      "glcode": "4107001"
+    },
+    {
+      "name": "Cupboards",
+      "code": "CUPBOARDS",
+      "active": true,
+      "assetParentCategory": "FURNITURE_FIXTURES_FITTINGS_AND_ELECTRICAL_APPLIANCES",
+      "glcode": "4107002"
+    },
+    {
+      "name": "Water Coolers",
+      "code": "WATER_COOLERS",
+      "active": true,
+      "assetParentCategory": "FURNITURE_FIXTURES_FITTINGS_AND_ELECTRICAL_APPLIANCES",
+      "glcode": "4107003"
+    },
+    {
+      "name": "Refrigerators",
+      "code": "REFRIGERATORS",
+      "active": true,
+      "assetParentCategory": "FURNITURE_FIXTURES_FITTINGS_AND_ELECTRICAL_APPLIANCES",
+      "glcode": "4107004"
+    },
+    {
+      "name": "Fans",
+      "code": "FANS",
+      "active": true,
+      "assetParentCategory": "FURNITURE_FIXTURES_FITTINGS_AND_ELECTRICAL_APPLIANCES",
+      "glcode": "4107005"
+    },
+    {
+      "name": "TV",
+      "code": "TV",
+      "active": true,
+      "assetParentCategory": "FURNITURE_FIXTURES_FITTINGS_AND_ELECTRICAL_APPLIANCES",
+      "glcode": "4107006"
+    },
+    {
+      "name": "Light Fittings",
+      "code": "LIGHT_FITTINGS",
+      "active": true,
+      "assetParentCategory": "FURNITURE_FIXTURES_FITTINGS_AND_ELECTRICAL_APPLIANCES",
+      "glcode": "4107007"
+    },
+    {
+      "name": "Power Points",
+      "code": "POWER_POINTS",
+      "active": true,
+      "assetParentCategory": "FURNITURE_FIXTURES_FITTINGS_AND_ELECTRICAL_APPLIANCES",
+      "glcode": "4107008"
+    },
+    {
+      "name": "Computers and Laptops",
+      "code": "COMPUTERS_AND_LAPTOPS",
+      "active": true,
+      "assetParentCategory": "IT"
+    },
+    {
+      "name": "Peripherals",
+      "code": "PERIPHERALS",
+      "active": true,
+      "assetParentCategory": "IT"
+    },
+    {
+      "name": "Networking Equipment",
+      "code": "NETWORKING_EQUIPMENT",
+      "active": true,
+      "assetParentCategory": "IT"
+    },
+    {
+      "name": "Storage Devices",
+      "code": "STORAGE_DEVICES",
+      "active": true,
+      "assetParentCategory": "IT"
+    },
+    {
+      "name": "Servers",
+      "code": "SERVERS",
+      "active": true,
+      "assetParentCategory": "IT"
+    },
+    {
+      "name": "Software Licenses",
+      "code": "SOFTWARE_LICENSES",
+      "active": true,
+      "assetParentCategory": "IT"
+    },
+    {
+      "name": "Computer Accessories",
+      "code": "COMPUTER_ACCESSORIES",
+      "active": true,
+      "assetParentCategory": "IT"
+    },
+    {
+      "name": "IT Consumables",
+      "code": "IT_CONSUMABLES",
+      "active": true,
+      "assetParentCategory": "IT"
+    },
+    {
+      "name": "Software-Service",
+      "code": "SOFTWARE_SERVICE",
+      "active": true,
+      "assetParentCategory": "IT"
+    },
+    {
+      "name": "Office Productivity Software",
+      "code": "OFFICE_PRODUCTIVITY_SOFTWARE",
+      "active": true,
+      "assetParentCategory": "IT"
+    },
+    {
+      "name": "Miscellaneous Equipment",
+      "code": "MISCELLANEOUS_EQUIPMENT",
+      "active": true,
+      "assetParentCategory": "IT"
+    },
+    {
+      "name": "Furnitures and Fixtures",
+      "code": "FURNITURES_AND_FIXTURES",
+      "active": true,
+      "assetParentCategory": "OTHER"
+    },
+    {
+      "name": "Office equipments",
+      "code": "OFFICE_EQUIPMENTS",
+      "active": true,
+      "assetParentCategory": "OTHER"
+    },
+    {
+      "name": "Other equipments",
+      "code": "OTHER_EQUIPMENTS",
+      "active": true,
+      "assetParentCategory": "OTHER"
+    }
+  ]
+}
