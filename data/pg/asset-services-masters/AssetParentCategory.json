@@ -6,42 +6,19 @@
         "name": "Land",
         "code": "LAND",
         "active": true,
-        "assetClassification": "IMMOVABLE",
-        "minorCode":"41010"
+        "assetClassification": "IMMOVABLE"
       },
       {
         "name": "Building",
         "code": "BUILDING",
         "active": true,
-        "assetClassification": "IMMOVABLE",
-        "minorCode":"41020"
+        "assetClassification": "IMMOVABLE"
       },
       {
         "name": "Service",
         "code": "SERVICE",
         "active": true,
         "assetClassification": "IMMOVABLE"
-      },
-      {
-        "name": "Roads & Bridges",
-        "code": "ROADS_&_BRIDGES",
-        "active": true,
-        "assetClassification": "IMMOVABLE",
-        "minorCode":"41030"
-      },
-      {
-        "name": "Public Lighting",
-        "code": "PUBLIC_LIGHTING",
-        "active": true,
-        "assetClassification": "IMMOVABLE",
-        "minorCode":"41033"
-      },
-      {
-        "name": "Other Fixed Assets",
-        "code": "OTHER_FIXED_ASSETS",
-        "active": true,
-        "assetClassification": "IMMOVABLE",
-        "minorCode":"41080"
       },
       {
         "name": "IT",
@@ -53,51 +30,13 @@
         "name": "Vehicle",
         "code": "VEHICLE",
         "active": true,
-        "assetClassification": "MOVABLE",
-        "minorCode":"41050"
+        "assetClassification": "MOVABLE"
       },
       {
         "name": "Other",
         "code": "OTHER",
         "active": true,
         "assetClassification": "MOVABLE"
-      },
-      {
-        "name": "Sewerage and Drainage",
-        "code": "SEWERAGE_AND_DRAINAGE",
-        "active": true,
-        "assetClassification": "MOVABLE",
-        "minorCode":"41031"
-      },
-      {
-        "name": "Waterways",
-        "code": "WATERWAYS",
-        "active": true,
-        "assetClassification": "MOVABLE",
-        "minorCode":"41032"
-      },
-      {
-        "name": "Plant and Machinery",
-        "code": "PLANT_AND_MACHINERY",
-        "active": true,
-        "assetClassification": "MOVABLE",
-        "minorCode":"41040"
-      },
-      {
-        "name": "Office and other Equipments",
-        "code": "OFFICE_AND_OTHER_EQUIPMENTS",
-        "active": true,
-        "assetClassification": "MOVABLE",
-        "minorCode":"41060"
-      },
-      {
-        "name": "Furniture, Fixtures, Fittings and Electrical Appliances",
-        "code": "FURNITURE_FIXTURES_FITTINGS_AND_ELECTRICAL_APPLIANCES",
-        "active": true,
-        "assetClassification": "MOVABLE",
-        "minorCode":"41070"
       }
-
-
     ]
 }
