@@ -21861,6 +21861,51 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/upyog-ui/citizen/est-home"
-    } 
+    },
+    {
+      "id": 4006,
+      "name": "ESTRebateInbox",
+      "url": "url",
+      "displayName": "EST_REBATE_INBOX",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "EST",
+      "code": "null",
+      "path": "EST.Rebate.Inbox",
+      "parentModule": "EST",
+      "navigationURL": "/upyog-ui/employee/est/rebate/inbox",
+      "leftIcon": "action:receipt",
+      "rightIcon": ""
+    },
+    {
+      "id": 4007,
+      "name": "Inbox",
+      "url": "url",
+      "displayName": "Asset Vendors List",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "EST",
+      "code": "null",
+      "path": "Rebate.Inbox",
+      "parentModule": "EST",
+      "navigationURL": "/upyog-ui/employee/est/rebate-inbox",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 4008,
+      "name": "Manage Rebate",
+      "url": "url",
+      "displayName": "Manage Rebate",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "EST",
+      "code": "null",
+      "path": "Rebate.Manage_Report",
+      "parentModule": "EST",
+      "navigationURL": "/upyog-ui/employee/est/rebate-manage",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    }
   ]
 }
