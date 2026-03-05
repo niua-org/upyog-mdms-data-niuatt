@@ -9,8 +9,8 @@
             "occupancy": "residential",
             "riskType": null,
             "isBasementParking": false,
-            "isOpenParking": true,
             "isStiltParking": false,
+            "isOpenParking": true,  
             "noOfParking": 1,
             "permissible": 26.5,
             "active": true
