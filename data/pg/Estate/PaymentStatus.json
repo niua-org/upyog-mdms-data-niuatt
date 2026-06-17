@@ -1,0 +1,21 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Estate",
+  "PaymentStatus": [
+    {
+      "code": "PAID",
+      "name": "Paid", 
+      "active": true
+    },
+    {
+      "code": "PENDING",
+      "name": "Pending",
+      "active": true
+    },
+    {
+      "code": "OVERDUE",
+      "name": "Overdue",
+      "active": true
+    }
+  ]
+}

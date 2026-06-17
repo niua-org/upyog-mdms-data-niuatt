@@ -1,0 +1,30 @@
+{
+  "tenantId": "pg",
+  "moduleName": "NDC",
+  "Reasons": [
+    {
+      "code": "FOR_SALE_OF_PROPERTY",
+      "active": true
+    },
+    {
+      "code": "FOR_CHANGE_OF_OWNERSHIP",
+      "active": true
+    },
+    {
+      "code": "FOR_DEALING_CHEMICAL",
+      "active": true
+    },
+    {
+      "code": "PETROLEUM_SITES",
+      "active": true
+    },
+    {
+      "code": "RESTAURANT_BAR",
+      "active": true
+    },
+    {
+      "code": "OTHERS",
+      "active": true
+    }
+  ]
+}

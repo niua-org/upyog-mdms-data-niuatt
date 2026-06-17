@@ -1,0 +1,36 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Estate", 
+  "AssetType": [
+    {
+      "code": "LAND",
+      "name": "Land",
+      "active": true
+    },
+    {
+      "code": "BUILDING", 
+      "name": "Building",
+      "active": true
+    },
+    {
+      "code": "SERVICE",
+      "name": "Service", 
+      "active": true
+    },
+    {
+      "code": "IT",
+      "name": "IT",
+      "active": true
+    },
+    {
+      "code": "VEHICLE",
+      "name": "Vehicle",
+      "active": true
+    },
+    {
+      "code": "OTHERS",
+      "name": "Others",
+      "active": true
+    }
+  ]
+}

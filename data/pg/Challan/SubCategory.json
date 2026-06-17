@@ -1,0 +1,26 @@
+{
+  "tenantId": "pg",
+  "moduleName":"Challan",
+  "SubCategory": [
+    {
+      "id": "SC101",
+      "name": "Waste Segregation"
+    },
+    {
+      "id": "SC102",
+      "name": "Littering of Waste"
+    },
+    {
+      "id": "SC103",
+      "name": "Plastic"
+    },
+    {
+      "id": "SC104",
+      "name": "Burning of Waste"
+    },
+    {
+      "id": "SC105",
+      "name": "C&D Waste"
+    }
+  ]
+}

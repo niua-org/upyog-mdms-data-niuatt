@@ -1,0 +1,62 @@
+{
+    "tenantId": "pg",
+    "moduleName": "ASSETV2",
+    "assetParentCategory": [
+      {
+        "name": "Land",
+        "code": "LAND",
+        "active": true,
+        "assetClassification": "IMMOVABLE",
+        "depriciationRate": 0.0,
+        "depriciationMethod":"N/A"
+      },
+      {
+        "name": "Building",
+        "code": "BUILDING",
+        "active": true,
+        "assetClassification": "IMMOVABLE",
+        "depriciationRate": 10,
+        "depriciationMethod":"STRAIGHT LINE METHOD"
+      },
+      {
+        "name": "Plants & Machinery",
+        "code": "PLANTS_MACHINERY",
+        "active": true,
+        "assetClassification": "MOVABLE",
+        "depriciationRate": 10,
+        "depriciationMethod":"STRAIGHT LINE METHOD"
+      },
+      {
+        "name": "Service",
+        "code": "SERVICE",
+        "active": true,
+        "assetClassification": "IMMOVABLE",
+        "depriciationRate": 10,
+        "depriciationMethod":"STRAIGHT LINE METHOD"
+      },
+      {
+        "name": "IT",
+        "code": "IT",
+        "active": true,
+        "assetClassification": "MOVABLE",
+        "depriciationRate": 10,
+        "depriciationMethod":"STRAIGHT LINE METHOD"
+      },
+      {
+        "name": "Vehicle",
+        "code": "VEHICLE",
+        "active": true,
+        "assetClassification": "MOVABLE",
+        "depriciationRate": 10,
+        "depriciationMethod":"STRAIGHT LINE METHOD"
+      },
+      {
+        "name": "Other",
+        "code": "OTHER",
+        "active": true,
+        "assetClassification": "MOVABLE",
+        "depriciationRate": 10,
+        "depriciationMethod":"STRAIGHT LINE METHOD"
+      }
+    ]
+}
