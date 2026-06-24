@@ -1,6 +1,6 @@
 {
     "tenantId": "pg",
-    "moduleName": "Request-service",
+    "moduleName": "Request-Service",
     "WaterType": [
       {
         "code": "DRINKING_WATER",

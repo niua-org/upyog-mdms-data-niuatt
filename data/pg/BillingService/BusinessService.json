@@ -2114,7 +2114,41 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": true,
       "isActive": true
+    },
+    {
+     "businessService": "est-services",
+     "code": "est-services",
+     "collectionModesNotAllowed": [
+       "DD"
+     ],
+     "partPaymentAllowed": false,
+     "isAdvanceAllowed": false,
+     "isVoucherCreationEnabled": true,
+     "isActive": true
+   },
+   {
+      "businessService": "ndc-services",
+      "code": "NDC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "Challan_Generation",
+      "code": "Challan_Generation",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": false,
+      "isActive": true
     }
+
     
   ]
 }

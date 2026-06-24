@@ -5967,6 +5967,47 @@
         "isActualDemand": true,
         "order": "0",
         "isRequired": false
-      }
+      },
+      {
+       "category": "FEE",
+       "service": "est-services",
+       "name": "Rent",
+       "code": "EST_BOOKING_FEE",
+       "isDebit": false,
+       "isActualDemand": true,
+       "order": "0",
+       "isRequired": false
+     },
+     {
+      "category": "PENALTY",
+      "service": "est-services",
+      "name": "Penalty",
+      "code": "EST_PENALTY_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+     {
+      "category": "FEE",
+      "service": "ndc-services",
+      "name": "No Dues Certificate Fee",
+      "code": "NDC",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "Challan_Generation",
+      "name": "Challan Fine",
+      "code": "CH.CHALLAN_FINE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    }
+
   ]
 }

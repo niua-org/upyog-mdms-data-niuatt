@@ -926,6 +926,186 @@
       "code": "PET_INTERNAL_MICROSERVICE_ROLE",
       "name": "PET Internal Microservice Role",
       "description": "Internal role for plain access"
+    },
+    {
+      "code": "EST_CEMP",
+      "name": "Counter Employee for EState Service",
+      "description": "Counter Employee for EState Service"
+    },
+    {
+      "code": "GIS_CEMP",
+      "name": "GIS Role for employees",
+      "description": "GIS Role for employees"
+    },
+    {
+      "code": "MT_DRIVER",
+      "name": "Mobile Toilet Driver role",
+      "description": "Mobile Toilet Driver"
+    },
+    {
+      "code": "OBPAS_DASHBOARD_VIEWER",
+      "name": "OBPAS Dashboard Viewer",
+      "description": "OBPAS Dashboard Viewer"
+    },
+    {
+      "code": "ASSET_DASHBOARD_VIEWER",
+      "name": "Asset Dashboard Viewer",
+      "description": "Asset Dashboard Viewer"
+    },
+    {
+      "code": "FSM_DASHBOARD_VIEWER",
+      "name": "FSM Dashboard Viewer",
+      "description": "FSM Dashboard Viewer"
+    },
+    {
+      "code": "PGR_DASHBOARD_VIEWER",
+      "name": "PGR Dashboard Viewer",
+      "description": "PGR Dashboard Viewer"
+    },
+    {
+      "code": "CHB_DASHBOARD_VIEWER",
+      "name": "CHB Dashboard Viewer",
+      "description": "CHB Dashboard Viewer"
+    },
+    {
+      "code": "PTR_DASHBOARD_VIEWER",
+      "name": "PTR Dashboard Viewer",
+      "description": "PTR Dashboard Viewer"
+    },
+    {
+      "code": "EW_DASHBOARD_VIEWER",
+      "name": "EW Dashboard Viewer",
+      "description": "EW Dashboard Viewer"
+    },
+    {
+      "code": "TL_DASHBOARD_VIEWER",
+      "name": "TL Dashboard Viewer",
+      "description": "TL Dashboard Viewer"
+    },
+    {
+      "code": "WATER_DASHBOARD_VIEWER",
+      "name": "Water Dashboard Viewer",
+      "description": "Water Dashboard Viewer"
+    },
+    {
+      "code": "PT_DASHBOARD_VIEWER",
+      "name": "PT Dashboard Viewer",
+      "description": "PT Dashboard Viewer"
+    },
+    {
+      "code": "SEWERAGE_DASHBOARD_VIEWER",
+      "name": "Sewerage Dashboard Viewer",
+      "description": "Sewerage Dashboard Viewer"
+    },
+    {
+      "code": "SV_DASHBOARD_VIEWER",
+      "name": "SV Dashboard Viewer",
+      "description": "SV Dashboard Viewer"
+    },
+    {
+      "code": "CND_DASHBOARD_VIEWER",
+      "name": "CND Dashboard Viewer",
+      "description": "CND Dashboard Viewer"
+    },
+    {
+      "code": "MT_DASHBOARD_VIEWER",
+      "name": "Mobile Toilet Dashboard Viewer",
+      "description": "Mobile Toilet Dashboard Viewer"
+    },
+    {
+      "code": "WT_DASHBOARD_VIEWER",
+      "name": "Water Tank Dashboard Viewer",
+      "description": "Water Tank Dashboard Viewer"
+    },
+     {
+      "code": "TP_DASHBOARD_VIEWER",
+      "name": "Tree Pruning Dashboard Viewer",
+      "description": "Tree Pruning Dashboard Viewer"
+    },
+    {
+      "code": "ADS_DASHBOARD_VIEWER",
+      "name": "Ads Dashboard Viewer",
+      "description": "Ads Dashboard Viewer"
+    },
+    {
+      "code": "NDC REPORTS",
+      "name": "NDC REPORTS",
+      "description": "Access to all NDC Reports"
+    },
+    {
+      "code": "NDCADMIN",
+      "name": "Admin NDC Role",
+      "description": "Access to NDC"
+    },
+    {
+      "code": "NDCCEMP",
+      "name": "NDC Counter Employee",
+      "description": "NDC Counter Employee"
+    },
+    {
+      "code": "NDC_ADMIN",
+      "name": "Search NDC Role",
+      "description": "Access to NDC"
+    },
+    {
+      "code": "NDC_ADMIN_ROLE",
+      "name": "Admin NDC Role",
+      "description": "Access to NDC"
+    },
+    {
+      "code": "NDC_APPROVER",
+      "name": "NDC Approver",
+      "description": "No Dues Certificate Approver"
+    },
+    {
+      "code": "NDC_BPA_VERIFIER",
+      "name": "NDC BPA Verifier",
+      "description": "No Dues Verifier for BPA Service"
+    },
+    {
+      "code": "NDC_DOC_VERIFIER",
+      "name": "NDC Document Verifier",
+      "description": "No Dues Document Verifier"
+    },
+    {
+      "code": "NDC_PT_VERIFIER",
+      "name": "NDC Property Verifier",
+      "description": "No Dues Verifier for Property"
+    },
+    {
+      "code": "CHALLAN REPORTS",
+      "name": "Challan Reports",
+      "description": "Who can see challan reports"
+    },
+    {
+      "code": "CHALLAN_ADMIN",
+      "name": "Challan Admin",
+      "description": "Who create and handle the challan"
+    },
+    {
+      "code": "VIEW_CHALLANGENERATION_CARD",
+      "name": "View Challan Generation Card",
+      "description": "For Challan Generation Card Display in Dashboard"
+    },
+    {
+      "code": "NDC_TL_VERIFIER",
+      "name": "NDC Property Verifier",
+      "description": "No Dues Verifier for Trade License"
+    },
+    {
+      "code": "NDC_SW_WS_VERIFIER",
+      "name": "NDC SW WS Verifier",
+      "description": "No Dues Verifier for SW and WS"
+    },
+    {
+      "code": "GC_VERIFIER",
+      "name": "GC Verifier",
+      "description": "Verifier who only verifies Garbage application"
+    },
+    {
+      "code": "GC_APPROVER",
+      "name": "GC Approver",
+      "description": "Approver who only approves Garbage application"
     }
   ]
 }

@@ -554,7 +554,7 @@
             "format": "WS.OTP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_WS_FEE_RCPT_[TENANT_ID]]",
             "idname": "wsreconnection.receipt.id"
         },
-		{
+        {
             "format": "SW.OTP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_SW_FEE_RCPT_[TENANT_ID]]",
             "idname": "swreconnection.receipt.id"
         },
@@ -738,7 +738,7 @@
             "format": "PTR/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "pet-services.receipt.id"
         },
-   	{
+        {
             "format": "PG-[cy:yyyy-MM-dd]-[SEQ_EG_PG_TXN]",
             "idname": "esign.txnid"
         },
@@ -762,7 +762,6 @@
             "format": "SV/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "sv-services.receipt.id"
         },
-    
         {
             "format": "SV/MONTHLY/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "sv-services.monthly.receipt.id"
@@ -791,7 +790,7 @@
             "format": "WT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "request-service.water_tanker.receipt.id"
         },
-	    {
+        {
             "format": "MT/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "request-service.mobile_toilet.receipt.id"
         },
@@ -807,9 +806,29 @@
             "format": "EST-[CITY.CODE]-[seq_estate_management_asset_id]",
             "idname": "estate.management.asset.id"
         },
-		{
+        {
             "format": "PG-RF-[cy:yyyy-MM-dd]-[SEQ_EG_PG_REFUND]",
             "idname": "egov.idgen.refund.id"
+        },
+        {
+            "format": "NDC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EG_NDC_ID]",
+            "idname": "ndc.applicationid"
+        },
+        {
+            "format": "CB-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]",
+            "idname": "challan.aplnumber"
+        },
+        {
+            "format": "CH/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_CH_RECEIPT_ID_[TENANT_ID]]",
+            "idname": "challan_generation.receipt.id"
+        },
+        {
+            "format": "NDC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EG_NDC_RECEIPT_ID_[TENANT_ID]]",
+            "idname": "ndc.receipt.id"
+        },
+        {
+            "format": "GB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "garbage.application.num"
         }
     ]
 }

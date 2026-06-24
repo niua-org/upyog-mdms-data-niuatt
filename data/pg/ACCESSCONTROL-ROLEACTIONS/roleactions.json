@@ -33019,6 +33019,3504 @@
       "actionid": 3105,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3106,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GIS_CEMP",
+      "actionid": 3106,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4000,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EST_CEMP",
+      "actionid": 4001,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EST_CEMP",
+      "actionid": 4001,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EST_CEMP",
+      "actionid": 4002,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EST_CEMP",
+      "actionid": 4002,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EST_CEMP",
+      "actionid": 4003,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EST_CEMP",
+      "actionid": 4003,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EST_CEMP",
+      "actionid": 4004,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EST_CEMP",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EST_CEMP",
+      "actionid": 4004,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4002,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4004,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4005,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GIS_CEMP",
+      "actionid": 3089,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GIS_CEMP",
+      "actionid": 3102,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+	  {
+      "rolecode": "STADMIN",
+      "actionid": 4006,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4007,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4008,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4009,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4010,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4011,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4012,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4013,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4014,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4015,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4016,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4017,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4018,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4019,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4020,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4021,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4022,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4023,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4024,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4025,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4026,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4027,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4028,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4029,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4030,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4031,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4032,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4033,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4034,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4035,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4036,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4037,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4038,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4039,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4040,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4041,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4042,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4043,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4044,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4045,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4046,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4047,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4048,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4049,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4050,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4051,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4052,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4053,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4054,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4055,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4056,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4057,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4058,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4059,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4060,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4061,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4062,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4063,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4064,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4065,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4066,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4067,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4068,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4069,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4070,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4071,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4072,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4073,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4074,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4075,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4076,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4077,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4078,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4079,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4080,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4081,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4082,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4083,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4084,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4085,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4086,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4087,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4088,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4089,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4090,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4091,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4092,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4093,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4094,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4095,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4096,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4097,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4098,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4099,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4100,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4101,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4102,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4103,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4104,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4105,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4106,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4107,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4108,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4109,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4110,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4111,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4112,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4113,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4114,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4115,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4116,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4117,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4118,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4119,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4120,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4121,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4122,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4123,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4124,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4125,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4126,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4127,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4128,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4129,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4130,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4131,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4132,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4133,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4134,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4135,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4136,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4137,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4138,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4139,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4140,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4141,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4142,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4143,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4144,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4145,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4146,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4147,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4148,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4149,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4150,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4151,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4152,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4153,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4154,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4155,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4156,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4157,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4158,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4159,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4160,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4161,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4162,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4163,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4164,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4165,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4166,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4167,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4168,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4169,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4170,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4171,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4172,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4173,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4174,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4175,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4176,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4177,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4178,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4179,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4180,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4181,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4182,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4183,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4184,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4185,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4186,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4187,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4188,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4189,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4190,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4191,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4192,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4193,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4194,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4195,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4196,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4197,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4198,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4199,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4200,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4201,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4202,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4203,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4204,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4205,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4206,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4207,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4208,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4209,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4210,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4211,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4212,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4213,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4214,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4215,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4216,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4217,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4218,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4219,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4220,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4221,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4222,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4223,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4224,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4225,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4226,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4227,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4228,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4229,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4230,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4231,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4232,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4233,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4234,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4235,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4236,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4237,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4238,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4239,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4240,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4241,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4242,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4243,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4244,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4245,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4246,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4247,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4248,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4249,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4250,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4251,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4252,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4253,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4254,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4255,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4256,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4257,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4258,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4259,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4260,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4261,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4262,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4263,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4264,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4265,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4266,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4267,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4268,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4269,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4270,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4271,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4272,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4273,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4274,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4275,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4276,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4277,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4278,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4279,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4280,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4281,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4282,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4283,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4284,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4285,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4286,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4287,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4288,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4289,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4290,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4291,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4292,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4293,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4294,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4295,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4296,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4297,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4298,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4299,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4300,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4301,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4302,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4303,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4304,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4305,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4306,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4307,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4308,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4309,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4310,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4311,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4312,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4313,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4314,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4315,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4316,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4317,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4318,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4319,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4320,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4321,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4322,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4323,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4324,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4325,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4326,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4327,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4328,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4329,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4330,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4331,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4332,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4333,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4334,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4335,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4336,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4337,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4338,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4339,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4340,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4341,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4342,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4343,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4344,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4345,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4346,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4347,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4348,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4349,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4350,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4351,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4352,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4353,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4354,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4355,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4356,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4357,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4358,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4359,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4360,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4361,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4362,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4363,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4364,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4365,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4366,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4367,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4368,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4369,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4370,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4371,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4372,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4373,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4374,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4375,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4376,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4377,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4378,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4379,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4380,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4381,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4382,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4383,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4384,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4385,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4386,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4387,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4388,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4389,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4390,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4391,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4392,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4393,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4394,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4395,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4396,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4397,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4398,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "OBPAS_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "ASSET_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "FSM_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "PGR_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHB_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "PTR_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "EW_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "TL_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WATER_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "PT_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "SEWERAGE_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "SV_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CND_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MT_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "WT_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "TP_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "ADS_DASHBOARD_VIEWER",
+    "actionid": 4399,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4407,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4408,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4409,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "NDCADMIN",
+      "actionid": 4400,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 4400,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4400,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4400,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "NDCADMIN",
+      "actionid": 4401,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 4401,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4401,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4401,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "NDCADMIN",
+      "actionid": 4402,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 4402,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4402,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+     {
+      "rolecode": "NDCADMIN",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "NDC_ADMIN_ROLE",
+      "actionid": 4404,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "NDCADMIN",
+      "actionid": 4404,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4404,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4404,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4410,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4411,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4412,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4413,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 4411,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 4412,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 4413,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4414,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4415,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4416,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4417,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4418,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 4419,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_ADMIN",
+      "actionid": 4419,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 4419,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 4419,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 4419,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 4419,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 4419,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_SW_WS_VERIFIER",
+      "actionid": 4419,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 4419,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_ADMIN",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_SW_WS_VERIFIER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 2156,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_ADMIN",
+      "actionid": 2156,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 2156,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 2156,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 2156,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 2156,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 2156,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_SW_WS_VERIFIER",
+      "actionid": 2156,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 2156,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_ADMIN",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_SW_WS_VERIFIER",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "UC_EMP",
+      "actionid": 4403,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "NDCADMIN",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantid": "pg"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_SW_WS_VERIFIER",
+      "actionid": 4406,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_ADMIN",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_SW_WS_VERIFIER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+
+
+
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_ADMIN",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_SW_WS_VERIFIER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+
+
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_ADMIN",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_SW_WS_VERIFIER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDCCEMP",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_ADMIN",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_APPROVER",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_BPA_VERIFIER",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_DOC_VERIFIER",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_PT_VERIFIER",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_TL_VERIFIER",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NDC_SW_WS_VERIFIER",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 2156,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CHALLAN_ADMIN",
+      "actionid": 4420,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_VERIFIER",
+      "actionid": 4423,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_VERIFIER",
+      "actionid": 4424,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_VERIFIER",
+      "actionid": 4425,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_VERIFIER",
+      "actionid": 4426,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_APPROVER",
+      "actionid": 4423,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_APPROVER",
+      "actionid": 4424,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_APPROVER",
+      "actionid": 4425,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_APPROVER",
+      "actionid": 4426,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4423,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4424,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4425,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4426,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_APPROVER",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_APPROVER",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_APPROVER",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_APPROVER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_APPROVER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_APPROVER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_APPROVER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_VERIFIER",
+      "actionid": 1863,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_VERIFIER",
+      "actionid": 1864,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_VERIFIER",
+      "actionid": 1865,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_VERIFIER",
+      "actionid": 2155,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_VERIFIER",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_VERIFIER",
+      "actionid": 1743,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_VERIFIER",
+      "actionid": 1752,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_VERIFIER",
+      "actionid": 4433,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "GC_APPROVER",
+      "actionid": 4433,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4433,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 4434,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 4427,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 4428,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 4429,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 4430,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 4427,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 4428,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 4429,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 4430,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE_FINANCE",
+      "actionid": 4434,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
