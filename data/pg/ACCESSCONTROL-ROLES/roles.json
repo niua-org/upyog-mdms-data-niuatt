@@ -1106,6 +1106,11 @@
       "code": "GC_APPROVER",
       "name": "GC Approver",
       "description": "Approver who only approves Garbage application"
-    }
+    },
+	{
+	  "code": "DASHBOARD_DATA_INGEST_SCHEDULER",
+	  "name": "Dashboard Data Ingest Scheduler",
+	  "description": "Allows the scheduler service to trigger state and national dashboard data ingestion."
+	}
   ]
 }
