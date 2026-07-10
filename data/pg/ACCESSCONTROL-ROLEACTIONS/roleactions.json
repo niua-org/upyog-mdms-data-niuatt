@@ -38161,6 +38161,60 @@
     "actionid": 4707,
     "actioncode": "",
     "tenantId": "pg"
-  } 
+  },
+  {
+    "rolecode": "CITIZEN",
+    "actionid": 4708,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "TP_CEMP",
+    "actionid": 4708,
+    "actioncode": "",
+    "tenantId": "pg"
+  } ,
+  {
+    "rolecode": "TP_VERIFIER",
+    "actionid": 4708,
+    "actioncode": "",
+    "tenantId": "pg"
+  } ,
+  {
+    "rolecode": "TP_EXECUTION",
+    "actionid": 4708,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "TP_EXECUTION",
+    "actionid": 4708,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "PT_CEMP",
+    "actionid": 4708,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "PT_DOC_VERIFIER",
+    "actionid": 4708,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "PT_FIELD_INSPECTOR",
+    "actionid": 4708,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "PT_APPROVER",
+    "actionid": 4708,
+    "actioncode": "",
+    "tenantId": "pg"
+  }
   ]
 }

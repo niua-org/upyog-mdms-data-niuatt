@@ -30162,6 +30162,17 @@
     "serviceCode": "report",
     "code": "null",
     "path": ""
+  },
+  {
+    "id": 4708,
+    "name": "Digipin Generation",
+    "url": "/requester-services-dx/digipin/_generate",
+    "displayName": "Digipin Generation",
+    "orderNumber": 2,
+    "enabled": false,
+    "serviceCode": "requester-services-dx",
+    "code": "null",
+    "path": ""
   }
   ]
 }
