@@ -30166,7 +30166,7 @@
   {
     "id": 4708,
     "name": "Digipin Generation",
-    "url": "/requester-services-dx/digipin/_generate",
+    "url": "/requester-services-dx/digipin/v1/_generate",
     "displayName": "Digipin Generation",
     "orderNumber": 2,
     "enabled": false,
