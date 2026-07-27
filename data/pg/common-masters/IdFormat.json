@@ -837,6 +837,10 @@
         {
             "format": "GC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "garbage.application.num"
+        },
+        {
+            "format": "GC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "garbage-service.receipt.id"
         }
     ]
 }
