@@ -30221,6 +30221,18 @@
     "queryParams": "",
     "sidebar": "digit-ui-links",
     "sidebarURL": "/digit-ui/citizen/firenoc-home"
+  },
+  {
+    "id": 4712,
+    "name": "Search Garbage Service",
+    "url": "/collection-services/payments/garbage-service/_search",
+    "displayName": "Search Garbage Service",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
   }
   ]
 }
