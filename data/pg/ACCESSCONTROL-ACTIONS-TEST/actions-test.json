@@ -30245,6 +30245,18 @@
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 4714,
+      "name": "National Dashboard E-Challan",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-echallan",
+      "parentModule": "",
+      "displayName": "NSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NSS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
