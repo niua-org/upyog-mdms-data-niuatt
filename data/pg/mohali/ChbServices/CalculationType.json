@@ -257,7 +257,7 @@
       "communityHallCode": "CANTT_GUEST_HOUSE",
       "applicationType": "GUEST_HOUSE_BOOKING",
       "serviceType": "NEW_BOOKING",
-      "feeType": "ROOM_TARIFF",
+      "feeType": "BOOKING_FEES",
       "amount": 150,
       "taxApplicable": true,
       "calculationDurationType": "HOURLY"
@@ -277,7 +277,7 @@
       "communityHallCode": "COMMUNITY_GUEST_HOUSE",
       "applicationType": "GUEST_HOUSE_BOOKING",
       "serviceType": "NEW_BOOKING",
-      "feeType": "ROOM_TARIFF",
+      "feeType": "BOOKING_FEES",
       "amount": 100,
       "taxApplicable": true,
       "calculationDurationType": "HOURLY"
@@ -297,7 +297,7 @@
       "communityHallCode": "SADAR_CREMATORIUM",
       "applicationType": "CREMATION_SERVICE",
       "serviceType": "NEW_BOOKING",
-      "feeType": "CREMATION_FEE",
+      "feeType": "BOOKING_FEES",
       "amount": 500,
       "taxApplicable": true,
       "calculationDurationType": "HOURLY"
@@ -307,7 +307,7 @@
       "communityHallCode": "SADAR_CREMATORIUM",
       "applicationType": "CREMATION_SERVICE",
       "serviceType": "NEW_BOOKING",
-      "feeType": "SERVICE_CHARGE",
+      "feeType": "BOOKING_FEES",
       "amount": 100,
       "taxApplicable": true,
       "calculationDurationType": "HOURLY"
@@ -317,7 +317,7 @@
       "communityHallCode": "NORTHSIDE_CREMATORIUM",
       "applicationType": "CREMATION_SERVICE",
       "serviceType": "NEW_BOOKING",
-      "feeType": "CREMATION_FEE",
+      "feeType": "BOOKING_FEES",
       "amount": 400,
       "taxApplicable": true,
       "calculationDurationType": "HOURLY"
@@ -327,7 +327,7 @@
       "communityHallCode": "NORTHSIDE_CREMATORIUM",
       "applicationType": "CREMATION_SERVICE",
       "serviceType": "NEW_BOOKING",
-      "feeType": "SERVICE_CHARGE",
+      "feeType": "BOOKING_FEES",
       "amount": 80,
       "taxApplicable": true,
       "calculationDurationType": "HOURLY"
