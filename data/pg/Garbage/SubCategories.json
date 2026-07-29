@@ -1,0 +1,993 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Garbage",
+  "SubCategories": [
+    {
+      "id": "1",
+      "category": "RESIDENTIAL",
+      "name": "Household",
+      "subcategory": "HOUSEHOLD",
+      "subcategorytype": [
+        {
+          "name": "Area less than 2000 Sq. Feet",
+          "code": "AREA_LESS_THAN_2000_SQ_FEET",
+          "active": true
+        },
+        {
+          "name": "Area more than 2000 Sq. Feet",
+          "code": "AREA_MORE_THAN_2000_SQ_FEET",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "2",
+      "category": "COMMERCIAL",
+      "name": "Shops",
+      "subcategory": "SHOPS",
+      "subcategorytype": [
+        {
+          "name": "Pan Shop",
+          "code": "PAN_SHOP",
+          "active": true
+        },
+        {
+          "name": "Tea Shop",
+          "code": "TEA_SHOP",
+          "active": true
+        },
+        {
+          "name": "Confectionery & Veg Shop",
+          "code": "CONFECTIONERY_VEG_SHOP",
+          "active": true
+        },
+        {
+          "name": "Vegetable & Fruit Shops (Wholesale)",
+          "code": "VEGETABLE_FRUIT_SHOPS_WHOLESALE",
+          "active": true
+        },
+        {
+          "name": "Vegetable & Fruit Shops (Retail)",
+          "code": "VEGETABLE_FRUIT_SHOPS_RETAIL",
+          "active": true
+        },
+        {
+          "name": "Groceries & Daily Needs Shop",
+          "code": "GROCERIES_DAILY_NEEDS_SHOP",
+          "active": true
+        },
+        {
+          "name": "Clothes Shop",
+          "code": "CLOTHES_SHOP",
+          "active": true
+        },
+        {
+          "name": "Eateries (Food Production & Distribution)",
+          "code": "EATERIES_FOOD_PRODUCTION_DISTRIBUTION",
+          "active": true
+        },
+        {
+          "name": "Eateries (Food Distribution Only)",
+          "code": "EATERIES_FOOD_DISTRIBUTION_ONLY",
+          "active": true
+        },
+        {
+          "name": "Meat & Fish Shops",
+          "code": "MEAT_FISH_SHOPS",
+          "active": true
+        },
+        {
+          "name": "Dhaba",
+          "code": "DHABA",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "3",
+      "category": "COMMERCIAL",
+      "name": "Superstores",
+      "subcategory": "SUPER_STORES",
+      "subcategorytype": [
+        {
+          "name": "Super Stores",
+          "code": "SUPER_STORES",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "4",
+      "category": "COMMERCIAL",
+      "name": "Malls",
+      "subcategory": "MALLS",
+      "subcategorytype": [
+        {
+          "name": "Malls",
+          "code": "MALLS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "5",
+      "category": "COMMERCIAL",
+      "name": "Private Restaurants",
+      "subcategory": "PRIVATE_RESTAURANTS",
+      "subcategorytype": [
+        {
+          "name": "Private Restaurants",
+          "code": "PRIVATE_RESTAURANTS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "6",
+      "category": "COMMERCIAL",
+      "name": "Private Hotels",
+      "subcategory": "PRIVATE_HOTELS",
+      "subcategorytype": [
+        {
+          "name": "Upto 10 Rooms",
+          "code": "UPTO_10_ROOMS",
+          "active": true
+        },
+        {
+          "name": "11 - 20 Rooms",
+          "code": "11_20_ROOMS",
+          "active": true
+        },
+        {
+          "name": "21 - 30 Rooms",
+          "code": "21_30_ROOMS",
+          "active": true
+        },
+        {
+          "name": "More than 30 Rooms",
+          "code": "MORE_THAN_30_ROOMS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "7",
+      "category": "COMMERCIAL",
+      "name": "Housestays, Bread n Breakfasts, Paying Guest Facility, Hostels",
+      "subcategory": "HOMESTAYS_BREAD_N_BREAKFASTS_PAYING_GUEST_FACILITY_HOSTELS",
+      "subcategorytype": [
+        {
+          "name": "Upto 10 Rooms",
+          "code": "UPTO_10_ROOMS",
+          "active": true
+        },
+        {
+          "name": "11 - 20 Rooms",
+          "code": "11_20_ROOMS",
+          "active": true
+        },
+        {
+          "name": "21 - 30 Rooms",
+          "code": "21_30_ROOMS",
+          "active": true
+        },
+        {
+          "name": "More than 30 Rooms",
+          "code": "MORE_THAN_30_ROOMS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "8",
+      "category": "COMMERCIAL",
+      "name": "Clubs",
+      "subcategory": "CLUBS",
+      "subcategorytype": [
+        {
+          "name": "Clubs",
+          "code": "CLUBS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "9",
+      "category": "COMMERCIAL",
+      "name": "Private Offices",
+      "subcategory": "PRIVATE_OFFICES",
+      "subcategorytype": [
+        {
+          "name": "2 Rooms",
+          "code": "2_ROOMS",
+          "active": true
+        },
+        {
+          "name": "3-5 Rooms",
+          "code": "3_5_ROOMS",
+          "active": true
+        },
+        {
+          "name": "6-10 Rooms",
+          "code": "6_10_ROOMS",
+          "active": true
+        },
+        {
+          "name": "11-20 Rooms",
+          "code": "11_20_ROOMS",
+          "active": true
+        },
+        {
+          "name": "More than 20 Rooms",
+          "code": "MORE_THAN_20_ROOMS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "10",
+      "category": "COMMERCIAL",
+      "name": "Private Schools/Institutions",
+      "subcategory": "PRIVATE_SCHOOLS_INSTITUTIONS",
+      "subcategorytype": [
+        {
+          "name": "Upto 100 Students",
+          "code": "UPTO_100_STUDENTS",
+          "active": true
+        },
+        {
+          "name": "More than 100 Students",
+          "code": "MORE_THAN_100_STUDENTS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "11",
+      "category": "COMMERCIAL",
+      "name": "Private Colleges/Universities",
+      "subcategory": "PRIVATE_COLLEGES_UNIVERSITY",
+      "subcategorytype": [
+        {
+          "name": "Upto 1000 Students",
+          "code": "UPTO_1000_STUDENTS",
+          "active": true
+        },
+        {
+          "name": "More than 1000 Students",
+          "code": "MORE_THAN_1000_STUDENTS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "12",
+      "category": "COMMERCIAL",
+      "name": "Private Kindergartens/Day Cares",
+      "subcategory": "PRIVATE_KINDERGARTEN_DAY_CARES",
+      "subcategorytype": [
+        {
+          "name": "Upto 100 Students",
+          "code": "UPTO_100_STUDENTS",
+          "active": true
+        },
+        {
+          "name": "More than 100 Students",
+          "code": "MORE_THAN_100_STUDENTS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "13",
+      "category": "COMMERCIAL",
+      "name": "Workshops/Garages",
+      "subcategory": "WORKSHOPS_GARAGES",
+      "subcategorytype": [
+        {
+          "name": "Only Tyre Puncture Repair",
+          "code": "ONLY_TYRE_PUNCTURE_REPAIR",
+          "active": true
+        },
+        {
+          "name": "Vehicle Repair",
+          "code": "VEHICLE_REPAIR",
+          "active": true
+        },
+        {
+          "name": "Vehicle Repair & Spare Part Retail",
+          "code": "VEHICLE_REPAIR_SPARE_PART_RETAIL",
+          "active": true
+        },
+        {
+          "name": "Vehicle Show Room & Vehicle Repair & Spare Part Retail",
+          "code": "VEHICLE_SHOW_ROOM_VEHICLE_REPAIR_SPARE_PART_RETAIL",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "14",
+      "category": "COMMERCIAL",
+      "name": "Street Vendors",
+      "subcategory": "STREET_VENDORS",
+      "subcategorytype": [
+        {
+          "name": "Street Vendors",
+          "code": "STREET_VENDORS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "15",
+      "category": "COMMERCIAL",
+      "name": "Street Hawkers",
+      "subcategory": "STREET_HAWKERS",
+      "subcategorytype": [
+        {
+          "name": "Street Hawkers",
+          "code": "STREET_HAWKERS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "16",
+      "category": "COMMERCIAL",
+      "name": "Private Marriage Halls",
+      "subcategory": "PRIVATE_MARRIAGE_HALLS",
+      "subcategorytype": [
+        {
+          "name": "Private Marriage Halls",
+          "code": "PRIVATE_MARRIAGE_HALLS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "17",
+      "category": "COMMERCIAL",
+      "name": "Cinema Halls/Theatres/Multiplexes",
+      "subcategory": "CINEMA_HALLS_THEATRE_MULTIPLEXES",
+      "subcategorytype": [
+        {
+          "name": "Cinema Halls (Theatre & Multiplexes)",
+          "code": "CINEMA_HALLS_THEATRE_MULTIPLEXES",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "18",
+      "category": "COMMERCIAL",
+      "name": "Slaughterhouses",
+      "subcategory": "SLAUGHTERHOUSE",
+      "subcategorytype": [
+        {
+          "name": "Slaughterhouse",
+          "code": "SLAUGHTERHOUSE",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "19",
+      "category": "COMMERCIAL",
+      "name": "Others",
+      "subcategory": "OTHERS",
+      "subcategorytype": [
+        {
+          "name": "OTHERS",
+          "code": "OTHERS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "20",
+      "category": "INDUSTRIES",
+      "name": "Micro Industry",
+      "subcategory": "MICRO_INDUSTRY",
+      "subcategorytype": [
+        {
+          "name": "Micro Industry",
+          "code": "MICRO_INDUSTRY",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "21",
+      "category": "INDUSTRIES",
+      "name": "Small Industry",
+      "subcategory": "SMALL_INDUSTRY",
+      "subcategorytype": [
+        {
+          "name": "Small Industry",
+          "code": "SMALL_INDUSTRY",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "22",
+      "category": "INDUSTRIES",
+      "name": "Medium Industry",
+      "subcategory": "MEDIUM_INDUSTRY",
+      "subcategorytype": [
+        {
+          "name": "Medium Industry",
+          "code": "MEDIUM_INDUSTRY",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "23",
+      "category": "INDUSTRIES",
+      "name": "Large Industry",
+      "subcategory": "LARGE_INDUSTRY",
+      "subcategorytype": [
+        {
+          "name": "Large Industry",
+          "code": "LARGE_INDUSTRY",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "24",
+      "category": "HOSPITALS_AND_HEALTH_CARE",
+      "name": "Nursing Homes",
+      "subcategory": "NURSING_HOMES",
+      "subcategorytype": [
+        {
+          "name": "Upto 50 Beds",
+          "code": "UPTO_50_BEDS",
+          "active": true
+        },
+        {
+          "name": "51 to 100 Beds",
+          "code": "51_TO_100_BEDS",
+          "active": true
+        },
+        {
+          "name": "More than 100 Beds",
+          "code": "MORE_THAN_100_BEDS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "25",
+      "category": "HOSPITALS_AND_HEALTH_CARE",
+      "name": "Rehabilitation Centers",
+      "subcategory": "REHABILITATION_CENTER",
+      "subcategorytype": [
+        {
+          "name": "Upto 50 Beds",
+          "code": "UPTO_50_BEDS",
+          "active": true
+        },
+        {
+          "name": "51 to 100 Beds",
+          "code": "51_TO_100_BEDS",
+          "active": true
+        },
+        {
+          "name": "More than 100 Beds",
+          "code": "MORE_THAN_100_BEDS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "26",
+      "category": "HOSPITALS_AND_HEALTH_CARE",
+      "name": "Old Age Homes",
+      "subcategory": "OLD_AGE_HOMES",
+      "subcategorytype": [
+        {
+          "name": "Upto 50 Beds",
+          "code": "UPTO_50_BEDS",
+          "active": true
+        },
+        {
+          "name": "51 to 100 Beds",
+          "code": "51_TO_100_BEDS",
+          "active": true
+        },
+        {
+          "name": "More than 100 Beds",
+          "code": "MORE_THAN_100_BEDS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "27",
+      "category": "HOSPITALS_AND_HEALTH_CARE",
+      "name": "Private Hospitals",
+      "subcategory": "PRIVATE_HOSPITAL",
+      "subcategorytype": [
+        {
+          "name": "Upto 50 Beds",
+          "code": "UPTO_50_BEDS",
+          "active": true
+        },
+        {
+          "name": "51 to 100 Beds",
+          "code": "51_TO_100_BEDS",
+          "active": true
+        },
+        {
+          "name": "More than 100 Beds",
+          "code": "MORE_THAN_100_BEDS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "28",
+      "category": "HOSPITALS_AND_HEALTH_CARE",
+      "name": "Laboratories",
+      "subcategory": "LABORATORIES",
+      "subcategorytype": [
+        {
+          "name": "Laboratories",
+          "code": "LABORATORIES",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "29",
+      "category": "HOSPITALS_AND_HEALTH_CARE",
+      "name": "Private Clinics",
+      "subcategory": "PRIVATE_CLINICS",
+      "subcategorytype": [
+        {
+          "name": "Private Clinics",
+          "code": "PRIVATE_CLINICS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "30",
+      "category": "HOSPITALS_AND_HEALTH_CARE",
+      "name": "Chemists",
+      "subcategory": "CHEMISTS",
+      "subcategorytype": [
+        {
+          "name": "Chemists",
+          "code": "CHEMISTS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "31",
+      "category": "HOSPITALS_AND_HEALTH_CARE",
+      "name": "Others",
+      "subcategory": "OTHERS",
+      "subcategorytype": [
+        {
+          "name": "OTHERS",
+          "code": "OTHERS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "32",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Government Primary Schools",
+      "subcategory": "GOVT_PRIMARY_SCHOOL",
+      "subcategorytype": [
+        {
+          "name": "Govt Primary School",
+          "code": "GOVT_PRIMARY_SCHOOL",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "33",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Government Middle Schools",
+      "subcategory": "GOVT_MIDDLE_SCHOOL",
+      "subcategorytype": [
+        {
+          "name": "Govt Middle School",
+          "code": "GOVT_MIDDLE_SCHOOL",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "34",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Government Senior Secondary Schools",
+      "subcategory": "GOVT_SENIOR_SENIOR_SECONDARY_SCHOOL",
+      "subcategorytype": [
+        {
+          "name": "Govt Senior/ Senior Secondary School",
+          "code": "GOVT_SENIOR_SENIOR_SECONDARY_SCHOOL",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "35",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Government Anganwadi Centers",
+      "subcategory": "GOVT_ANGAN_WADI",
+      "subcategorytype": [
+        {
+          "name": "Govt Angan Wadi",
+          "code": "GOVT_ANGAN_WADI",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "36",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Government Colleges",
+      "subcategory": "GOVT_COLLEGE",
+      "subcategorytype": [
+        {
+          "name": "Govt College",
+          "code": "GOVT_COLLEGE",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "37",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Government Universities",
+      "subcategory": "GOVT_UNIVERSITY",
+      "subcategorytype": [
+        {
+          "name": "Govt University",
+          "code": "GOVT_UNIVERSITY",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "38",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "State Government Ofiice",
+      "subcategory": "STATE_GOVT_OFFICE",
+      "subcategorytype": [
+        {
+          "name": "State Govt Office",
+          "code": "STATE_GOVT_OFFICE",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "39",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Central Government Office",
+      "subcategory": "CENTRAL_GOVT_OFFICE",
+      "subcategorytype": [
+        {
+          "name": "Central Govt Office",
+          "code": "CENTRAL_GOVT_OFFICE",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "40",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "ULB Office",
+      "subcategory": "ULB_OFFICE",
+      "subcategorytype": [
+        {
+          "name": "ULB Office",
+          "code": "ULB_OFFICE",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "41",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Government Garden",
+      "subcategory": "GOVT_GARDEN",
+      "subcategorytype": [
+        {
+          "name": "Govt. Garden",
+          "code": "GOVT_GARDEN",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "42",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Government Hospitals",
+      "subcategory": "GOVT_HOSPITALS",
+      "subcategorytype": [
+        {
+          "name": "Govt Hospitals",
+          "code": "GOVT_HOSPITALS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "43",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Government Dispensaries",
+      "subcategory": "GOVT_DISPENSARY",
+      "subcategorytype": [
+        {
+          "name": "Govt Dispensary",
+          "code": "GOVT_DISPENSARY",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "44",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Government Restaurants",
+      "subcategory": "GOVT_RESTAURANTS",
+      "subcategorytype": [
+        {
+          "name": "Govt Restaurants",
+          "code": "GOVT_RESTAURANTS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "45",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Government Hotels",
+      "subcategory": "GOVT_HOTEL",
+      "subcategorytype": [
+        {
+          "name": "Govt Hotel",
+          "code": "GOVT_HOTEL",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "46",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Government Marriage Halls/Community Centers",
+      "subcategory": "GOVT_MARRIAGE_HALLS_COMMUNITY_CENTERS",
+      "subcategorytype": [
+        {
+          "name": "Govt Marriage Halls/ Community Centers",
+          "code": "GOVT_MARRIAGE_HALLS_COMMUNITY_CENTERS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "47",
+      "category": "GOVT_ESTABLISHMENTS",
+      "name": "Others",
+      "subcategory": "OTHERS",
+      "subcategorytype": [
+        {
+          "name": "OTHERS",
+          "code": "OTHERS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "48",
+      "category": "OTHERS",
+      "name": "Charitable Trust/NGO/Any Registered Group",
+      "subcategory": "CHARITABLE_TRUST_NGO_ANY_OTHER_REGISTERED_GROUP",
+      "subcategorytype": [
+        {
+          "name": "Charitable Trust / NGO / any other Registered Group",
+          "code": "CHARITABLE_TRUST_NGO_ANY_OTHER_REGISTERED_GROUP",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "49",
+      "category": "OTHERS",
+      "name": "Private Gardens",
+      "subcategory": "PRIVATE_GARDEN",
+      "subcategorytype": [
+        {
+          "name": "Private Garden",
+          "code": "PRIVATE_GARDEN",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "50",
+      "category": "OTHERS",
+      "name": "Orphanages",
+      "subcategory": "ORPHANAGES",
+      "subcategorytype": [
+        {
+          "name": "Orphanages",
+          "code": "ORPHANAGES",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "51",
+      "category": "OTHERS",
+      "name": "Heritage Sites",
+      "subcategory": "HERITAGE_SITE",
+      "subcategorytype": [
+        {
+          "name": "Heritage Site",
+          "code": "HERITAGE_SITE",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "52",
+      "category": "OTHERS",
+      "name": "Religious Sites",
+      "subcategory": "RELIGIOUS_SITE",
+      "subcategorytype": [
+        {
+          "name": "Religious Site",
+          "code": "RELIGIOUS_SITE",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "53",
+      "category": "OTHERS",
+      "name": "Dairy Cattle and Animal Shelters",
+      "subcategory": "DAIRY_CATTLE_AND_ANIMAL_SHEDS",
+      "subcategorytype": [
+        {
+          "name": "Dairy Cattle and Animal Sheds",
+          "code": "DAIRY_CATTLE_AND_ANIMAL_SHEDS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "54",
+      "category": "OTHERS",
+      "name": "Pet Shops",
+      "subcategory": "PET_SHOPS",
+      "subcategorytype": [
+        {
+          "name": "Pet Shops",
+          "code": "PET_SHOPS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "55",
+      "category": "OTHERS",
+      "name": "Scrap Dealers",
+      "subcategory": "SCRAP_DEALERS",
+      "subcategorytype": [
+        {
+          "name": "Scrap Dealers",
+          "code": "SCRAP_DEALERS",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "56",
+      "category": "OTHERS",
+      "name": "Construction and Demolition Waste Sites",
+      "subcategory": "CONSTRUCTION_DEMOLITION_WASTE_SITE",
+      "subcategorytype": [
+        {
+          "name": "Construction & Demolition Waste Site",
+          "code": "CONSTRUCTION_DEMOLITION_WASTE_SITE",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "57",
+      "category": "OTHERS",
+      "name": "Any Other Establishment Not Mentioned Above",
+      "subcategory": "ANY_OTHER_ESTABLISHMENT_NOT_MENTIONED_ABOVE",
+      "subcategorytype": [
+        {
+          "name": "Any Other establishment not mentioned above",
+          "code": "ANY_OTHER_ESTABLISHMENT_NOT_MENTIONED_ABOVE",
+          "active": true
+        }
+      ],
+      "active": true
+    },
+    {
+      "id": "58",
+      "category": "OTHERS",
+      "name": "Wine Shop",
+      "subcategory": "WINE_SHOP",
+      "subcategorytype": [
+        {
+          "name": "Wine Shop",
+          "code": "WINE_SHOP",
+          "active": true
+        }
+      ],
+      "active": true
+    }
+  ]
+}

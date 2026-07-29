@@ -807,6 +807,14 @@
             "idname": "estate.management.asset.id"
         },
         {
+            "format": "EST-AL-[CITY.CODE]-[seq_estate_management_allotment_no]",
+            "idname": "estate.management.allotment.no"
+        },
+        {
+            "format": "EST/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "est-services.receipt.id"
+        },
+        {
             "format": "PG-RF-[cy:yyyy-MM-dd]-[SEQ_EG_PG_REFUND]",
             "idname": "egov.idgen.refund.id"
         },
@@ -827,8 +835,12 @@
             "idname": "ndc.receipt.id"
         },
         {
-            "format": "GB/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "format": "GC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EGOV_COMMON]",
             "idname": "garbage.application.num"
+        },
+        {
+            "format": "GC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "garbage-service.receipt.id"
         }
     ]
 }

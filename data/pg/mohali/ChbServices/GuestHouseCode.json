@@ -12,21 +12,9 @@
       "timeSlot": [
         {
           "id": "1",
-          "from": "10:00",
-          "to": "14:00",
-          "duration": "4:00"
-        },
-        {
-          "id": "2",
-          "from": "14:00",
-          "to": "18:00",
-          "duration": "4:00"
-        },
-        {
-          "id": "3",
-          "from": "18:00",
-          "to": "22:00",
-          "duration": "4:00"
+          "from": "13:00",
+          "to": "11:00",
+          "duration": "22:00"
         }
       ]
     },
@@ -38,23 +26,11 @@
       "active": true,
       "venueCode": "COMMUNITY_GUEST_HOUSE",
       "timeSlot": [
-        {
+       {
           "id": "1",
-          "from": "10:00",
-          "to": "14:00",
-          "duration": "4:00"
-        },
-        {
-          "id": "2",
-          "from": "14:00",
-          "to": "18:00",
-          "duration": "4:00"
-        },
-        {
-          "id": "3",
-          "from": "18:00",
-          "to": "22:00",
-          "duration": "4:00"
+          "from": "13:00",
+          "to": "11:00",
+          "duration": "22:00"
         }
       ]
     }

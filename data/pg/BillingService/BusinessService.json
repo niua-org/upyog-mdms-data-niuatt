@@ -2147,6 +2147,17 @@
       "isAdvanceAllowed": false,
       "isVoucherCreationEnabled": false,
       "isActive": true
+    },
+    {
+      "businessService": "garbage-service",
+      "code": "garbage-service",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": false,
+      "isActive": true
     }
 
     
