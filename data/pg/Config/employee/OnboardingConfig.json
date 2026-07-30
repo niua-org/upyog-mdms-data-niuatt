@@ -7,7 +7,8 @@
         "background": {
           "root": {
             "backgroundColor": "#faf8fc",
-            "showColor": false,
+            "showBackgroundColor": false,
+            "showBackgroundImage": true,
             "responsive": {
               "mobile": {
                 "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2_mobile.jpg",
