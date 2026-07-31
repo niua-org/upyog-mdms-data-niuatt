@@ -1,0 +1,36 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Garbage",
+  "CollectionType": [
+    {
+      "id": "1",
+      "code": "HOUSEHOLD_SINGLE_COLLECTION",
+      "name": "Household (Single-Collection)",
+      "active": true
+    },
+    {
+      "id": "2",
+      "code": "HOUSEHOLD_MULTI_COLLECTION",
+      "name": "Household (Multi-Collection)",
+      "active": true
+    },
+    {
+      "id": "3",
+      "code": "COMMERCIAL_SINGLE_COLLECTION",
+      "name": "Commercial (Single-Collection)",
+      "active": true
+    },
+    {
+      "id": "4",
+      "code": "COMMERCIAL_MULTI_COLLECTION",
+      "name": "Commercial (Multi-Collection)",
+      "active": true
+    },
+    {
+      "id": "5",
+      "code": "MIX_PROPERTY",
+      "name": "Mix-Property (Household + Commercial)",
+      "active": true
+    }
+  ]
+}

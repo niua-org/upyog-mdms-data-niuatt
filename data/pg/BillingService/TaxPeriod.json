@@ -1994,6 +1994,14 @@
       "service": "NDC",
       "code": "NDC2526",
       "financialYear": "2025-35"
+    },
+    {
+      "fromDate": 1554057000000,
+      "toDate": 1869676199000,
+      "periodCycle": "ANNUAL",
+      "service": "garbage-service",
+      "code": "GC_RENTAL_FEE",
+      "financialYear": "2026-27"
     }
 
   ]

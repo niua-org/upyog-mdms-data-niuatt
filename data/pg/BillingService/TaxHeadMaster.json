@@ -6007,7 +6007,36 @@
       "isActualDemand": true,
       "order": "1",
       "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "garbage-service",
+      "name": "Garbage Fee",
+      "code": "GC_RENTAL_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "REBATE",
+      "service": "garbage-service",
+      "name": "Garbage Rebate",
+      "code": "GC_REBATE_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "PENALTY",
+      "service": "garbage-service",
+      "name": "Garbage Penalty",
+      "code": "GC_PENALTY_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "3",
+      "isRequired": false
     }
-
   ]
 }

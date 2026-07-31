@@ -1,0 +1,18 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Garbage",
+  "OwnerType": [
+    {
+      "id": "1",
+      "code": "OWNER",
+      "name": "Owner",
+      "active": true
+    },
+    {
+      "id": "2",
+      "code": "TENANT",
+      "name": "Tenant",
+      "active": true
+    }
+  ]
+}
