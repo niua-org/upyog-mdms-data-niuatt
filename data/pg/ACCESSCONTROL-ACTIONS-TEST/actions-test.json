@@ -30269,6 +30269,18 @@
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 4716,
+      "name": "National Dashboard Venue Booking",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-chb",
+      "parentModule": "",
+      "displayName": "NSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NSS",
+      "code": "null",
+      "path": ""
     }
   ]
 }
