@@ -4,7 +4,7 @@
     "Rebate": [
         {
             "name": "Freedom Fighter",
-            "code": "FREEDOMFIGHTER",
+            "code": "FREEDOM_FIGHTER",
             "serviceType": "GC_REBATE_FEE",
             "rate": 10,
             "active": true
@@ -17,7 +17,7 @@
             "active": true
         },
         {
-            "name": "Handicapped Person",
+            "name": "Handicapped",
             "code": "HANDICAPPED",
             "serviceType": "GC_REBATE_FEE",
             "rate": 5,
@@ -31,16 +31,16 @@
             "active": true
         },
         {
-            "name": "Defense Personnel",
-            "code": "DEFENSE",
+            "name": "Defence Personnel",
+            "code": "DEFENCE_PERSONNEL",
             "serviceType": "GC_REBATE_FEE",
             "rate": 10,
             "active": true,
             "fromFY": "2015-16"
         },
         {
-            "name": "None of the above",
-            "code": "NONE",
+            "name": "General",
+            "code": "GENERAL",
             "serviceType": "GC_REBATE_FEE",
             "rate": 0,
             "active": true

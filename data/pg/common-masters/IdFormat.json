@@ -835,8 +835,12 @@
             "idname": "ndc.receipt.id"
         },
         {
-            "format": "GC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "format": "GC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EGOV_COMMON]",
             "idname": "garbage.application.num"
+        },
+        {
+            "format": "GC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "garbage-service.receipt.id"
         }
     ]
 }

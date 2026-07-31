@@ -30282,5 +30282,16 @@
       "code": "null",
       "path": ""
     }
+    "id": 4717,
+    "name": "Search Garbage Service",
+    "url": "/collection-services/payments/garbage-service/_search",
+    "displayName": "Search Garbage Service",
+    "orderNumber": 1,
+    "parentModule": "",
+    "enabled": false,
+    "serviceCode": "",
+    "code": "null",
+    "path": ""
+  }
   ]
 }
