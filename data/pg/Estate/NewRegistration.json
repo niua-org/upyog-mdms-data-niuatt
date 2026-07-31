@@ -1,7 +1,7 @@
 {
   "tenantId": "pg",
   "moduleName": "Estate",
-  "Config": [
+  "NewRegistration": [
     {
       "head": "EST_COMMON_NEW_REGISTRATION",
       "body": [
@@ -16,15 +16,78 @@
           "hideInEmployee": false,
           "isMandatory": true,
           "sectionHeading": null,
+          "payloadKey": "Assets",
+          "apiId": "Rainmaker",
           "form": [
             {
               "order": 0,
+              "key": "EST_ASSET_REGISTRATION_TYPE",
+              "field": {
+                "code": "EST_ASSET_REGISTRATION_TYPE",
+                "name": "assetRegistrationType",
+                "type": "radio"
+              },
+              "options": [
+                {
+                  "code": "EXISTING_ASSET",
+                  "i18nKey": "EST_EXISTING_ASSET"
+                },
+                {
+                  "code": "NEW_BUILDING",
+                  "i18nKey": "EST_NEW_BUILDING"
+                }
+              ],
+              "validation": {
+                "required": true,
+                "disabled": false,
+                "readOnly": false
+              },
+              "messages": {
+                "error": "EST_ASSET_REGISTRATION_TYPE_REQUIRED"
+              },
+              "excludeFromPayload": true
+            },
+            {
+              "order": 1,
+              "key": "EST_ASSET_NUMBER",
+              "field": {
+                "code": "EST_ASSET_NUMBER",
+                "name": "searchEstateNo",
+                "placeholder": "EST_ENTER_ASSET_NUMBER",
+                "type": "text",
+                "searchCard": true,
+                "resultLabel": "EST_ASSET_NUMBER",
+                "selectLabel": "CS_COMMON_SELECT",
+                "notFoundLabel": "EST_ASSET_NOT_FOUND",
+                "createNewLabel": "EST_CREATE_NEW_REGISTRATION"
+              },
+              "visibleWhen": {
+                "field": "assetRegistrationType",
+                "equals": "EXISTING_ASSET"
+              },
+              "validation": {
+                "maxLength": 64,
+                "required": true,
+                "disabled": false,
+                "readOnly": false
+              },
+              "messages": {
+                "error": "EST_ASSET_NUMBER_REQUIRED"
+              },
+              "excludeFromPayload": true
+            },
+            {
+              "order": 2,
               "key": "EST_BUILDING_NAME",
               "field": {
                 "code": "EST_BUILDING_NAME",
                 "name": "buildingName",
                 "placeholder": "EST_ENTER_BUILDING_NAME",
                 "type": "text"
+              },
+              "visibleWhen": {
+                "field": "showRegistrationDetails",
+                "equals": "YES"
               },
               "validation": {
                 "maxLength": 100,
@@ -42,13 +105,17 @@
               }
             },
             {
-              "order": 1,
+              "order": 3,
               "key": "EST_BUILDING_NUMBER",
               "field": {
                 "code": "EST_BUILDING_NUMBER",
                 "name": "buildingNo",
                 "placeholder": "EST_ENTER_BUILDING_NUMBER",
                 "type": "text"
+              },
+              "visibleWhen": {
+                "field": "showRegistrationDetails",
+                "equals": "YES"
               },
               "validation": {
                 "maxLength": 10,
@@ -66,13 +133,19 @@
               }
             },
             {
-              "order": 2,
+              "order": 4,
               "key": "EST_BUILDING_FLOOR",
+              "apiFieldName": "floor",
               "field": {
                 "code": "EST_BUILDING_FLOOR",
                 "name": "buildingFloor",
                 "placeholder": "EST_ENTER_BUILDING_FLOOR",
-                "type": "text"
+                "type": "text",
+                "numeric": true
+              },
+              "visibleWhen": {
+                "field": "showRegistrationDetails",
+                "equals": "YES"
               },
               "validation": {
                 "maxLength": 3,
@@ -90,13 +163,17 @@
               }
             },
             {
-              "order": 3,
+              "order": 5,
               "key": "EST_BUILDING_BLOCK",
               "field": {
                 "code": "EST_BUILDING_BLOCK",
                 "name": "buildingBlock",
                 "placeholder": "EST_ENTER_BUILDING_BLOCK",
                 "type": "text"
+              },
+              "visibleWhen": {
+                "field": "showRegistrationDetails",
+                "equals": "YES"
               },
               "validation": {
                 "maxLength": 50,
@@ -114,7 +191,7 @@
               }
             },
             {
-              "order": 4,
+              "order": 6,
               "key": "EST_CITY",
               "field": {
                 "code": "EST_CITY",
@@ -125,6 +202,10 @@
                   "defaultValueSource": "tenantId"
                 }
               },
+              "visibleWhen": {
+                "field": "showRegistrationDetails",
+                "equals": "YES"
+              },
               "validation": {
                 "required": true,
                 "disabled": true,
@@ -132,7 +213,7 @@
               }
             },
             {
-              "order": 5,
+              "order": 7,
               "key": "EST_LOCALITY",
               "field": {
                 "code": "EST_LOCALITY",
@@ -146,6 +227,10 @@
                   "customiztionRequired": true
                 }
               },
+              "visibleWhen": {
+                "field": "showRegistrationDetails",
+                "equals": "YES"
+              },
               "validation": {
                 "required": true,
                 "disabled": false,
@@ -153,14 +238,19 @@
               }
             },
             {
-              "order": 6,
+              "order": 8,
               "key": "EST_TOTAL_PLOT_AREA",
               "field": {
                 "code": "EST_TOTAL_PLOT_AREA",
                 "name": "totalFloorArea",
                 "placeholder": "EST_ENTER_TOTAL_PLOT_AREA",
                 "type": "text",
-                "unit": "(In sq.ft)"
+                "unit": "(In sq.ft)",
+                "numeric": true
+              },
+              "visibleWhen": {
+                "field": "showRegistrationDetails",
+                "equals": "YES"
               },
               "validation": {
                 "pattern": "^[0-9]+$",
@@ -177,13 +267,17 @@
               }
             },
             {
-              "order": 7,
+              "order": 9,
               "key": "EST_DIMENSION",
               "label": {
                 "code": "EST_DIMENSION",
                 "unit": "(In sq.ft)"
               },
               "type": "group",
+              "visibleWhen": {
+                "field": "showRegistrationDetails",
+                "equals": "YES"
+              },
               "children": [
                 {
                   "order": 0,
@@ -192,7 +286,8 @@
                     "code": "EST_LENGTH",
                     "name": "dimensionLength",
                     "placeholder": "EST_LENGTH",
-                    "type": "text"
+                    "type": "text",
+                    "numeric": true
                   },
                   "validation": {
                     "pattern": "^[0-9]+$",
@@ -215,7 +310,8 @@
                     "code": "EST_WIDTH",
                     "name": "dimensionWidth",
                     "placeholder": "EST_WIDTH",
-                    "type": "text"
+                    "type": "text",
+                    "numeric": true
                   },
                   "validation": {
                     "pattern": "^[0-9]+$",
@@ -237,14 +333,19 @@
               }
             },
             {
-              "order": 8,
+              "order": 10,
               "key": "EST_RATES",
               "field": {
                 "code": "EST_RATES",
                 "name": "rate",
                 "placeholder": "EST_ENTER_RATE",
                 "type": "text",
-                "unit": "(Per sq ft)"
+                "unit": "(Per sq ft)",
+                "numeric": true
+              },
+              "visibleWhen": {
+                "field": "showRegistrationDetails",
+                "equals": "YES"
               },
               "validation": {
                 "maxLength": 10,
@@ -262,23 +363,7 @@
               }
             },
             {
-              "order": 9,
-              "key": "EST_ASSET_REFERENCE_NUMBER",
-              "field": {
-                "code": "EST_ASSET_REFERENCE_NUMBER",
-                "name": "assetRef",
-                "placeholder": "EST_ENTER_ASSET_REFERENCE_NUMBER",
-                "type": "text"
-              },
-              "validation": {
-                "maxLength": 50,
-                "required": false,
-                "disabled": false,
-                "readOnly": false
-              }
-            },
-            {
-              "order": 10,
+              "order": 11,
               "key": "EST_ASSET_TYPE",
               "field": {
                 "code": "EST_ASSET_TYPE",
@@ -287,10 +372,14 @@
                 "type": "dropdown",
                 "dataSource": {
                   "type": "MDMS",
-                  "moduleName": "ASSET",
-                  "masterName": "assetParentCategory",
+                  "moduleName": "Estate",
+                  "masterName": "AssetType",
                   "customiztionRequired": false
                 }
+              },
+              "visibleWhen": {
+                "field": "showRegistrationDetails",
+                "equals": "YES"
               },
               "validation": {
                 "required": true,
@@ -302,27 +391,6 @@
           "actionButton": {
             "text": {
               "create": "SAVE_&_NEXT",
-              "edit": "UPDATE"
-            },
-            "variant": "contained",
-            "color": "primary"
-          }
-        },
-        {
-          "key": "reviewDetails",
-          "route": "reviewDetails",
-          "component": "ReviewDetails",
-          "nextStep": null,
-          "isPreview": true,
-          "withoutLabel": false,
-          "type": "component",
-          "hideInEmployee": false,
-          "isMandatory": false,
-          "sectionHeading": "EST_REVIEW_DETAILS",
-          "form": [],
-          "actionButton": {
-            "text": {
-              "create": "SUBMIT",
               "edit": "UPDATE"
             },
             "variant": "contained",
