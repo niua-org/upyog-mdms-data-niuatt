@@ -30,15 +30,15 @@
           "dateFormat": "dd-MM-yyyy",
           "texts": {
             "submitBarLabel": "COMMON_SAVE_NEXT",
-            "header": "EST_ASSIGN_PROPERTY_DETAILS"
+            "header": "EST_ALLOT_ESTATE"
           },
           "form": [
             {
               "order": 0,
-              "key": "EST_ASSET_NUMBER",
+              "key": "EST_ESTATE_NUMBER",
               "field": {
-                "code": "EST_ASSET_NUMBER",
-                "name": "assetNo",
+                "code": "EST_ESTATE_NUMBER",
+                "name": "estateNo",
                 "type": "text"
               },
               "validation": {
@@ -279,7 +279,8 @@
                 "code": "EST_AGREEMENT_START_DATE",
                 "name": "agreementStartDate",
                 "type": "date",
-                "placeholder": "DD/MM/YY"
+                "placeholder": "DD/MM/YY",
+                "minDate": "today"
               },
               "validation": {
                 "required": true,
@@ -297,7 +298,8 @@
                 "code": "EST_AGREEMENT_END_DATE",
                 "name": "agreementEndDate",
                 "type": "date",
-                "placeholder": "DD/MM/YY"
+                "placeholder": "DD/MM/YY",
+                "minDate": "today"
               },
               "validation": {
                 "required": true,
@@ -457,7 +459,8 @@
                 "code": "EST_ADVANCE_PAYMENT_DATE",
                 "name": "advancePaymentDate",
                 "type": "date",
-                "placeholder": "DD/MM/YY"
+                "placeholder": "DD/MM/YY",
+                "minDate": "today"
               },
               "validation": {
                 "required": false,
