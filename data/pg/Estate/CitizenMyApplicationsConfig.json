@@ -27,13 +27,13 @@
         {
           "order": 2,
           "key": "PT_COMMON_TABLE_COL_STATUS_LABEL",
-          "name": "assetStatus",
+          "name": "paymentStatus",
           "type": "dropdown",
           "placeholder": "EST_SELECT_STATUS",
           "dataSource": {
             "type": "MDMS",
             "moduleName": "Estate",
-            "masterName": "AssetStatus"
+            "masterName": "PaymentStatus"
           }
         }
       ],
