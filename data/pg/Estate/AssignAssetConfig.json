@@ -36,6 +36,8 @@
             {
               "order": 0,
               "key": "EST_ESTATE_NUMBER",
+              "summaryLabel": "EST_ESTATE_NUMBER",
+              "apiFieldName": "estateNo",
               "field": {
                 "code": "EST_ESTATE_NUMBER",
                 "name": "estateNo",
@@ -50,6 +52,7 @@
             {
               "order": 1,
               "key": "EST_ASSET_REFERENCE_NUMBER",
+              "hidden": true,
               "field": {
                 "code": "EST_ASSET_REFERENCE_NUMBER",
                 "name": "assetRefNumber",
@@ -460,7 +463,8 @@
                 "name": "advancePaymentDate",
                 "type": "date",
                 "placeholder": "DD/MM/YY",
-                "minDate": "today"
+                "minDate": "today",
+                "defaultValue": "today"
               },
               "validation": {
                 "required": false,
@@ -479,9 +483,10 @@
             {
               "order": 23,
               "key": "FILE_REFERENCE_NUMBER",
+              "excludeFromPayload": true,
               "field": {
                 "code": "FILE_REFERENCE_NUMBER",
-                "name": "eOfficeFileNo",
+                "name": "fileReferenceNumber",
                 "placeholder": "EST_ENTER_FILE_NO",
                 "type": "text"
               },

@@ -19,10 +19,10 @@
       "filters": [
         {
           "order": 1,
-          "key": "EST_ASSET_NUMBER",
+          "key": "EST_ESTATE_NUMBER",
           "name": "estateNo",
           "type": "text",
-          "placeholder": "EST_ENTER_ASSET_NUMBER"
+          "placeholder": "EST_ENTER_ESTATE_NUMBER"
         },
         {
           "order": 2,

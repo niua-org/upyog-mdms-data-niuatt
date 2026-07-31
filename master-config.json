@@ -1297,45 +1297,84 @@
             "$.businessService",
             "$.channelNames"
           ]
-        },
-        "Estate": {
-          "AssetStatus": {
-            "masterName": "AssetStatus",
-            "isStateLevel": true,
-            "uniqueKeys": [
-              "$.code"
-            ]
-          },
-          "AssetType": {
-            "masterName": "AssetType",
-            "isStateLevel": true,
-            "uniqueKeys": [
-              "$.code"
-            ]
-          },
-          "AllotmentStatus": {
-            "masterName": "AllotmentStatus",
-            "isStateLevel": true,
-            "uniqueKeys": [
-              "$.code"
-            ]
-          },
-          "AllotmentType": {
-            "masterName": "AllotmentType",
-            "isStateLevel": true,
-            "uniqueKeys": [
-              "$.code"
-            ]
-          },
-          "PaymentStatus": {
-            "masterName": "PaymentStatus",
-            "isStateLevel": true,
-            "uniqueKeys": [
-              "$.code"
-            ]
-          }
         }
       }
+    }
+  },
+  "Estate": {
+    "AssetStatus": {
+      "masterName": "AssetStatus",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "AllotmentStatus": {
+      "masterName": "AllotmentStatus",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "AllotmentType": {
+      "masterName": "AllotmentType",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "AllotmentBillingCycle": {
+      "masterName": "AllotmentBillingCycle",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "PaymentStatus": {
+      "masterName": "PaymentStatus",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Penalty": {
+      "masterName": "Penalty",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.id"
+      ]
+    },
+    "RequiredDocuments": {
+      "masterName": "RequiredDocuments",
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "NewRegistration": {
+      "masterName": "NewRegistration",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "AssignAssetConfig": {
+      "masterName": "AssignAssetConfig",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "SearchApplicationConfig": {
+      "masterName": "SearchApplicationConfig",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "CitizenMyApplicationsConfig": {
+      "masterName": "CitizenMyApplicationsConfig",
+      "isStateLevel": true,
+      "uniqueKeys": []
+    },
+    "PaymentHistoryConfig": {
+      "masterName": "PaymentHistoryConfig",
+      "isStateLevel": true,
+      "uniqueKeys": []
     }
   },
   "Challan": {

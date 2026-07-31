@@ -32,12 +32,12 @@
         "form": [
           {
             "order": 1,
-            "key": "EST_SEARCH_ASSET_NUMBER",
+            "key": "EST_ESTATE_NUMBER",
             "field": {
-              "code": "EST_SEARCH_ASSET_NUMBER",
+              "code": "EST_ESTATE_NUMBER",
               "name": "estateNo",
               "type": "text",
-              "placeholder": "EST_SEARCH_ASSET_NUMBER"
+              "placeholder": "EST_ENTER_ESTATE_NUMBER"
             },
             "validation": {
               "required": false
