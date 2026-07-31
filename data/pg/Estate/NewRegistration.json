@@ -372,9 +372,11 @@
                 "type": "dropdown",
                 "dataSource": {
                   "type": "MDMS",
-                  "moduleName": "Estate",
-                  "masterName": "AssetType",
-                  "customiztionRequired": false
+                  "moduleName": "ASSET",
+                  "masterName": "assetParentCategory",
+                  "filter": {
+                    "assetClassification": "IMMOVABLE"
+                  }
                 }
               },
               "visibleWhen": {
