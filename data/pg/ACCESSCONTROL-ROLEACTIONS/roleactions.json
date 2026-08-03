@@ -38259,20 +38259,49 @@
     "tenantId": "pg"
   },
   {
+      "rolecode": "NATADMIN",
+      "actionid": 4712,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NATADMIN",
+      "actionid": 4713,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NATADMIN",
+      "actionid": 4714,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NATADMIN",
+      "actionid": 4715,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NATADMIN",
+      "actionid": 4716,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
     "rolecode": "CITIZEN",
-    "actionid": 4712,
+    "actionid": 4717,
     "actioncode": "",
     "tenantId": "pg"
   },
   {
     "rolecode": "GC_VERIFIER",
-    "actionid": 4712,
+    "actionid": 4717,
     "actioncode": "",
     "tenantId": "pg"
   },
   {
     "rolecode": "EMPLOYEE",
-    "actionid": 4712,
+    "actionid": 4717,
     "actioncode": "",
     "tenantId": "pg"
   },
@@ -38326,7 +38355,7 @@
   },
   {
     "rolecode": "GC_APPROVER",
-    "actionid": 4712,
+    "actionid": 4717,
     "actioncode": "",
     "tenantId": "pg"
   },

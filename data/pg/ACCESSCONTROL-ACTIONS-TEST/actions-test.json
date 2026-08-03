@@ -30223,7 +30223,66 @@
     "sidebarURL": "/digit-ui/citizen/firenoc-home"
   },
   {
-    "id": 4712,
+      "id": 4712,
+      "name": "National Dashboard Pet Registration",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-ptr",
+      "parentModule": "",
+      "displayName": "NSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4713,
+      "name": "National Dashboard E-Waste",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-ewaste",
+      "parentModule": "",
+      "displayName": "NSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4714,
+      "name": "National Dashboard E-Challan",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-echallan",
+      "parentModule": "",
+      "displayName": "NSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4715,
+      "name": "National Dashboard Advertisement",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-adv",
+      "parentModule": "",
+      "displayName": "NSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NSS",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 4716,
+      "name": "National Dashboard Venue Booking",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/national-chb",
+      "parentModule": "",
+      "displayName": "NSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "NSS",
+      "code": "null",
+      "path": ""
+    }
+    "id": 4717,
     "name": "Search Garbage Service",
     "url": "/collection-services/payments/garbage-service/_search",
     "displayName": "Search Garbage Service",
