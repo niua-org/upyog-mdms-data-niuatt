@@ -38287,12 +38287,13 @@
       "actionid": 4716,
       "actioncode": "",
       "tenantId": "pg"
-    }
+    },
+    {
     "rolecode": "CITIZEN",
     "actionid": 4717,
     "actioncode": "",
     "tenantId": "pg"
-  },
+   },
   {
     "rolecode": "GC_VERIFIER",
     "actionid": 4717,
