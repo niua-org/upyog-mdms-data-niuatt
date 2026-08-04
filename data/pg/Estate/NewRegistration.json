@@ -56,11 +56,13 @@
                 "placeholder": "EST_ENTER_ASSET_NUMBER",
                 "type": "text",
                 "searchCard": true,
+                "searchButton": true,
                 "prefillFrom": "assetRef",
                 "resultLabel": "EST_ASSET_NUMBER",
                 "selectLabel": "CS_COMMON_SELECT",
                 "notFoundLabel": "EST_ASSET_NOT_FOUND",
-                "createNewLabel": "EST_CREATE_NEW_REGISTRATION"
+                "createNewLabel": "EST_CREATE_NEW_REGISTRATION",
+                "createNewPath": "/upyog-ui/employee/asset/assetservice/new-assets/info"
               },
               "visibleWhen": {
                 "field": "assetRegistrationType",
@@ -259,6 +261,8 @@
                   "pattern": "\\D",
                   "flags": "g"
                 },
+                "maxAmount": 999999,
+                "maxLength": 6,
                 "required": true,
                 "disabled": false,
                 "readOnly": false
