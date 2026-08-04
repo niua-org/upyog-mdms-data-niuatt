@@ -60,7 +60,8 @@
                 "resultLabel": "EST_ASSET_NUMBER",
                 "selectLabel": "CS_COMMON_SELECT",
                 "notFoundLabel": "EST_ASSET_NOT_FOUND",
-                "createNewLabel": "EST_CREATE_NEW_REGISTRATION"
+                "createNewLabel": "EST_CREATE_NEW_REGISTRATION",
+                "createNewPath": "/upyog-ui/employee/asset/assetservice/new-assets/info"
               },
               "visibleWhen": {
                 "field": "assetRegistrationType",

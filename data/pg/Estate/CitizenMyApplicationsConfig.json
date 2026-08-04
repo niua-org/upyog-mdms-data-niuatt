@@ -19,10 +19,10 @@
       "filters": [
         {
           "order": 1,
-          "key": "EST_ESTATE_NUMBER",
-          "name": "estateNo",
+          "key": "EST_ESTATE_ALLOTMENT_NUMBER",
+          "name": "allotmentNo",
           "type": "text",
-          "placeholder": "EST_ENTER_ESTATE_NUMBER"
+          "placeholder": "EST_ENTER_ESTATE_ALLOTMENT_NUMBER"
         },
         {
           "order": 2,

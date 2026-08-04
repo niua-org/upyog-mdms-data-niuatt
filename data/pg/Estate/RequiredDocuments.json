@@ -7,7 +7,7 @@
       "code": "CITIZEN_REQUEST_LETTER",
       "i18nKey": "EST_CITIZEN_REQUEST_LETTER",
       "name": "Citizen Request Letter",
-      "acceptedFormat": "Accepted PDF",
+      "acceptedFormat": "",
       "active": true
     },
     {
@@ -15,7 +15,7 @@
       "code": "ALLOTMENT_LETTER",
       "i18nKey": "EST_ALLOTMENT_LETTER",
       "name": "Allotment Letter",
-      "acceptedFormat": "Accepted PDF",
+      "acceptedFormat": "",
       "active": true
     },
     {
@@ -23,7 +23,7 @@
       "code": "SIGNED_DEED",
       "i18nKey": "EST_SIGNED_DEED",
       "name": "Signed Deed",
-      "acceptedFormat": "Accepted PDF",
+      "acceptedFormat": "",
       "active": true
     }
   ]
