@@ -30281,7 +30281,8 @@
       "serviceCode": "NSS",
       "code": "null",
       "path": ""
-    }
+    },
+    {
     "id": 4717,
     "name": "Search Garbage Service",
     "url": "/collection-services/payments/garbage-service/_search",
@@ -30292,6 +30293,6 @@
     "serviceCode": "",
     "code": "null",
     "path": ""
-  }
+   }
   ]
 }
