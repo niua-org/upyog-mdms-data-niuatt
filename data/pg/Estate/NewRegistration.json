@@ -56,6 +56,7 @@
                 "placeholder": "EST_ENTER_ASSET_NUMBER",
                 "type": "text",
                 "searchCard": true,
+                "prefillFrom": "assetRef",
                 "resultLabel": "EST_ASSET_NUMBER",
                 "selectLabel": "CS_COMMON_SELECT",
                 "notFoundLabel": "EST_ASSET_NOT_FOUND",
@@ -372,9 +373,11 @@
                 "type": "dropdown",
                 "dataSource": {
                   "type": "MDMS",
-                  "moduleName": "Estate",
-                  "masterName": "AssetType",
-                  "customiztionRequired": false
+                  "moduleName": "ASSET",
+                  "masterName": "assetParentCategory",
+                  "filter": {
+                    "assetClassification": "IMMOVABLE"
+                  }
                 }
               },
               "visibleWhen": {

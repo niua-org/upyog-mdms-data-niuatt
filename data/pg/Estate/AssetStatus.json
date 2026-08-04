@@ -5,11 +5,31 @@
     {
       "code": "AVAILABLE",
       "name": "Available",
+      "i18nKey": "EST_ASSET_STATUS_AVAILABLE",
+      "active": true
+    },
+    {
+      "code": "INITIATED",
+      "name": "Initiated",
+      "i18nKey": "EST_ASSET_STATUS_INITIATED",
+      "active": true
+    },
+    {
+      "code": "PENDING_FOR_ALLOTMENT",
+      "name": "Pending for allotment",
+      "i18nKey": "EST_ASSET_STATUS_PENDING_FOR_ALLOTMENT",
       "active": true
     },
     {
       "code": "ALLOTTED",
-      "name": "Allotted", 
+      "name": "Allotted",
+      "i18nKey": "EST_ASSET_STATUS_ALLOTTED",
+      "active": true
+    },
+    {
+      "code": "ACTIVE",
+      "name": "Active",
+      "i18nKey": "EST_ASSET_STATUS_ACTIVE",
       "active": true
     }
   ]

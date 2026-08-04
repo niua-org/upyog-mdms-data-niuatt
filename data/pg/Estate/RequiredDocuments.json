@@ -1,0 +1,30 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Estate",
+  "RequiredDocuments": [
+    {
+      "order": 1,
+      "code": "CITIZEN_REQUEST_LETTER",
+      "i18nKey": "EST_CITIZEN_REQUEST_LETTER",
+      "name": "Citizen Request Letter",
+      "acceptedFormat": "Accepted PDF",
+      "active": true
+    },
+    {
+      "order": 2,
+      "code": "ALLOTMENT_LETTER",
+      "i18nKey": "EST_ALLOTMENT_LETTER",
+      "name": "Allotment Letter",
+      "acceptedFormat": "Accepted PDF",
+      "active": true
+    },
+    {
+      "order": 3,
+      "code": "SIGNED_DEED",
+      "i18nKey": "EST_SIGNED_DEED",
+      "name": "Signed Deed",
+      "acceptedFormat": "Accepted PDF",
+      "active": true
+    }
+  ]
+}

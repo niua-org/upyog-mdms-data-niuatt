@@ -1,0 +1,46 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Estate",
+  "CitizenMyApplicationsConfig": [
+    {
+      "header": "EST_MY_APPLICATIONS",
+      "resultMode": "cards",
+      "autoSearch": true,
+      "emptyState": {
+        "message": "EST_NO_APPLICATION_FOUND_MSG",
+        "showCreateAction": false
+      },
+      "paginationDefaults": {
+        "offset": 0,
+        "limit": 50,
+        "sortBy": "createdDate",
+        "sortOrder": "DESC"
+      },
+      "filters": [
+        {
+          "order": 1,
+          "key": "EST_ESTATE_NUMBER",
+          "name": "estateNo",
+          "type": "text",
+          "placeholder": "EST_ENTER_ESTATE_NUMBER"
+        },
+        {
+          "order": 2,
+          "key": "PT_COMMON_TABLE_COL_STATUS_LABEL",
+          "name": "paymentStatus",
+          "type": "dropdown",
+          "placeholder": "EST_SELECT_STATUS",
+          "dataSource": {
+            "type": "MDMS",
+            "moduleName": "Estate",
+            "masterName": "PaymentStatus"
+          }
+        }
+      ],
+      "actionButton": {
+        "search": "ES_COMMON_SEARCH",
+        "clear": "ES_COMMON_CLEAR_ALL"
+      }
+    }
+  ]
+}

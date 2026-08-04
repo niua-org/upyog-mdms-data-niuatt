@@ -1,0 +1,27 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Estate",
+  "AllotmentBillingCycle": [
+    {
+      "code": "MONTHLY",
+      "i18nKey": "EST_BILLING_CYCLE_MONTHLY",
+      "rentLabelKey": "EST_MONTHLY_RENT_IN_INR",
+      "multiplier": 1,
+      "active": true
+    },
+    {
+      "code": "QUARTERLY",
+      "i18nKey": "EST_BILLING_CYCLE_QUARTERLY",
+      "rentLabelKey": "EST_QUARTERLY_RENT_IN_INR",
+      "multiplier": 3,
+      "active": true
+    },
+    {
+      "code": "YEARLY",
+      "i18nKey": "EST_BILLING_CYCLE_YEARLY",
+      "rentLabelKey": "EST_YEARLY_RENT_IN_INR",
+      "multiplier": 12,
+      "active": true
+    }
+  ]
+}
