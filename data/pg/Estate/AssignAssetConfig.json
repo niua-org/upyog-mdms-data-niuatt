@@ -555,7 +555,7 @@
           ],
           "actionButton": {
             "text": {
-              "create": "SUBMIT",
+              "create": "SAVE_&_NEXT",
               "edit": "UPDATE"
             },
             "variant": "contained",
