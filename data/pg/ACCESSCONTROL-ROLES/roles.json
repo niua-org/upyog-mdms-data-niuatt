@@ -1106,6 +1106,11 @@
       "code": "GC_APPROVER",
       "name": "GC Approver",
       "description": "Approver who only approves Garbage application"
-    }
+    },
+	 {
+      "code": "THEME_ADMIN",
+      "name": "Theme Admin",
+      "description": "Approver who only approves Theme Config"
+    } 
   ]
 }
