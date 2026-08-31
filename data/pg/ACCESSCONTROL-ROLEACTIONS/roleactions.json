@@ -38415,7 +38415,7 @@
     "tenantId": "pg"
   },
 	{
-    "rolecode": "THEME_ADMIIN",
+    "rolecode": "THEME_ADMIN",
     "actionid": 4719,
     "actioncode": "",
     "tenantId": "pg"
