@@ -38407,6 +38407,30 @@
     "actionid": 1865,
     "actioncode": "",
     "tenantId": "pg"
-  }
+  },
+	{
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4718,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+	{
+    "rolecode": "THEME_ADMIIN",
+    "actionid": 4719,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4720,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+	{
+    "rolecode": "MDMS_ADMIN",
+    "actionid": 4721,
+    "actioncode": "",
+    "tenantId": "pg"
+  }  
   ]
 }
