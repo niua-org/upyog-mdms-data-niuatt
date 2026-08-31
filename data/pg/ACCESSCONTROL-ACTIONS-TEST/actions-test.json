@@ -30293,6 +30293,54 @@
     "serviceCode": "",
     "code": "null",
     "path": ""
-   }
+   },
+	{
+  "id": 4718,		
+  "name": "Theme Config Create",
+  "url": "/mdms-v2/v1/theme-config/_create",
+  "parentModule": "",
+  "displayName": "Theme Config",
+  "orderNumber": 1,
+  "enabled": true,
+  "serviceCode": "MDMS v2",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 4719,
+  "name": "Theme Config Action",
+  "url": "/mdms-v2/v1/theme-config/_action",
+  "parentModule": "",
+  "displayName": "Theme Config",
+  "orderNumber": 1,
+  "enabled": true,
+  "serviceCode": "MDMS v2",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 4720,
+  "name": "Theme Config Update",
+  "url": "/mdms-v2/v1/theme-config/_update",
+  "parentModule": "",
+  "displayName": "Theme Config",
+  "orderNumber": 1,
+  "enabled": true,
+  "serviceCode": "MDMS v2",
+  "code": "null",
+  "path": ""
+},
+{
+  "id": 4721,
+  "name": "Theme Config Search",
+  "url": "/mdms-v2/v1/theme-config/_search",
+  "parentModule": "",
+  "displayName": "Theme Config",
+  "orderNumber": 1,
+  "enabled": true,
+  "serviceCode": "MDMS v2",
+  "code": "null",
+  "path": ""
+}
   ]
 }
