@@ -38431,6 +38431,24 @@
     "actionid": 4721,
     "actioncode": "",
     "tenantId": "pg"
-  }  
+  },
+  {
+    "rolecode": "THEME_ADMIN",
+    "actionid": 4721,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CITIZEN",
+    "actionid": 4721,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "EMPLOYEE",
+    "actionid": 4721,
+    "actioncode": "",
+    "tenantId": "pg"
+  }    
   ]
 }
