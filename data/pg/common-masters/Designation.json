@@ -199,6 +199,30 @@
       "description": "Directorate of Municipal Administration",
       "code": "DMA",
       "active": true
+    },
+    {
+      "name": "Chief Officer/Commissioner",
+      "description": "Chief Officer",
+      "code": "CHIEF_OFFICER",
+      "active": true
+    },
+    {
+      "name": "Accounts Taxation Officer",
+      "description": "Accounts Taxation Officer",
+      "code": "ATO",
+      "active": true
+    },
+    {
+      "name": "Accountant",
+      "description": "Accountant",
+      "code": "ACCOUNTANT",
+      "active": true
+    },
+    {
+      "name": "Cashier",
+      "description": "Cashier",
+      "code": "CASHIER",
+      "active": true
     }
   ]
 }
