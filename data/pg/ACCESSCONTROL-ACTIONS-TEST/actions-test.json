@@ -19301,7 +19301,7 @@
       "serviceCode": "FinanceGeneral",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Inbox",
+      "path": "Finance.Inbox",
       "navigationURL": "services/EGF/inbox"
     },
     {
@@ -26774,7 +26774,7 @@
       "serviceCode": "budget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget.Budget Register.Create Budget Register"
+      "path": "Finance.Budget Creation.Budget Register.Create Budget Register"
     },
     {
       "id": 4428,
@@ -26788,7 +26788,7 @@
       "serviceCode": "budget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget.Budget Register.View Budget Register"
+      "path": "Finance.Budget Creation.Budget Register.View Budget Register"
     },
     {
       "id": 4429,
@@ -26802,7 +26802,7 @@
       "serviceCode": "budget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget.Budget Head",
+      "path": "Finance.Budget Creation.Budget Head",
       "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
     },
     {
@@ -26817,7 +26817,7 @@
       "serviceCode": "budget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget.Function Wise Budget Head",
+      "path": "Finance.Budget Creation.Function Wise Budget Head",
       "path1": "Finance.Transactions.Bills Accounting.Bill Approve"
     },
     {
