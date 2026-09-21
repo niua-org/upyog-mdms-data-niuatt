@@ -30341,6 +30341,18 @@
   "serviceCode": "MDMS v2",
   "code": "null",
   "path": ""
+},
+{
+  "id": 4722,
+  "name": "Aggregated For Citizen",
+  "url": "upyog-aggregation-service/api/v1/aggregate",
+  "parentModule": "",
+  "displayName": "Citizen Dashboard2.0 API",
+  "orderNumber": 1,
+  "enabled": true,
+  "serviceCode": "upyog-aggregation-service",
+  "code": "null",
+  "path": ""
 }
   ]
 }
