@@ -30345,7 +30345,7 @@
 {
   "id": 4722,
   "name": "Aggregated For Citizen",
-  "url": "upyog-aggregation-service/api/v1/aggregate",
+  "url": "/upyog-aggregation-service/api/v1/aggregate",
   "parentModule": "",
   "displayName": "Citizen Dashboard2.0 API",
   "orderNumber": 1,
@@ -30353,6 +30353,19 @@
   "serviceCode": "upyog-aggregation-service",
   "code": "null",
   "path": ""
+},
+{
+  "id": 4723,
+  "name": "Aggregated For Employee",
+  "url": "/upyog-aggregation-service/api/v1/employee/aggregate",
+  "parentModule": "",
+  "displayName": "Employee Dashboard2.0 API",
+  "orderNumber": 1,
+  "enabled": true,
+  "serviceCode": "upyog-aggregation-service",
+  "code": "null",
+  "path": ""
 }
+	  
   ]
 }
