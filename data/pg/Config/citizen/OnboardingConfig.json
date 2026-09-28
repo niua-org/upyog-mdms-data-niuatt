@@ -1,0 +1,332 @@
+{
+  "tenantId": "pg",
+  "moduleName": "CITIZEN_ONBOARDING",
+  "OnboardingConfig": [
+    {
+      "content": {
+        "background": {
+          "root": {
+            "backgroundColor": "#faf8fc",
+            "showBackgroundColor": false,
+            "showBackgroundImage": true,
+            "responsive": {
+              "mobile": {
+                "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2_mobile.jpg",
+                "position": "center bottom",
+                "size": "contain",
+                "attachment": "fixed"
+              },
+              "tablet": {
+                "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2.jpg",
+                "position": "center bottom",
+                "size": "cover",
+                "attachment": "fixed"
+              },
+              "laptop": {
+                "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2.jpg",
+                "position": "center bottom",
+                "size": "cover",
+                "attachment": "fixed"
+              },
+              "desktop": {
+                "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2.jpg",
+                "position": "center bottom",
+                "size": "cover",
+                "attachment": "fixed"
+              }
+            }
+          },
+          "sections": {
+            "right": {
+              "backgroundColor": "red",
+              "showBackgroundColor": false,
+              "showBackgroundImage": false,
+              "responsive": {
+                "mobile": {
+                  "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2_mobile.jpg",
+                  "position": "center bottom",
+                  "size": "contain",
+                  "attachment": "fixed"
+                },
+                "tablet": {
+                  "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2.jpg",
+                  "position": "center bottom",
+                  "size": "cover",
+                  "attachment": "fixed"
+                },
+                "laptop": {
+                  "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2.jpg",
+                  "position": "center bottom",
+                  "size": "cover",
+                  "attachment": "fixed"
+                },
+                "desktop": {
+                  "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2.jpg",
+                  "position": "center bottom",
+                  "size": "cover",
+                  "attachment": "fixed"
+                }
+              },
+              "card": {
+                "backgroundColor": "rgba(255, 255, 255, 0.5)",
+                "showBackgroundColor": true,
+                "showBackgroundImage": false,
+                "showShadow": true,
+                "responsive": {
+                  "mobile": {
+                    "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2_mobile.jpg",
+                    "position": "center bottom",
+                    "size": "contain",
+                    "attachment": "fixed"
+                  },
+                  "tablet": {
+                    "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2.jpg",
+                    "position": "center bottom",
+                    "size": "cover",
+                    "attachment": "fixed"
+                  },
+                  "laptop": {
+                    "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2.jpg",
+                    "position": "center bottom",
+                    "size": "cover",
+                    "attachment": "fixed"
+                  },
+                  "desktop": {
+                    "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2.jpg",
+                    "position": "center bottom",
+                    "size": "cover",
+                    "attachment": "fixed"
+                  }
+                }
+              }
+            },
+            "left": {
+              "backgroundColor": "#000",
+              "showBackgroundColor": false,
+              "showBackgroundImage": false,
+              "responsive": {
+                "mobile": {
+                  "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2_mobile.jpg",
+                  "position": "center bottom",
+                  "size": "contain",
+                  "attachment": "fixed"
+                },
+                "tablet": {
+                  "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2.jpg",
+                  "position": "center bottom",
+                  "size": "cover",
+                  "attachment": "fixed"
+                },
+                "laptop": {
+                  "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2.jpg",
+                  "position": "center bottom",
+                  "size": "cover",
+                  "attachment": "fixed"
+                },
+                "desktop": {
+                  "image": "https://upyog-finance.s3.ap-south-1.amazonaws.com/images/onboarding-bg_v2.jpg",
+                  "position": "center bottom",
+                  "size": "cover",
+                  "attachment": "fixed"
+                }
+              }
+            }
+          }
+        },
+        "brand": {
+          "title": {
+            "default": "ONE_PLATFORM",
+            "highlight": "MANY_SERVICES",
+            "isVisible": true
+          },
+          "subtitle": {
+            "primary": "CHOOSE_YOUR_DETAILS_TO",
+            "secondary": "GET_STARTED",
+            "isVisible": true
+          }
+        },
+        "features": {
+          "isVisible": true,
+          "items": [
+            {
+              "icon": "https://upyog-finance.s3.ap-south-1.amazonaws.com/icons/easy-access.svg",
+              "title": "EASY_ACCESS",
+              "description": "ALL_YOUR_SERVICES_IN_ONE_PLACE"
+            },
+            {
+              "icon": "https://upyog-finance.s3.ap-south-1.amazonaws.com/icons/easy-access.svg",
+              "title": "SECURE_AND_TRUSTED",
+              "description": "YOUR_DATA_IS_SAFE_WITH_US"
+            },
+            {
+              "icon": "https://upyog-finance.s3.ap-south-1.amazonaws.com/icons/easy-access.svg",
+              "title": "QUICK_AND_SIMPLE",
+              "description": "LOGIN_IN_MINUTES"
+            }
+          ]
+        }
+      },
+      "common": {
+        "secureInfo": {
+          "icon": "https://upyog-finance.s3.ap-south-1.amazonaws.com/icons/secure.svg",
+          "text": "YOUR_INFORMATION_IS_SAFE_AND_SECURE_WITH_US"
+        }
+      },
+      "steps": {
+        "login": {
+          "heading": "CORE_COMMON_LOGIN",
+          "description": "ALL_THE_COMMUNICATIONS_REGARDING_THE_APPLICATION_WILL_BE_SENT_TO_THIS_MOBILE_NUMBER",
+          "fields": [
+            {
+              "name": "language",
+              "type": "singleSelectButtonGroup",
+              "label": "CS_COMMON_CHOOSE_LANGUAGE",
+              "defaultValue": "en",
+              "validation": {
+                "required": true,
+                "messages": {
+                  "required": "PLEASE_SELECT_YOUR_LANGUAGE"
+                }
+              }
+            },
+            {
+              "name": "city",
+              "type": "autocomplete",
+              "label": "CS_COMMON_CHOOSE_LOCATION",
+              "placeholder": "SEARCH_YOUR_CITY",
+              "startIcon": "https://upyog-finance.s3.ap-south-1.amazonaws.com/icons/search.svg",
+              "validation": {
+                "required": true,
+                "messages": {
+                  "required": "PLEASE_SELECT_YOUR_CITY"
+                }
+              }
+            },
+            {
+              "name": "mobileNumber",
+              "type": "tel",
+              "label": "CS_LOGIN_PROVIDE_MOBILE_NUMBER",
+              "placeholder": "ENTER_10_DIGIT_MOBILE_NUMBER",
+              "prefix": "+91",
+              "helperIcon": "https://upyog-finance.s3.ap-south-1.amazonaws.com/icons/secure.svg",
+              "helperText": "WE_WILL_SEND_AN_OTP_FOR_VERIFICATION",
+              "validation": {
+                "required": true,
+                "minLength": 10,
+                "maxLength": 10,
+                "pattern": "^[6-9][0-9]{9}$",
+                "messages": {
+                  "required": "PLEASE_ENTER_MOBILE_NUMBER",
+                  "minLength": "MOBILE_NUMBER_SHOULD_BE_10_DIGITS",
+                  "maxLength": "MOBILE_NUMBER_SHOULD_BE_10_DIGITS",
+                  "pattern": "PLEASE_ENTER_A_VALID_10_DIGIT_MOBILE_NUMBER"
+                }
+              }
+            }
+          ],
+          "footer": {
+            "primaryAction": {
+              "label": "CORE_COMMON_CONTINUE"
+            },
+            "showSeparator": true,
+            "secondaryActions": [
+              {
+                "type": "digilocker",
+                "icon": "https://upyog-finance.s3.ap-south-1.amazonaws.com/icons/digilocker.svg",
+                "label": "CORE_COMMON_DGILOCKER_REGISTER"
+              }
+            ],
+            "showSecureInfo": true
+          }
+        },
+        "register": {
+          "heading": "CS_LOGIN_PROVIDE_NAME_DOB",
+          "description": "CS_LOGIN_NAME_TEXT",
+          "fields": [
+            {
+              "name": "fullName",
+              "type": "text",
+              "label": "CORE_COMMON_NAME",
+              "placeholder": "ENTER_YOUR_FULL_NAME",
+              "validation": {
+                "required": true,
+                "minLength": 3,
+                "maxLength": 50,
+                "pattern": "^[A-Za-z\\s]+$",
+                "messages": {
+                  "required": "PLEASE_ENTER_FULL_NAME",
+                  "minLength": "FULL_NAME_SHOULD_BE_AT_LEAST_3_CHARACTERS",
+                  "maxLength": "FULL_NAME_SHOULD_NOT_BE_MORE_THAN_50_CHARACTERS",
+                  "pattern": "FULL_NAME_SHOULD_CONTAIN_ONLY_ALPHABETS"
+                }
+              }
+            },
+            {
+              "name": "dateOfBirth",
+              "type": "date",
+              "label": "CORE_COMMON_DOB",
+              "placeholder": "DD_MM_YYYY",
+              "helperIcon": "https://upyog-finance.s3.ap-south-1.amazonaws.com/icons/info.svg",
+              "helperText": "MINIMUM_AGE_SHOULD_BE_18_YEARS",
+              "validation": {
+                "required": true,
+                "format": "DD-MM-YYYY",
+                "minimumAge": 18,
+                "messages": {
+                  "required": "PLEASE_SELECT_DATE_OF_BIRTH",
+                  "invalid": "PLEASE_ENTER_A_VALID_DATE_OF_BIRTH",
+                  "minimumAge": "MINIMUM_AGE_SHOULD_BE_18_YEARS"
+                }
+              }
+            }
+          ],
+          "footer": {
+            "primaryAction": {
+              "label": "CORE_COMMON_CONTINUE"
+            },
+            "showSecureInfo": true
+          }
+        },
+        "otp": {
+          "heading": "CS_LOGIN_OTP",
+          "description": "CS_LOGIN_OTP_TEXT",
+          "fields": [
+            {
+              "name": "otp",
+              "type": "otp",
+              "label": "ENTER_OTP",
+              "otpLength": 6,
+              "validation": {
+                "required": true,
+                "minLength": 6,
+                "maxLength": 6,
+                "pattern": "^[0-9]{6}$",
+                "messages": {
+                  "required": "PLEASE_ENTER_OTP",
+                  "minLength": "OTP_SHOULD_BE_6_DIGITS",
+                  "maxLength": "OTP_SHOULD_BE_6_DIGITS",
+                  "pattern": "PLEASE_ENTER_A_VALID_6_DIGIT_OTP"
+                }
+              }
+            }
+          ],
+          "otpInfo": {
+            "enabled": true,
+            "text": "DIDNT_RECEIVE_THE_OTP"
+          },
+          "footer": {
+            "primaryAction": {
+              "label": "CORE_COMMON_CONTINUE",
+              "to": "/dashboard"
+            },
+            "resendAction": {
+              "label": "CS_RESEND_OTP",
+              "disabledTime": 30
+            },
+            "showSecureInfo": true
+          }
+        }
+      }
+    }
+  ]
+}
