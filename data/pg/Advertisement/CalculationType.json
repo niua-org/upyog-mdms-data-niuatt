@@ -3,7 +3,7 @@
   "moduleName": "Advertisement",
   "CalculationType": [
     {
-      "location": "Green Park",
+      "location": "GREEN_PARK",
       "CalculationType_UNIPOLE_12_X_8": [
         {
           "applicationType": "ADVERTISEMENT_BOOKING",
@@ -60,7 +60,7 @@
       ]
     },
     {
-      "location": "Hauz Khas",
+      "location": "HAUZ_KHAS",
       "CalculationType_UNIPOLE_12_X_8": [
         {
           "applicationType": "ADVERTISEMENT_BOOKING",
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "location": "Jor Bagh",
+      "location": "JOR_BAGH",
       "CalculationType_UNIPOLE_12_X_8": [
         {
           "applicationType": "ADVERTISEMENT_BOOKING",

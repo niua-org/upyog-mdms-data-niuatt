@@ -1,0 +1,18 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Estate",
+  "PaymentStatus": [
+    {
+      "code": "PAID",
+      "name": "Paid",
+      "i18nKey": "EST_PAYMENT_STATUS_PAID",
+      "active": true
+    },
+    {
+      "code": "PENDING_FOR_PAYMENT",
+      "name": "Pending for payment",
+      "i18nKey": "EST_PAYMENT_STATUS_PENDING_FOR_PAYMENT",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Garbage",
+  "Gender": [
+    {
+      "id": "1",
+      "code": "MALE",
+      "name": "Male",
+      "active": true
+    },
+    {
+      "id": "2",
+      "code": "FEMALE",
+      "name": "Female",
+      "active": true
+    },
+    {
+      "id": "2",
+      "code": "OTHERS",
+      "name": "Others",
+      "active": true
+    }
+  ]
+}

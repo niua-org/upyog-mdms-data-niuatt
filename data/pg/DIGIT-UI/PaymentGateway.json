@@ -9,6 +9,14 @@
         {
             "gateway": "NTTDATA",
             "active": true
+        },
+        {
+            "gateway": "ICICI",
+            "active": true
+        },
+        {
+            "gateway": "RAZORPAY",
+            "active": true
         }
     ]
 }

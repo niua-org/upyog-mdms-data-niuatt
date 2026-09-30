@@ -1,0 +1,22 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Challan",
+  "Documents": [
+    {
+      "code": "CHALLAN.ID_PROOF",
+      "documentType": "ID_PROOF",
+      "required": false,
+      "active": true,
+      "description": "ID proof of offender",
+      "maxSizeMB": 2
+    },
+    {
+      "code": "CHALLAN.EVIDENCE_IMAGE",
+      "documentType": "IMAGE",
+      "required": true,
+      "active": true,
+      "description": "Evidence of offence done by offender",
+      "maxSizeMB": 2
+    }
+  ]
+}

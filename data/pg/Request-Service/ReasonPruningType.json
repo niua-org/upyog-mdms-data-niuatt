@@ -1,6 +1,6 @@
 {
   "tenantId": "pg",
-  "moduleName": "request-service",
+  "moduleName": "Request-Service",
   "ReasonPruningType": [
     {
       "code": "INTERFERENCE_WITH_POWER_LINES_UTILITIES",

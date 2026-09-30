@@ -1,0 +1,96 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Estate",
+  "SearchApplicationConfig": [
+    {
+      "header": "EST_SEARCH_APPLICATIONS",
+      "sessionKey": "EST_ASSIGN_ASSETS",
+      "assignRoute": "assignassets",
+      "emptyState": {
+        "actionLabel": "EST_CREATE_ASSET"
+      },
+      "table": {
+        "showAssetRef": true,
+        "actions": "allot"
+      },
+      "paginationDefaults": {
+        "offset": 0,
+        "limit": 10,
+        "sortBy": "createdDate",
+        "sortOrder": "DESC"
+      },
+      "routeConfig": {
+        "key": "SearchFilters",
+        "payloadKey": "Filters",
+        "searchLayout": "inline",
+        "actionButton": {
+          "text": {
+            "create": "ES_COMMON_SEARCH",
+            "clear": "ES_COMMON_CLEAR_ALL"
+          }
+        },
+        "form": [
+          {
+            "order": 1,
+            "key": "EST_ESTATE_NUMBER",
+            "field": {
+              "code": "EST_ESTATE_NUMBER",
+              "name": "estateNo",
+              "type": "text",
+              "placeholder": "EST_ENTER_ESTATE_NUMBER"
+            },
+            "validation": {
+              "required": false
+            }
+          },
+          {
+            "order": 2,
+            "key": "EST_LOCALITY",
+            "apiFieldName": "localityCode",
+            "field": {
+              "code": "EST_LOCALITY",
+              "name": "locality",
+              "type": "dropdown",
+              "placeholder": "EST_SELECT_LOCALITY",
+              "dataSource": {
+                "type": "MDMS",
+                "moduleName": "egov-location",
+                "masterName": "TenantBoundary",
+                "customiztionRequired": true
+              },
+              "optionCardStyles": {
+                "overflowY": "auto",
+                "maxHeight": "300px"
+              }
+            },
+            "validation": {
+              "required": false
+            }
+          },
+          {
+            "order": 3,
+            "key": "EST_ASSET_TYPE",
+            "apiFieldName": "assetParentCategory",
+            "field": {
+              "code": "EST_ASSET_TYPE",
+              "name": "assetType",
+              "type": "dropdown",
+              "placeholder": "EST_SELECT_ASSET_TYPE",
+              "dataSource": {
+                "type": "MDMS",
+                "moduleName": "ASSET",
+                "masterName": "assetParentCategory",
+                "filter": {
+                  "assetClassification": "IMMOVABLE"
+                }
+              }
+            },
+            "validation": {
+              "required": false
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

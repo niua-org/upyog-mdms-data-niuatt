@@ -1,0 +1,35 @@
+{
+  "tenantId": "pg.mohali",
+  "moduleName": "CHB",
+  "GuestHouses": [
+    {
+      "venueId": "1",
+      "venueName": "Cantt Guest House",
+      "code": "CANTT_GUEST_HOUSE",
+      "geoLocation": "28.5978913,77.1322511",
+      "address": "Shastri Bazar, Delhi Cantt",
+      "contactDetails": "011-25693001",
+      "bookingPolicy": "Booking subject to availability. ID proof required at check-in.",
+      "venueDescription": "Guest house accommodation available for booking. Please refer to the admin for specific guidelines.",
+      "termsAndCondition": "Booking subject to availability. Valid ID proof required and guest usage rules must be followed.",
+      "childMasterCode": "GuestHouseCode",
+      "facilities": ["AC Rooms", "Hot Water", "Dining Area", "Parking"],
+      "active": true
+    },
+    {
+      "venueId": "2",
+      "venueName": "Community Guest House",
+      "code": "COMMUNITY_GUEST_HOUSE",
+      "childMasterCode": "GuestHouseCode",
+      "geoLocation": "28.5934095,77.1195994",
+      "address": "Sadar Bazar",
+      "contactDetails": "011-25693002",
+      "bookingPolicy": "Advance booking recommended. Cancellation charges apply.",
+      "venueDescription": "Guest house accommodation available for booking. Please refer to the admin for specific guidelines.",
+      "termsAndCondition": "Booking subject to availability. Advance booking recommended and cancellation charges may apply.",
+      "facilities": ["Non-AC Rooms", "Shared Dining"],
+      "active": true
+    }
+  ]
+}
+

@@ -1,0 +1,21 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Challan",
+  "Acts": [
+    {
+      "code": "ACT1",
+      "name": "Solid Waste Management and Cleanliness & Sanitation (Amendment) Bye-Laws, 2022 vide Notification No. 5/105/2020-2lg4/1021 dated 6th October, 2022",
+      "active": true
+    },
+    {
+      "code": "ACT2",
+      "name": "State Plastic Carry Bags (Manufacture, Usage and Disposal) Control (Amendment) Act, 2016",
+      "active": true
+    },
+    {
+      "code": "ACT3",
+      "name": "NGT Orders dated 22.12.2019 in O.A. No. 199/2014 titled as Almitra H. Patel Vs UOI & Ors",
+      "active": true
+    }
+  ]
+}

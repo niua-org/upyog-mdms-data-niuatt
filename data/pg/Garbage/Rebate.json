@@ -1,0 +1,49 @@
+{
+    "tenantId": "pg",
+    "moduleName": "Garbage",
+    "Rebate": [
+        {
+            "name": "Freedom Fighter",
+            "code": "FREEDOM_FIGHTER",
+            "serviceType": "GC_REBATE_FEE",
+            "rate": 10,
+            "active": true
+        },
+        {
+            "name": "Widow",
+            "code": "WIDOW",
+            "serviceType": "GC_REBATE_FEE",
+            "rate": 5,
+            "active": true
+        },
+        {
+            "name": "Handicapped",
+            "code": "HANDICAPPED",
+            "serviceType": "GC_REBATE_FEE",
+            "rate": 5,
+            "active": true
+        },
+        {
+            "name": "Below Poverty Line",
+            "code": "BPL",
+            "serviceType": "GC_REBATE_FEE",
+            "rate": 10,
+            "active": true
+        },
+        {
+            "name": "Defence Personnel",
+            "code": "DEFENCE_PERSONNEL",
+            "serviceType": "GC_REBATE_FEE",
+            "rate": 10,
+            "active": true,
+            "fromFY": "2015-16"
+        },
+        {
+            "name": "General",
+            "code": "GENERAL",
+            "serviceType": "GC_REBATE_FEE",
+            "rate": 0,
+            "active": true
+        }
+    ]
+}

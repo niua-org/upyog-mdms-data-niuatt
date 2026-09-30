@@ -3,6 +3,12 @@
   "moduleName": "tenant",
   "nationalInfoUser": [
     {
+      "stateCode": "PG",
+      "emailId": "abhi@niua.org",
+	  "NodalOfficerName": "Abhijeet Verma",
+      "active": true
+    },
+    {
       "stateCode": "Punjab",
       "emailId": "itspl.pmidc@punjab.gov.in",
 	  "NodalOfficerName": "Simarjeet Kaur",

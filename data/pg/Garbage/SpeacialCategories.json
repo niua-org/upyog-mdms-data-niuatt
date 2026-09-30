@@ -1,0 +1,36 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Garbage",
+  "SpeacialCategories": [
+    {
+      "name": "Freedom Fighter",
+      "code": "FREEDOM_FIGHTER",
+      "active": true
+    },
+    {
+      "name": "Widow",
+      "code": "WIDOW",
+      "active": true
+    },
+    {
+      "name": "Handicapped",
+      "code": "HANDICAPPED",
+      "active": true
+    },
+    {
+      "name": "Below Poverty Line",
+      "code": "BPL",
+      "active": true
+    },
+    {
+      "name": "Defence Personnel",
+      "code": "DEFENCE_PERSONNEL",
+      "active": true
+    },
+    {
+      "name": "General",
+      "code": "GENERAL",
+      "active": true
+    }
+  ]
+}

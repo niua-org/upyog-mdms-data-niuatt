@@ -1,0 +1,90 @@
+{
+  "tenantId": "pg.mohali",
+  "moduleName": "CHB",
+  "ParkCode": [
+    {
+      "venueId": "1",
+      "codeId": "1",
+      "code": "CP_Park_Section-2001",
+      "capacity": "500",
+      "active": true,
+      "venueCode": "CENTRAL_PARK",
+      "timeSlot": [
+        {
+          "id": "1",
+          "from": "06:00",
+          "to": "12:00",
+          "duration": "6:00"
+        },
+        {
+          "id": "2",
+          "from": "12:00",
+          "to": "18:00",
+          "duration": "5:00"
+        },
+        {
+          "id": "3",
+          "from": "18:00",
+          "to": "23:00",
+          "duration": "5:00"
+        }
+      ]
+    },
+    {
+      "venueId": "1",
+      "codeId": "2",
+      "code": "CP_Park_Section-2002",
+      "capacity": "300",
+      "active": true,
+      "venueCode": "CENTRAL_PARK",
+      "timeSlot": [
+        {
+          "id": "1",
+          "from": "06:00",
+          "to": "12:00",
+          "duration": "6:00"
+        },
+        {
+          "id": "2",
+          "from": "12:00",
+          "to": "18:00",
+          "duration": "5:00"
+        },
+        {
+          "id": "3",
+          "from": "18:00",
+          "to": "23:00",
+          "duration": "5:00"
+        }
+      ]
+    },
+    {
+      "venueId": "2",
+      "codeId": "2",
+      "code": "DP_Park_Section-2001",
+      "capacity": "300",
+      "active": true,
+      "venueCode": "DUSSEHRA_PARK",
+      "timeSlot": [
+        {
+          "id": "1",
+          "from": "06:00",
+          "to": "12:00",
+          "duration": "6:00"
+        },
+        {
+          "id": "2",
+          "from": "12:00",
+          "to": "18:00",
+          "duration": "5:00"
+        },
+        {
+          "id": "3",
+          "from": "18:00",
+          "to": "23:00",
+          "duration": "5:00"
+        }
+      ]
+    }
+  ]
+}

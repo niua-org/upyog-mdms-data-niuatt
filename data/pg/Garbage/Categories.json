@@ -1,0 +1,42 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Garbage",
+  "Categories": [
+    {
+      "id": "1",
+      "name": "Residential",
+      "code": "RESIDENTIAL",
+      "active": true
+    },
+    {
+      "id": "2",
+      "name": "Commercial",
+      "code": "COMMERCIAL",
+      "active": true
+    },
+    {
+      "id": "3",
+      "name": "Industries",
+      "code": "INDUSTRIES",
+      "active": true
+    },
+    {
+      "id": "4",
+      "name": "Hospitals and Health Care",
+      "code": "HOSPITALS_AND_HEALTH_CARE",
+      "active": true
+    },
+    {
+      "id": "5",
+      "name": "Government Establishments",
+      "code": "GOVT_ESTABLISHMENTS",
+      "active": true
+    },
+    {
+      "id": "6",
+      "name": "Others",
+      "code": "OTHERS",
+      "active": true
+    }
+  ]
+}

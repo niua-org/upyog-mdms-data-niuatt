@@ -1,0 +1,38 @@
+{
+  "tenantId": "pg.mohali",
+  "moduleName": "CHB",
+  "CrematoriumCode": [
+    {
+      "venueId": "1",
+      "codeId": "1",
+      "code": "Crematorium_Code-3001",
+      "venueCode": "SADAR_CREMATORIUM",
+      "capacity": "200 People",
+      "timeSlot": [
+        {
+          "id": "1",
+          "from": "06:00",
+          "to": "17:59",
+          "duration": "23:59"
+        }
+      ],
+      "active": true
+    },
+    {
+      "venueId": "1",
+      "codeId": "2",
+      "code": "Crematorium_Code-3002",
+      "venueCode": "NORTHSIDE_CREMATORIUM",
+      "capacity": "400 People",
+      "timeSlot": [
+        {
+          "id": "1",
+          "from": "06:00",
+          "to": "16:00",
+          "duration": "10:00"
+        }
+      ],
+      "active": true
+    }
+  ]
+}

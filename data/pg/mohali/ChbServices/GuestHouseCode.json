@@ -1,0 +1,38 @@
+{
+  "tenantId": "pg.mohali",
+  "moduleName": "CHB",
+  "GuestHouseCode": [
+    {
+      "guestHouseId": "1",
+      "codeId": "1",
+      "code": "GuestHouse_Code-5001",
+      "rooms": "12",
+      "active": true,
+      "venueCode": "CANTT_GUEST_HOUSE",
+      "timeSlot": [
+        {
+          "id": "1",
+          "from": "13:00",
+          "to": "11:00",
+          "duration": "22:00"
+        }
+      ]
+    },
+    {
+      "guestHouseId": "2",
+      "codeId": "2",
+      "code": "GuestHouse_Code-5002",
+      "rooms": "6",
+      "active": true,
+      "venueCode": "COMMUNITY_GUEST_HOUSE",
+      "timeSlot": [
+       {
+          "id": "1",
+          "from": "13:00",
+          "to": "11:00",
+          "duration": "22:00"
+        }
+      ]
+    }
+  ]
+}

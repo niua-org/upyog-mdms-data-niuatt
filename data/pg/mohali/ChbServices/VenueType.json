@@ -1,0 +1,56 @@
+{
+    "tenantId": "pg.mohali",
+    "moduleName": "CHB",
+    "Venues": [
+        {
+            "name": "Park",
+            "active": true,
+            "parentMasterType": "Parks",
+            "code": "PARKS",
+            "timeSlot": {
+                "maxDuration": "6:00",
+                "minDuration": "1:00"
+            }
+        },
+        {
+            "name": "Stadium",
+            "active": true,
+            "parentMasterType": "Stadiums",
+            "code": "STADIUMS",
+            "timeSlot": {
+                "maxDuration": "6:00",
+                "minDuration": "1:00"
+            }
+        },
+        {
+            "name": "Community Hall",
+            "active": true,
+            "parentMasterType": "CommunityHalls",
+            "code": "COMMUNITY_HALLS",
+            "timeSlot": {
+                "maxDuration": "23:59",
+                "minDuration": "1:00"
+            }
+        },
+        {
+            "name": "Guest House",
+            "active": true,
+            "parentMasterType": "GuestHouses",
+            "code": "GUEST_HOUSE",
+            "timeSlot": {
+                "maxDuration": "4:00",
+                "minDuration": "1:00"
+            }
+        },
+        {
+            "name": "Crematorium",
+            "active": true,
+            "parentMasterType": "Crematoriums",
+            "code": "CREMATORIUM",
+            "timeSlot": {
+                "maxDuration": "23:59",
+                "minDuration": "1:00"
+            }
+        }
+    ]
+}

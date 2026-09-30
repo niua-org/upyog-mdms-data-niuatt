@@ -1,0 +1,16 @@
+{
+  "tenantId": "pg",
+  "moduleName": "Estate",
+  "AllotmentStatus": [
+    {
+      "code": "ACTIVE",
+      "name": "Active",
+      "active": true
+    },
+    {
+      "code": "NOT_ACTIVE",
+      "name": "Not Active",
+      "active": true
+    }
+  ]
+}

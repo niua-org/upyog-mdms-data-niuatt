@@ -3,125 +3,132 @@
     "moduleName": "CHB",
     "HallCode": [
         {
-            "communityHallId": "1",
-            "hallId": "1",
-            "HallCode": "Hall Code-1",
+            "venueId": "1",
+            "codeId": "1",
+            "code": "Hall_Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
-            "active": true
+            "active": true,
+            "venueCode": "Sector_54_Phase_2"
         },
         {
-            "communityHallId": "2",
-            "hallId": "2",
-            "HallCode": "Hall Code-1",
+            "venueId": "2",
+            "codeId": "2",
+            "code": "Hall_Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
-            "active": true
+            "active": true,
+            "venueCode": "Sector_55_Phase_1"
         },
         {
-            "communityHallId": "3",
-            "hallId": "3",
-            "HallCode": "Hall Code-1",
+            "venueId": "3",
+            "codeId": "3",
+            "code": "Hall_Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
-            "active": true
+            "active": true,
+            "venueCode": "Sector_59_Phase_5"
         },
         {
-            "communityHallId": "4",
-            "hallId": "4",
-            "HallCode": "Hall Code-1",
+            "venueId": "4",
+            "codeId": "4",
+            "code": "Hall_Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
-            "active": true
+            "active": true,
+            "venueCode": "Sector_61_Phase_7"
         },
         {
-            "communityHallId": "5",
-            "hallId": "5",
-            "HallCode": "Hall Code-1",
+            "venueId": "5",
+            "codeId": "5",
+            "code": "Hall_Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
-            "active": true
+            "active": true,
+            "venueCode": "Sector_65_Phase_11"
         },
         {
-            "communityHallId": "6",
-            "hallId": "6",
-            "HallCode": "Hall Code-1",
+            "venueId": "6",
+            "codeId": "6",
+            "code": "Hall_Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
-            "active": true
+            "active": true,
+            "venueCode": "Sector_69"
         },
         {
-            "communityHallId": "7",
-            "hallId": "7",
-            "HallCode": "Hall Code-1",
+            "venueId": "7",
+            "codeId": "7",
+            "code": "Hall_Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
-            "active": true
+            "active": true,
+            "venueCode": "Sector_70"
         },
         {
-            "communityHallId": "8",
-            "hallId": "8",
-            "HallCode": "Hall Code-1",
+            "venueId": "8",
+            "codeId": "8",
+            "code": "Hall Code-1",
             "capacity": "100",
-            "timeSlots": [
+            "timeSlot": [
                 {
                     "id": "1",
                     "from": "06:00",
-                    "to": "05:59",
+                    "to": "17:59",
                     "duration": "23:59"
                 }
             ],
-            "active": true
+            "active": true,
+            "venueCode": "Sector_71"
         }
     ]
-  }
-  
+}

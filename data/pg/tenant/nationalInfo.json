@@ -3,6 +3,22 @@
   "moduleName": "tenant",
   "nationalInfo": [
     {
+      "stateCode": "PG",
+      "stateName": "PG",
+      "code": "pg.citya",
+      "name": "pg.citya",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
+      "stateCode": "PG",
+      "stateName": "PG",
+      "code": "pg.cityb",
+      "name": "pg.cityb",
+      "active": true,
+      "module": "NationalDashboard"
+    },
+    {
       "stateCode": "Punjab",
       "stateName": "Punjab",
       "code": "pb.amritsar",

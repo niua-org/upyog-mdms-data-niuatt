@@ -1,0 +1,15 @@
+{
+    "tenantId": "pg",
+    "moduleName": "Estate",
+    "Penalty": [
+        {
+         "id":"1",
+         "applicationType": "ESTATE_SERVICE",
+         "serviceType": "NEW_BOOKING",
+         "feeType": "EST_PENALTY_FEE",
+         "rate": 5,
+         "taxApplicable": false,
+         "description": "An X% penalty is applied in the next billing cycle when a previously generated monthly demand remains unpaid. The penalty is calculated on the sum of the outstanding amount and the current month's demand, multiplied by X%."        }
+    ]
+ }
+ 

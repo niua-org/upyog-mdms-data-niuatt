@@ -1,0 +1,118 @@
+{
+    "tenantId": "pg",
+    "moduleName": "Garbage",
+    "Documents": [
+         {
+        "code": "APPLICANT.PHOTO",
+        "documentType": "APPLICANT.PHOTO",
+        "required": true,
+        "active": true,
+        "hasDropdown": false,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "description": "APPLICANT.PHOTO_DESCRIPTION"
+      },
+      {
+        "code": "APPLICANT.IDENTITYPROOF",
+        "documentType": "APPLICANT.IDENTITYPROOF",
+        "required": true,
+        "active": true,
+        "hasDropdown": true,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "dropdownData": [
+          {
+            "code": "APPLICANT.IDENTITYPROOF.AADHAAR",
+            "active": true
+          },
+          {
+            "code": "APPLICANT.IDENTITYPROOF.PAN",
+            "active": true
+          },
+          {
+            "code": "APPLICANT.IDENTITYPROOF.PASSPORT",
+            "active": true
+          },
+          {
+            "code": "APPLICANT.IDENTITYPROOF.VOTERID",
+            "active": true
+          }
+        ],
+        "description": "APPLICANT.IDENTITYPROOF_DESCRIPTION"
+      },
+      {
+        "code": "APPLICANT.ADDRESSPROOF",
+        "documentType": "APPLICANT.ADDRESSPROOF",
+        "required": true,
+        "active": true,
+        "hasDropdown": true,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "dropdownData": [
+          {
+            "code": "APPLICANT.ADDRESSPROOF.ELECTRICITYBILL",
+            "active": true
+          },
+          {
+            "code": "APPLICANT.ADDRESSPROOF.RENTAGREEMENT",
+            "active": true
+          },
+          {
+            "code": "APPLICANT.ADDRESSPROOF.WATERBILL",
+            "active": true
+          }
+        ],
+        "description": "APPLICANT.ADDRESSPROOF_DESCRIPTION"
+      },
+      {
+        "code": "APPLICANT.DEATHCERTIFICATE",
+        "documentType": "APPLICANT.DEATHCERTIFICATE",
+        "required": true,
+        "active": true,
+        "hasDropdown": false,
+        "additionalDetails": {
+          "enabledActions": {
+            "update": {
+              "disableUpload": true,
+              "disableDropdown": true
+            },
+            "create": {
+              "disableUpload": false,
+              "disableDropdown": false
+            }
+          }
+        },
+        "description": "APPLICANT.DEATHCERTIFICATE_DESCRIPTION"
+      }
+    ]
+  }

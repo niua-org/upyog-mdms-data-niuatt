@@ -1,0 +1,16 @@
+{
+    "tenantId": "pg",
+    "moduleName": "Garbage",
+    "Penalty": [
+        {
+         "id":"1",
+         "applicationType": "GARBAGE_COLLECTION",
+         "serviceType": "GC_RENTAL_FEE",
+         "feeType": "GC_PENALTY_FEE",
+         "rate": 5,
+         "taxApplicable": false,
+         "description": "An X% penalty is applied in the next billing cycle when a previously generated monthly demand remains unpaid. The penalty is calculated on the sum of the outstanding amount and the current month's demand, multiplied by X%."        
+        }
+    ]
+ }
+ 

@@ -1,0 +1,62 @@
+{
+  "tenantId": "pg.mohali",
+  "moduleName": "CHB",
+  "StadiumCode": [
+    {
+      "venueId": "1",
+      "codeId": "1",
+      "code": "Stadium_Code-4001",
+      "capacity": "5000",
+      "active": true,
+      "venueCode": "DISTRICT_SPORTS_STADIUM",
+      "timeSlot": [
+        {
+          "id": "1",
+          "from": "06:00",
+          "to": "12:00",
+          "duration": "6:00"
+        },
+        {
+          "id": "2",
+          "from": "12:00",
+          "to": "18:00",
+          "duration": "5:00"
+        },
+        {
+          "id": "3",
+          "from": "18:00",
+          "to": "23:00",
+          "duration": "5:00"
+        }
+      ]
+    },
+    {
+      "venueId": "2",
+      "codeId": "2",
+      "code": "Stadium_Code-4002",
+      "capacity": "1500",
+      "active": true,
+      "venueCode": "DAV_SPORTS_GROUND",
+      "timeSlot": [
+        {
+          "id": "1",
+          "from": "06:00",
+          "to": "12:00",
+          "duration": "6:00"
+        },
+        {
+          "id": "2",
+          "from": "12:00",
+          "to": "18:00",
+          "duration": "5:00"
+        },
+        {
+          "id": "3",
+          "from": "18:00",
+          "to": "23:00",
+          "duration": "5:00"
+        }
+      ]
+    }
+  ]
+}

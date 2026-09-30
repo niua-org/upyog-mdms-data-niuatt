@@ -1,0 +1,14 @@
+{
+    "tenantId": "pg",
+    "moduleName": "common-masters",
+    "microUiModuleEnable": [
+        {
+            "code": "Finance",
+            "enabled": true
+        },
+        {
+            "code": "FireNoc",
+            "enabled": true
+        }
+    ]
+}
