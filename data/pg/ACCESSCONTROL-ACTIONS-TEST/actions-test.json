@@ -30365,6 +30365,19 @@
   "serviceCode": "upyog-aggregation-service",
   "code": "null",
   "path": ""
-}
+},
+{
+      "id": 4724,
+      "name": "Data Pushing in Data Sharing Service",
+      "url": "/upyog-data-dx/v1/transactions/_create",
+      "parentModule": "",
+      "displayName": "",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "data-sharing-service-dx",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    }
   ]
 }
