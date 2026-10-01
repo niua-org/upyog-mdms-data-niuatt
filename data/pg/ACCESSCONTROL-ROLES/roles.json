@@ -1113,9 +1113,9 @@
       "description": "Approver who only approves Theme Config"
     },
     {
-      "code": "PFMS_DATA_INGEST",
-      "name": "PFMS Data Ingest",
-      "description": "User who can ingest data into PFMS"
+      "code": "PFMS_DATA_INGEST_ADMIN",
+      "name": "PFMS Data Ingest Admin",
+      "description": "User who can ingest data into our data sharing service"
     }  
   ]
 }

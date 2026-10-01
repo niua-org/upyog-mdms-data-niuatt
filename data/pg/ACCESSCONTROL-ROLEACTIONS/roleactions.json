@@ -38469,7 +38469,7 @@
     "tenantId": "pg"
   },
   {
-    "rolecode": "PFMS_DATA_INGEST",
+    "rolecode": "PFMS_DATA_INGEST_ADMIN",
     "actionid": 4724,
     "actioncode": "",
     "tenantId": "pg"
