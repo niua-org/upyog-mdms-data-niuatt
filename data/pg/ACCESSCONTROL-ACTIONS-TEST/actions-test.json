@@ -30369,7 +30369,7 @@
 {
       "id": 4724,
       "name": "Data Pushing in Data Sharing Service",
-      "url": "/upyog-data-dx/v1/transactions/_create",
+      "url": "data-sharing-service-dx/v1/transactions/_create",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
