@@ -30378,6 +30378,24 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
-    }
+    },
+  {
+  "id": 4725,
+  "name": "CHALLAN_MY_PAYMENTS",
+  "url": "digit-ui-card",
+  "displayName": "My Payments",
+  "orderNumber": 1,
+  "parentModule": "ChallanGeneration",
+  "enabled": true,
+  "serviceCode": "",
+  "code": "",
+  "path": "",
+  "navigationURL": "/upyog-ui/citizen/challangeneration/my-payments",
+  "leftIcon": "TLIcon",
+  "rightIcon": "",
+  "queryParams": "",
+  "sidebar": "digit-ui-links",
+  "sidebarURL": "/upyog-ui/citizen/challangeneration-home"
+}
   ]
 }

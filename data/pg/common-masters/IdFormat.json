@@ -823,7 +823,7 @@
             "idname": "ndc.applicationid"
         },
         {
-            "format": "CB-CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]",
+            "format": "CH-[cy:yyyy-MM-dd]-[SEQ_EG_CH_APL]",
             "idname": "challan.aplnumber"
         },
         {
