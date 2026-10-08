@@ -38473,6 +38473,24 @@
     "actionid": 4724,
     "actioncode": "",
     "tenantId": "pg"
-  }      
+  },
+  {
+      "rolecode": "CITIZEN",
+      "actionid": 4725,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "CITIZEN",
+      "actionid": 4409,
+      "actioncode": "",
+      "tenantId": "pg"
+  },
+  {
+      "rolecode": "CITIZEN",
+      "actionid": 4420,
+      "actioncode": "",
+      "tenantId": "pg"
+  }
   ]
 }
