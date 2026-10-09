@@ -1116,6 +1116,11 @@
       "code": "PFMS_DATA_INGEST_ADMIN",
       "name": "PFMS Data Ingest Admin",
       "description": "User who can ingest data into our data sharing service"
+    },
+    {
+      "code": "GC_CEMP",
+      "name": "GC Counter Employee",
+      "description": "Counter Employee in Garbage Application who files application on behalf of the citizen"
     }  
   ]
 }
