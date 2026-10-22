@@ -23,7 +23,7 @@
           "sideOption": {
             "name": "DASHBOARD_VIEW_ALL_LABEL",
             "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/all-services"
+            "navigationUrl": "/upyog-ui/citizen/all-services"
           },
           "props": [
             {
@@ -31,35 +31,35 @@
               "name": "Complaints",
               "label": "ES_PGR_HEADER_COMPLAINT",
               "enabled": true,
-              "navigationUrl": "/digit-ui/citizen/pgr-home"
+              "navigationUrl": "/upyog-ui/citizen/pgr-home"
             },
             {
               "code": "CITIZEN_SERVICE_PT",
               "name": "Property Tax",
               "label": "MODULE_PT",
               "enabled": true,
-              "navigationUrl": "/digit-ui/citizen/pt-home"
+              "navigationUrl": "/upyog-ui/citizen/pt-home"
             },
             {
               "code": "CITIZEN_SERVICE_TL",
               "name": "Trade Licence",
               "label": "MODULE_TL",
               "enabled": true,
-              "navigationUrl": "/digit-ui/citizen/tl-home"
+              "navigationUrl": "/upyog-ui/citizen/tl-home"
             },
             {
               "code": "CITIZEN_SERVICE_CHB",
               "name": "Community Hall Booking",
               "label": "ACTION_TEST_CHB",
               "enabled": true,
-              "navigationUrl": "/digit-ui/citizen/chb-home"
+              "navigationUrl": "/upyog-ui/citizen/chb-home"
             },
             {
               "code": "CITIZEN_SERVICE_WS",
               "name": "Water & Sewerage",
               "label": "ACTION_TEST_WATER_AND_SEWERAGE",
               "enabled": true,
-              "navigationUrl": "/digit-ui/citizen/ws-home"
+              "navigationUrl": "/upyog-ui/citizen/ws-home"
             }
           ]
         },
@@ -75,32 +75,25 @@
           },
           "props": [
             {
-              "code": "CITIZEN_MY_CITY",
-              "name": "My City",
-              "label": "CS_HEADER_MYCITY",
-              "enabled": true,
-              "navigationUrl": ""
-            },
-            {
               "code": "CITIZEN_EVENTS",
               "name": "Events",
               "label": "EVENTS_EVENTS_HEADER",
               "enabled": true,
-              "navigationUrl": "/digit-ui/citizen/engagement/events"
+              "navigationUrl": "/upyog-ui/citizen/engagement/events"
             },
             {
               "code": "CITIZEN_DOCUMENTS",
               "name": "Documents",
               "label": "CS_COMMON_DOCUMENTS",
               "enabled": true,
-              "navigationUrl": "/digit-ui/citizen/engagement/docs"
+              "navigationUrl": "/upyog-ui/citizen/engagement/docs"
             },
             {
               "code": "CITIZEN_SURVEYS",
               "name": "Surveys",
               "label": "CS_COMMON_SURVEYS",
               "enabled": true,
-              "navigationUrl": "/digit-ui/citizen/engagement/surveys/list"
+              "navigationUrl": "/upyog-ui/citizen/engagement/surveys/list"
             }
           ]
         },
@@ -112,7 +105,7 @@
           "sideOption": {
             "name": "DASHBOARD_VIEW_ALL_LABEL",
             "enabled": true,
-            "navigationUrl": "/digit-ui/citizen/engagement/whats-new"
+            "navigationUrl": "/upyog-ui/citizen/engagement/whats-new"
           }
         },
         "whatsAppBannerDesktop": {
@@ -120,14 +113,14 @@
           "name": "WhatsApp Banner Desktop View",
           "bannerUrl": "https://uat.digit.org/egov-uat-assets/whatsapp-web.jpg",
           "enabled": true,
-          "navigationUrl": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva"
+          "navigationUrl": "https://api.whatsapp.com/send?phone=7669866001&text=hi"
         },
         "whatsAppBannerMobile": {
           "code": "WHATSAPP_BANNER_MOBILE",
           "name": "WhatsApp Banner Mobile View",
           "bannerUrl": "https://uat.digit.org/egov-uat-assets/whatsapp-mobile.jpg",
           "enabled": true,
-          "navigationUrl": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva"
+          "navigationUrl": "https://api.whatsapp.com/send?phone=7669866001&text=hi"
         }
       }
     ]

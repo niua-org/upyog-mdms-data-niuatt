@@ -4,7 +4,7 @@
     "StaticData": [
         {
             "PT" : {
-                "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
+                "payViaWhatsApp": "https://api.whatsapp.com/send?phone=7669866001&text=hi",
                 "helpline": 
                 { 
                   "contactOne": "01124643284",
@@ -55,7 +55,7 @@
               "viewMapLocation": "https://www.google.com/maps/place/National+Institute+of+Urban+Affairs/@28.5899487,77.2232635,17z/data=!3m2!4b1!5s0x390ce2f1d34a3da5:0x8daa83a9ecfc9da9!4m6!3m5!1s0x390d1d5ebfb73dcf:0xc3b5eadedcbcca50!8m2!3d28.589944!4d77.2258384!16s%2Fm%2F0gx0f1x?entry=ttu"
         },
         "WS" : {
-          "payViaWhatsApp": "https://api.whatsapp.com/send?phone=918744060444&text=mSeva",
+          "payViaWhatsApp": "https://api.whatsapp.com/send?phone=7669866001&text=hi",
                 "helpline": 
                 { 
                   "contactOne": "01124643284",
