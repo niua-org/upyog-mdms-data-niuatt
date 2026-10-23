@@ -1,0 +1,36 @@
+{
+    "tenantId": "pb",
+    "moduleName": "common-masters",
+    "AddressType": [
+        {
+            "code": "PERMANENT",
+            "name": "Permanent Address",
+            "description": "Primary residential or permanent domicile address of the citizen",
+            "active": true
+        },
+        {
+            "code": "CORRESPONDENCE",
+            "name": "Correspondence Address",
+            "description": "Mailing or communication address where physical notices and utility bills are delivered",
+            "active": true
+        },
+        {
+            "code": "OTHER",
+            "name": "Other Address",
+            "description": "Secondary or auxiliary address category",
+            "active": true
+        },
+        {
+            "code": "OFFICE",
+            "name": "Office Address",
+            "description": "Official workplace or commercial establishment address",
+            "active": true
+        },
+        {
+            "code": "TEMPORARY",
+            "name": "Temporary Address",
+            "description": "Short-term or transient residence address",
+            "active": true
+        }
+    ]
+}
