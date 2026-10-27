@@ -38613,6 +38613,24 @@
     "tenantId": "pg"
   },
   {
+    "rolecode": "NDC_REPORT_VIEWER",
+    "actionid": 4790,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "NDC_REPORT_VIEWER",
+    "actionid": 4791,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "NDC_REPORT_VIEWER",
+    "actionid": 4792,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
     "rolecode": "PT_REPORT_VIEWER",
     "actionid": 1581,
     "actioncode": "",
