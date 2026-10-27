@@ -38601,12 +38601,6 @@
     "tenantId": "pg"
   },
   {
-    "rolecode": "TL_REPORT_VIEWER",
-    "actionid": 2482,
-    "actioncode": "",
-    "tenantId": "pg"
-  },
-  {
     "rolecode": "NDC_REPORT_VIEWER",
     "actionid": 4419,
     "actioncode": "",
