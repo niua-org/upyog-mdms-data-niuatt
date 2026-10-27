@@ -74,6 +74,14 @@
     }
   },
   "common-masters": {
+    "AddressType": {
+      "masterName": "AddressType",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "uiCommonPay": {
       "masterName": "uiCommonPay",
       "isStateLevel": true,
