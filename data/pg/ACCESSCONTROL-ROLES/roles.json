@@ -1121,6 +1121,81 @@
       "code": "GC_CEMP",
       "name": "GC Counter Employee",
       "description": "Counter Employee in Garbage Application who files application on behalf of the citizen"
-    }  
+    },
+    {
+      "code": "ADS_REPORT_VIEWER",
+      "name": "Ads Report Viewer",
+      "description": "User that can view advertisement reports"
+    },
+    {
+      "code": "NOC_REPORT_VIEWER",
+      "name": "NOC Report Viewer",
+      "description": "NOC User that can view NOC reports"
+    },
+    {
+      "code": "NDC_REPORT_VIEWER",
+      "name": "NDC Report Viewer",
+      "description": "NDC User that can view NDC reports"
+    },
+    {
+      "code": "CHALLAN_REPORT_VIEWER",
+      "name": "Challan Report Viewer",
+      "description": "User that can view challan reports"
+    },
+    {
+      "code": "PET_REPORT_VIEWER",
+      "name": "Pet Report Viewer",
+      "description": "PET User that can view PET reports"
+    },
+    {
+      "code": "WS_REPORT_VIEWER",
+      "name": "WS Report Viewer",
+      "description": "WS User that can view Water & Sewerage reports"
+    },
+    {
+      "code": "TP_REPORT_VIEWER",
+      "name": "TP Report Viewer",
+      "description": "TP User that can view Tree Pruning reports"
+    },
+    {
+      "code": "MT_REPORT_VIEWER",
+      "name": "MT Report Viewer",
+      "description": "MT User that can view Mobile Toilet reports"
+    },
+    {
+      "code": "WT_REPORT_VIEWER",
+      "name": "WT Report Viewer",
+      "description": "WT User that can view Water Tanker reports"
+    },
+    {
+      "code": "EW_REPORT_VIEWER",
+      "name": "EW Report Viewer",
+      "description": "EW User that can view E-Waste reports"
+    },
+    {
+      "code": "CND_REPORT_VIEWER",
+      "name": "CND Report Viewer",
+      "description": "CND User that can view CND reports"
+    },
+    {
+      "code": "CHB_REPORT_VIEWER",
+      "name": "CHB Report Viewer",
+      "description": "CHB User that can view Venue Hall Booking reports"
+    },
+    {
+      "code": "SV_REPORT_VIEWER",
+      "name": "SV Report Viewer",
+      "description": "SV User that can view Street Vendor reports"
+    },
+    {
+      "code": "GARBAGE_REPORT_VIEWER",
+      "name": "Garbage Report Viewer",
+      "description": "Garbage User that can view garbage reports"
+    },
+    {
+      "code": "ESTATE_REPORT_VIEWER",
+      "name": "Estate Report Viewer",
+      "description": "Estate User that can view estate reports"
+    }
   ]
 }
