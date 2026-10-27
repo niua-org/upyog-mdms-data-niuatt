@@ -39069,6 +39069,114 @@
     "tenantId": "pg"
   },
   {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4769,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4770,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4771,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4772,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4773,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4774,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4775,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4776,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4777,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4778,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4779,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4780,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4781,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4782,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4783,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4784,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4785,
+    "actioncode": "",
+    "tenantId": "pg"
+  },
+  {
+    "rolecode": "CHALLAN_REPORT_VIEWER",
+    "actionid": 4786,
+    "actioncode": "",
+    "tenantId": "pg"
+  },  
+  {
     "rolecode": "GARBAGE_REPORT_VIEWER",
     "actionid": 4787,
     "actioncode": "",
