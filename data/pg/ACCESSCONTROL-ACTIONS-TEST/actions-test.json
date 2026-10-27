@@ -30828,7 +30828,7 @@
     "path": ""
   },
   {
-    "id": 4790,
+    "id": 4805,
     "name": "EstateApplicationReport",
     "url": "url",
     "displayName": "Estate Application Report",
@@ -30842,7 +30842,7 @@
     "navigationURL": "/upyog-ui/employee/est/EstateApplicationReport"
   },
   {
-    "id": 4791,
+    "id": 4806,
     "name": "EstateApplicationReport",
     "url": "/report/rainmaker-em/EstateApplicationReport/metadata/_get",
     "displayName": "rainmaker-em-EstateApplicationReport",
@@ -30854,7 +30854,7 @@
     "path": ""
   },
   {
-    "id": 4792,
+    "id": 4807,
     "name": "EstateApplicationReport",
     "url": "/report/rainmaker-em/EstateApplicationReport/_get",
     "displayName": "rainmaker-em-EstateApplicationReport",
@@ -30864,15 +30864,15 @@
     "serviceCode": "report",
     "code": "null",
     "path": ""
-},
-	  {  
-    "id": 4793,
+  },
+  {
+    "id": 4808,
     "name": "ApplicationDetailReport",
     "url": "url",
     "displayName": "Application Detail Report",
     "orderNumber": 1,
     "queryParams": "",
-    "parentModule": "rainmaker-hrms",
+    "parentModule": "rainmaker-ndc",
     "enabled": true,
     "serviceCode": "NDC",
     "code": "null",
@@ -30880,7 +30880,7 @@
     "navigationURL": "/upyog-ui/employee/ndc/ApplicationDetailReport"
   },
   {
-    "id": 4794,
+    "id": 4809,
     "name": "ApplicationDetailReport",
     "url": "/report/rainmaker-ndc/ApplicationDetailReport/metadata/_get",
     "displayName": "rainmaker-ndc-ApplicationDetailReport",
