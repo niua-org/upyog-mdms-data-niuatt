@@ -919,6 +919,50 @@
       "roleBasedDecryptionPolicy": []
     },
     {
+      "model": "CHALLANREPORTS",
+      "uniqueIdentifier": {
+        "name": "uuid",
+        "jsonPath": "/uuid"
+      },
+      "attributes": [
+        {
+          "name": "name",
+          "jsonPath": "name",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "mobilenumber",
+          "jsonPath": "mobilenumber",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": []
+    },
+    {
+      "model": "NDCAPPLICATION",
+      "uniqueIdentifier": {
+        "name": "uuid",
+        "jsonPath": "/uuid"
+      },
+      "attributes": [
+        {
+          "name": "name",
+          "jsonPath": "name",
+          "patternId": "002",
+          "defaultVisibility": "PLAIN"
+        },
+        {
+          "name": "mobilenumber",
+          "jsonPath": "mobilenumber",
+          "patternId": "001",
+          "defaultVisibility": "PLAIN"
+        }
+      ],
+      "roleBasedDecryptionPolicy": []
+    },
+    {
       "model": "StateTradeLicenseCancelledRegistryReport",
       "uniqueIdentifier": {
         "name": "uuid",

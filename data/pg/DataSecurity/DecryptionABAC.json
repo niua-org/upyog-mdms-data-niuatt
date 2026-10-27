@@ -312,6 +312,84 @@
       ]
     },
 	    {
+      "key": "CHALLANREPORTS",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "CHALLAN_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "CHALLAN_ADMIN",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "NDCAPPLICATION",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "NDC_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "NDCCEMP",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "StateTradeLicenseCancelledRegistryReport",
       "roleAttributeAccessList": [
         {
