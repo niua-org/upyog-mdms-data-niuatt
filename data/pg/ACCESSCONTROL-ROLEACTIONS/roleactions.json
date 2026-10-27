@@ -38625,7 +38625,7 @@
     "tenantId": "pg"
   },
   {
-    "rolecode": "CITIZEN",
+    "rolecode": "INTERNAL_MICROSERVICE_ROLE",
     "actionid": 4736,
     "actioncode": "",
     "tenantId": "pg"
@@ -38655,7 +38655,7 @@
     "tenantId": "pg"
   },
   {
-    "rolecode": "CITIZEN",
+    "rolecode": "INTERNAL_MICROSERVICE_ROLE",
     "actionid": 4739,
     "actioncode": "",
     "tenantId": "pg"

@@ -1,0 +1,114 @@
+{
+    "tenantId": "pg",
+    "moduleName": "common-masters",
+    "FamilyRelationship": [
+        {
+            "code": "HEAD",
+            "name": "Head of Family",
+            "description": "Designated primary member representing the household unit",
+            "active": true
+        },
+        {
+            "code": "SPOUSE",
+            "name": "Spouse",
+            "description": "Husband or wife of the Head of Family",
+            "active": true
+        },
+        {
+            "code": "SON",
+            "name": "Son",
+            "description": "Male biological or adopted offspring of the Head of Family",
+            "active": true
+        },
+        {
+            "code": "DAUGHTER",
+            "name": "Daughter",
+            "description": "Female biological or adopted offspring of the Head of Family",
+            "active": true
+        },
+        {
+            "code": "CHILD",
+            "name": "Child",
+            "description": "Minor child or dependent under the guardianship of the Head of Family",
+            "active": true
+        },
+        {
+            "code": "FATHER",
+            "name": "Father",
+            "description": "Father of the Head of Family",
+            "active": true
+        },
+        {
+            "code": "MOTHER",
+            "name": "Mother",
+            "description": "Mother of the Head of Family",
+            "active": true
+        },
+        {
+            "code": "BROTHER",
+            "name": "Brother",
+            "description": "Brother of the Head of Family",
+            "active": true
+        },
+        {
+            "code": "SISTER",
+            "name": "Sister",
+            "description": "Sister of the Head of Family",
+            "active": true
+        },
+        {
+            "code": "DEPENDENT",
+            "name": "Dependent",
+            "description": "Dependent relative residing within the household unit",
+            "active": true
+        },
+        {
+            "code": "GUARDIAN",
+            "name": "Guardian",
+            "description": "Legal guardian of a minor or dependent family member",
+            "active": true
+        },
+        {
+            "code": "SON_IN_LAW",
+            "name": "Son In Law",
+            "description": "Husband of Head of Family's child",
+            "active": true
+        },
+        {
+            "code": "DAUGHTER_IN_LAW",
+            "name": "Daughter In Law",
+            "description": "Wife of Head of Family's child",
+            "active": true
+        },
+        {
+            "code": "GRANDSON",
+            "name": "Grandson",
+            "description": "Male grandchild of the Head of Family",
+            "active": true
+        },
+        {
+            "code": "GRANDDAUGHTER",
+            "name": "Granddaughter",
+            "description": "Female grandchild of the Head of Family",
+            "active": true
+        },
+        {
+            "code": "GRANDFATHER",
+            "name": "Grandfather",
+            "description": "Grandfather of the Head of Family",
+            "active": true
+        },
+        {
+            "code": "GRANDMOTHER",
+            "name": "Grandmother",
+            "description": "Grandmother of the Head of Family",
+            "active": true
+        },
+        {
+            "code": "OTHER",
+            "name": "Other",
+            "description": "Other verified member relationship within the household",
+            "active": true
+        }
+    ]
+}
