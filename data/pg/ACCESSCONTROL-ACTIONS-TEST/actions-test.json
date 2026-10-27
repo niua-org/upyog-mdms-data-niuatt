@@ -30367,7 +30367,7 @@
   "path": ""
 },
 {
-      "id": 4724,
+      "id": 4790,
       "name": "Data Pushing in Data Sharing Service",
       "url": "/data-sharing-service-dx/v1/transactions/_create",
       "parentModule": "",
@@ -30380,7 +30380,7 @@
       "navigationURL": ""
     },
   {
-  "id": 4725,
+  "id": 4791,
   "name": "CHALLAN_MY_PAYMENTS",
   "url": "digit-ui-card",
   "displayName": "My Payments",
@@ -30398,7 +30398,7 @@
   "sidebarURL": "/upyog-ui/citizen/challangeneration-home"
 },
   {
-    "id": 4726,
+    "id": 4792,
     "name": "ApplicationDetailReport",
     "url": "/report/rainmaker-ndc/ApplicationDetailReport/_get",
     "displayName": "rainmaker-ndc-ApplicationDetailReport",
@@ -30410,7 +30410,7 @@
     "path": ""
   },
   {
-    "id": 4727,
+    "id": 4793,
     "name": "CollectionsReport",
     "url": "url",
     "displayName": "Collections Report",
@@ -30424,7 +30424,7 @@
     "navigationURL": "/upyog-ui/employee/ndc/CollectionsReport"
   },
   {
-    "id": 4728,
+    "id": 4794,
     "name": "CollectionsReport",
     "url": "/report/rainmaker-ndc/CollectionsReport/metadata/_get",
     "displayName": "rainmaker-ndc-CollectionsReport",
@@ -30436,7 +30436,7 @@
     "path": ""
   },
   {
-    "id": 4729,
+    "id": 4795,
     "name": "CollectionsReport",
     "url": "/report/rainmaker-ndc/CollectionsReport/_get",
     "displayName": "rainmaker-ndc-CollectionsReport",
@@ -30448,7 +30448,7 @@
     "path": ""
   },
   {
-    "id": 4736,
+    "id": 4796,
     "name": "StateApplicationDetailReport",
     "url": "url",
     "displayName": "State Application Detail Report",
@@ -30462,7 +30462,7 @@
     "navigationURL": "/upyog-ui/employee/ndc/StateApplicationDetailReport"
   },
   {
-    "id": 4737,
+    "id": 4797,
     "name": "StateApplicationDetailReport",
     "url": "/report/rainmaker-ndc/StateApplicationDetailReport/metadata/_get",
     "displayName": "rainmaker-ndc-StateApplicationDetailReport",
@@ -30474,7 +30474,7 @@
     "path": ""
   },
   {
-    "id": 4738,
+    "id": 4798,
     "name": "StateApplicationDetailReport",
     "url": "/report/rainmaker-ndc/StateApplicationDetailReport/_get",
     "displayName": "rainmaker-ndc-StateApplicationDetailReport",
@@ -30486,7 +30486,7 @@
     "path": ""
   },
   {
-    "id": 4739,
+    "id": 4799,
     "name": "StateCollectionsReport",
     "url": "url",
     "displayName": "State Collections Report",
@@ -30500,7 +30500,7 @@
     "navigationURL": "/upyog-ui/employee/ndc/StateCollectionsReport"
   },
   {
-    "id": 4740,
+    "id": 4800,
     "name": "StateCollectionsReport",
     "url": "/report/rainmaker-ndc/StateCollectionsReport/metadata/_get",
     "displayName": "rainmaker-ndc-StateCollectionsReport",
@@ -30512,7 +30512,7 @@
     "path": ""
   },
   {
-    "id": 4741,
+    "id": 4801,
     "name": "StateCollectionsReport",
     "url": "/report/rainmaker-ndc/StateCollectionsReport/_get",
     "displayName": "rainmaker-ndc-StateCollectionsReport",
@@ -30524,7 +30524,7 @@
     "path": ""
   },
   {
-    "id": 4742,
+    "id": 4802,
     "name": "StateSLAReport",
     "url": "url",
     "displayName": "State SLA Report",
@@ -30538,7 +30538,7 @@
     "navigationURL": "/upyog-ui/employee/ndc/StateSLAReport"
   },
   {
-    "id": 4743,
+    "id": 4803,
     "name": "StateSLAReport",
     "url": "/report/rainmaker-ndc/StateSLAReport/metadata/_get",
     "displayName": "rainmaker-ndc-StateSLAReport",
@@ -30550,7 +30550,7 @@
     "path": ""
   },
   {
-    "id": 4744,
+    "id": 4804,
     "name": "StateSLAReport",
     "url": "/report/rainmaker-ndc/StateSLAReport/_get",
     "displayName": "rainmaker-ndc-StateSLAReport",
