@@ -1,0 +1,96 @@
+{
+  "supportedEnvironment": ["UAT", "PROD", "TEST"],
+  "supportedRoles": ["CITIZEN", "EMPLOYEE"],
+  "tenantId": "pg",
+  "moduleName": "common-masters",
+  "ModuleAccordions": [
+    {
+      "id": 1,
+      "code": "ASSET",
+      "i18nKey": "ASSET",
+      "name": "ASSET",
+      "formTypes": ["ACCORDION", "SINGLE"],
+      "dropdownOptionsForAccortion": [
+        {
+          "code": "NEW_REGISTRATION",
+          "i8nKey": "NEW_REGISTRATION",
+          "value": "NEW_REGISTRATION",
+          "enabled": true
+        },
+        {
+          "code": "DOCUMENT_DETAILS",
+          "i8nKey": "DOCUMENT_DETAILS",
+          "value": "DOCUMENT_DETAILS",
+          "enabled": true
+        }
+      ],
+      "dropdownOptionsForSingleForm": [
+        {
+          "code": "ASSET_DETAILS",
+          "i18nKey": "WBH_SINGLE_FORM_ASSET_DETAILS",
+          "value": "ASSET_DETAILS",
+          "enabled": true
+        }
+      ],
+      "dropdownOptionsForForm": [
+        {
+          "code": "ASSET_REGISTRATION",
+          "i18nKey": "ASSET_REGISTRATION",
+          "value": "ASSET_REGISTRATION",
+          "enabled": true
+        }
+      ],
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "code": "TRADE_LICENSE",
+      "i18nKey": "TRADE_LICENSE",
+      "name": "TRADE_LICENSE",
+      "formTypes": ["ACCORDION", "SINGLE"],
+      "dropdownOptionsForAccortion": [
+        {
+          "code": "TRADE_DETAILS",
+          "i8nKey": "TRADE_DETAILS",
+          "value": "TRADE_DETAILS",
+          "enabled": true
+        },
+        {
+          "code": "LOCATION_OWNER_DETAILS",
+          "i8nKey": "LOCATION_OWNER_DETAILS",
+          "value": "LOCATION_OWNER_DETAILS",
+          "enabled": true
+        },
+        {
+          "code": "DOCUMENT_DETAILS",
+          "i8nKey": "DOCUMENT_DETAILS",
+          "value": "DOCUMENT_DETAILS",
+          "enabled": true
+        },
+        {
+          "code": "SUMMARY",
+          "i8nKey": "SUMMARY",
+          "value": "SUMMARY",
+          "enabled": true
+        }
+      ],
+      "dropdownOptionsForSingleForm": [
+        {
+          "code": "TRADE_LICENSE_RENEWAL",
+          "i18nKey": "WBH_SINGLE_FORM_TRADE_LICENSE_RENEWAL",
+          "value": "TRADE_LICENSE_RENEWAL",
+          "enabled": true
+        }
+      ],
+      "dropdownOptionsForForm": [
+        {
+          "code": "NEW_REGISTRATION",
+          "i18nKey": "NEW_REGISTRATION",
+          "value": "NEW_REGISTRATION",
+          "enabled": true
+        }
+      ],
+      "enabled": true
+    }
+  ]
+}
