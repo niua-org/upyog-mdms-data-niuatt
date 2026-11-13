@@ -74,6 +74,38 @@
     }
   },
   "common-masters": {
+    "FamilyCategory": {
+      "masterName": "FamilyCategory",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "Occupation": {
+      "masterName": "Occupation",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "FamilyRelationship": {
+      "masterName": "FamilyRelationship",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
+    "FamilyConfiguration": {
+      "masterName": "FamilyConfiguration",
+      "moduleDefinition": null,
+      "isStateLevel": true,
+      "uniqueKeys": [
+        "$.code"
+      ]
+    },
     "AddressType": {
       "masterName": "AddressType",
       "moduleDefinition": null,

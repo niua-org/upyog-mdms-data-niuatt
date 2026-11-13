@@ -1,0 +1,66 @@
+{
+    "tenantId": "pg",
+    "moduleName": "common-masters",
+    "Occupation": [
+        {
+            "code": "SALARIED",
+            "name": "Salaried Employee",
+            "description": "Formally employed with regular salary",
+            "active": true
+        },
+        {
+            "code": "BUSINESS",
+            "name": "Business / Trader",
+            "description": "Trading, manufacturing, or commercial enterprise owner",
+            "active": true
+        },
+        {
+            "code": "SELF_EMPLOYED",
+            "name": "Self Employed Professional",
+            "description": "Independent consulting or professional practice",
+            "active": true
+        },
+        {
+            "code": "AGRICULTURE",
+            "name": "Agriculture / Farming",
+            "description": "Farming, cultivation, or agricultural labor",
+            "active": true
+        },
+        {
+            "code": "DAILY_WAGER",
+            "name": "Daily Wage Worker",
+            "description": "Casual or daily wage laborer",
+            "active": true
+        },
+        {
+            "code": "HOMEMAKER",
+            "name": "Homemaker",
+            "description": "Managing household responsibilities",
+            "active": true
+        },
+        {
+            "code": "STUDENT",
+            "name": "Student",
+            "description": "Enrolled in educational institution",
+            "active": true
+        },
+        {
+            "code": "RETIRED",
+            "name": "Retired / Pensioner",
+            "description": "Retired from service receiving pension or savings",
+            "active": true
+        },
+        {
+            "code": "UNEMPLOYED",
+            "name": "Unemployed",
+            "description": "Currently seeking employment",
+            "active": true
+        },
+        {
+            "code": "OTHER",
+            "name": "Other",
+            "description": "Other occupation or source of livelihood",
+            "active": true
+        }
+    ]
+}
