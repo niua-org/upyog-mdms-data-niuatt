@@ -1196,6 +1196,11 @@
       "code": "ESTATE_REPORT_VIEWER",
       "name": "Estate Report Viewer",
       "description": "Estate User that can view estate reports"
+    },
+    {
+      "code": "FAMILY_APPROVER",
+      "name": "Family Approver",
+      "description": "Family Approver"
     }
   ]
 }

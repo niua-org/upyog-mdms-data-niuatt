@@ -1,0 +1,24 @@
+{
+  "tenantId": "default",
+  "moduleName": "common-masters",
+  "IncomeIdentifier": [
+    {
+      "code": "PAN",
+      "name": "Permanent Account Number (PAN)",
+      "description": "Ten-character alphanumeric identifier issued by the Income Tax Department",
+      "active": true
+    },
+    {
+      "code": "TAN",
+      "name": "Tax Deduction and Collection Account Number (TAN)",
+      "description": "Ten-digit alphanumeric number issued to persons required to deduct or collect tax at source",
+      "active": true
+    },
+    {
+      "code": "GSTIN",
+      "name": "Goods and Services Tax Identification Number (GSTIN)",
+      "description": "15-digit unique tax identification number assigned to business entities",
+      "active": true
+    }
+  ]
+}

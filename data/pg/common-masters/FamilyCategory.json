@@ -1,0 +1,36 @@
+{
+    "tenantId": "pg",
+    "moduleName": "common-masters",
+    "FamilyCategory": [
+        {
+            "code": "GENERAL",
+            "name": "General Category",
+            "description": "General / Open Category",
+            "active": true
+        },
+        {
+            "code": "OBC",
+            "name": "Other Backward Class",
+            "description": "Other Backward Class",
+            "active": true
+        },
+        {
+            "code": "SC",
+            "name": "Scheduled Caste",
+            "description": "Scheduled Caste",
+            "active": true
+        },
+        {
+            "code": "ST",
+            "name": "Scheduled Tribe",
+            "description": "Scheduled Tribe",
+            "active": true
+        },
+        {
+            "code": "EWS",
+            "name": "Economically Weaker Section",
+            "description": "Economically Weaker Section",
+            "active": true
+        }
+    ]
+}

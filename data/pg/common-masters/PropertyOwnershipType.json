@@ -1,0 +1,21 @@
+{
+  "tenantId": "pg",
+  "moduleName": "common-masters",
+  "PropertyOwnershipType": [
+    {
+      "code": "INDIVIDUAL",
+      "name": "Individual",
+      "active": true
+    },
+    {
+      "code": "JOINT",
+      "name": "Joint",
+      "active": true
+    },
+    {
+      "code": "ORGANISATION",
+      "name": "Organisation",
+      "active": true
+    }
+  ]
+}

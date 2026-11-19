@@ -861,6 +861,14 @@
         {
             "format": "DOC-[cy:yyyy]-[seq_user_doc_id]",
             "idname": "user.document.id"
+        },
+        {
+            "format": "PG-RP-[cy:yyyy-MM-dd]-[seq_rural_property_id]",
+            "idname": "rural.property.id"
+        },
+        {
+            "format": "FAM-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EGOV_COMMON]",
+            "idname": "family.application.num"
         }
     ]
 }
