@@ -31573,6 +31573,48 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
+    },
+    {
+      "id": 4828,
+      "name": "Verify TAN Details with Income Tax Department",
+      "url": "/requester-services-dx/tan/v1/_verify",
+      "displayName": "Verify TAN",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "Requester Services",
+      "enabled": true,
+      "serviceCode": "requester-services-dx",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 4829,
+      "name": "Verify PAN Details with Income Tax Department",
+      "url": "/requester-services-dx/pan/v1/_verify",
+      "displayName": "Verify PAN",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "Requester Services",
+      "enabled": true,
+      "serviceCode": "requester-services-dx",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
+    },
+    {
+      "id": 4830,
+      "name": "Search GST Taxpayer Profile with IRIS / GST Portal",
+      "url": "/requester-services-dx/gst/v1/_search",
+      "displayName": "Search GSTIN Profile",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "Requester Services",
+      "enabled": true,
+      "serviceCode": "requester-services-dx",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
     }
   ]
 }
