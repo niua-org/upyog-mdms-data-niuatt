@@ -3,10 +3,16 @@
     "moduleName": "common-masters",
     "FamilyRelationship": [
         {
+            "code": "HOF",
+            "name": "Head of Family",
+            "description": "Head of Family",
+            "active": true
+        },
+        {
             "code": "SELF",
             "name": "Self",
             "description": "Self",
-            "active": true
+            "active": false
         },
         {
             "code": "HEAD",

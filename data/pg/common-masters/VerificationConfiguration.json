@@ -1,0 +1,21 @@
+{
+  "tenantId": "pg",
+  "moduleName": "common-masters",
+  "VerificationConfiguration": [
+    {
+      "type": "TAN",
+      "enabled": true,
+      "description": "Enables TAN verification via Income Tax Department (ITD) / simulated mock gateway"
+    },
+    {
+      "type": "PAN",
+      "enabled": true,
+      "description": "Enables PAN verification via Income Tax Department (ITD) / simulated mock gateway"
+    },
+    {
+      "type": "GST",
+      "enabled": true,
+      "description": "Enables GST profile search via IRIS Peridot / simulated mock gateway"
+    }
+  ]
+}
