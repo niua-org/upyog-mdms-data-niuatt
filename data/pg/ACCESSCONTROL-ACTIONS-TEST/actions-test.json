@@ -31643,6 +31643,20 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
+    },
+    {
+      "id": 4833,
+      "name": "Get Family Full Details and Assets",
+      "url": "/user/profile/family/_details",
+      "displayName": "Family Full Profile Details",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "User",
+      "enabled": true,
+      "serviceCode": "egov-user",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
     }
   ]
 }
