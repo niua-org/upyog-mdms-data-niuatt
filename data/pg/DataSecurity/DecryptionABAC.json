@@ -20,7 +20,6 @@
               },
               "accessType": "PLAIN"
             }
-
           ]
         },
         {
@@ -1875,35 +1874,11 @@
       "key": "CHBReport",
       "roleAttributeAccessList": [
         {
-          "roleCode": "CHB_CEMP",
+          "roleCode": "EMPLOYEE",
           "attributeAccessList": [
             {
               "attribute": {
-                "jsonPath": "*/applicant_name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/applicant_mobile_no"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
                 "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/mobileNumber"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/paidby"
               },
               "accessType": "PLAIN"
             },
@@ -1920,31 +1895,7 @@
           "attributeAccessList": [
             {
               "attribute": {
-                "jsonPath": "*/applicant_name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/applicant_mobile_no"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
                 "jsonPath": "*/name"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/mobileNumber"
-              },
-              "accessType": "PLAIN"
-            },
-            {
-              "attribute": {
-                "jsonPath": "*/paidby"
               },
               "accessType": "PLAIN"
             },
@@ -2016,7 +1967,7 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/mobile_number"
+                "jsonPath": "*/mobilenumber"
               },
               "accessType": "PLAIN"
             }
@@ -2057,6 +2008,56 @@
                 "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "CNDReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "CND_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "AssetReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "ASSET_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
             }
           ]
         }
@@ -2070,13 +2071,35 @@
           "attributeAccessList": [
             {
               "attribute": {
-                "jsonPath": "*/papplicantname"
+                "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/pmobilenumber"
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "EstateReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "ESTATE_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
               },
               "accessType": "PLAIN"
             }
@@ -2098,7 +2121,7 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/mobileNumber"
+                "jsonPath": "*/mobilenumber"
               },
               "accessType": "PLAIN"
             }
@@ -2114,7 +2137,7 @@
           "attributeAccessList": [
             {
               "attribute": {
-                "jsonPath": "*/applicantname"
+                "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
             },
@@ -2127,6 +2150,6 @@
           ]
         }
       ]
-    }
+    }	  
   ]
 }
