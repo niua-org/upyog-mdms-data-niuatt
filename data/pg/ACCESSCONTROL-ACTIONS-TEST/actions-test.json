@@ -31660,12 +31660,13 @@
     },
     {
       "id": 4834,
-      "name": "FamilyIDCoverageReport",
+      "name": "Family ID Coverage Report",
       "url": "url",
       "displayName": "Family ID Coverage Report",
       "orderNumber": 1,
       "enabled": true,
-      "serviceCode": "FamilyCreateType",
+      "parentModule": "Profile",
+      "serviceCode": "upyog-family-service",
       "code": "null",
       "leftIcon": "action:description",
       "navigationURL": "/upyog-ui/employee/profile/FamilyIDCoverageReport",
@@ -31678,7 +31679,7 @@
       "displayName": "Family ID Coverage Report Metadata",
       "orderNumber": 1,
       "enabled": false,
-      "serviceCode": "FamilyCreateType",
+      "serviceCode": "report",
       "code": "null",
       "path": "Family ID Reports"
     },
@@ -31689,7 +31690,7 @@
       "displayName": "Family ID Coverage Report",
       "orderNumber": 0,
       "enabled": false,
-      "serviceCode": "FamilyCreateType",
+      "serviceCode": "report",
       "code": "null",
       "path": "Family ID Reports"
     }
