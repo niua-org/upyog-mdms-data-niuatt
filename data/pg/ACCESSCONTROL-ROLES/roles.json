@@ -1201,6 +1201,11 @@
       "code": "FAMILY_APPROVER",
       "name": "Family Approver",
       "description": "Family Approver"
+    },
+    {
+      "code": "FAMILY_REPORT_VIEWER",
+      "name": "Family Report Viewer",
+      "description": "User that can view Family reports"
     }
   ]
 }
