@@ -18772,7 +18772,7 @@
       "code": "null",
       "path": "Asset.Reports.AssetapplicationReport",
       "parentModule": "asset-services-masters",
-      "navigationURL": "/upyog-ui/employee/asset/AssetapplicationReport",
+      "navigationURL": "/upyog-ui/employee/assetv2/AssetapplicationReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -18787,7 +18787,7 @@
       "code": "null",
       "path": "Asset.Reports.AssetapplicationReportULBwise",
       "parentModule": "asset-services-masters",
-      "navigationURL": "/upyog-ui/employee/asset/AssetapplicationReportULBwise",
+      "navigationURL": "/upyog-ui/employee/assetv2/AssetapplicationReportULBwise",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -18946,7 +18946,7 @@
       "serviceCode": "ASSET",
       "code": "null",
       "path": "Asset.Reports.AssetAssignmentReport",
-      "navigationURL": "/upyog-ui/employee/asset/AssetAssignmentReport",
+      "navigationURL": "/upyog-ui/employee/assetv2/AssetAssignmentReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -19256,7 +19256,7 @@
       "serviceCode": "ASSET",
       "code": "null",
       "path": "Asset.Reports.AssetDisposalReport",
-      "navigationURL": "/upyog-ui/employee/asset/AssetDisposalReport",
+      "navigationURL": "/upyog-ui/employee/assetv2/AssetDisposalReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -20317,7 +20317,7 @@
         "serviceCode": "ASSET",
         "code": "null",
         "path": "Asset.Reports.AssetMaintenanceReport",
-        "navigationURL": "/upyog-ui/employee/asset/AssetMaintenanceReport",
+        "navigationURL": "/upyog-ui/employee/assetv2/AssetMaintenanceReport",
         "leftIcon": "places:business-center",
         "rightIcon": ""
       },
@@ -21371,7 +21371,7 @@
       "serviceCode": "ASSET",
       "code": "null",
       "path": "Asset.Reports.AssetCountReport",
-      "navigationURL": "/upyog-ui/employee/asset/AssetCountReport",
+      "navigationURL": "/upyog-ui/employee/assetv2/AssetCountReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -21410,7 +21410,7 @@
          "serviceCode": "ASSET",
          "code": "null",
          "path": "Asset.Reports.LandReport",
-         "navigationURL": "/upyog-ui/employee/asset/LandReport",
+         "navigationURL": "/upyog-ui/employee/assetv2/LandReport",
          "leftIcon": "places:business-center",
          "rightIcon": ""
       },
@@ -21472,7 +21472,7 @@
       "serviceCode": "ASSET",
       "code": "null",
       "path": "Asset.Reports.DetailedBuildingAssetsReport",
-      "navigationURL": "/upyog-ui/employee/asset/DetailedBuildingAssetsReport",
+      "navigationURL": "/upyog-ui/employee/assetv2/DetailedBuildingAssetsReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -21511,7 +21511,7 @@
       "serviceCode": "ASSET",
       "code": "null",
       "path": "Asset.Reports.PlantsMachineryReport",
-      "navigationURL": "/upyog-ui/employee/asset/PlantsMachineryReport",
+      "navigationURL": "/upyog-ui/employee/assetv2/PlantsMachineryReport",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -31657,6 +31657,41 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
+    },
+    {
+      "id": 4834,
+      "name": "FamilyIDCoverageReport",
+      "url": "url",
+      "displayName": "Family ID Coverage Report",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FamilyCreateType",
+      "code": "null",
+      "leftIcon": "action:description",
+      "navigationURL": "/upyog-ui/employee/profile/FamilyIDCoverageReport",
+      "path": "Family ID Reports.FamilyIDCoverageReport"
+    },
+    {
+      "id": 4835,
+      "name": "FamilyIDCoverageReport-Metadata",
+      "url": "/report/rainmaker-family/FamilyIDCoverageReport/metadata/_get",
+      "displayName": "Family ID Coverage Report Metadata",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "FamilyCreateType",
+      "code": "null",
+      "path": "Family ID Reports"
+    },
+    {
+      "id": 4836,
+      "name": "FamilyIDCoverageReport",
+      "url": "/report/rainmaker-family/FamilyIDCoverageReport/_get",
+      "displayName": "Family ID Coverage Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "FamilyCreateType",
+      "code": "null",
+      "path": "Family ID Reports"
     }
   ]
 }

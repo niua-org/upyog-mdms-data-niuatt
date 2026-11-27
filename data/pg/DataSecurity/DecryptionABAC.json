@@ -1874,7 +1874,7 @@
       "key": "CHBReport",
       "roleAttributeAccessList": [
         {
-          "roleCode": "CHB_CEMP",
+          "roleCode": "EMPLOYEE",
           "attributeAccessList": [
             {
               "attribute": {
@@ -1884,22 +1884,269 @@
             },
             {
               "attribute": {
-                "jsonPath": "*/userName"
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        },
+        {
+          "roleCode": "CHB_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/applicant_mobile_no"
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "FamilyService",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "FAMILY_APPROVER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
               },
               "accessType": "PLAIN"
             },
             {
               "attribute": {
-                "jsonPath": "*/applicant_name"
+                "jsonPath": "*/mobilenumber"
               },
               "accessType": "PLAIN"
-            }		  
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "MobileToiletReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "MT_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "WaterTankerReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "WT_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "TreePruningReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "TP_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "StreetVendingReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "SV_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "CNDReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "CND_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "AssetReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "ASSET_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "PetReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "PET_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "EstateReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "ESTATE_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "AdvertisementReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "ADS_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "EwasteReport",
+      "roleAttributeAccessList": [
+        {
+          "roleCode": "EW_REPORT_VIEWER",
+          "attributeAccessList": [
+            {
+              "attribute": {
+                "jsonPath": "*/name"
+              },
+              "accessType": "PLAIN"
+            },
+            {
+              "attribute": {
+                "jsonPath": "*/mobilenumber"
+              },
+              "accessType": "PLAIN"
+            }
           ]
         }
       ]
